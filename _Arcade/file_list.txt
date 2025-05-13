@@ -17,6 +17,8 @@ Arkanoid (US).mra
 Arkanoid (Unl. Lives, slower) [hb].mra
 Arkanoid (Unl. lives) [hb].mra
 Arkanoid (W).mra
+Armed F (Japan).mra
+Armed Police Batrider Special Ver. (USA) (Fri Feb 13 1998).mra
 Armored Car.mra
 Asteroids Deluxe.mra
 Asteroids.mra
@@ -27,6 +29,8 @@ Azurian Attack.mra
 Bagman.mra
 Balloon Bomber.mra
 BankPanic.mra
+Battle Bakraid - Unlimited Version Special Ver. (USA) (Tue Jun 8 1999).mra
+Battle Garegga (Europe - USA - Japan - Asia) (Sat Feb 3 1996).mra
 Battle Zone rev 1.mra
 Battle Zone.mra
 Battle of Atlantis.mra
@@ -52,6 +56,7 @@ Bosconian - Star Destroyer (Midway, new version).mra
 Bosconian - Star Destroyer (new version).mra
 Botanic (English, Spanish, Set 1).mra
 Bradley Trainer.mra
+Brain.mra
 Breakout (TTL).mra
 Bubbles.mra
 Bull Fight (315-5056).mra
@@ -64,6 +69,8 @@ Catacomb.mra
 Centipede (Rev 3).mra
 Centipede (Rev 4).mra
 Chameleon.mra
+Choplifter (unprotected).mra
+Chouji Meikyuu Legion (Japan ver 1.05, set 2).mra
 Clean Sweep.mra
 Clowns.mra
 CoMotion.mra
@@ -80,6 +87,7 @@ Country Club.mra
 Crater Raider.mra
 Crazy Balloon.mra
 Crazy Blocks.mra
+Crazy Climber 2 (Japan).mra
 Crazy Climber.mra
 Crazy Kong (Kyoei).mra
 Crazy Kong (Orca bootleg).mra
@@ -89,11 +97,13 @@ Crush Roller (Set 2).mra
 Crystal Castles.mra
 Daiku no Gensan (Japan, M72 hardware).mra
 Daiku no Gensan (Japan, M84 hardware).mra
+Dakkochan House (MC-8123).mra
 Dangun Feveron.mra
 Dark Planet (no bkg).mra
 Dark Planet.mra
 Defender (Red Label).mra
 Demolition Derby (MCR-3 Mono Board Version).mra
+Demon's World - Horror Story (Set 3).mra
 Devil Fish (Galaxian Hardware).mra
 Devil Zone.mra
 Dig Dug (Rev 2).mra
@@ -149,10 +159,13 @@ Galaga 3 (GP3 Rev D).mra
 Galaxian (Namco, Set 1).mra
 Galaxy Wars (Universal, Set 1).mra
 Gallop - Armed Police Unit (Japan, M72 hardware).mra
+Gang Wars.mra
 Gaplus (GP2 Rev B).mra
+Gardia (317-0006).mra
 Gauntlet (rev 14).mra
 Gauntlet II.mra
 Gemini Wing.mra
+Gold Medalist (Set 1, Alpha68k II PCB).mra
 Gorf (Program 1).mra
 Gorf.mra
 Gorkans.mra
@@ -167,18 +180,24 @@ Gunforce - Battle Fire Engulfed Terror Island (World).mra
 Guwange (Special).mra
 Guwange.mra
 Gyruss.mra
+Hachoo.mra
 Hammerin' Harry (US, M84 hardware).mra
 Hang On Jr.mra
 Hard Hat.mra
+Heavy Metal (315-5135).mra
+Hellfire (2P Set).mra
 High Way Race.mra
 Hook (World).mra
 Horizon (Irem).mra
 Hustle.mra
+Iga Ninjyutsuden (Japan).mra
+Ikari III - The Rescue (World Version 1, 8-Way Joystick).mra
 I'm Sorry (US, 315-5110).mra
 Ikari Warriors.mra
 Image Fight (Japan).mra
 Image Fight (World).mra
 In The Hunt (World).mra
+In Your Face (US, Prototype).mra
 Indiana Jones (set 4).mra
 Inferno (Williams).mra
 Iron Horse (Ver. K).mra
@@ -188,6 +207,7 @@ Jackal (W).mra
 Jackal (W, Rotary).mra
 Jailbreak.mra
 Jin.mra
+Jitsuryoku!! Pro Yakyuu (Japan).mra
 Journey.mra
 Joust 2 - Survival of the Fittest (revision 2).mra
 Joust.mra
@@ -197,17 +217,21 @@ Kick And Run.mra
 Kick-Man.mra
 Kick.mra
 Kid Niki - Radical Ninja (W).mra
+Kid no Hore Hore Daisakusen.mra
 King and Balloon (Japan).mra
 King and Balloon (US).mra
+Kingdom Grandprix.mra
 Konek Gorbunok.mra
 Kot-Rybolov.mra
 Kozmik Krooz'r.mra
+Kozure Ookami (Japan).mra
 Kung-Fu Master (W).mra
 Lady Bug.mra
 Laguna Racer.mra
 Legend of Hero Tonma (Japan).mra
 Lethal Thunder (World).mra
 Lifeforce (Japan).mra
+Lifeforce (US).mra
 Lizard Wizard.mra
 Lode Runner (Set 1).mra
 Lode Runner II - The Bungeling Strikes Back.mra
@@ -259,6 +283,7 @@ Ninja Baseball Bat Man (World).mra
 Ninja Spirit (Japan).mra
 Ninjakun.mra
 No Mans Land.mra
+Noboranka (bootleg).mra
 Nova 2001 (Hack).mra
 Nova 2001.mra
 Number Crash.mra
@@ -266,12 +291,16 @@ Omega [bl].mra
 Opa Opa (Rev A, unprotected).mra
 Opa Opa.mra
 Orbitron.mra
+Out Zone.mra
+P.O.W. - Prisoners of War (US Version 1).mra
+P-47 - The Freedom Fighter (Japan).mra
 Pac & Pal.mra
 Pac-Man & Chomp Chomp.mra
 Pac-Man (Midway).mra
 Pac-Man Club- Club Lambada (AR).mra
 Pac-Man Plus.mra
 Pac-Manic Miner.mra
+Paddle Mania.mra
 Pengo (Set 1, Rev C).mra
 Penguin-Kun_Wars.mra
 Penguin-Kun_Wars_Japan.mra
@@ -281,6 +310,7 @@ Pest Place.mra
 Peter Pack Rat.mra
 Phoenix (Amstar, Set 1).mra
 Pickin'.mra
+Pipi & Bibis - Whoopee!! (Z80 sound cpu, set 1).mra
 Pirate Pete.mra
 Pisces.mra
 Pitfall II.mra
@@ -288,6 +318,7 @@ Playball (Prototype).mra
 Pleiads (Centuri).mra
 Pleiads (Tehkan).mra
 Pleiads.mra
+Plus Alpha.mra
 Polaris.mra
 Poly Play 2.mra
 Poly Play 2c.mra
@@ -298,6 +329,7 @@ Pooyan.mra
 Popeye (Rev D).mra
 Portman (Galaxian Hardware).mra
 Power Drive.mra
+Prehistoric Isle in 1930 (World).mra
 Psychic 5 (Japan).mra
 Psychic 5 (World).mra
 Puck Man (JP, Set 1).mra
@@ -314,6 +346,7 @@ R-Type Leo (World).mra
 Radar Scope (rev. D).mra
 Rafflesia (315-5162).mra
 Raiders5.mra
+Rally Bike - Dash Yarou.mra
 Rally-X (32k Ver).mra
 Rampage (Rev 3, 860827).mra
 Red Baron (Revised Hardware).mra
@@ -326,9 +359,13 @@ River Patrol (JP, Unprotected).mra
 Road Blasters (upright, rev 4).mra
 Road Runner (rev 2).mra
 Robotron 2084.mra
+Rod-Land (World, Set 1).mra
 Rush'n Attack (US).mra
 Rygar.mra
+SAR - Search And Rescue (World).mra
 S.O.S..mra
+Saint Dragon (Set 1).mra
+Salamander (version D).mra
 Salamander (version J).mra
 Sarge.mra
 Satan's Hollow (Set 1).mra
@@ -337,20 +374,26 @@ Scramble (Stern, Set 1).mra
 Sea Wolf (Set 1).mra
 Sea Wolf II.mra
 Sega Ninja (315-5102).mra
+Sei Senshi Amatelass.mra
 Shot Rider (B-Board 89624B-1).mra
 Shuffleboard.mra
 Silkworm.mra
 Silver Land.mra
 Sinistar.mra
+Sky Adventure (World).mra
 Sky Skipper.mra
+Sky Soldiers (US).mra
 Slap Shooter.mra
 SlapFight Bootleg.mra
 Snap Jack.mra
 Snezhnaja Koroleva.mra
+Snow Bros. 2 - With New Elves - Otenki Paradise (Hanafram).mra
 Solar Fox.mra
+Soldam.mra
 Solomon no Kagi (JP).mra
 Solomon's Key.mra
 SonSon.mra
+Sorcer Striker.mra
 Space Chaser.mra
 Space Cruiser.mra
 Space Encounters.mra
@@ -376,6 +419,7 @@ Star Jacker (alt).mra
 Star Jacker.mra
 Stargate.mra
 Strategy X.mra
+Street Smart (US Version 2).mra
 Subs.mra
 Super Bagman.mra
 Super Breakout (Rev 04).mra
@@ -393,8 +437,12 @@ TARG.mra
 TNKIII.mra
 TankBattalion.mra
 Tapper (Budweiser, 840127).mra
+Tatakae! Big Fighter (Japan).mra
 Tazz-Mania (Set 1).mra
 TeddyBoy Blues (315-5115, New Ver).mra
+Teki Paki.mra
+Terra Cresta (YM3526 set 1).mra
+Terra Force (Japan).mra
 Tetris (Cocktail, Set 1).mra
 Tetris (Japan, System E).mra
 Tetris.mra
@@ -403,6 +451,8 @@ The Battle-Road.mra
 The End (bkg).mra
 The End.mra
 The Glob (Pac-Man Hardware).mra
+The Lord of King (Japan).mra
+The Next Space (Japan).mra
 The Tower of Druaga.mra
 Thunder Heroes.mra
 Tiger Heli Bootleg.mra
@@ -411,8 +461,10 @@ Time Pilot '84 (Set 1).mra
 Time Pilot '84 (Set 2).mra
 Time Pilot '84 (Set 3).mra
 Time Pilot.mra
+Time Soldiers (US Rev 3).mra
 Time Tunnel.mra
 Tip Top (3 board stack).mra
+Toki no Senshi - Chrono Soldier.mra
 Tokushu Butai Jackal (JP).mra
 Top Gunner (US) [bl].mra
 Top Gunner (US).mra
@@ -421,6 +473,8 @@ Traverse USA- Zippy Race (US).mra
 Tri-Pool (Casino Tech).mra
 Tron.mra
 Tropical Angel.mra
+Truxton - Tatsujin.mra
+Truxton II - Tatsujin Oh.mra
 Turbo Tag (Prototype).mra
 Turkey Shoot - The Day They Took Over.mra
 Turtles.mra
@@ -428,6 +482,7 @@ TwinBee (Bubble System).mra
 TwinBee.mra
 Two Tigers (Tron Conversion).mra
 Ufo Robo Dangar (4-07-1987).mra
+UFO Senshi Youko Chan [MC-8123, 317-0064].mra
 Ultra Tank.mra
 Undercover Cops (World).mra
 UniWar S.mra
@@ -449,6 +504,7 @@ Wild Western.mra
 Wizard of Wor (Speech).mra
 Wizard of Wor.mra
 Wonder Boy (Set 1, 315-5177).mra
+Wonder Boy in Monster Land.mra
 Woodpecker (Set 1).mra
 X Multiply (Japan, M72 hardware).mra
 Xain'd Sleena (bootleg, bugfixed).mra
@@ -456,5 +512,6 @@ Xain'd Sleena (bootleg, set 1).mra
 Xevious.mra
 Youjyuden (JP).mra
 Zaxxon (Set 1, Rev D).mra
+Zero Wing (2P Set).mra
 Zig Zag (Dig Dug Conversion) [bl].mra
 Zzyzzyxx (set 1).mra
