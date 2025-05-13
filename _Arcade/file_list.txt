@@ -190,9 +190,9 @@ High Way Race.mra
 Hook (World).mra
 Horizon (Irem).mra
 Hustle.mra
+I'm Sorry (US, 315-5110).mra
 Iga Ninjyutsuden (Japan).mra
 Ikari III - The Rescue (World Version 1, 8-Way Joystick).mra
-I'm Sorry (US, 315-5110).mra
 Ikari Warriors.mra
 Image Fight (Japan).mra
 Image Fight (World).mra
@@ -292,8 +292,8 @@ Opa Opa (Rev A, unprotected).mra
 Opa Opa.mra
 Orbitron.mra
 Out Zone.mra
-P.O.W. - Prisoners of War (US Version 1).mra
 P-47 - The Freedom Fighter (Japan).mra
+P.O.W. - Prisoners of War (US Version 1).mra
 Pac & Pal.mra
 Pac-Man & Chomp Chomp.mra
 Pac-Man (Midway).mra
@@ -362,8 +362,8 @@ Robotron 2084.mra
 Rod-Land (World, Set 1).mra
 Rush'n Attack (US).mra
 Rygar.mra
-SAR - Search And Rescue (World).mra
 S.O.S..mra
+SAR - Search And Rescue (World).mra
 Saint Dragon (Set 1).mra
 Salamander (version D).mra
 Salamander (version J).mra
@@ -481,8 +481,8 @@ Turtles.mra
 TwinBee (Bubble System).mra
 TwinBee.mra
 Two Tigers (Tron Conversion).mra
-Ufo Robo Dangar (4-07-1987).mra
 UFO Senshi Youko Chan [MC-8123, 317-0064].mra
+Ufo Robo Dangar (4-07-1987).mra
 Ultra Tank.mra
 Undercover Cops (World).mra
 UniWar S.mra
