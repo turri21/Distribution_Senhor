@@ -22,7 +22,6 @@ CoCo3_Senhor_20240514.rbf
 ColecoAdam_Senhor_20250425.rbf
 EnterpriseKyp_Senhor_20240802.rbf
 FM-7_Senhor_20250412.rbf
-FMTOWNS_Senhor_240409.rbf
 Galaksija_PLUS_ROMD.rbf
 Homelab_Senhor_20221216.rbf
 Interact_Senhor_20210815.rbf
@@ -50,6 +49,7 @@ SVI328_Senhor_20230224.rbf
 SharpMZ_Senhor_20210709.rbf
 SordM5_Senhor_20250408.rbf
 Specialist_Senhor_20240524.rbf
+TOWNS_Senhor_20250423.rbf
 TRS-80_Senhor_20250315.rbf
 TSConf_Senhor_20240421.rbf
 TatungEinstein_Senhor_20250425.rbf
