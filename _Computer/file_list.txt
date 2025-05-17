@@ -4,6 +4,7 @@ AliceMC10_Senhor_20250505.rbf
 Altair8800_Senhor_20241230.rbf
 Amstrad_Senhor_20240421.rbf
 Apogee_Senhor_20240502.rbf
+Apple-I_Senhor_20250517.rbf
 Apple-II_Senhor_20241226.rbf
 Aquarius_Senhor_20240502.rbf
 Archie_Senhor_20240502.rbf
