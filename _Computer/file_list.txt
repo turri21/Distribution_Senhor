@@ -43,6 +43,7 @@ PCXT_Senhor_20250201.rbf
 PET2001_Senhor_20250507.rbf
 PMD85_Senhor_20220129.rbf
 QL_Senhor_20240524.rbf
+RX78_Senhor_20250517.rbf
 Rememotech_Senhor_20250327.rbf
 SAMCoupe_Senhor_20240421.rbf
 SVI328_Senhor_20230224.rbf
