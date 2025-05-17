@@ -44,6 +44,7 @@ SGB_Senhor_20240617.rbf
 SMS_Senhor_20240418.rbf
 SNES_Senhor_20250306.rbf
 ST-V_Senhor_20250328.rbf
+SuperVision_Senhor_20250517.rbf
 Super_Vision_8000_Senhor_20230411.rbf
 TurboGrafx16_Senhor_20240418.rbf
 VC4000_Senhor_20250517.rbf
