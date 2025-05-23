@@ -4,7 +4,7 @@ AsteroidsDeluxe_Senhor_20250202.rbf
 Asteroids_Senhor_20250131.rbf
 Astrocade_Senhor_20250105.rbf
 Atarisys1_Senhor_20250226.rbf
-AtariTetris_Senhor_20250129.rbf
+AtariTetris_Senhor_20250524.rbf
 Athena_Senhor_20250129.rbf
 Bagman_Senhor_20250129.rbf
 Bakraid_Senhor_20250302.rbf
