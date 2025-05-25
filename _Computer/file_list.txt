@@ -50,6 +50,8 @@ SAMCoupe_Senhor_20240421.rbf
 SVI328_Senhor_20230224.rbf
 SharpMZ_Senhor_20250514.rbf
 SordM5_Senhor_20250408.rbf
+SparcStation20_Senhor_20250525.rbf
+SparcStation5_Senhor_20250525.rbf
 Specialist_Senhor_20240524.rbf
 TOWNS_Senhor_20250521.rbf
 TRS-80_Senhor_20250315.rbf
