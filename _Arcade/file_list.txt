@@ -63,6 +63,7 @@ Bull Fight (315-5056).mra
 Burger Time (Set 1).mra
 Burnin' Rubber.mra
 Calipso.mra
+Cameltry (World, YM2610).mra
 Canyon Bomber.mra
 Carnival.mra
 Catacomb.mra
@@ -108,6 +109,7 @@ Devil Fish (Galaxian Hardware).mra
 Devil Zone.mra
 Dig Dug (Rev 2).mra
 Dig Dug II (New Ver).mra
+Dino Rex (World).mra
 Discs of Tron.mra
 DoDonPachi (Arrange).mra
 DoDonPachi (Japan).mra
@@ -115,6 +117,7 @@ DoDonPachi Trainer (Japan).mra
 DoDonPachi.mra
 Domino Man.mra
 Dominos.mra
+Don Doko Don (World, rev 1).mra
 DonPachi (Japan).mra
 DonPachi.mra
 Donkey Kong (Spanish Crazy Kong bootleg).mra
@@ -129,6 +132,7 @@ Dragon Breed (Japan, M72 hardware).mra
 Dream Shopper.mra
 Dream Soccer '94 (Japan, M92 hardware).mra
 Dream Soccer '94 (World, M107 hardware).mra
+Drift Out (Europe).mra
 ESP Ra.De. (Japan).mra
 ESP Ra.De..mra
 Eeek! (Pac-Man Conversion).mra
@@ -142,6 +146,7 @@ Fantasy Zone II - The Tears of Opa-Opa.mra
 Faster, Harder, More Challenging Q`Bert (prototype).mra
 Fever SOS.mra
 Fighting Golf.mra
+Final Blow (World).mra
 Finalizer - Super Transformation (Set 1).mra
 Finalizer - Super Transformation (Set 2) [bl].mra
 Finalizer - Super Transformation (Set 2).mra
@@ -174,6 +179,8 @@ Gradius.mra
 Gravitar (Ver 3).mra
 Green Beret.mra
 Grobda (W, New Ver.).mra
+Growl (World, Rev 1).mra
+Gun & Frontier (World).mra
 Gun Fight.mra
 Gun Force II (US).mra
 Gunforce - Battle Fire Engulfed Terror Island (World).mra
@@ -232,6 +239,7 @@ Legend of Hero Tonma (Japan).mra
 Lethal Thunder (World).mra
 Lifeforce (Japan).mra
 Lifeforce (US).mra
+Liquid Kids (World).mra
 Lizard Wizard.mra
 Lode Runner (Set 1).mra
 Lode Runner II - The Bungeling Strikes Back.mra
@@ -253,6 +261,7 @@ Mario Bros. (US, Rev G).mra
 Mars.mra
 Max RPM (v2).mra
 Mayday (Set 1).mra
+Mega Blast (World).mra
 Megumi Rescue (Japan).mra
 Mighty Monkey (Scramble Hardware) [bl].mra
 Minefield.mra
@@ -332,6 +341,7 @@ Power Drive.mra
 Prehistoric Isle in 1930 (World).mra
 Psychic 5 (Japan).mra
 Psychic 5 (World).mra
+PuLiRuLa (World, dual PCB).mra
 Puck Man (JP, Set 1).mra
 Pulsar.mra
 Puzzle Uo Poko (Japan).mra
@@ -390,6 +400,7 @@ Snezhnaja Koroleva.mra
 Snow Bros. 2 - With New Elves - Otenki Paradise (Hanafram).mra
 Solar Fox.mra
 Soldam.mra
+Solitary Fighter (World).mra
 Solomon no Kagi (JP).mra
 Solomon's Key.mra
 SonSon.mra
@@ -429,6 +440,7 @@ Super Glob (Pac-Man, German) [bl].mra
 Super Locomotive (old).mra
 Super Locomotive.mra
 Super Pac-Man.mra
+Super Space Invaders '91 (World, revised code, Rev 1).mra
 Super Xevious.mra
 Super Zaxxon (315-5013).mra
 Superior Soldiers (US).mra
