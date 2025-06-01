@@ -49,7 +49,7 @@ QL_Senhor_20240524.rbf
 RX78_Senhor_20250517.rbf
 Rememotech_Senhor_20250327.rbf
 SAMCoupe_Senhor_20240421.rbf
-SVI328_Senhor_20250526.rbf
+SVI328_Senhor_20250601.rbf
 SharpMZ_Senhor_20250514.rbf
 SordM5_Senhor_20250408.rbf
 SparcStation20_Senhor_20250525.rbf
