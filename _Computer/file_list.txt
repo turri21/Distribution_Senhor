@@ -66,7 +66,7 @@ VIC20_Senhor_20240418.rbf
 VT52_Senhor_20250517.rbf
 Vector-06C_Senhor_20240524.rbf
 X68000_Senhor_20240524.rbf
-ZX-Spectrum_Senhor_20240421.rbf
+ZX-Spectrum_Senhor_20250603.rbf
 ZX81_Senhor_20240421.rbf
 ZXNext_Senhor_20241227.rbf
 Zet98_Senhor_20250521.rbf
