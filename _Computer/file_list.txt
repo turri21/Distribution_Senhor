@@ -28,6 +28,7 @@ Galaksija_PLUS_ROMD.rbf
 Homelab_Senhor_20221216.rbf
 Interact_Senhor_20210815.rbf
 Jupiter_Senhor_20230301.rbf
+LM80C_Senhor_20250612.rbf
 Laser310_Senhor_20230224.rbf
 Lynx48_Senhor_20230225.rbf
 MC1201_Senhor_20231213.rbf
