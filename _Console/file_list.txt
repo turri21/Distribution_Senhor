@@ -2,7 +2,7 @@ AdventureVision_Senhor_20250208.rbf
 Arcadia_Senhor_20250304.rbf
 Atari 2600.mgl
 Atari2600_Senhor_20210228.rbf
-Atari5200_Senhor_20250206.rbf
+Atari5200_Senhor_20250621.rbf
 Atari7800_Senhor_20240423.rbf
 AtariLynx_Senhor_20240410.rbf
 AY-3-8500_Senhor_20250205.rbf
