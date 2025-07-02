@@ -2,7 +2,7 @@ AcornAtom_Senhor_20230224.rbf
 AcornElectron_Senhor_20230224.rbf
 AliceMC10_Senhor_20250505.rbf
 Altair8800_Senhor_20241230.rbf
-Amstrad_Senhor_20250529.rbf
+Amstrad_Senhor_20250702.rbf
 Apogee_Senhor_20240502.rbf
 Apple-I_Senhor_20250517.rbf
 Apple-II_Senhor_20241226.rbf
