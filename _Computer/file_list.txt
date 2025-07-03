@@ -18,7 +18,7 @@ C128_Senhor_20250702.rbf
 C16_Senhor_20240418.rbf
 C64_Senhor_20250503.rbf
 Casio_PV-2000_Senhor_20220811.rbf
-CoCo2_Senhor_20250204.rbf
+CoCo2_Senhor_20250704.rbf
 CoCo3_Senhor_20240514.rbf
 ColecoAdam_Senhor_20250425.rbf
 EDSAC_Senhor_20250528.rbf
