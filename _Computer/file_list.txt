@@ -5,7 +5,7 @@ Altair8800_Senhor_20241230.rbf
 Amstrad_Senhor_20250702.rbf
 Apogee_Senhor_20240502.rbf
 Apple-I_Senhor_20250517.rbf
-Apple-II_Senhor_20241226.rbf
+Apple-II_Senhor_20250705.rbf
 Aquarius_Senhor_20240502.rbf
 Archie_Senhor_20240502.rbf
 Atari800_Senhor_20250621.rbf
