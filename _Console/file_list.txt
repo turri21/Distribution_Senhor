@@ -37,7 +37,7 @@ NES_Senhor_20250303.rbf
 Odyssey2_Senhor_20210530.rbf
 Pocket Challenge V2.mgl
 Pokemon_Mini_Senhor_20250304.rbf
-PSX_Senhor_20250226.rbf
+PSX_Senhor_20250709.rbf
 S32X_Senhor_20250227.rbf
 SCV_Senhor_20250528.rbf
 Saturn_Senhor_20250519.rbf
