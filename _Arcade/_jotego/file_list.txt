@@ -1,211 +1,249 @@
-Alpha68k_Senhor_20250503.rbf
-Arkanoid_Senhor_20240525.rbf
-AsteroidsDeluxe_Senhor_20250202.rbf
-Asteroids_Senhor_20250131.rbf
-Astrocade_Senhor_20250105.rbf
-Atarisys1_Senhor_20250226.rbf
-AtariTetris_Senhor_20250524.rbf
-Athena_Senhor_20250129.rbf
-Bagman_Senhor_20250129.rbf
-Bakraid_Senhor_20250302.rbf
-BankPanic_Senhor_20240525.rbf
-Batrider_Senhor_20250302.rbf
-BattleZone_Senhor_20250129.rbf
-Berzerk_Senhor_20240714.rbf
-BlackWidow_Senhor_20250125.rbf
-Blockade_Senhor_20250105.rbf
-BombJack_Senhor_20240804.rbf
-Bosconian_Senhor_20240525.rbf
-Breakout_Senhor_20250124.rbf
-BubSysROM_Senhor_20250107.rbf
-BubSys_Senhor_20250107.rbf
-BurgerTime_Senhor_20250124.rbf
-BurningRubber_Senhor_20240525.rbf
-CanyonBomber_Senhor_20250123.rbf
-Cave_Senhor_20240705.rbf
-Centipede_Senhor_20250123.rbf
-Chameleon_Senhor_20240525.rbf
-ComputerSpace_Senhor_20250123.rbf
-CongoBongo_Senhor_20250123.rbf
-CosmicGuerilla_Senhor_20241217.rbf
-Cosmic_Senhor_20241217.rbf
-CrazyBalloon_Senhor_20241230.rbf
-CrazyClimber_Senhor_20240526.rbf
-CrazyKong_Senhor_20240526.rbf
-CrystalCastles_Senhor_20250123.rbf
-Defender_Senhor_20250122.rbf
-demonwld_Senhor_20250502.rbf
-DigDug_Senhor_20250122.rbf
-Dominos_Senhor_20250122.rbf
-DonkeyKong3_Senhor_20250122.rbf
-DonkeyKongJunior_Senhor_20250122.rbf
-DonkeyKong_Senhor_20240526.rbf
-DottoriKun_Senhor_20250105.rbf
-Druaga_Senhor_20240525.rbf
-Exerion_Senhor_20250421.rbf
-Exidy2_Senhor_20250122.rbf
-ExpressRaider_Senhor_20240526.rbf
-Finalizer_Senhor_20250120.rbf
-FoodFight_Senhor_20250120.rbf
-Freeze_Senhor_20240526.rbf
-Frenzy_Senhor_20250120.rbf
-Galaga_Senhor_20240526.rbf
-Galaxian_Senhor_20250120.rbf
-Galivan_Senhor_20240526.rbf
-Gaplus_Senhor_20250120.rbf
-Garegga_Senhor_20250302.rbf
-Gauntlet_Senhor_20250428.rbf
-Gyruss_Senhor_20250124.rbf
-IkariWarriors_Senhor_20240615.rbf
-Inferno_Senhor_20250121.rbf
-IremM107_Senhor_20250304.rbf
-IremM62_Senhor_20250121.rbf
-IremM72_Senhor_20250226.rbf
-IremM90_Senhor_20241105.rbf
-IremM92_Senhor_20250226.rbf
-IronHorse_Senhor_20240527.rbf
-Jackal_Senhor_20240527.rbf
-Jailbreak_Senhor_20240527.rbf
-Joust2_Senhor_20240527.rbf
-jt1942_Senhor_v0.1.rbf
-jt1943_Senhor_v0.3.rbf
-jtaliens_Senhor_v0.1.rbf
-jtbiocom_Senhor_v0.1.rbf
-jtbtiger_Senhor_v0.1.rbf
-jtbtiger_Senhor_v0.2.rbf
-jtbubl_Senhor_v0.1.rbf
-jtcastle_Senhor_20250318.rbf
-jtcircus_Senhor_20250319.rbf
-jtcommnd_Senhor_20250319.rbf
-jtcomsc_Senhor_20250319.rbf
-jtcontra_Senhor_20250318.rbf
-jtcop_Senhor_20250319.rbf
-jtcps15_Senhor_20250319.rbf
-jtcps1_Senhor_v0.1.rbf
-jtcps2_Senhor_v0.1.rbf
-jtdd2_Senhor_20250319.rbf
-jtdd_Senhor_20250319.rbf
-jtexed_Senhor_20250319.rbf
-jtflane_Senhor_20250319.rbf
-jtfround_Senhor_20250320.rbf
-jtgng_Senhor_v0.1.rbf
-jtgunsmk_Senhor_20250319.rbf
-jtkarnov_Senhor_20250318.rbf
-jtkchamp_Senhor_20250320.rbf
-jtkicker_Senhor_20250319.rbf
-jtkiwi_Senhor_v0.1.rbf
-jtkunio_Senhor_20250320.rbf
-jtlabrun_Senhor_20250320.rbf
-jtmidres_Senhor_20250319.rbf
-jtmikie_Senhor_v0.1.rbf
-jtmx5k_Senhor_20250319.rbf
-jtninja_Senhor_v0.1.rbf
-jtoutrun_Senhor_v0.1.rbf
-jtpang_Senhor_v0.1.rbf
-jtpang_Senhor_v0.2.rbf
-jtparoda_Senhor_v0.1.rbf
-jtpinpon_Senhor_v0.1.rbf
-jtrastan_Senhor_v0.1.rbf
-jtroadf_Senhor_v0.1.rbf
-jtroc_Senhor_v0.1.rbf
-jtrumble_Senhor_v0.1.rbf
-jts16b_Senhor_20250318.rbf
-jts16_Senhor_v0.1.rbf
-jtsarms_Senhor_v0.1.rbf
-jtsbaskt_Senhor_v0.1.rbf
-jtsectnz_Senhor_v0.1.rbf
-jtsf_Senhor_v0.1.rbf
-jtsf_Senhor_v0.2.rbf
-jtshanon_Senhor_v0.1.rbf
-jtshouse_Senhor_v0.1.rbf
-jtsimson_Senhor_v0.1.rbf
-jtslyspy_Senhor_v0.2.rbf
-jttmnt_Senhor_v0.1.rbf
-jttoki_Senhor_v0.1.rbf
-jttora_Senhor_v0.1.rbf
-jttrack_Senhor_v0.1.rbf
-jttrojan_Senhor_20250319.rbf
-jtvigil_Senhor_v0.1.rbf
-jtwwfss_Senhor_20250319.rbf
-jtyiear_Senhor_v0.1.rbf
-KickAndRun_Senhor_20240730.rbf
-LadyBug_Senhor_20240529.rbf
-LunarLander_Senhor_20240529.rbf
-MarioBros_Senhor_20240802.rbf
-MCR1_Senhor_20250421.rbf
-MCR2_Senhor_20250420.rbf
-MCR3Mono_Senhor_20250420.rbf
-MCR3Scroll_Senhor_20250128.rbf
-MCR3_Senhor_20250420.rbf
-MegaSys1_A_Senhor_20250509.rbf
-MissileCommand_Senhor_20240530.rbf
-MoonPatrol_Senhor_20250119.rbf
-MrDo_Senhor_20240530.rbf
-MrJong_Senhor_20240530.rbf
-MysticMarathon_Senhor_20240530.rbf
-NaughtyBoy_Senhor_20250503.rbf
-Nemesis_Senhor_20250604.rbf
-NextSpace_Senhor_20250509.rbf
-NinjaKun_Senhor_20250124.rbf
-Pacman_Senhor_20240530.rbf
-Pengo_Senhor_20240530.rbf
-PenguinKunWars_Senhor_20240531.rbf
-Performan_Senhor_20240601.rbf
-Phoenix_Senhor_20240601.rbf
-pipibibs_Senhor_20250501.rbf
-Pleiads_Senhor_20240601.rbf
-PolyPlay_Senhor_20240601.rbf
-Pong_Senhor_20240601.rbf
-Pooyan_Senhor_20240601.rbf
-Popeye_Senhor_20240601.rbf
-prehisle_Senhor_20250509.rbf
-Psychic5_Senhor_20240827.rbf
-QBert_Senhor_20240602.rbf
-Rallybike_Senhor_20250504.rbf
-RallyX_Senhor_20240602.rbf
-RiverPatrol_Senhor_20240602.rbf
-Robotron_Senhor_20240602.rbf
-RshnAtk_Senhor_20240602.rbf
-Salamander_Senhor_20241030.rbf
-ScooterShooter_Senhor_20240602.rbf
-Scramble_Senhor_20250320.rbf
-SEGASYS1and2_Senhor_20250429.rbf
-SEGASYS1_Senhor_20240602.rbf
-SegaVICZ80_Senhor_20240602.rbf
-SilverLand_Senhor_20240602.rbf
-SkySkipper_Senhor_20250131.rbf
-SlapFight_Senhor_20240603.rbf
-SNK68_Senhor_20250510.rbf
-SNK_TripleZ80_Senhor_20240602.rbf
-snowbro2_Senhor_20250502.rbf
-SolomonsKey_Senhor_20240527.rbf
-Sonson_Senhor_20240527.rbf
-SpaceInvaders_Senhor_20250227.rbf
-SpaceRace_Senhor_20240527.rbf
-Sprint1_Senhor_20250121.rbf
-Sprint2_Senhor_20250121.rbf
-ST-V_Senhor_20250519.rbf
-Subs_Senhor_20250121.rbf
-SuperBreakout_Senhor_20250128.rbf
-SuprLoco_Senhor_20240616.rbf
-TaitoF2_Senhor_20250530.rbf
-TaitoSJ_Senhor_20240525.rbf
-TankBattalion_Senhor_20250127.rbf
-Tecmo_Senhor_20250226.rbf
-tekipaki_Senhor_20250501.rbf
-TIAMC1_Senhor_20250128.rbf
-TimePilot84_Senhor_20240604.rbf
-TimePilot_Senhor_20250128.rbf
-TNKIII_Senhor_20240615.rbf
-TraverseUSA_Senhor_20250203.rbf
-TropicalAngel_Senhor_20250131.rbf
-truxton2_Senhor_20250501.rbf
-TurkeyShoot_Senhor_20250131.rbf
-Ultratank_Senhor_20250129.rbf
-VBall_Senhor_20240525.rbf
-Vimana_Senhor_20250504.rbf
-Xevious_Senhor_20240525.rbf
-XSleena_Senhor_20250227.rbf
-Zaxxon_Senhor_20240525.rbf
-Zerowing_Senhor_20250505.rbf
-ZigZag_Senhor_20250129.rbf
+1941 Counter Attack (World 900227).mra
+1942 (Revision B).mra
+1943 Kai Midway Kaisen (Japan).mra
+1943 The Battle of Midway (Euro).mra
+1943 The Battle of Midway Mark II (US).mra
+1944 The Loop Master (Euro 000620).mra
+19XX The War Against Destiny (Euro 960104).mra
+Ace Attacker (Japan, S16A) [FD1094 317-0060].mra
+Action Fighter (World, S16A) [FD1089A 317-0018].mra
+Adventure Quiz Capcom World 2 (Japan 920611).mra
+Ajax.mra
+Alex Kidd The Lost Stars (Set 2, World, S16A) [No Protection].mra
+Alien Storm (World, 2 Players) (FD1094 317-0154).mra
+Alien Syndrome (set 4, System 16B, unprotected).mra
+Alien vs. Predator (Euro 940520).mra
+Aliens (World set 1).mra
+Altered Beast (set 8) (8751 317-0078).mra
+Arkanoid - Revenge of DOH (World).mra
+Armored Warriors (Euro 941024).mra
+Aurail (set 3, US) (unprotected).mra
+Avengers (US, revision C).mra
+Bad Dudes vs. Dragonninja (US, revision 1).mra
+Bakutotsu Kijuutei.mra
+Battle Circuit (Euro 970319).mra
+Bay Route (set 3, World) (FD1094 317-0116).mra
+Bionic Commando (Euro).mra
+Black Tiger.mra
+Blast Off (Japan).mra
+Blazer (Japan).mra
+Block Block (World 911219 Joystick).mra
+Bloxeed (Japan) (FD1094 317-0139).mra
+Body Slam (World, S16) [8751 317-0015].mra
+Boulder Dash - Boulder Dash Part 2 (World).mra
+Boxy Boy (World, SB2).mra
+Bronx.mra
+Bubble Bobble (Japan, Ver 0.1).mra
+Bullet (FD1094 317-0041).mra
+Cadillacs and Dinosaurs (World 930201).mra
+Capcom Sports Club (Euro 971017).mra
+Capcom World (Japan).mra
+Captain Commando (World 911202).mra
+Carrier Air Wing (World 901012).mra
+Chelnov - Atomic Runner (World).mra
+Chou Zetsurinjin Berabowman (Japan, Rev C).mra
+Circus Charlie (level select, set 1).mra
+Clutch Hitter (US) (FD1094 317-0176).mra
+Combat School (joystick).mra
+Commando (World).mra
+Contra (US - Asia, set 1).mra
+Cotton (set 4, World) (FD1094 317-0181a).mra
+Crime Fighters (World 2 players).mra
+Cyberbots Fullmetal Madness (Euro 950424).mra
+Dangerous Seed (Japan).mra
+Darkstalkers The Night Warriors (Euro 940705).mra
+Desert Breaker (World) (FD1094 317-0196).mra
+Devil World.mra
+Dimahoo (Euro 000121).mra
+Dokaben (Japan).mra
+Dokaben 2 (Japan).mra
+Double Dragon (Japan).mra
+Double Dragon II The Revenge (World).mra
+Dr. Toppel's Adventure (World).mra
+Dragon Spirit (new version (DS3)).mra
+Dungeons & Dragons Shadow over Mystara (Euro 960619).mra
+Dungeons & Dragons Tower of Doom (Euro 940412).mra
+Dunk Shot (Rev C, FD1089A 317-0022).mra
+Dynamite Dux (set 3, World) (FD1094 317-0096).mra
+Dynasty Wars (USA, B-Board 89624B-x).mra
+E-Swat - Cyber Police (set 4, World) (FD1094 317-0130).mra
+Eco Fighters (World 931203).mra
+Excite League (FD1094 317-0079).mra
+Exed Exes.mra
+Extermination (World).mra
+F-1 Dream.mra
+Face Off (Japan 2 Players).mra
+Fantasy Zone (Rev A, World, S16A) [No Protection].mra
+Fantasy Zone II - The Tears of Opa-Opa (System 16C version).mra
+Fast Lane.mra
+Final Fight (World, set 1).mra
+Flash Point (set 2, Japan) (FD1094 317-0127A).mra
+Forgotten Worlds (World, newer).mra
+Galaga '88.mra
+Gang Busters (set 1).mra
+Genpei ToumaDen.mra
+Ghosts'n Goblins (World set 1).mra
+Ghouls'n Ghosts (World).mra
+Giga Wing (USA 990222).mra
+Golden Axe (set 6, US) (8751 317-123A).mra
+Gridiron Fight.mra
+Gulun.Pa! (Japan 931220 L) (prototype).mra
+Gun.Smoke (World, 1985-11-15).mra
+Haunted Castle (version M).mra
+Heavy Barrel (World).mra
+Hippodrome (US).mra
+Hopping Mappy.mra
+Hyper Sports.mra
+Hyper Street Fighter II The Anniversary Edition (USA 040202).mra
+Insector X (World).mra
+Janpai Puzzle Choukou (Japan 010820).mra
+Jyangokushi Haoh no Saihai (Japan 990527).mra
+Kageki (World).mra
+Karate Champ (US).mra
+Karnov (US, rev 6).mra
+Kicker.mra
+Knights of the Round (World 911127).mra
+Konami's Ping-Pong.mra
+Laser Ghost (World) (FD1094 317-0166).mra
+Legendary Wings (US set 1).mra
+Lightning Fighters (World).mra
+M.I.A. - Missing in Action (version T).mra
+MVP (set 2, US) (FD1094 317-0143).mra
+MX5000.mra
+Magic Sword Heroic Fantasy (World 900725).mra
+Magical Pumpkin Puroland de Daibouken (Japan 960712).mra
+Major League (World, S16A) [No Protection].mra
+Marchen Maze (Japan).mra
+Mars Matrix Hyper Solid Shooting (USA 000412).mra
+Marvel Super Heroes (Euro 951024).mra
+Marvel Super Heroes Vs. Street Fighter (Euro 970625).mra
+Marvel Vs. Capcom Clash of Super Heroes (Euro 980123).mra
+Mega Man 2 The Power Fighters (USA 960708).mra
+Mega Man The Power Battle (CPS1, USA 951006).mra
+Mega Twins (World 900619).mra
+Mercs (World 900302).mra
+Metro-Cross (set 1).mra
+Michael Jackson's Moonwalker (World) (FD1094-8751 317-0159).mra
+Midnight Resistance (World, set 1).mra
+Mighty! Pang (Euro 001010).mra
+Mikie.mra
+Muscle Bomber Duo Ultimate Team Battle (World 931206).mra
+N.Y. Captor.mra
+Nemo (World 901130).mra
+NeoGeo Pocket.mra
+Night Warriors Darkstalkers' Revenge (Euro 950316).mra
+Onna Sanshirou - Typhoon Gal.mra
+Out Run (sitdown-upright, Rev B).mra
+Pac-Land (World).mra
+Pac-Mania.mra
+Pang (World).mra
+Pang! 3 (Euro 950601).mra
+Parodius Da! Shinwa kara Owarai e (World, set 1).mra
+Passing Shot (World, 2 Players) (FD1094 317-0080).mra
+Pirate Ship Higemaru.mra
+Pistol Daimyo no Bouken (Japan).mra
+Pnickies (Japan 940608).mra
+Pokonyan! Balloon (Japan 940322).mra
+Pro Tennis World Court (Japan).mra
+Pro Yakyuu World Stadium (Japan).mra
+Progear (USA 010117).mra
+Punk Shot (US 4 Players).mra
+Puzz Loop 2 (Euro 010302).mra
+Quartet (Rev A, 4p, World, S16A) [8751 315-5194].mra
+Quartet 2 (World, S16A) [No Protection].mra
+Quester (Japan).mra
+Quiz & Dragons Capcom Quiz Game (USA 920701).mra
+Quiz Nanairo Dreams Nijiirochou no Kiseki (Japan 96086).mra
+Quiz Tonosama no Yabou 2 Zenkoku-ban (Japan 950123).mra
+Raiga - Strato Fighter (US).mra
+Rastan (World Rev 1).mra
+Renegade (US).mra
+Ring of Destruction Slammasters II (Euro 940902).mra
+Riot City (Japan).mra
+Road Fighter (set 1).mra
+Robocop (World, revision 4).mra
+Roc'n Rope.mra
+Rolling Thunder (rev 3).mra
+Rompers (Japan, new version (Rev B)).mra
+Rumba Lumber.mra
+RyuKyu (Rev A, Japan) (FD1094 317-5023A).mra
+SDI Strategic Defense Initiative (Japan, New Ver., S16A) [FD1089B 317-0027].mra
+Saturday Night Slam Masters (World 930713).mra
+Secret Agent (World, revision 3).mra
+Section Z (set 1).mra
+Shadow Dancer (World).mra
+Shadow Warriors (World, set 1).mra
+Shadowland (YD3).mra
+Shinobi (Set 6, World, S16A) [No Protection].mra
+Side Arms - Hyper Dyne (World, 861129).mra
+Sky Kid Deluxe (set 1).mra
+Sonic Boom (FD1094 317-0053).mra
+Splatter House (World, new version (SH3)).mra
+Street Fighter (US, set 1).mra
+Street Fighter Alpha 2 (Euro 960229).mra
+Street Fighter Alpha 3 (Euro 980904).mra
+Street Fighter Alpha Warriors' Dreams (Euro 950727).mra
+Street Fighter II The World Warrior (World 910522).mra
+Street Fighter II' Champion Edition (World 920513).mra
+Street Fighter II' Hyper Fighting (World 921209).mra
+Street Fighter Zero (CPS Changer, Japan 951020).mra
+Street Fighter Zero 2 Alpha (Asia 960826).mra
+Strider (USA, B-Board 89624B-2).mra
+Sukeban Jansi Ryuko (set 2, System 16B, FD1089B 317-5021).mra
+Sunset Riders (4 Players ver EAC).mra
+Super Basketball (version I, encrypted).mra
+Super Contra (set 1).mra
+Super Gem Fighter Mini Mix (USA 970904).mra
+Super Hang-On (sitdown-upright) (unprotected).mra
+Super League (FD1094 317-0045).mra
+Super Pang (World 900914).mra
+Super Puzzle Fighter II Turbo (Euro 960529).mra
+Super Street Fighter II The New Challengers (World 931005).mra
+Super Street Fighter II Turbo (World 940223).mra
+Tank Force (US, 2 Players).mra
+Teenage Mutant Ninja Turtles (World 4 Players, version X).mra
+Tehkan World Cup (set 1).mra
+Tenchi wo Kurau II Sekiheki no Tatakai (CPS Changer, Japan 921031).mra
+Tetris (Set 4, Japan, S16A) [FD1094 317-0093].mra
+The FairyLand Story.mra
+The Final Round (version M).mra
+The King of Dragons (World 910805).mra
+The NewZealand Story (World, new version) (P0-043A PCB).mra
+The Punisher (World 930422).mra
+The Return of Ishtar.mra
+The Simpsons (4 Players World, set 1).mra
+The Speed Rumbler (set 1).mra
+Three Wonders (World 910520).mra
+Thunder Cross (set 1).mra
+Tiger Road (US).mra
+Time Scanner (set 2, System 16B).mra
+Toki (World, set 1).mra
+Tokio - Scramble Formation (newer).mra
+Toryumon.mra
+Tough Turf (set 1, US) (8751 317-0099).mra
+Track & Field.mra
+Trick Trap (World).mra
+Trojan (US set 1).mra
+Turbo Out Run (Out Run upgrade) (FD1094 317-0118).mra
+U.N. Squadron (USA).mra
+Vampire Hunter 2 Darkstalkers Revenge (Japan 970929).mra
+Vampire Savior 2 The Lord of Vampire (Japan 970913).mra
+Vampire Savior The Lord of Vampire (Euro 970519).mra
+Varth Operation Thunderstorm (World 920714).mra
+Vendetta (World, 4 Players, ver. T).mra
+Victorious Nine.mra
+Vigilante (World, Rev E).mra
+Vulcan Venture (New).mra
+Vulgus (set 1).mra
+WWF Superstars (Europe).mra
+Warriors of Fate (World 921031).mra
+Wild Fang - Tecmo Knight.mra
+Willow (World).mra
+Wonder Boy III - Monster Lair (set 6, World, System 16B) (8751 317-0098).mra
+Wonder Momo.mra
+Wonder Planet (Japan).mra
+Wrestle War (set 3, World) (8751 317-0103).mra
+X-Men (4 Players ver EBA).mra
+X-Men Children of the Atom (Euro 950331).mra
+X-Men Vs. Street Fighter (Euro 961004).mra
+Yie Ar Kung-Fu (program code I).mra
