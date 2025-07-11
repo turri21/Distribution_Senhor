@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -19,20 +19,19 @@
 
 -->
 
-<misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+<misterromdescription default="ff,ff">
+    <about author="jotego,atrac17" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>X-Men Vs. Street Fighter (Euro 961004)</name>
     <setname>xmvsf</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtcps2</rbf>
+    <mameversion>0251</mameversion>
     <year>1996</year>
     <manufacturer>Capcom</manufacturer>
     <players>2</players>
-    <rbf>jtcps2</rbf>
     <joystick>8</joystick>
+    <rotation>horizontal</rotation>
     <region>World</region>
     <rom index="0" zip="xmvsf.zip|qsound.zip" md5="None" address="0x30000000" asm_md5="c5f1e31f4bef2e94411fb459c65eb1a6">
-        <!--  -->
         <part>
             00 0E 00 0F 00 1F 00 9F
             FF FF FF FF FF FF FF FF
@@ -78,7 +77,6 @@
         <!-- Total 0x27C2014 bytes - 40712 kBytes -->
     </rom>
     <rom index="2">
-        <part>
 00 00 01 00 00 00 00 02 00 00 00 00 00 00 00 00
 01 01 00 01 00 00 00 04 00 00 00 00 00 00 00 00
 10 96 08 04 04 96 FF 01 56 58 20 53 20 20 20 20
@@ -87,16 +85,10 @@
 10 96 08 04 04 96 FF 01 56 58 20 53 20 20 20 20
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-</part>
-    </rom>
+</rom>
     <nvram index="2" size="128"/>
     <rom index="1">
-        <part>00 80</part>
+        <part>00</part>
     </rom>
-    <switches page_id="1" page_name="Switches" base="16" default="ff,ff">
-        <DSWA/>
-        <DSWB/>
-        <DSWC/>
-    </switches>
     <buttons names="Light Punch,Middle Punch,Heavy Punch,Light Kick,Middle Kick,Heavy Kick,Start,Coin,Core credits" default="A,B,X,Y,L,R,Start,Select,-" count="6"/>
 </misterromdescription>

@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,19 +20,18 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Willow (World)</name>
     <setname>willow</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtcps1</rbf>
+    <mameversion>0251</mameversion>
     <year>1989</year>
     <manufacturer>Capcom</manufacturer>
     <players>2</players>
-    <rbf>jtcps1</rbf>
     <joystick>8</joystick>
+    <rotation>horizontal</rotation>
     <region>World</region>
-    <rom index="0" zip="willow.zip" md5="None" address="0x30000000" asm_md5="5e3e5c94006cb16866627a4554c14598">
-        <!--  -->
+    <rom index="0" zip="willow.zip" md5="None" asm_md5="5e3e5c94006cb16866627a4554c14598">
         <part>
             00 04 40 04 40 05 FF FF
             FF FF FF FF FF FF FF FF
@@ -78,16 +77,16 @@
         <!-- Total 0x450000 bytes - 4416 kBytes -->
     </rom>
     <rom index="1">
-        <part>00 80</part>
+        <part>00</part>
     </rom>
-    <switches page_id="1" page_name="Switches" base="16" default="ff,ff,fa">
-        <DSWA/>
+    <switches page_id="1" page_name="Switches" base="8" default="ff,ff,fa">
+        <!-- DSWA -->
         <dip name="Cabinet" bits="6,7" ids="Cocktail,-,Upright 2 Players,Upright 1 Player"/>
-        <DSWB/>
+        <!-- DSWB -->
         <dip name="Difficulty" bits="8,10" ids="8,7,6,5,1,2,3,4"/>
         <dip name="Nando Speed" bits="11,12" ids="Very Fast,Fast,Slow,Normal"/>
         <dip name="Stage Magic Continue" bits="15" ids="On,Off"/>
-        <DSWC/>
+        <!-- DSWC -->
         <dip name="Lives" bits="16,17" ids="4,3,1,2"/>
         <dip name="Vitality" bits="18,19" ids="2,5,4,3"/>
         <dip name="Flip Screen" bits="20" ids="On,Off"/>
