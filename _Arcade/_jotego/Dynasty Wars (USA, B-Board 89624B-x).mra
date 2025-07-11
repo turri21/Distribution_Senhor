@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,19 +20,18 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Dynasty Wars (USA, B-Board 89624B-?)</name>
     <setname>dynwar</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtcps1</rbf>
+    <mameversion>0251</mameversion>
     <year>1989</year>
     <manufacturer>Capcom</manufacturer>
     <players>2</players>
-    <rbf>jtcps1</rbf>
     <joystick>8</joystick>
+    <rotation>horizontal</rotation>
     <region>World</region>
-    <rom index="0" zip="dynwar.zip" md5="None" address="0x30000000" asm_md5="38c64741d4ce69186c4eed0a0599e2ae">
-        <!--  -->
+    <rom index="0" zip="dynwar.zip" md5="None" asm_md5="38c64741d4ce69186c4eed0a0599e2ae">
         <part>
             00 04 40 04 40 05 FF FF
             FF FF FF FF FF FF FF FF
@@ -74,21 +73,21 @@
         <!-- Total 0x550000 bytes - 5440 kBytes -->
     </rom>
     <rom index="1">
-        <part>00 80</part>
+        <part>00</part>
     </rom>
-    <switches page_id="1" page_name="Switches" base="16" default="ff,ff,ff">
-        <DSWA/>
+    <switches page_id="1" page_name="Switches" base="8" default="ff,ff,ff">
+        <!-- DSWA -->
         <dip name="Free Play" bits="7" ids="On,Off"/>
-        <DSWB/>
+        <!-- DSWB -->
         <dip name="Difficulty" bits="8,10" ids="8,7,6,5,1,2,3,4"/>
-        <DSWC/>
+        <!-- DSWC -->
         <dip name="Freeze" bits="16" ids="On,Off"/>
         <dip name="Turbo Mode" bits="17" ids="On,Off"/>
         <dip name="Flip Screen" bits="20" ids="On,Off"/>
         <dip name="Demo Sounds" bits="21" ids="Off,On"/>
         <dip name="Allow Continue" bits="22" ids="No,Yes"/>
         <dip name="Game Mode" bits="23" ids="Test,Game"/>
-        <IN0/>
+        <!-- IN0 -->
         <dip name="Service Mode" bits="30" ids="On,Off"/>
         <dip name="PCB type" ids="88617A,89626A" bits="24"/>
     </switches>

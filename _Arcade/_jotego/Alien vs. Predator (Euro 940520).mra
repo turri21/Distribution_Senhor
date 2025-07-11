@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -19,20 +19,19 @@
 
 -->
 
-<misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+<misterromdescription default="ff,ff">
+    <about author="jotego,atrac17" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Alien vs. Predator (Euro 940520)</name>
     <setname>avsp</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtcps2</rbf>
+    <mameversion>0251</mameversion>
     <year>1994</year>
     <manufacturer>Capcom</manufacturer>
     <players>3</players>
-    <rbf>jtcps2</rbf>
     <joystick>8</joystick>
+    <rotation>horizontal</rotation>
     <region>World</region>
     <rom index="0" zip="avsp.zip|qsound.zip" md5="None" address="0x30000000" asm_md5="b6404697e8a4c5285ae41600a9c041d2">
-        <!--  -->
         <part>
             00 08 80 08 80 18 80 48
             FF FF FF FF FF FF FF FF
@@ -74,7 +73,6 @@
         <!-- Total 0x1222014 bytes - 18568 kBytes -->
     </rom>
     <rom index="2">
-        <part>
 01 00 01 00 00 01 01 AC 02 00 00 00 00 00 00 00
 01 03 00 04 00 00 00 00 00 00 00 00 00 00 00 00
 05 94 08 20 10 92 FF 06 72 50 64 65 74 61 72 6F
@@ -83,16 +81,10 @@
 05 94 08 20 10 92 FF 06 72 50 64 65 74 61 72 6F
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-</part>
-    </rom>
+</rom>
     <nvram index="2" size="128"/>
     <rom index="1">
-        <part>00 80</part>
+        <part>00</part>
     </rom>
-    <switches page_id="1" page_name="Switches" base="16" default="ff,ff">
-        <DSWA/>
-        <DSWB/>
-        <DSWC/>
-    </switches>
     <buttons names="Shoot,Attack,Jump/Dash,-,-,-,Start,Coin,Core credits" default="A,B,X,Start,Select,-" count="3"/>
 </misterromdescription>

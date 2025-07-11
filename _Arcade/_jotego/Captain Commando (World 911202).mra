@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,19 +20,18 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Captain Commando (World 911202)</name>
     <setname>captcomm</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtcps1</rbf>
+    <mameversion>0251</mameversion>
     <year>1991</year>
     <manufacturer>Capcom</manufacturer>
     <players>4</players>
-    <rbf>jtcps1</rbf>
     <joystick>8</joystick>
+    <rotation>horizontal</rotation>
     <region>World</region>
-    <rom index="0" zip="captcomm.zip" md5="None" address="0x30000000" asm_md5="6544482d4fdffd3567d47e75daf0c42f">
-        <!--  -->
+    <rom index="0" zip="captcomm.zip" md5="None" asm_md5="6544482d4fdffd3567d47e75daf0c42f">
         <part>
             00 05 40 05 40 06 FF FF
             FF FF FF FF FF FF FF FF
@@ -71,15 +70,14 @@
         <!-- Total 0x590000 bytes - 5696 kBytes -->
     </rom>
     <rom index="1">
-        <part>00 80</part>
+        <part>00</part>
     </rom>
-    <switches page_id="1" page_name="Switches" base="16" default="ff,f4,bf">
-        <DSWA/>
-        <DSWB/>
+    <switches page_id="1" page_name="Switches" base="8" default="ff,f4,bf">
+        <!-- DSWB -->
         <dip name="Difficulty 1" bits="8,10" ids="8,7,6,5,4,3,2,1"/>
         <dip name="Difficulty 2" bits="11,12" ids="Hardest,Hard,Normal,Easy"/>
         <dip name="Play Mode" bits="14,15" ids="4 Players,1 Players,3 Players,2 Players"/>
-        <DSWC/>
+        <!-- DSWC -->
         <dip name="Lives" bits="16,17" ids="1,4,3,2"/>
         <dip name="Free Play" bits="18" ids="On,Off"/>
         <dip name="Freeze" bits="19" ids="On,Off"/>

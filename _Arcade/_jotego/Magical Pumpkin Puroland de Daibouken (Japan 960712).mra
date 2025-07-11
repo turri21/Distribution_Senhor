@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,19 +20,18 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Magical Pumpkin: Puroland de Daibouken (Japan 960712)</name>
     <setname>mpumpkin</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtcps1</rbf>
+    <mameversion>0251</mameversion>
     <year>1996</year>
     <manufacturer>Capcom</manufacturer>
     <players>1</players>
-    <rbf>jtcps1</rbf>
     <joystick/>
+    <rotation>horizontal</rotation>
     <region>World</region>
-    <rom index="0" zip="mpumpkin.zip" md5="None" address="0x30000000" asm_md5="bce61e3b5079a60c89eb310ec5947167">
-        <!--  -->
+    <rom index="0" zip="mpumpkin.zip" md5="None" asm_md5="bce61e3b5079a60c89eb310ec5947167">
         <part>
             00 02 40 02 40 03 FF FF
             FF FF FF FF FF FF FF FF
@@ -71,24 +70,22 @@
         </interleave>
         <!-- Total 0x6D0000 bytes - 6976 kBytes -->
     </rom>
-    <!-- Dial controller reversed. -->
     <rom index="1">
-        <part>18 80</part>
+        <part>18</part>
     </rom>
-    <switches page_id="1" page_name="Switches" base="16" default="be,fb,ff,ff">
-        <DSWA/>
-        <DSWB/>
+    <switches page_id="1" page_name="Switches" base="8" default="ff,fb,ff,ff">
+        <!-- DSWB -->
         <dip name="Demo Sounds" bits="8,9" ids="Off,Every 4,Every 2,On"/>
         <dip name="Prize Mode" bits="10" ids="Not Used,Used"/>
         <dip name="Credit Mode" bits="11" ids="On,Off"/>
         <dip name="Max Stage" bits="12" ids="2,3"/>
         <dip name="Card Check" bits="13" ids="On,Off"/>
-        <DSWC/>
+        <!-- DSWC -->
         <dip name="Body Check" bits="17" ids="On,Off"/>
         <dip name="Screen Stop" bits="19" ids="On,Off"/>
         <dip name="Flip Screen" bits="20" ids="On,Off"/>
         <dip name="Service Mode" bits="23" ids="On,Off"/>
-        <IN0/>
+        <!-- IN0 -->
         <dip name="Service Mode" bits="30" ids="On,Off"/>
         <dip name="PCB type" ids="88617A,89626A" bits="24"/>
     </switches>

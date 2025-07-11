@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,16 +20,16 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Boulder Dash - Boulder Dash Part 2 (World)</name>
     <setname>bouldash</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtslyspy</rbf>
+    <mameversion>0251</mameversion>
     <year>1990</year>
     <manufacturer>Data East Corporation (licensed from First Star)</manufacturer>
     <players>2</players>
-    <rbf>jtslyspy</rbf>
     <joystick>4</joystick>
+    <rotation>horizontal</rotation>
     <region>World</region>
     <rom index="0" zip="bouldash.zip" md5="None" asm_md5="8b470f64f4920165a6461f9ca169c933">
         <!-- maincpu - starts at 0x0 - length 0x80000 (19 bits) -->
@@ -92,10 +92,10 @@
         <!-- Total 0x228100 bytes - 2208 kBytes -->
     </rom>
     <rom index="1">
-        <part>00 FF</part>
+        <part>00</part>
     </rom>
     <switches page_id="1" page_name="Switches" base="17" default="7f,7f">
-        <DSW/>
+        <!-- DSW -->
         <dip name="Coin A" bits="0,2" ids="3/1,2/1,1/6,1/5,1/4,1/3,1/2,1/1"/>
         <dip name="Coin B" bits="3,5" ids="3/1,2/1,1/6,1/5,1/4,1/3,1/2,1/1"/>
         <dip name="Flip Screen" bits="6" ids="On,Off"/>

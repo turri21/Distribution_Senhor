@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,19 +20,18 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Ghouls&apos;n Ghosts (World)</name>
     <setname>ghouls</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtcps1</rbf>
+    <mameversion>0251</mameversion>
     <year>1988</year>
     <manufacturer>Capcom</manufacturer>
     <players>2</players>
-    <rbf>jtcps1</rbf>
     <joystick>4</joystick>
+    <rotation>horizontal</rotation>
     <region>World</region>
-    <rom index="0" zip="ghouls.zip" md5="None" address="0x30000000" asm_md5="6ca0a8f1265eca0c99f28ac9e645e2eb">
-        <!--  -->
+    <rom index="0" zip="ghouls.zip" md5="None" asm_md5="6ca0a8f1265eca0c99f28ac9e645e2eb">
         <part>
             00 04 40 04 40 05 FF FF
             FF FF FF FF FF FF FF FF
@@ -89,21 +88,21 @@
         <!-- Total 0x450000 bytes - 4416 kBytes -->
     </rom>
     <rom index="1">
-        <part>00 80</part>
+        <part>00</part>
     </rom>
-    <switches page_id="1" page_name="Switches" base="16" default="ff,fd,ff">
-        <DSWA/>
+    <switches page_id="1" page_name="Switches" base="8" default="ff,fd,ff">
+        <!-- DSWA -->
         <dip name="Cabinet" bits="6,7" ids="Cocktail,-,Upright 2 Players,Upright 1 Player"/>
-        <DSWB/>
+        <!-- DSWB -->
         <dip name="Difficulty" bits="8,10" ids="8,7,6,5,1,2,3,4"/>
         <dip name="Bonus" bits="12,13" ids="40K 70K &amp; *80K,20K 50K &amp; *70K,10K 30K &amp; *30K,30K 60K &amp; *70K"/>
-        <DSWC/>
+        <!-- DSWC -->
         <dip name="Lives" bits="16,17" ids="6,5,4,3"/>
         <dip name="Flip Screen" bits="20" ids="On,Off"/>
         <dip name="Demo Sounds" bits="21" ids="Off,On"/>
         <dip name="Allow Continue" bits="22" ids="No,Yes"/>
         <dip name="Game Mode" bits="23" ids="Test,Game"/>
-        <IN0/>
+        <!-- IN0 -->
         <dip name="Service Mode" bits="30" ids="On,Off"/>
         <dip name="PCB type" ids="88617A,89626A" bits="24"/>
     </switches>

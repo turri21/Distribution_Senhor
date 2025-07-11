@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -19,20 +19,19 @@
 
 -->
 
-<misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>vertical (ccw)</rotation>
+<misterromdescription default="ff,ff">
+    <about author="jotego,atrac17" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>19XX: The War Against Destiny (Euro 960104)</name>
     <setname>19xx</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtcps2</rbf>
+    <mameversion>0251</mameversion>
     <year>1996</year>
     <manufacturer>Capcom</manufacturer>
     <players>2</players>
-    <rbf>jtcps2</rbf>
     <joystick>8</joystick>
+    <rotation>vertical (ccw)</rotation>
     <region>World</region>
     <rom index="0" zip="19xx.zip|qsound.zip" md5="None" address="0x30000000" asm_md5="7d1b6ad080cd34cdf5cc2ebf1ae8d810">
-        <!--  -->
         <part>
             00 0A 80 0A 80 1A 80 5A
             FF FF FF FF FF FF FF FF
@@ -76,7 +75,6 @@
         <!-- Total 0x16A2014 bytes - 23176 kBytes -->
     </rom>
     <rom index="2">
-        <part>
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 00 00 00 00 00 00 00 00 00 00 03 01 00 03 00 00
 01 03 01 01 00 01 00 01 01 96 08 04 39 31 20 58
@@ -85,17 +83,11 @@
 01 03 01 01 00 01 00 01 01 96 08 04 39 31 20 58
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-</part>
-    </rom>
+</rom>
     <nvram index="2" size="128"/>
-    <!-- Vertical screen. Orientation reversed. -->
+    <!-- Vertical game -->
     <rom index="1">
-        <part>05 80</part>
+        <part>05</part>
     </rom>
-    <switches page_id="1" page_name="Switches" base="16" default="ff,ff">
-        <DSWA/>
-        <DSWB/>
-        <DSWC/>
-    </switches>
     <buttons names="Shot,Bomb,-,-,-,-,Start,Coin,Core credits" default="A,B,Start,Select,-" count="2"/>
 </misterromdescription>

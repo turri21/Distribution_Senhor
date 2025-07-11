@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,19 +20,18 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Carrier Air Wing (World 901012)</name>
     <setname>cawing</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtcps1</rbf>
+    <mameversion>0251</mameversion>
     <year>1990</year>
     <manufacturer>Capcom</manufacturer>
     <players>2</players>
-    <rbf>jtcps1</rbf>
     <joystick>8</joystick>
+    <rotation>horizontal</rotation>
     <region>World</region>
-    <rom index="0" zip="cawing.zip" md5="None" address="0x30000000" asm_md5="df07f29994f8b9121b2ed3ae88b14dc9">
-        <!--  -->
+    <rom index="0" zip="cawing.zip" md5="None" asm_md5="df07f29994f8b9121b2ed3ae88b14dc9">
         <part>
             00 04 40 04 40 05 FF FF
             FF FF FF FF FF FF FF FF
@@ -68,14 +67,13 @@
         <!-- Total 0x350000 bytes - 3392 kBytes -->
     </rom>
     <rom index="1">
-        <part>00 80</part>
+        <part>00</part>
     </rom>
-    <switches page_id="1" page_name="Switches" base="16" default="ff,fc,bf">
-        <DSWA/>
-        <DSWB/>
+    <switches page_id="1" page_name="Switches" base="8" default="ff,fc,bf">
+        <!-- DSWB -->
         <dip name="Enemy&apos;s Strength" bits="8,10" ids="8,7,6,5,4,3,2,1"/>
         <dip name="Gameplay" bits="11,12" ids="Hardest,Hard,Easy,Normal"/>
-        <DSWC/>
+        <!-- DSWC -->
         <dip name="Free Play" bits="18" ids="On,Off"/>
         <dip name="Freeze" bits="19" ids="On,Off"/>
         <dip name="Flip Screen" bits="20" ids="On,Off"/>

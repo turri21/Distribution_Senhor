@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,16 +20,16 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Karnov (US, rev 6)</name>
     <setname>karnov</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtkarnov</rbf>
+    <mameversion>0251</mameversion>
     <year>1987</year>
     <manufacturer>Data East USA</manufacturer>
     <players>2</players>
-    <rbf>jtkarnov</rbf>
     <joystick>8</joystick>
+    <rotation>horizontal</rotation>
     <region>World</region>
     <rom index="0" zip="karnov.zip" md5="None" asm_md5="2fdde2cddc577125a3a2b733eb7f42ec">
         <!-- maincpu - starts at 0x0 - length 0x60000 (19 bits) -->
@@ -95,10 +95,10 @@
         <!-- Total 0x139800 bytes - 1254 kBytes -->
     </rom>
     <rom index="1">
-        <part>00 82</part>
+        <part>00</part>
     </rom>
     <switches page_id="1" page_name="Switches" base="16" default="bf,ff">
-        <DSW/>
+        <!-- DSW -->
         <dip name="Coin A" bits="0,1" ids="2/1,1/3,1/2,1/1"/>
         <dip name="Coin B" bits="2,3" ids="2/1,1/3,1/2,1/1"/>
         <dip name="Flip Screen" bits="5" ids="On,Off"/>

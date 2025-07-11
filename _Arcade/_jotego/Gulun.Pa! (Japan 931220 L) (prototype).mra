@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,19 +20,18 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Gulun.Pa! (Japan 931220 L) (prototype)</name>
     <setname>gulunpa</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtcps1</rbf>
+    <mameversion>0251</mameversion>
     <year>1993</year>
     <manufacturer>Capcom</manufacturer>
     <players>2</players>
-    <rbf>jtcps1</rbf>
     <joystick>8</joystick>
+    <rotation>horizontal</rotation>
     <region>World</region>
-    <rom index="0" zip="gulunpa.zip" md5="None" address="0x30000000" asm_md5="2a6aba4ca3cd0cd81d9fb2494a706039">
-        <!--  -->
+    <rom index="0" zip="gulunpa.zip" md5="None" asm_md5="2a6aba4ca3cd0cd81d9fb2494a706039">
         <part>
             00 01 40 01 40 02 FF FF
             FF FF FF FF FF FF FF FF
@@ -63,18 +62,17 @@
         <!-- Total 0x290000 bytes - 2624 kBytes -->
     </rom>
     <rom index="1">
-        <part>00 80</part>
+        <part>00</part>
     </rom>
-    <switches page_id="1" page_name="Switches" base="16" default="ff,ff,df,ff">
-        <DSWA/>
-        <DSWB/>
+    <switches page_id="1" page_name="Switches" base="8" default="ff,ff,df,ff">
+        <!-- DSWB -->
         <dip name="Difficulty" bits="8,10" ids="8 Hardest,7 Very Hard,6 Hard,5 Medium Hard,4 Medium,3 Easy,2 Very Easy,1 Easiest"/>
-        <DSWC/>
+        <!-- DSWC -->
         <dip name="Freeze" bits="19" ids="On,Off"/>
         <dip name="Flip Screen" bits="20" ids="On,Off"/>
         <dip name="Demo Sounds" bits="21" ids="On,Off"/>
         <dip name="Game Mode" bits="23" ids="Test,Game"/>
-        <IN0/>
+        <!-- IN0 -->
         <dip name="Service Mode" bits="30" ids="On,Off"/>
         <dip name="PCB type" ids="88617A,89626A" bits="24"/>
     </switches>
