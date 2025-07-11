@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,16 +20,16 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Tiger Road (US)</name>
     <setname>tigeroad</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jttora</rbf>
+    <mameversion>0251</mameversion>
     <year>1987</year>
     <manufacturer>Capcom</manufacturer>
     <players>2</players>
-    <rbf>jttora</rbf>
     <joystick>8</joystick>
+    <rotation>horizontal</rotation>
     <region>World</region>
     <rom index="0" zip="tigeroad.zip" md5="None" asm_md5="d05f3b49bc254d0d26d555be39002579">
         <!--  Header to identify the PCB type
@@ -90,10 +90,10 @@
         <!-- Total 0x1E8100 bytes - 1952 kBytes -->
     </rom>
     <rom index="1">
-        <part>00 21</part>
+        <part>00</part>
     </rom>
-    <switches page_id="1" page_name="Switches" base="16" default="ff,fb">
-        <DSW/>
+    <switches page_id="1" page_name="Switches" base="16" default="ff,ff">
+        <!-- DSW -->
         <dip name="Coin B" bits="0,2" ids="4/1,3/1,2/1,1/6,1/4,1/3,1/2,1/1"/>
         <dip name="Coin A" bits="3,5" ids="4/1,3/1,2/1,1/6,1/4,1/3,1/2,1/1"/>
         <dip name="Service Mode" bits="6" ids="On,Off"/>

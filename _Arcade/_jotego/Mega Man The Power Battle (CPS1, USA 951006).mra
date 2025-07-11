@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,19 +20,18 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Mega Man: The Power Battle (CPS1, USA 951006)</name>
     <setname>megaman</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtcps1</rbf>
+    <mameversion>0251</mameversion>
     <year>1995</year>
     <manufacturer>Capcom</manufacturer>
     <players>2</players>
-    <rbf>jtcps1</rbf>
     <joystick>8</joystick>
+    <rotation>horizontal</rotation>
     <region>World</region>
-    <rom index="0" zip="megaman.zip" md5="None" address="0x30000000" asm_md5="fd501716b34931dcc4eefdbef1e8ee16">
-        <!--  -->
+    <rom index="0" zip="megaman.zip" md5="None" asm_md5="fd501716b34931dcc4eefdbef1e8ee16">
         <part>
             00 06 40 06 40 07 FF FF
             FF FF FF FF FF FF FF FF
@@ -80,15 +79,14 @@
         <!-- Total 0x9D0000 bytes - 10048 kBytes -->
     </rom>
     <rom index="1">
-        <part>00 80</part>
+        <part>00</part>
     </rom>
-    <switches page_id="1" page_name="Switches" base="16" default="ff,fa,ff">
-        <DSWA/>
-        <DSWB/>
+    <switches page_id="1" page_name="Switches" base="8" default="ff,fa,ff">
+        <!-- DSWB -->
         <dip name="Difficulty" bits="8,9" ids="Hardest,Hard,Normal,Easy"/>
         <dip name="Time" bits="10,11" ids="60,70,90,100"/>
         <dip name="Voice" bits="14" ids="Off,On"/>
-        <DSWC/>
+        <!-- DSWC -->
         <dip name="Flip Screen" bits="16" ids="On,Off"/>
         <dip name="Demo Sounds" bits="17" ids="Off,On"/>
         <dip name="Allow Continue" bits="18" ids="No,Yes"/>

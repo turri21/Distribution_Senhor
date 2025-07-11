@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -19,20 +19,19 @@
 
 -->
 
-<misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+<misterromdescription default="ff,ff">
+    <about author="jotego,atrac17" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Ring of Destruction: Slammasters II (Euro 940902)</name>
     <setname>ringdest</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtcps2</rbf>
+    <mameversion>0251</mameversion>
     <year>1994</year>
     <manufacturer>Capcom</manufacturer>
     <players>2</players>
-    <rbf>jtcps2</rbf>
     <joystick>8</joystick>
+    <rotation>horizontal</rotation>
     <region>World</region>
     <rom index="0" zip="ringdest.zip|qsound.zip" md5="None" address="0x30000000" asm_md5="50e7406316328c41e215bbe0a5e89556">
-        <!--  -->
         <part>
             00 0C 00 0D 00 1D 00 65
             FF FF FF FF FF FF FF FF
@@ -83,7 +82,6 @@
         <!-- Total 0x1942014 bytes - 25864 kBytes -->
     </rom>
     <rom index="2">
-        <part>
 01 00 01 00 03 00 01 01 00 01 03 01 00 00 00 00
 00 00 00 00 00 00 00 00 94 00 02 09 52 02 4E 49
 20 47 46 4F 44 20 53 45 52 54 43 55 49 54 4E 4F
@@ -92,16 +90,10 @@
 20 47 46 4F 44 20 53 45 52 54 43 55 49 54 4E 4F
 00 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-</part>
-    </rom>
+</rom>
     <nvram index="2" size="128"/>
     <rom index="1">
-        <part>00 80</part>
+        <part>00</part>
     </rom>
-    <switches page_id="1" page_name="Switches" base="16" default="ff,ff">
-        <DSWA/>
-        <DSWB/>
-        <DSWC/>
-    </switches>
     <buttons names="Grab,Light Punch,Heavy Punch,Unused,Light Kick,Heavy Kick,Start,Coin,Core credits" default="A,B,X,Y,L,R,Start,Select,-" count="6"/>
 </misterromdescription>

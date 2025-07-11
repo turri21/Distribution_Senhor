@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,19 +20,18 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Street Fighter Zero (CPS Changer, Japan 951020)</name>
     <setname>sfzch</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtcps1</rbf>
+    <mameversion>0251</mameversion>
     <year>1995</year>
     <manufacturer>Capcom</manufacturer>
     <players>2</players>
-    <rbf>jtcps1</rbf>
     <joystick>8</joystick>
+    <rotation>horizontal</rotation>
     <region>Japan</region>
-    <rom index="0" zip="sfzch.zip" md5="None" address="0x30000000" asm_md5="7ce5ab919d0a4ec1d0cdde7eef102076">
-        <!--  -->
+    <rom index="0" zip="sfzch.zip" md5="None" asm_md5="7ce5ab919d0a4ec1d0cdde7eef102076">
         <part>
             00 08 40 08 40 09 FF FF
             FF FF FF FF FF FF FF FF
@@ -81,12 +80,9 @@
         <!-- Total 0xA50000 bytes - 10560 kBytes -->
     </rom>
     <rom index="1">
-        <part>00 80</part>
+        <part>00</part>
     </rom>
-    <switches page_id="1" page_name="Switches" base="16" default="ff,ff">
-        <DSWA/>
-        <DSWB/>
-        <DSWC/>
+    <switches page_id="1" page_name="Switches" base="8" default="ff,ff">
         <dip name="PCB type" ids="88617A,89626A" bits="24"/>
     </switches>
     <buttons names="LP,MP,SP,LK,MK,HK,Start,Coin,Core credits" default="A,B,X,Y,L,R,Start,Select,-" count="6"/>

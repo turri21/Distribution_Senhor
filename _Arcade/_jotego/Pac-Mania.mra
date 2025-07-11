@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,19 +20,19 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>vertical (ccw)</rotation>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>Pac-Mania</name>
     <setname>pacmania</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtshouse</rbf>
+    <mameversion>0251</mameversion>
     <year>1987</year>
     <manufacturer>Namco</manufacturer>
     <players>2</players>
-    <rbf>jtshouse</rbf>
     <joystick>8</joystick>
+    <rotation>vertical (ccw)</rotation>
     <region>World</region>
-    <rom index="0" zip="pacmania.zip" md5="None" address="0x30000000" asm_md5="4be255352d68850f1507e724b461a2de">
-        <!-- Byte 0: bit 0-1: protection type, bit 4-5: control type (0 - normal, 1 - faceoff 4p, 2 - berabohm, 3 - quester), bit 6: 64/128kB Program ROMs
+    <rom index="0" zip="pacmania.zip" md5="None" asm_md5="6e9025aeeaa7f8403dbeeaa4435b72c8">
+        <!-- Byte 0: protection type
 Byte 1: key ID
 Byte 2: addr for key ID
 Byte 3: addr for RNG
@@ -46,10 +46,10 @@ Byte 7: addr for upper nibble read
         </part>
         <!-- user1 - starts at 0x0 - length 0x3A0000 (22 bits) -->
         <part repeat="0x300000"> FF</part>
-        <part name="pn_prg-6.bin" crc="fe94900c" length="0x20000"/>
+        <part name="pn_prg-6.bin" crc="fe94900c"/>
         <part repeat="0x60000"> FF</part>
         <part name="pn2_p7.bin" crc="462fa4fd"/>
-        <part name="pn2_p7.bin" crc="462fa4fd"/>
+        <part repeat="0x10000"> FF</part>
         <!-- JTFRAME_BA1_START -->
         <!-- audiocpu - starts at 0x3A0000 - length 0x20000 (17 bits) -->
         <part name="pn2_s0.bin" crc="c10370fa"/>
@@ -79,18 +79,21 @@ Byte 7: addr for upper nibble read
         <part name="cus64-64a1.mcu" crc="ffb5c0bd"/>
         <!-- Total 0x691000 bytes - 6724 kBytes -->
     </rom>
+    <rom index="17" zip="jtbeta.zip" md5="None" asm_md5="c136cb241fd290412e99aa3e63085abb">
+        <part name="beta.bin" crc="cb97248f"/>
+    </rom>
     <nvram index="2" size="63552"/>
-    <!-- Vertical screen. -->
+    <!-- Vertical game -->
     <rom index="1">
-        <part>01 A8</part>
+        <part>05</part>
     </rom>
     <switches page_id="1" page_name="Switches" base="16" default="ff">
-        <DIPSW/>
+        <!-- DIPSW -->
         <dip name="Service Mode" bits="0" ids="On,Off"/>
         <dip name="Freeze" bits="1" ids="On,Off"/>
         <dip name="Kick Watchdog in IRQ" bits="2" ids="Yes,No"/>
         <dip name="Auto Data Sampling" bits="4" ids="On,Off"/>
         <dip name="*Sound fix" ids="On,Off" bits="8"/>
     </switches>
-    <buttons names="Jump,-,-,-,-,-,Start,Coin,Core credits" default="A,Start,Select,-" count="1"/>
+    <buttons names="button 1,button 2,-,Start,Coin,Core credits" default="A,B,Start,Select,-" count="2"/>
 </misterromdescription>

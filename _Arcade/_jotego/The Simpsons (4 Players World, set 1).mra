@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2024. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,21 +20,21 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
-    <rotation>horizontal</rotation>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
     <name>The Simpsons (4 Players World, set 1)</name>
     <setname>simpsons</setname>
-    <mameversion>0261</mameversion>
+    <rbf>jtsimson</rbf>
+    <mameversion>0251</mameversion>
     <year>1991</year>
     <manufacturer>Konami</manufacturer>
     <players>4</players>
-    <rbf>jtsimson</rbf>
     <joystick>8</joystick>
+    <rotation>horizontal</rotation>
     <region>World</region>
-    <rom index="0" zip="simpsons.zip" md5="None" address="0x30000000" asm_md5="e9c0cc9cfe06e76ea2260419358b184d">
+    <rom index="0" zip="simpsons.zip" md5="None" asm_md5="e9c0cc9cfe06e76ea2260419358b184d">
         <!--  Header to identify the PCB type
         Byte 0 = 0 - The Simpsons
-                 1 - Reserved (Parodius)
+                 1 - Parodius
                  2 - Vendetta -->
         <part>
             00 00 00 00 </part>
@@ -67,23 +67,12 @@
         <!-- Total 0x6E0000 bytes - 7040 kBytes -->
         <patch offset="0x787FF">68 00 a9</patch>
     </rom>
-    <rom index="2">
-        <part>
-00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
-00 00 00 00 00 00 00 00 00 00 00 00 01 00 01 00
-00 01 00 00 00 00 00 00 00 00 00 00 00 00 00 03
-00 00 00 00 00 00 00 00 00 00 00 00 3F 3F 10 10
-</part>
+    <rom index="17" zip="jtbeta.zip" md5="None" asm_md5="a720f853831f328de6f4bb2200b9da89">
+        <part name="beta.bin" crc="703ce912"/>
     </rom>
-    <nvram index="2" size="28833"/>
-    <!-- 16-pxl black frame on sides. -->
+    <nvram index="2" size="128"/>
     <rom index="1">
-        <part>60 53</part>
+        <part>00</part>
     </rom>
     <buttons names="Attack,Jump,-,Start,Coin,Core credits" default="A,B,Start,Select,-" count="2"/>
 </misterromdescription>
