@@ -98,6 +98,7 @@ Hyper Street Fighter II The Anniversary Edition (USA 040202).mra
 Insector X (World).mra
 Janpai Puzzle Choukou (Japan 010820).mra
 Jyangokushi Haoh no Saihai (Japan 990527).mra
+Kabuki-Z (World).mra
 Kageki (World).mra
 Karate Champ (US).mra
 Karnov (US, rev 6).mra
