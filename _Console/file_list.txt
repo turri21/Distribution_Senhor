@@ -1,4 +1,5 @@
 AdventureVision_Senhor_20250208.rbf
+Amiga CD32.mgl
 Arcadia_Senhor_20250304.rbf
 Atari 2600.mgl
 Atari2600_Senhor_20210228.rbf
@@ -41,6 +42,7 @@ PSX_Senhor_20250709.rbf
 S32X_Senhor_20250227.rbf
 SCV_Senhor_20250528.rbf
 Saturn_Senhor_20250710.rbf
+SG-1000.mgl
 SGB_Senhor_20240617.rbf
 SMS_Senhor_20240418.rbf
 SNES_Senhor_20250713.rbf
