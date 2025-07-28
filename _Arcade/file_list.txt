@@ -430,6 +430,7 @@ Squash.mra
 Star Guards.mra
 Star Jacker (alt).mra
 Star Jacker.mra
+StarForce.mra
 Stargate.mra
 Strategy X.mra
 Street Smart (US Version 2).mra
