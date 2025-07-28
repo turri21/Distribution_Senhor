@@ -66,7 +66,7 @@ IremM92_Senhor_20250226.rbf
 IronHorse_Senhor_20240527.rbf
 Jackal_Senhor_20240527.rbf
 Jailbreak_Senhor_20240527.rbf
-Joust2_Senhor_20240527.rbf
+Joust2_Senhor_20250728.rbf
 jt1942_Senhor_v0.1.rbf
 jt1943_Senhor_v0.3.rbf
 jtaliens_Senhor_v0.1.rbf
