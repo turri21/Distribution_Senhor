@@ -104,7 +104,7 @@ jtpang_Senhor_v0.1.rbf
 jtpang_Senhor_v0.2.rbf
 jtparoda_Senhor_v0.1.rbf
 jtpinpon_Senhor_v0.1.rbf
-jtrastan_Senhor_v0.1.rbf
+jtrastan_Senhor_20250730.rbf
 jtroadf_Senhor_v0.1.rbf
 jtroc_Senhor_v0.1.rbf
 jtrumble_Senhor_v0.1.rbf
