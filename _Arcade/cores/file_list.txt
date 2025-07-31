@@ -100,7 +100,6 @@ jtmikie_Senhor_v0.1.rbf
 jtmx5k_Senhor_20250319.rbf
 jtninja_Senhor_v0.1.rbf
 jtoutrun_Senhor_v0.1.rbf
-jtpang_Senhor_v0.1.rbf
 jtpang_Senhor_v0.2.rbf
 jtparoda_Senhor_v0.1.rbf
 jtpinpon_Senhor_v0.1.rbf
