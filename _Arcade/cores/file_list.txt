@@ -69,9 +69,8 @@ Jailbreak_Senhor_20240527.rbf
 Joust2_Senhor_20250728.rbf
 jt1942_Senhor_v0.1.rbf
 jt1943_Senhor_v0.3.rbf
-jtaliens_Senhor_v0.1.rbf
+jtaliens_Senhor_20250728.rbf
 jtbiocom_Senhor_v0.1.rbf
-jtbtiger_Senhor_v0.1.rbf
 jtbtiger_Senhor_v0.2.rbf
 jtbubl_Senhor_v0.1.rbf
 jtcastle_Senhor_20250318.rbf
