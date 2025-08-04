@@ -1,6 +1,0 @@
--=(Senhor Notes)=-
-
-1. Core moved to Jotego's jttmnt core
-OLD: https://github.com/furrtek/Arcade-TMNT_MiSTer/tree/master 
-NEW: jttmnt
-INFO: https://misterfpga.org/viewtopic.php?t=7182
