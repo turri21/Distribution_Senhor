@@ -1,7 +1,2 @@
 [TITLE]Important Update[/TITLE]
-[INFO]New cores available this week:[/INFO]
-- NeoGeo CD core v1.2
-- PlayStation core v2.0
-
-[WARNING]Important Notice:[/WARNING]
-TEST
+[INFO]New update_senhor.sh script available![/INFO]
