@@ -379,6 +379,7 @@ SAR - Search And Rescue (World).mra
 Saint Dragon (Set 1).mra
 Salamander (version D).mra
 Salamander (version J).mra
+Same! Same! Same! (2P Set).mra
 Sarge.mra
 Satan's Hollow (Set 1).mra
 Scooter Shooter.mra
@@ -508,6 +509,7 @@ Van-Van Car.mra
 Venture Revision 5.mra
 Victory Road.mra
 Victory.mra
+Vimana (Japan).mra
 Vindicators Part II (rev 3).mra
 Vortex.mra
 Wacko.mra
@@ -530,3 +532,4 @@ Zaxxon (Set 1, Rev D).mra
 Zero Wing (2P Set).mra
 Zig Zag (Dig Dug Conversion) [bl].mra
 Zzyzzyxx (set 1).mra
+
