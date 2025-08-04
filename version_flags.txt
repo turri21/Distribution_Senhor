@@ -1,0 +1,12 @@
+Menu=
+Alternatives=NEW
+ArcadeROMs=
+BIOS=
+Cheats=
+Filters=
+Filters_Audio=NEW
+Fonts=
+Gamma=
+Presets=
+Scripts=
+Shadow_Masks=
