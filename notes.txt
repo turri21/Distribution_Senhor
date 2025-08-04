@@ -5,5 +5,6 @@ OLD: https://github.com/furrtek/Arcade-TMNT_MiSTer/tree/master
 NEW: jttmnt
 INFO: https://misterfpga.org/viewtopic.php?t=7182
 
-2. The Shippu Mahou Daisakusen (Japan).mra downloaded from update_all (MiSTer) is Kingdom Grandprix's alternative
-located in the _alternatives/_Kingdom Grandprix folder as Shippu Mahou Daisakusen (Japan).mra (Senhor).
+2. The "Shippu Mahou Daisakusen (Japan).mra" downloaded from update_all (MiSTer) is Kingdom Grandprix's alternative
+located in the "_alternatives/_Kingdom Grandprix" folder as "Shippu Mahou Daisakusen (Japan).mra" (Senhor).
+
