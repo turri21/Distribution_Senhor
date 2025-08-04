@@ -8,3 +8,5 @@ INFO: https://misterfpga.org/viewtopic.php?t=7182
 2. The "Shippu Mahou Daisakusen (Japan).mra" downloaded from update_all (MiSTer) is Kingdom Grandprix's alternative
 located in the "_alternatives/_Kingdom Grandprix" folder as "Shippu Mahou Daisakusen (Japan).mra" (Senhor).
 
+3. dos2unix converts text files between DOS/Mac and Unix line breaks. Some txt files must be converted before they are used 
+in a script.
