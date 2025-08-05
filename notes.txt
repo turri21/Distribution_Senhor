@@ -13,3 +13,5 @@ in a script.
 
 4. https://raw.githubusercontent.com/theypsilon/Update_All_MiSTer/master/update_all.sh
 LATEST_SCRIPT_PATH="/media/fat/Scripts/.config/update_all/update_all.pyz"     <-- File is zip compressed and located locally in the SD Card.
+databases.py <--- 
+
