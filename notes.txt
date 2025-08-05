@@ -10,3 +10,6 @@ located in the "_alternatives/_Kingdom Grandprix" folder as "Shippu Mahou Daisak
 
 3. dos2unix converts text files between DOS/Mac and Unix line breaks. Some txt files must be converted before they are used 
 in a script.
+
+4. https://raw.githubusercontent.com/theypsilon/Update_All_MiSTer/master/update_all.sh
+LATEST_SCRIPT_PATH="/media/fat/Scripts/.config/update_all/update_all.pyz"     <-- File is zip compressed and located locally in the SD Card.
