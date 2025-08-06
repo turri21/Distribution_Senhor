@@ -1,5 +1,6 @@
 RBF=|05-08-2025
 Menu=|05-08-2025
+MiSTer_binary=|05-08-2025
 Alternatives=NEW|05-08-2025
 ArcadeROMs=|05-08-2025
 BIOS=|05-08-2025
