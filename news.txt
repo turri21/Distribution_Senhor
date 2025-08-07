@@ -1,4 +1,4 @@
 [TITLE]Important Update[/TITLE]
 [INFO]New update_senhor.sh script available![/INFO]
 [TITLE]Cores[/TITLE]
-Updates: C128_Senhor_20250807.rbf
+[INFO]Updates: C128_Senhor_20250807.rbf, Saturn_Senhor_20250807.rbf
