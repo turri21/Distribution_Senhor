@@ -1,2 +1,3 @@
 [TITLE]Important Update[/TITLE]
 [INFO]New update_senhor.sh script available![/INFO]
+Updates: Computers/C128_Senhor_20250807.rbf
