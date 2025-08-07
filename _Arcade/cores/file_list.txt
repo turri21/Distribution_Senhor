@@ -104,6 +104,7 @@ jtpang_Senhor_v0.2.rbf
 jtparoda_Senhor_v0.1.rbf
 jtpinpon_Senhor_v0.1.rbf
 jtrastan_Senhor_20250730.rbf
+jtriders_Senhor_20250808b.rbf
 jtroadf_Senhor_v0.1.rbf
 jtroc_Senhor_v0.1.rbf
 jtrumble_Senhor_v0.1.rbf
@@ -207,4 +208,5 @@ XSleena_Senhor_20250227.rbf
 Zaxxon_Senhor_20240525.rbf
 Zerowing_Senhor_20250505.rbf
 ZigZag_Senhor_20250129.rbf
+
 
