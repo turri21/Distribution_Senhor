@@ -1,10 +1,10 @@
 RBF=|05-08-2025
 Menu=|05-08-2025
-MiSTer_binary=NEW|05-08-2025
-Alternatives=NEW|05-08-2025
+MiSTer_binary=|05-08-2025
+Alternatives=|05-08-2025
 ArcadeROMs=|05-08-2025
 BIOS=|05-08-2025
-Cheats=|05-08-2025
+Cheats=NEW|07-08-2025
 Filters=|05-08-2025
 Filters_Audio=NEW|05-08-2025
 Fonts=|05-08-2025
