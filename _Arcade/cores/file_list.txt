@@ -87,7 +87,7 @@ jtdd_Senhor_20250319.rbf
 jtexed_Senhor_20250319.rbf
 jtflane_Senhor_20250319.rbf
 jtfround_Senhor_20250320.rbf
-jtgng_Senhor_v0.1.rbf
+jtgng_Senhor_20250808.rbf
 jtgunsmk_Senhor_20250319.rbf
 jtkarnov_Senhor_20250318.rbf
 jtkchamp_Senhor_20250320.rbf
@@ -208,5 +208,6 @@ XSleena_Senhor_20250227.rbf
 Zaxxon_Senhor_20240525.rbf
 Zerowing_Senhor_20250505.rbf
 ZigZag_Senhor_20250129.rbf
+
 
 
