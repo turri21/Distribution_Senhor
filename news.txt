@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script available![/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Core: jtriders_Senhor_20250808b.rbf[/INFO]
+[INFO]Updates: jtninja_Senhor_20250808.rbf[/INFO]
 [INFO]Updates: jtmikie_Senhor_20250808.rbf, jtoutrun_Senhor_20250808.rbf[/INFO]
 [INFO]Updates: jtbubl_Senhor_20250808.rbf[, jt1942_Senhor_20250808.rbf[/INFO]
 [INFO]Updates: jtbtiger_Senhor_20250808.rbf, jtbiocom_Senhor_20250808.rbf[/INFO]
