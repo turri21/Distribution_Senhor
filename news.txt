@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script available![/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Core: jtriders_Senhor_20250808b.rbf[/INFO]
+[INFO]Updates: jtgng_Senhor_20250808.rbf[/INFO]
 [INFO]Updates: C128_Senhor_20250807.rbf, Saturn_Senhor_20250807.rbf[/INFO]
 [INFO]Updates: ST-V_Senhor_20250807.rbf[/INFO]
 
