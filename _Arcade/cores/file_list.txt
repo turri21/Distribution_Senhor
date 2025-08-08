@@ -98,7 +98,7 @@ jtlabrun_Senhor_20250320.rbf
 jtmidres_Senhor_20250319.rbf
 jtmikie_Senhor_20250808.rbf
 jtmx5k_Senhor_20250319.rbf
-jtninja_Senhor_v0.1.rbf
+jtninja_Senhor_20250808.rbf
 jtoutrun_Senhor_20250808.rbf
 jtpang_Senhor_v0.2.rbf
 jtparoda_Senhor_v0.1.rbf
