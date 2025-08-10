@@ -5,6 +5,7 @@
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: jts18_Senhor_20250809b.rbf[/INFO]
 [INFO]New Cores: jtriders_Senhor_20250808b.rbf, jtpaclan_Senhor_20250809b.rbf[/INFO]
+[INFO]Updates: jtshouse_Senhor_20250811.rbf[/INFO]
 [INFO]Updates: jtsf_Senhor_20250810.rbf, jtsectnz_Senhor_20250810.rbf[/INFO]
 [INFO]Updates: jtslyspy_Senhor_20250810.rbf, jtparoda_Senhor_20250810.rbf[/INFO]
 [INFO]Updates: jttmnt_Senhor_20250810.rbf, jtsimson_Senhor_20250810.rbf[/INFO]
@@ -14,4 +15,3 @@
 [INFO]Updates: jtninja_Senhor_20250808.rbf, jtpang_Senhor_20250809.rbf[/INFO]
 [INFO]Updates: jtmikie_Senhor_20250808.rbf, jtoutrun_Senhor_20250808.rbf[/INFO]
 [INFO]Updates: jtbubl_Senhor_20250808.rbf[, jt1942_Senhor_20250808.rbf[/INFO]
-[INFO]Updates: jtbtiger_Senhor_20250808.rbf, jtbiocom_Senhor_20250808.rbf[/INFO]
