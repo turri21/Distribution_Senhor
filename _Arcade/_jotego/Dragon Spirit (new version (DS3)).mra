@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2024. Please support this research
+              (c) Jose Tejada, 2025. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,19 +20,19 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
+    <rotation>vertical (cw)</rotation>
     <name>Dragon Spirit (new version (DS3))</name>
     <setname>dspirit</setname>
-    <rbf>jtshouse</rbf>
-    <mameversion>0251</mameversion>
+    <mameversion>0261</mameversion>
     <year>1987</year>
     <manufacturer>Namco</manufacturer>
     <players>2</players>
+    <rbf>jtshouse</rbf>
     <joystick>8</joystick>
-    <rotation>vertical (cw)</rotation>
     <region>World</region>
-    <rom index="0" zip="dspirit.zip" md5="None" asm_md5="097c833e8e78033db06f27bf99ff8e62">
-        <!-- Byte 0: protection type
+    <rom index="0" zip="dspirit.zip" md5="None" address="0x30000000" asm_md5="f74acdfc93b19b69b7668ca0f03ecb3c">
+        <!-- Byte 0: bit 0-1: protection type, bit 4-5: control type (0 - normal, 1 - faceoff 4p, 2 - berabohm, 3 - quester), bit 6: 64/128kB Program ROMs
 Byte 1: key ID
 Byte 2: addr for key ID
 Byte 3: addr for RNG
@@ -46,21 +46,28 @@ Byte 7: addr for upper nibble read
         </part>
         <!-- user1 - starts at 0x0 - length 0x3A0000 (22 bits) -->
         <part name="ds1_p0.bin" crc="b22a2856"/>
-        <part repeat="0x70000"> FF</part>
+        <part name="ds1_p0.bin" crc="b22a2856"/>
+        <part repeat="0x60000"> FF</part>
         <part name="ds1_p1.bin" crc="f7e3298a"/>
-        <part repeat="0x70000"> FF</part>
+        <part name="ds1_p1.bin" crc="f7e3298a"/>
+        <part repeat="0x60000"> FF</part>
         <part name="ds1_p2.bin" crc="3c9b0100"/>
-        <part repeat="0x70000"> FF</part>
+        <part name="ds1_p2.bin" crc="3c9b0100"/>
+        <part repeat="0x60000"> FF</part>
         <part name="ds1_p3.bin" crc="c6e5954b"/>
-        <part repeat="0x70000"> FF</part>
+        <part name="ds1_p3.bin" crc="c6e5954b"/>
+        <part repeat="0x60000"> FF</part>
         <part name="ds1_p4.bin" crc="f3307870"/>
-        <part repeat="0x70000"> FF</part>
+        <part name="ds1_p4.bin" crc="f3307870"/>
+        <part repeat="0x60000"> FF</part>
         <part name="ds1_p5.bin" crc="9a3a1028"/>
-        <part repeat="0x70000"> FF</part>
+        <part name="ds1_p5.bin" crc="9a3a1028"/>
+        <part repeat="0x60000"> FF</part>
         <part name="ds3_p6.bin" crc="fcc01bd1"/>
-        <part repeat="0x70000"> FF</part>
+        <part name="ds3_p6.bin" crc="fcc01bd1"/>
+        <part repeat="0x60000"> FF</part>
         <part name="ds3_p7.bin" crc="820bedb2"/>
-        <part repeat="0x10000"> FF</part>
+        <part name="ds3_p7.bin" crc="820bedb2"/>
         <!-- JTFRAME_BA1_START -->
         <!-- audiocpu - starts at 0x3A0000 - length 0x20000 (17 bits) -->
         <part name="ds1_s0.bin" crc="27100065"/>
@@ -100,16 +107,13 @@ Byte 7: addr for upper nibble read
         <part name="cus64-64a1.mcu" crc="ffb5c0bd"/>
         <!-- Total 0x691000 bytes - 6724 kBytes -->
     </rom>
-    <rom index="17" zip="jtbeta.zip" md5="None" asm_md5="c136cb241fd290412e99aa3e63085abb">
-        <part name="beta.bin" crc="cb97248f"/>
-    </rom>
     <nvram index="2" size="63552"/>
-    <!-- Vertical game -->
+    <!-- Vertical screen. -->
     <rom index="1">
-        <part>01</part>
+        <part>01 4E</part>
     </rom>
     <switches page_id="1" page_name="Switches" base="16" default="ff">
-        <!-- DIPSW -->
+        <DIPSW/>
         <dip name="Service Mode" bits="0" ids="On,Off"/>
         <dip name="3rd life 1/7" bits="1" ids="Yes,No"/>
         <dip name="3rd life 2/7" bits="2" ids="Yes,No"/>
@@ -120,5 +124,5 @@ Byte 7: addr for upper nibble read
         <dip name="3rd life 7/7" bits="7" ids="Yes,No"/>
         <dip name="*Sound fix" ids="On,Off" bits="8"/>
     </switches>
-    <buttons names="button 1,button 2,-,Start,Coin,Core credits" default="A,B,Start,Select,-" count="2"/>
+    <buttons names="Fire Air,Fire Ground,-,-,-,-,Start,Coin,Core credits" default="A,B,Start,Select,-" count="2"/>
 </misterromdescription>
