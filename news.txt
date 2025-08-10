@@ -3,7 +3,7 @@
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: jts18_Senhor_20250809b.rbf[/INFO]
 [INFO]New Cores: jtriders_Senhor_20250808b.rbf, jtpaclan_Senhor_20250809b.rbf[/INFO]
-[INFO]Updates: jtslyspy_Senhor_20250810.rbf[/INFO]
+[INFO]Updates: jtslyspy_Senhor_20250810.rbf, jtparoda_Senhor_20250810.rbf[/INFO]
 [INFO]Updates: jttmnt_Senhor_20250810.rbf, jtsimson_Senhor_20250810.rbf[/INFO]
 [INFO]Updates: jttora_Senhor_20250809.rbf, jttoki_Senhor_20250810.rbf[/INFO]
 [INFO]Updates: jtyiear_Senhor_20250809.rbf, jttrack_Senhor_20250809.rbf[/INFO]
