@@ -51,5 +51,5 @@ Super_Vision_8000_Senhor_20230411.rbf
 TurboGrafx16_Senhor_20250707.rbf
 VC4000_Senhor_20250517.rbf
 Vectrex_Senhor_20240524.rbf
-WonderSwan Color.mgl
+WonderSwanColor_Senhor_20250811.mgl
 WonderSwan_Senhor_20240410.rbf
