@@ -71,7 +71,7 @@ ZX-Spectrum_Senhor_20250603.rbf
 ZX81_Senhor_20240421.rbf
 ZXNext_Senhor_20250719.rbf
 Zet98_Senhor_20250521.rbf
-ao486_Senhor_20250226.rbf
+ao486_Senhor_20250812.rbf
 eg2000_Senhor_20220930.rbf
 mo_Senhor_20250227.rbf
 pdp2011_Senhor_20221207.rbf
