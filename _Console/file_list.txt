@@ -26,7 +26,7 @@ Genesis_Senhor_20250629.rbf
 GnW_Senhor_20250305.rbf
 Intv_Senhor_20250307.rbf
 Jaguar_Senhor_20250729.rbf
-Mega Duck.mgl
+MegaDuck_Senhor_20250811.mgl
 MegaCD_Senhor_20250713.rbf
 MegaDrive_Senhor_20250702.rbf
 MyVision_Senhor_20250305.rbf
