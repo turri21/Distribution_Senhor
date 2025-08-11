@@ -1,7 +1,7 @@
 AdventureVision_Senhor_20250208.rbf
 AmigaCD32_Senhor_20250811.mgl
 Arcadia_Senhor_20250304.rbf
-Atari2600_Senhor_20250811.mgl
+Atari2600mgl_Senhor_20250811.mgl
 Atari2600_Senhor_20210228.rbf
 Atari5200_Senhor_20250714.rbf
 Atari7800_Senhor_20240423.rbf
