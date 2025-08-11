@@ -15,7 +15,7 @@ ChannelF_Senhor_20250304.rbf
 ColecoVision_Senhor_20240502.rbf
 CreatiVision_Senhor_20250305.rbf
 Gamate_Senhor_20250213.rbf
-Game Gear.mgl
+GameGear_Senhor_20250811.mgl
 GameAndWatch_Senhor_20250306.rbf
 Gameboy2P_Senhor_20250306.rbf
 GameboyColor.mgl
