@@ -18,7 +18,7 @@ Gamate_Senhor_20250213.rbf
 GameGear_Senhor_20250811.mgl
 GameAndWatch_Senhor_20250306.rbf
 Gameboy2P_Senhor_20250306.rbf
-GameboyColor.mgl
+GameboyColor_Senhor_20250811.mgl
 Gameboy_Senhor_20250226.rbf
 GBA2P_Senhor_20250305.rbf
 GBA_Senhor_20250306.rbf
