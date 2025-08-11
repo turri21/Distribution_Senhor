@@ -36,7 +36,7 @@ NeoGeoPocket_Senhor_v0.1.rbf
 NeoGeo_Senhor_20250712.rbf
 NES_Senhor_20250303.rbf
 Odyssey2_Senhor_20210530.rbf
-Pocket Challenge V2.mgl
+PocketChallengeV2_Senhor_20250811.mgl
 Pokemon_Mini_Senhor_20250304.rbf
 PSX_Senhor_20250709.rbf
 S32X_Senhor_20250227.rbf
