@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2024. Please support this research
+              (c) Jose Tejada, 2025. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,18 +20,18 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
+    <rotation>horizontal</rotation>
     <name>Pirate Ship Higemaru</name>
     <setname>higemaru</setname>
-    <rbf>jt1942</rbf>
-    <mameversion>0251</mameversion>
+    <mameversion>0261</mameversion>
     <year>1984</year>
     <manufacturer>Capcom</manufacturer>
     <players>2</players>
+    <rbf>jt1942</rbf>
     <joystick>4</joystick>
-    <rotation>horizontal</rotation>
     <region>World</region>
-    <rom index="0" zip="higemaru.zip" md5="None" asm_md5="da45a9005c48d673d1d0fb1d2bc7c746">
+    <rom index="0" zip="higemaru.zip" md5="None" asm_md5="fd3dfa858b78ce0bba2260ba639dcd86">
         <!--  Header to identify the PCB type
         Byte 0 = 0 for 1942, 1 for Vulgus, 2 for Higemaru
         Byte 1 = XOR with flip
@@ -62,8 +62,14 @@
         <part repeat="0x1C000"> FF</part>
         <!-- JTFRAME_PROM_START -->
         <!-- proms - starts at 0x3A000 - length 0x500 (11 bits) -->
-        <part name="hgb3.l6" crc="629cebd8" length="0x100"/>
-        <part repeat="0xE0"> FF</part>
+        <part name="hgb3.l6" crc="629cebd8"/>
+        <part name="hgb3.l6" crc="629cebd8"/>
+        <part name="hgb3.l6" crc="629cebd8"/>
+        <part name="hgb3.l6" crc="629cebd8"/>
+        <part name="hgb3.l6" crc="629cebd8"/>
+        <part name="hgb3.l6" crc="629cebd8"/>
+        <part name="hgb3.l6" crc="629cebd8"/>
+        <part name="hgb3.l6" crc="629cebd8"/>
         <part name="hgb5.m4" crc="dbaa4443" length="0x100"/>
         <part name="hgb1.h7" crc="07c607ce" length="0x100"/>
         <part name="hgb4.l9" crc="712ac508" length="0x100"/>
@@ -71,14 +77,14 @@
         <!-- Total 0x3A500 bytes - 233 kBytes -->
     </rom>
     <rom index="1">
-        <part>00</part>
+        <part>00 75</part>
     </rom>
     <switches page_id="1" page_name="Switches" base="16" default="ff,fe">
-        <!-- DSW1 -->
+        <DSW1/>
         <dip name="Coin A" bits="0,2" ids="Free Play,5/1,4/1,3/1,2/1,1/3,1/2,1/1"/>
         <dip name="Coin B" bits="3,5" ids="Free Play,5/1,4/1,3/1,2/1,1/3,1/2,1/1"/>
         <dip name="Lives" bits="6,7" ids="5,2,1,3"/>
-        <!-- DSW2 -->
+        <DSW2/>
         <dip name="Cabinet" bits="8" ids="Upright,Cocktail"/>
         <dip name="Bonus Life" bits="9,11" ids="None,40k 100k 100k+,30k 80k 80k+,30k 70k 70k+,20k 70k 70k+,20k 60k 60k+,10k 60k 60k+,10k 50k 50k+"/>
         <dip name="Demo Sounds" bits="12" ids="Off,On"/>

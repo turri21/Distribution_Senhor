@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2024. Please support this research
+              (c) Jose Tejada, 2025. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,18 +20,19 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
+    <rotation>horizontal</rotation>
     <name>Out Run (sitdown-upright, Rev B)</name>
     <setname>outrun</setname>
-    <rbf>jtoutrun</rbf>
-    <mameversion>0251</mameversion>
+    <mameversion>0261</mameversion>
     <year>1986</year>
     <manufacturer>Sega</manufacturer>
     <players>1</players>
+    <rbf>jtoutrun</rbf>
     <joystick/>
-    <rotation>horizontal</rotation>
     <region>World</region>
     <rom index="0" zip="outrun.zip" md5="None" asm_md5="712e0ad688ad6072ee01230780aabb78">
+        <!--  -->
         <part>
             00 00 00 00 00 00 00 00
             00 00 00 00 00 00 00 00
@@ -63,18 +64,18 @@
         <part repeat="0x8000"> FF</part>
         <!-- PCM_START -->
         <!-- pcm - starts at 0xD0000 - length 0x60000 (19 bits) -->
-        <part name="opr-10193.66" crc="bcd10dde" length="0x10000"/>
-        <part name="opr-10193.66" crc="bcd10dde" length="0x10000"/>
-        <part name="opr-10192.67" crc="770f1270" length="0x10000"/>
-        <part name="opr-10192.67" crc="770f1270" length="0x10000"/>
-        <part name="opr-10191.68" crc="20a284ab" length="0x10000"/>
-        <part name="opr-10191.68" crc="20a284ab" length="0x10000"/>
-        <part name="opr-10190.69" crc="7cab70e2" length="0x10000"/>
-        <part name="opr-10190.69" crc="7cab70e2" length="0x10000"/>
-        <part name="opr-10189.70" crc="01366b54" length="0x10000"/>
-        <part name="opr-10189.70" crc="01366b54" length="0x10000"/>
-        <part name="opr-10188.71" crc="bad30ad9" length="0x10000"/>
-        <part name="opr-10188.71" crc="bad30ad9" length="0x10000"/>
+        <part name="opr-10193.66" crc="bcd10dde"/>
+        <part name="opr-10193.66" crc="bcd10dde"/>
+        <part name="opr-10192.67" crc="770f1270"/>
+        <part name="opr-10192.67" crc="770f1270"/>
+        <part name="opr-10191.68" crc="20a284ab"/>
+        <part name="opr-10191.68" crc="20a284ab"/>
+        <part name="opr-10190.69" crc="7cab70e2"/>
+        <part name="opr-10190.69" crc="7cab70e2"/>
+        <part name="opr-10189.70" crc="01366b54"/>
+        <part name="opr-10189.70" crc="01366b54"/>
+        <part name="opr-10188.71" crc="bad30ad9"/>
+        <part name="opr-10188.71" crc="bad30ad9"/>
         <!-- JTFRAME_BA2_START -->
         <!-- gfx1 - starts at 0x130000 - length 0x40000 (18 bits) -->
         <interleave output="32">
@@ -120,15 +121,15 @@
         <part repeat="0x2000"> FF</part>
         <!-- Total 0x29A000 bytes - 2664 kBytes -->
     </rom>
-    <nvram index="2" size="18432"/>
+    <nvram index="2" size="32768"/>
     <rom index="1">
-        <part>00</part>
+        <part>00 EC</part>
     </rom>
     <switches page_id="1" page_name="Switches" base="24" default="ff,f9">
-        <!-- COINAGE -->
+        <COINAGE/>
         <dip name="Coin A" bits="0,3" ids="Free Play or 1/1,1/1 2/3,1/1 4/5,1/1 5/6,2/1 4/3,2/1 5/3 6/4,2/3,4/1,3/1,2/1,1/6,1/5,1/4,1/3,1/2,1/1"/>
         <dip name="Coin B" bits="4,7" ids="Free Play or 1/1,1/1 2/3,1/1 4/5,1/1 5/6,2/1 4/3,2/1 5/3 6/4,2/3,4/1,3/1,2/1,1/6,1/5,1/4,1/3,1/2,1/1"/>
-        <!-- DSW -->
+        <DSW/>
         <dip name="Cabinet" bits="8,9" ids="Unused,Mini Up,Up Cockpit,Moving"/>
         <dip name="Demo Sounds" bits="10" ids="On,Off"/>
         <dip name="Time Adj." bits="12,13" ids="Hardest,Hard,Easy,Normal"/>
