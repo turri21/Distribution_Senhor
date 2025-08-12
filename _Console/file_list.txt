@@ -39,7 +39,7 @@ Odyssey2_Senhor_20210530.rbf
 PocketChallengeV2_Senhor_20250811.mgl
 Pokemon_Mini_Senhor_20250304.rbf
 PSX_Senhor_20250709.rbf
-S32X_Senhor_20250227.rbf
+S32X_Senhor_20250812.rbf
 SCV_Senhor_20250528.rbf
 Saturn_Senhor_20250807.rbf
 SG-1000_Senhor_20250811.mgl
