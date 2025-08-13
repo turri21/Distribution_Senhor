@@ -21,7 +21,7 @@ Gameboy2P_Senhor_20250306.rbf
 GameboyColor_Senhor_20250811.mgl
 Gameboy_Senhor_20250226.rbf
 GBA2P_Senhor_20250305.rbf
-GBA_Senhor_20250306.rbf
+GBA_Senhor_20250813.rbf
 Genesis_Senhor_20250629.rbf
 GnW_Senhor_20250305.rbf
 Intv_Senhor_20250307.rbf
