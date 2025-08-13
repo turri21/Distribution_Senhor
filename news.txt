@@ -1,6 +1,7 @@
 [TITLE]Important Update[/TITLE]
 [INFO]New update_senhor.sh v1.0 script available![/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]Updates: Atari800_Senhor_20250813.rbf[/INFO]
 [INFO]Updates: Starforce_Senhor_20250812.rbf, GBA_Senhor_20250813.rbf[/INFO]
 [INFO]Updates: ao486_Senhor_20250812.rbf, S32X_Senhor_20250812.rbf[/INFO]
 [INFO]Updates: jtrumble_Senhor_20250811.rbf, N64_Senhor_20250811.rbf[/INFO]
