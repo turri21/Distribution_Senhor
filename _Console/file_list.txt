@@ -30,7 +30,7 @@ MegaDuck_Senhor_20250811.mgl
 MegaCD_Senhor_20250713.rbf
 MegaDrive_Senhor_20250702.rbf
 MyVision_Senhor_20250305.rbf
-N64-Turbo_Senhor_20250227.rbf
+N64-Turbo_Senhor_20250815.rbf
 N64_Senhor_20250811.rbf
 NeoGeoPocket_Senhor_v0.1.rbf
 NeoGeo_Senhor_20250712.rbf
