@@ -6,7 +6,7 @@ Atari2600_Senhor_20210228.rbf
 Atari5200_Senhor_20250714.rbf
 Atari7800_Senhor_20240423.rbf
 AtariLynx_Senhor_20240410.rbf
-AY-3-8500_Senhor_20250815.rbf
+AY-3-8500_Senhor_20250205.rbf
 BallyAstrocade_Senhor_20250204.rbf
 BBCBridgeCompanion_Senhor_20250101.rbf
 Casio_PV-1000_Senhor_20250207.rbf
