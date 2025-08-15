@@ -38,6 +38,7 @@ NES_Senhor_20250303.rbf
 Odyssey2_Senhor_20210530.rbf
 PocketChallengeV2_Senhor_20250811.mgl
 Pokemon_Mini_Senhor_20250304.rbf
+PSX-2xCPU_Senhor_20250815.rbf
 PSX_Senhor_20250709.rbf
 S32X_Senhor_20250812.rbf
 SCV_Senhor_20250528.rbf
