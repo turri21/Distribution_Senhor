@@ -7,6 +7,7 @@ Alternatives=NEW|13-08-2025
 ArcadeROMs=|05-08-2025
 BIOS=|05-08-2025
 Cheats=|07-08-2025
+Docs=NEW|18-08-2025
 Filters=|05-08-2025
 Filters_Audio=|05-08-2025
 Fonts=|05-08-2025
