@@ -98,6 +98,7 @@ jtlabrun_Senhor_20250320.rbf
 jtmidres_Senhor_20250319.rbf
 jtmikie_Senhor_20250808.rbf
 jtmx5k_Senhor_20250319.rbf
+jtngp_Senhor_20250820.rbf
 jtninja_Senhor_20250808.rbf
 jtoutrun_Senhor_20250808.rbf
 jtpaclan_Senhor_20250809b.rbf
@@ -210,4 +211,5 @@ XSleena_Senhor_20250227.rbf
 Zaxxon_Senhor_20240525.rbf
 Zerowing_Senhor_20250505.rbf
 ZigZag_Senhor_20250129.rbf
+
 
