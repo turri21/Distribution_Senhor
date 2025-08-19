@@ -2,6 +2,7 @@
 [INFO]New MiSTer binary - 19/8/2025[/INFO]
 [INFO]New update_senhor.sh v1.2 script available![/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]Updates: NeoGeoPocket_Senhor_20250820.rbf[/INFO]
 [INFO]New Core: PSX-2xCPU_Senhor_20250815.rbf[/INFO]
 [INFO]Updates: SNES_Senhor_20250818.rbf[/INFO]
 [INFO]Updates: Atari800_Senhor_20250816.rbf, N64-Turbo_Senhor_20250815.rbf[/INFO]
