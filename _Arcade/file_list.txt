@@ -264,6 +264,7 @@ Max RPM (v2).mra
 Mayday (Set 1).mra
 Mega Blast (World).mra
 Megumi Rescue (Japan).mra
+Metal Black (World).mra
 Mighty Monkey (Scramble Hardware) [bl].mra
 Minefield.mra
 Missile Command (rev 1).mra
@@ -532,4 +533,3 @@ Zaxxon (Set 1, Rev D).mra
 Zero Wing (2P Set).mra
 Zig Zag (Dig Dug Conversion) [bl].mra
 Zzyzzyxx (set 1).mra
-
