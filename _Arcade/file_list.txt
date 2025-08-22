@@ -103,6 +103,7 @@ Dakkochan House (MC-8123).mra
 Dangun Feveron.mra
 Dark Planet (no bkg).mra
 Dark Planet.mra
+Dead Connection (World).mra
 Defender (Red Label).mra
 Demolition Derby (MCR-3 Mono Board Version).mra
 Demon's World - Horror Story (Set 3).mra
@@ -533,3 +534,4 @@ Zaxxon (Set 1, Rev D).mra
 Zero Wing (2P Set).mra
 Zig Zag (Dig Dug Conversion) [bl].mra
 Zzyzzyxx (set 1).mra
+
