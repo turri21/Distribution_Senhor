@@ -57,7 +57,7 @@ SparcStation20_Senhor_20250525.rbf
 SparcStation5_Senhor_20250525.rbf
 Specialist_Senhor_20240524.rbf
 TOWNS_Senhor_20250521.rbf
-TRS-80_Senhor_20250315.rbf
+TRS-80_Senhor_20250824.rbf
 TSConf_Senhor_20240421.rbf
 TatungEinstein_Senhor_20250425.rbf
 Ti994a_Senhor_20220220.rbf
