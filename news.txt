@@ -1,5 +1,5 @@
 [TITLE]Important Updates[/TITLE]
-[INFO]New MiSTer binary - 19/8/2025[/INFO]
+[INFO]New MiSTer binary - 23/8/2025[/INFO]
 [INFO]New update_senhor.sh v1.2 script available![/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]Updates: jtwwfss_Senhor_20250821.rbf, NeoGeoPocket_Senhor_20250820.rbf[/INFO]
