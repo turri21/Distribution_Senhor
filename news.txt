@@ -2,10 +2,6 @@
 [INFO]New MiSTer binary - 23/8/2025[/INFO]
 [INFO]New update_senhor.sh v1.2 script available![/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]Updates: C64_Senhor_20250828.rbf[/INFO]
 [INFO]Updates: Arduboy_Senhor_20250825.rbf, TRS-80_Senhor_20250824.rbf[/INFO]
-[INFO]Updates: jtwwfss_Senhor_20250821.rbf, NeoGeoPocket_Senhor_20250820.rbf[/INFO]
-[INFO]New Core: jtgaiden_Senhor_20250821.rbf, jtwc_Senhor_20250821.rbf[/INFO]
-[INFO]New Core: jttwin16_Senhor_20250820.rbf, jtflstory_Senhor_20250821.rbf[/INFO]
-[INFO]New Core: jtajax_Senhor_20250820b.rbf, PSX-2xCPU_Senhor_20250815.rbf[/INFO]
-[INFO]Updates: SNES_Senhor_20250818.rbf[/INFO]
-[INFO]Updates: Atari800_Senhor_20250816.rbf, N64-Turbo_Senhor_20250815.rbf[/INFO]
+
