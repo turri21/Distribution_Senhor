@@ -14,6 +14,6 @@ Fonts=|05-08-2025
 Gamma=|05-08-2025
 GBA_Borders=|05-08-2025
 Presets=|05-08-2025
-Scripts=|05-08-2025
+Scripts=NEW|29-08-2025
 Shadow_Masks=|05-08-2025
 Wallpapers=|05-08-2025
