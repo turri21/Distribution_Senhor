@@ -10,7 +10,7 @@ AY-3-8500_Senhor_20250205.rbf
 BallyAstrocade_Senhor_20250204.rbf
 BBCBridgeCompanion_Senhor_20250101.rbf
 Casio_PV-1000_Senhor_20250207.rbf
-CDi_Senhor_20250702.rbf
+CDi_Senhor_20250830.rbf
 ChannelF_Senhor_20250304.rbf
 ColecoVision_Senhor_20240502.rbf
 CreatiVision_Senhor_20250305.rbf
