@@ -2,6 +2,6 @@
 [INFO]New MiSTer binary - 28/8/2025[/INFO]
 [INFO]New update_senhor.sh v1.3 script available![/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]Updates: C64_Senhor_20250828.rbf[/INFO]
+[INFO]Updates: CDi_Senhor_20250830.rbf, C64_Senhor_20250828.rbf[/INFO]
 [INFO]Updates: Arduboy_Senhor_20250825.rbf, TRS-80_Senhor_20250824.rbf[/INFO]
 
