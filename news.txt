@@ -2,6 +2,7 @@
 [INFO]New MiSTer binary - 28/8/2025[/INFO]
 [INFO]New update_senhor.sh v1.3 script available![/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]Updates: X68000_Senhor_20250902.rbf[/INFO]
 [INFO]New Cores: ABC80_Senhor_20250901.rbf, AscalTest_Senhor_20250901.rbf[/INFO]
 [INFO]Updates: Atari800_Senhor_20250831.rbf[/INFO]
 [INFO]Updates: CDi_Senhor_20250830.rbf, C64_Senhor_20250828.rbf[/INFO]
