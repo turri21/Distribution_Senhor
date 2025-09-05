@@ -15,3 +15,5 @@ in a script.
 LATEST_SCRIPT_PATH="/media/fat/Scripts/.config/update_all/update_all.pyz"     <-- File is zip compressed and located locally in the SD Card.
 databases.py <--- 
 
+5. GBA core specific notes: I have removed accidentally the entire //////////////////////  Secondary SD  /////////////////////////////////// block
+and the pixel edge artifacts reappeared on screen. 
