@@ -22,7 +22,7 @@ Casio_PV-2000_Senhor_20220811.rbf
 CoCo2_Senhor_20250704.rbf
 CoCo3_Senhor_20250704.rbf
 ColecoAdam_Senhor_20250425.rbf
-EDSAC_Senhor_20250528.rbf
+EDSAC_Senhor_20250906.rbf
 EnterpriseKyp_Senhor_20240802.rbf
 FM-7_Senhor_20250412.rbf
 Galaksija_PLUS_ROMD.rbf
