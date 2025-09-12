@@ -1,7 +1,7 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New MiSTer binary - 12/9/2025[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]Updates: N64_Senhor_20250912.rbf[/INFO]
+[INFO]Updates: TSConf_Senhor_20250912.rbf, N64_Senhor_20250912.rbf[/INFO]
 [INFO]Updates: PSX-2xCPU_Senhor_20250908.rbf, Saturn_Senhor_20250912.rbf[/INFO]
 [INFO]Updates: NES_Senhor_20250912.rbf, ZX81_Senhor_20250909.rbf[/INFO]
 [INFO]Updates: C64_Senhor_20250908.rbf, AtariST_Senhor_20250907.rbf[/INFO]
