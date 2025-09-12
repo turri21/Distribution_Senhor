@@ -1,5 +1,5 @@
 [TITLE]Important Updates[/TITLE]
-[INFO]New MiSTer binary - 28/8/2025[/INFO]
+[INFO]New MiSTer binary - 12/9/2025[/INFO]
 [INFO]New update_senhor.sh v1.3 script available![/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]Updates: ZX81_Senhor_20250909.rbf[/INFO]
