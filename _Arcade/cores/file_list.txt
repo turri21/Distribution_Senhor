@@ -196,7 +196,7 @@ Subs_Senhor_20250121.rbf
 SuperBreakout_Senhor_20250128.rbf
 SuprLoco_Senhor_20240616.rbf
 TaitoF2_Senhor_20250822.rbf
-TaitoSJ_Senhor_20240525.rbf
+TaitoSJ_Senhor_20250914.rbf
 TankBattalion_Senhor_20250127.rbf
 Tecmo_Senhor_20250226.rbf
 tekipaki_Senhor_20250501.rbf
@@ -216,5 +216,6 @@ XSleena_Senhor_20250227.rbf
 Zaxxon_Senhor_20240525.rbf
 Zerowing_Senhor_20250505.rbf
 ZigZag_Senhor_20250129.rbf
+
 
 
