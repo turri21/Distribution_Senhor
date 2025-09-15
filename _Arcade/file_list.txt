@@ -36,7 +36,6 @@ Battle Zone.mra
 Battle Zone rev 2.mra
 Battle Zone rev 1.mra
 Battle of Atlantis.mra
-Beastie Feastie (Pac-Man Conversion).mra
 Berzerk.mra
 Billiard.mra
 Bio Attack.mra
