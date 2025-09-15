@@ -347,7 +347,6 @@ Psychic 5 (World).mra
 PuLiRuLa (World, dual PCB).mra
 Puck Man (JP, Set 1).mra
 Pulsar.mra
-Puzzle Uo Poko (Japan).mra
 Puzzle Uo Poko.mra
 Q'bert (US, Set 1).mra
 QBert Qubes.mra
