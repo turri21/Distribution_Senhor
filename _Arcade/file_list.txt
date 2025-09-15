@@ -264,8 +264,6 @@ Megumi Rescue (Japan).mra
 Metal Black (World).mra
 Mighty Monkey (Scramble Hardware) [bl].mra
 Minefield.mra
-Missile Command (rev 1).mra
-Missile Command (rev 2).mra
 Missile Command (rev 3).mra
 Mister Viking (315-5041).mra
 Moon Cresta (Galaxian Hardware) [bl].mra
