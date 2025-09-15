@@ -351,9 +351,7 @@ Puzzle Uo Poko (Japan).mra
 Puzzle Uo Poko.mra
 Q'bert (US, Set 1).mra
 QBert Qubes.mra
-R-Type (Japan).mra
 R-Type (World).mra
-R-Type II (Japan).mra
 R-Type II (World).mra
 R-Type Leo (World).mra
 Radar Scope (rev. D).mra
