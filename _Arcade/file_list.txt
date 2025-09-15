@@ -412,7 +412,6 @@ Sorcer Striker.mra
 Space Chaser.mra
 Space Cruiser.mra
 Space Encounters.mra
-Space Invaders (Samples).mra
 Space Invaders Part II (Taito, Bigger ROMs).mra
 Space Invaders.mra
 Space Panic.mra
