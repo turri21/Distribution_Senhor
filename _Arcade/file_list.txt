@@ -69,7 +69,6 @@ Cameltry (World, YM2610).mra
 Canyon Bomber.mra
 Carnival.mra
 Catacomb.mra
-Centipede (Rev 3).mra
 Centipede (Rev 4).mra
 Chameleon.mra
 Choplifter (unprotected).mra
