@@ -182,7 +182,6 @@ Gun & Frontier (World).mra
 Gun Fight.mra
 Gun Force II (US).mra
 Gunforce - Battle Fire Engulfed Terror Island (World).mra
-Guwange (Special).mra
 Guwange.mra
 Gyruss.mra
 Hachoo.mra
