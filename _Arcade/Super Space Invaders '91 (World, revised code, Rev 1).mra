@@ -6,7 +6,7 @@
 	<rbf>TaitoF2</rbf>
 	<rotation>vertical (ccw)</rotation>
 	<mameversion>277</mameversion>
-	<buttons default="B,A,Start,Select" names="Shoot,Use Item,-,-,-,-,Start,Coin,Pause,SS"/>
+	<buttons default="B,A,Start,Select,L,R" names="Shoot,Use Item,-,-,-,-,Start,Coin,Pause,SS"/>
 	<switches default="fffe">
 		<dip name="Cabinet" bits="0" values="0,1" ids="Upright,Cocktail"/>
 		<dip name="Flip Screen" bits="1" values="1,0" ids="Off,On"/>
