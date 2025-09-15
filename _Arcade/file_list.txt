@@ -275,7 +275,6 @@ Moon War.mra
 Motos.mra
 Mouse Trap.mra
 Mr. Do Nightmare.mra
-Mr. Do! Fixed.mra
 Mr. Do!.mra
 Mr. Goemon.mra
 Mr. HELI no Daibouken (Japan).mra
