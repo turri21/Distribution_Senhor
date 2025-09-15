@@ -219,7 +219,6 @@ Joust.mra
 Jump Shot.mra
 Jungle King.mra
 Kick And Run.mra
-Kick-Man.mra
 Kick.mra
 Kid Niki - Radical Ninja (W).mra
 Kid no Hore Hore Daisakusen.mra
