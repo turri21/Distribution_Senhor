@@ -342,7 +342,6 @@ Port Man (bootleg on Moon Cresta hardware).mra
 Portman (Galaxian Hardware).mra
 Power Drive.mra
 Prehistoric Isle in 1930 (World).mra
-Psychic 5 (Japan).mra
 Psychic 5 (World).mra
 PuLiRuLa (World, dual PCB).mra
 Puck Man (JP, Set 1).mra
