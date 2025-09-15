@@ -506,7 +506,6 @@ Ultra Tank.mra
 Undercover Cops (World).mra
 UniWar S.mra
 Up'n Down.mra
-V'Ball (US) [bl].mra
 V'Ball (US).mra
 Van-Van Car.mra
 Venture Revision 5.mra
