@@ -98,8 +98,6 @@ Crazy Kong Part II (Set 1).mra
 Crazy Kong Part II (alternative levels).mra
 Crush Roller (Set 2).mra
 Crystal Castles.mra
-Daiku no Gensan (Japan, M72 hardware).mra
-Daiku no Gensan (Japan, M84 hardware).mra
 Dakkochan House (MC-8123).mra
 Dark Planet.mra
 Dead Connection (World).mra
