@@ -305,7 +305,6 @@ P-47 - The Freedom Fighter (Japan).mra
 P.O.W. - Prisoners of War (US Version 1).mra
 Pac & Pal.mra
 Pac-Man & Chomp Chomp.mra
-Pac-Man (Midway).mra
 Pac-Man - Puck Man (JP, Set 1).mra
 Pac-Man Club- Club Lambada (AR).mra
 Pac-Man Plus.mra
