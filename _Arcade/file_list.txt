@@ -125,8 +125,6 @@ Donkey Kong 3 (US).mra
 Donkey Kong Junior (US, Set F-2).mra
 Dorodon (Set 1).mra
 Dottori-Kun (new).mra
-Dottori-Kun (old).mra
-Dottori-Man Jr.mra
 Dragon Breed (Japan, M72 hardware).mra
 Dream Shopper.mra
 Dream Soccer '94 (World, M107 hardware).mra
