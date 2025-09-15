@@ -465,7 +465,6 @@ Tetris (Japan, System E).mra
 Tetris.mra
 The Adventures of Robby Roto!.mra
 The Battle-Road.mra
-The End (bkg).mra
 The End.mra
 The Glob (Pac-Man Hardware).mra
 The Lord of King (Japan).mra
