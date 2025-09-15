@@ -430,7 +430,6 @@ Sprint 2.mra
 Spy Hunter.mra
 Squash.mra
 Star Guards.mra
-Star Jacker (alt).mra
 Star Jacker.mra
 StarForce.mra
 Stargate.mra
