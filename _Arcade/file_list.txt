@@ -378,7 +378,6 @@ Rygar.mra
 S.O.S..mra
 SAR - Search And Rescue (World).mra
 Saint Dragon (Set 1).mra
-Salamander (version D).mra
 Salamander (version J).mra
 Same! Same! Same! (2P Set).mra
 Sarge.mra
@@ -527,3 +526,4 @@ Zaxxon (Set 1, Rev D).mra
 Zero Wing (2P Set).mra
 Zig Zag (Dig Dug Conversion) [bl].mra
 Zzyzzyxx (set 1).mra
+
