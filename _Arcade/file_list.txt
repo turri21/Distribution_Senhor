@@ -90,7 +90,6 @@ Country Club.mra
 Crater Raider.mra
 Crazy Balloon.mra
 Crazy Blocks.mra
-Crazy Climber 2 (Japan).mra
 Crazy Climber.mra
 Crazy Kong (Kyoei).mra
 Crazy Kong Part II (Set 1).mra
@@ -496,4 +495,3 @@ Zaxxon (Set 1, Rev D).mra
 Zero Wing (2P Set).mra
 Zig Zag (Dig Dug Conversion) [bl].mra
 Zzyzzyxx (set 1).mra
-
