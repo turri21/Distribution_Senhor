@@ -1,4 +1,5 @@
 [TITLE]Important Updates[/TITLE]
+[INFO]New update_senhor.sh script v1.4[/INFO]
 [INFO]New MiSTer binary - 15/9/2025[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]Updates: SNES_Senhor_20250915.rbf[/INFO]
