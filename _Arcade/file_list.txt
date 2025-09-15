@@ -132,7 +132,6 @@ Dream Shopper.mra
 Dream Soccer '94 (Japan, M92 hardware).mra
 Dream Soccer '94 (World, M107 hardware).mra
 Drift Out (Europe).mra
-ESP Ra.De. (Japan).mra
 ESP Ra.De..mra
 Eeek! (Pac-Man Conversion).mra
 Eggor.mra
