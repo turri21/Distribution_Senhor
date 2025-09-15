@@ -154,7 +154,6 @@ Food Fight (Rev 3).mra
 Freeze.mra
 Frenzy (Rev RA1).mra
 Frogger (Konami Bugfixed).mra
-Frogger (Sega, Set 2).mra
 Future Spy (315-5061).mra
 Gaia Crusaders.mra
 Galactic Warriors.mra
