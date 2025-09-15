@@ -175,7 +175,6 @@ Gorkans.mra
 Gorodki.mra
 Gradius.mra
 Gravitar (Ver 3).mra
-Green Beret.mra
 Grobda (W, New Ver.).mra
 Growl (World, Rev 1).mra
 Gun & Frontier (World).mra
