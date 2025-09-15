@@ -331,7 +331,6 @@ Pleiads.mra
 Plus Alpha.mra
 Polaris.mra
 Poly Play 2.mra
-Poly Play 2c.mra
 Poly Play.mra
 Pong (Rev E).mra
 Ponpoko.mra
