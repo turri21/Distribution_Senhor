@@ -174,7 +174,6 @@ Gauntlet (rev 14).mra
 Gauntlet II.mra
 Gemini Wing.mra
 Gold Medalist (Set 1, Alpha68k II PCB).mra
-Gorf (Program 1).mra
 Gorf.mra
 Gorkans.mra
 Gorodki.mra
