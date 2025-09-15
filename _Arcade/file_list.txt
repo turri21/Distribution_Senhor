@@ -32,8 +32,9 @@ Baluba-louk no Densetsu (Japan).mra
 BankPanic.mra
 Battle Bakraid - Unlimited Version Special Ver. (USA) (Tue Jun 8 1999).mra
 Battle Garegga (Europe - USA - Japan - Asia) (Sat Feb 3 1996).mra
-Battle Zone rev 1.mra
 Battle Zone.mra
+Battle Zone rev 2.mra
+Battle Zone rev 1.mra
 Battle of Atlantis.mra
 Beastie Feastie (Pac-Man Conversion).mra
 Berzerk.mra
@@ -310,12 +311,13 @@ P.O.W. - Prisoners of War (US Version 1).mra
 Pac & Pal.mra
 Pac-Man & Chomp Chomp.mra
 Pac-Man (Midway).mra
+Pac-Man - Puck Man (JP, Set 1).mra
 Pac-Man Club- Club Lambada (AR).mra
 Pac-Man Plus.mra
 Pac-Manic Miner.mra
 Paddle Mania.mra
 Pengo (Set 1, Rev C).mra
-Penguin-Kun_Wars.mra
+Penguin-Kun Wars.mra
 Penguin-Kun_Wars_Japan.mra
 Pepper II.mra
 Performan (Japan).mra
@@ -339,7 +341,9 @@ Poly Play.mra
 Pong (Rev E).mra
 Ponpoko.mra
 Pooyan.mra
+Pop Flamer (Bootleg conversion).mra
 Popeye (Rev D).mra
+Port Man (bootleg on Moon Cresta hardware).mra
 Portman (Galaxian Hardware).mra
 Power Drive.mra
 Prehistoric Isle in 1930 (World).mra
@@ -374,7 +378,7 @@ Road Blasters (upright, rev 4).mra
 Road Runner (rev 2).mra
 Robotron 2084.mra
 Rod-Land (World, Set 1).mra
-Rush'n Attack (US).mra
+Rush'n Attack - Green Beret.mra
 Rygar.mra
 S.O.S..mra
 SAR - Search And Rescue (World).mra
@@ -471,7 +475,9 @@ The End.mra
 The Glob (Pac-Man Hardware).mra
 The Lord of King (Japan).mra
 The Next Space (Japan).mra
+The Ninja Kids (World).mra
 The Tower of Druaga.mra
+Thunder Fox (World, rev 1).mra
 Thunder Heroes.mra
 Tiger Heli Bootleg.mra
 Timber.mra
@@ -534,4 +540,5 @@ Zaxxon (Set 1, Rev D).mra
 Zero Wing (2P Set).mra
 Zig Zag (Dig Dug Conversion) [bl].mra
 Zzyzzyxx (set 1).mra
+
 
