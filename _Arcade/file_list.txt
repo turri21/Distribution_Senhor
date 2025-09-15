@@ -236,7 +236,6 @@ Laguna Racer.mra
 Legend of Hero Tonma (Japan).mra
 Lethal Thunder (World).mra
 Lifeforce (Japan).mra
-Lifeforce (US).mra
 Liquid Kids (World).mra
 Lizard Wizard.mra
 Lode Runner (Set 1).mra
