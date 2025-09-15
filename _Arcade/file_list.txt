@@ -119,7 +119,6 @@ Domino Man.mra
 Dominos.mra
 Don Doko Don (World, rev 1).mra
 DonPachi.mra
-Donkey Kong (Spanish Crazy Kong bootleg).mra
 Donkey Kong (US, Set 1).mra
 Donkey Kong 3 (US).mra
 Donkey Kong Junior (US, Set F-2).mra
