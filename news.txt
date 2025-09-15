@@ -1,5 +1,5 @@
 [TITLE]Important Updates[/TITLE]
-[INFO]New MiSTer binary - 13/9/2025[/INFO]
+[INFO]New MiSTer binary - 15/9/2025[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]Updates: SNES_Senhor_20250915.rbf[/INFO]
 [INFO]Updates: TaitoSJ_Senhor_20250914.rbf, ExpressRaider_Senhor_20250913.rbf[/INFO]
