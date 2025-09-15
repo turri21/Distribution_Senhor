@@ -525,7 +525,6 @@ Water Match (315-5064).mra
 Water Ski.mra
 Western Express (Japan, rev 4).mra
 Wild Western.mra
-Wizard of Wor (Speech).mra
 Wizard of Wor.mra
 Wonder Boy (Set 1, 315-5177).mra
 Wonder Boy in Monster Land.mra
