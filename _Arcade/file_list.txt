@@ -313,7 +313,6 @@ Pac-Manic Miner.mra
 Paddle Mania.mra
 Pengo (Set 1, Rev C).mra
 Penguin-Kun Wars.mra
-Penguin-Kun_Wars_Japan.mra
 Pepper II.mra
 Performan (Japan).mra
 Pest Place.mra
