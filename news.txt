@@ -2,7 +2,7 @@
 [INFO]New update_senhor.sh script v1.4[/INFO]
 [INFO]New MiSTer binary - 15/9/2025[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]Updates: PSX_Senhor_20250915.rbf[/INFO]
+[INFO]Updates: NES_Senhor_20250916.rbf, PSX_Senhor_20250915.rbf[/INFO]
 [INFO]Updates: Astrocade_Senhor_20250913.rbf, SNES_Senhor_20250915.rbf[/INFO]
 [INFO]Updates: TaitoSJ_Senhor_20250914.rbf, ExpressRaider_Senhor_20250913.rbf[/INFO]
 [INFO]Updates: SEGASYS1_Senhor_20250913.rbf, NeoGeo_Senhor_20250912.rbf[/INFO]
