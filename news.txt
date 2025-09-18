@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.4[/INFO]
 [INFO]New MiSTer binary - 15/9/2025[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]Updates: Ti994a_Senhor_20250918.rbf[/INFO]
 [INFO]Updates: AY-3-8500_Senhor_20250918.rbf, TaitoF2_Senhor_20250916.rbf[/INFO]
 [INFO]Updates: Starforce_Senhor_20250916.rbf, ST-V_Senhor_20250916.rbf[/INFO]
 [INFO]Updates: NES_Senhor_20250916.rbf, PSX_Senhor_20250915.rbf[/INFO]
