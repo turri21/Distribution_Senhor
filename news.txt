@@ -11,4 +11,3 @@
 [INFO]Updates: SEGASYS1_Senhor_20250913.rbf, NeoGeo_Senhor_20250912.rbf[/INFO]
 [INFO]Updates: TSConf_Senhor_20250912.rbf, N64_Senhor_20250912.rbf[/INFO]
 [INFO]Updates: PSX-2xCPU_Senhor_20250908.rbf, Saturn_Senhor_20250912.rbf[/INFO]
-[INFO]Updates: NES_Senhor_20250912.rbf, ZX81_Senhor_20250909.rbf[/INFO]
