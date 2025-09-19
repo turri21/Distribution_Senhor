@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.4[/INFO]
 [INFO]New MiSTer binary - 15/9/2025[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]Updates: Chip8_Senhor_20250919.rbf[/INFO]
 [INFO]Updates: Pokemon_Mini_Senhor_20250919.rbf, SordM5_Senhor_20250919.rbf[/INFO]
 [INFO]Updates: PC88_Senhor_20250919.rbf, Ti994a_Senhor_20250918.rbf[/INFO]
 [INFO]Updates: AY-3-8500_Senhor_20250918.rbf, TaitoF2_Senhor_20250916.rbf[/INFO]
@@ -10,4 +11,3 @@
 [INFO]Updates: Astrocade_Senhor_20250913.rbf, SNES_Senhor_20250915.rbf[/INFO]
 [INFO]Updates: TaitoSJ_Senhor_20250914.rbf, ExpressRaider_Senhor_20250913.rbf[/INFO]
 [INFO]Updates: SEGASYS1_Senhor_20250913.rbf, NeoGeo_Senhor_20250912.rbf[/INFO]
-[INFO]Updates: TSConf_Senhor_20250912.rbf, N64_Senhor_20250912.rbf[/INFO]
