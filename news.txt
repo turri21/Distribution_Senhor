@@ -2,7 +2,7 @@
 [INFO]New update_senhor.sh script v1.4[/INFO]
 [INFO]New MiSTer binary - 15/9/2025[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]Updates: Laser310_Senhor_20250920.rbf[/INFO]
+[INFO]Updates: TRS-80_Senhor_20250920.rbf, Laser310_Senhor_20250920.rbf[/INFO]
 [INFO]Updates: eg2000_Senhor_20250920.rbf, Chip8_Senhor_20250920.rbf[/INFO]
 [INFO]Updates: Homelab_Senhor_20250920.rbf, Intv_Senhor_20250919.rbf[/INFO]
 [INFO]Updates: Arcadia_Senhor_20250919.rbf, Chip8_Senhor_20250919.rbf[/INFO]
