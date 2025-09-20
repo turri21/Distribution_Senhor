@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.4[/INFO]
 [INFO]New MiSTer binary - 15/9/2025[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]Updates: Chip8_Senhor_20250920.rbf[/INFO]
 [INFO]Updates: Homelab_Senhor_20250920.rbf, Intv_Senhor_20250919.rbf[/INFO]
 [INFO]Updates: Arcadia_Senhor_20250919.rbf, Chip8_Senhor_20250919.rbf[/INFO]
 [INFO]Updates: Pokemon_Mini_Senhor_20250919.rbf, SordM5_Senhor_20250919.rbf[/INFO]
