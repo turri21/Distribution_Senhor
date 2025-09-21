@@ -2,7 +2,7 @@
 [INFO]New update_senhor.sh script v1.4[/INFO]
 [INFO]New MiSTer binary - 15/9/2025[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]Updates: VC4000_Senhor_20250921.rbf[/INFO]
+[INFO]Updates: ST-V_Senhor_20250921.rbf, VC4000_Senhor_20250921.rbf[/INFO]
 [INFO]Updates: ChannelF_Senhor_20250921.rbf, Lynx48_Senhor_20250921.rbf[/INFO]
 [INFO]Updates: TatungEinstein_Senhor_20250920.rbf, ColecoAdam_Senhor_20250920.rbf[/INFO]
 [INFO]Updates: TRS-80_Senhor_20250920.rbf, Laser310_Senhor_20250920.rbf[/INFO]
