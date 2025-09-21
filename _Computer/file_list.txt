@@ -62,7 +62,7 @@ TRS-80_Senhor_20250920.rbf
 TSConf_Senhor_20250912.rbf
 TatungEinstein_Senhor_20250920.rbf
 Ti994a_Senhor_20250918.rbf
-TomyTutor_Senhor_20221217.rbf
+TomyTutor_Senhor_20250921.rbf
 UK101_Senhor_20240528.rbf
 VIC20_Senhor_20240418.rbf
 VT52_Senhor_20250517.rbf
