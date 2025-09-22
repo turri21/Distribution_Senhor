@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2024. Please support this research
+              (c) Jose Tejada, 2025. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -20,16 +20,16 @@
 -->
 
 <misterromdescription>
-    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://github.com/jotego/jtcores"/>
+    <about author="jotego" webpage="https://patreon.com/jotego" twitter="@topapate" source="https://jotego/jtcores"/>
+    <rotation>vertical (ccw)</rotation>
     <name>1943: The Battle of Midway Mark II (US)</name>
     <setname>1943mii</setname>
-    <rbf>jt1943</rbf>
-    <mameversion>0251</mameversion>
+    <mameversion>0261</mameversion>
     <year>1987</year>
     <manufacturer>Capcom</manufacturer>
     <players>2</players>
+    <rbf>jt1943</rbf>
     <joystick>8</joystick>
-    <rotation>vertical (ccw)</rotation>
     <region>World</region>
     <rom index="0" zip="1943mii.zip" md5="None" asm_md5="320715f0f37e39a6689bafc00a2f3386">
         <!-- maincpu - starts at 0x0 - length 0x28000 (18 bits) -->
@@ -53,8 +53,8 @@
         <interleave output="16">
             <part name="23.8k" crc="b6dfdf85" map="12"/>
         </interleave>
-        <!-- SCR1_START -->
         <!-- JTFRAME_BA2_START -->
+        <!-- SCR1_START -->
         <!-- gfx2 - starts at 0x48000 - length 0x40000 (18 bits) -->
         <interleave output="16">
             <part name="bm19.10j" crc="868ababc" map="01"/>
@@ -113,18 +113,18 @@
         <part name="9.6l" crc="75d5cc90"/>
         <!-- Total 0xD8C00 bytes - 867 kBytes -->
     </rom>
-    <!-- Vertical game -->
+    <!-- Vertical screen. Orientation reversed. -->
     <rom index="1">
-        <part>05</part>
+        <part>05 63</part>
     </rom>
     <switches page_id="1" page_name="Switches" base="16" default="f8,ff">
-        <!-- DSWA -->
+        <DSWA/>
         <dip name="Difficulty" bits="0,3" ids="16,15,14,13,12,11,10,9,8,7,6,5,4,3,2,1"/>
         <dip name="2 Player Game" bits="4" ids="1/2 Players,2/2 Players"/>
         <dip name="Cabinet" bits="5" ids="Cocktail,Upright"/>
         <dip name="Screen Stop" bits="6" ids="On,Off"/>
         <dip name="Service Mode" bits="7" ids="On,Off"/>
-        <!-- DSWB -->
+        <DSWB/>
         <dip name="Coin A" bits="8,10" ids="4/1,3/1,2/1,1/5,1/4,1/3,1/2,1/1"/>
         <dip name="Coin B" bits="11,13" ids="4/1,3/1,2/1,1/5,1/4,1/3,1/2,1/1"/>
         <dip name="Allow Continue" bits="14" ids="No,Yes"/>
