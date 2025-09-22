@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.4[/INFO]
 [INFO]New MiSTer binary - 15/9/2025[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]Updates: jtkarnov_Senhor_20250922.rbf[/INFO]
 [INFO]Updates: jt1942_Senhor_20250922.rbf, jts16b_Senhor_20250922.rbf[/INFO]
 [INFO]Updates: jtajax_Senhor_20250921.rbf, Saturn_Senhor_20250921.rbf[/INFO]
 [INFO]Updates: ST-V_Senhor_20250921.rbf, VC4000_Senhor_20250921.rbf[/INFO]
@@ -12,5 +13,3 @@
 [INFO]Updates: Homelab_Senhor_20250920.rbf, Intv_Senhor_20250919.rbf[/INFO]
 [INFO]Updates: Arcadia_Senhor_20250919.rbf, Chip8_Senhor_20250919.rbf[/INFO]
 [INFO]Updates: Pokemon_Mini_Senhor_20250919.rbf, SordM5_Senhor_20250919.rbf[/INFO]
-[INFO]Updates: PC88_Senhor_20250919.rbf, Ti994a_Senhor_20250918.rbf[/INFO]
-[INFO]Updates: AY-3-8500_Senhor_20250918.rbf, TaitoF2_Senhor_20250916.rbf[/INFO]
