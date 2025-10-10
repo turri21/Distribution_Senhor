@@ -1,6 +1,7 @@
 280Z-ZZAP (US).mra
 4D Warriors (315-5162).mra
 ASO.mra
+Ah Eikou no Koshien (Japan).mra
 Air Assault (World).mra
 Air Duel (World, M72 hardware).mra
 Alcon Bootleg.mra
@@ -488,4 +489,3 @@ Zaxxon (Set 1, Rev D).mra
 Zero Wing (2P Set).mra
 Zig Zag (Dig Dug Conversion) [bl].mra
 Zzyzzyxx (set 1).mra
-
