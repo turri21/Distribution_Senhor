@@ -119,6 +119,7 @@ ESP Ra.De..mra
 Eeek! (Pac-Man Conversion).mra
 Eggor.mra
 Elevator Action Bootleg.mra
+Euro Champ '92 (World).mra
 Exerion (Taito).mra
 Express Raider.mra
 Extra Bases.mra
