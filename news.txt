@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.4[/INFO]
 [INFO]New MiSTer binary - 30/9/2025[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]Updates: NES_Senhor_20251016.rbf[/INFO]
 [INFO]Updates: C64_Senhor_20251015.rbf, SNES_Senhor_20251015.rbf[/INFO]
 [INFO]Updates: S32X_Senhor_20251013.rbf, C64_Senhor_20251012.rbf[/INFO]
 [INFO]Updates: TaitoF2_Senhor_20251010.rbf, NES_Senhor_20251010.rbf[/INFO]
