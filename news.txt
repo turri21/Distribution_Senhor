@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.4[/INFO]
 [INFO]New MiSTer binary - 30/9/2025[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]Updates: Amstrad_Senhor_20251017.rbf[/INFO]
 [INFO]Updates: CDi_Senhor_20251016.rbf, NES_Senhor_20251016.rbf[/INFO]
 [INFO]Updates: C64_Senhor_20251015.rbf, SNES_Senhor_20251015.rbf[/INFO]
 [INFO]Updates: S32X_Senhor_20251013.rbf, C64_Senhor_20251012.rbf[/INFO]
