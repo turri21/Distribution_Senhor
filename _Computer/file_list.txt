@@ -24,7 +24,7 @@ CoCo2_Senhor_20250704.rbf
 CoCo3_Senhor_20250704.rbf
 ColecoAdam_Senhor_20250920.rbf
 EDSAC_Senhor_20250906.rbf
-EnterpriseKyp_Senhor_20240802.rbf
+Enterprise_Senhor_20251110.rbf
 FM-7_Senhor_20250412.rbf
 Galaksija_PLUS_ROMD.rbf
 Homelab_Senhor_20250920.rbf
