@@ -2,7 +2,7 @@
 [INFO]New update_senhor.sh script v1.5[/INFO]
 [INFO]New MiSTer binary - 30/9/2025[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]Updates: Enterprise_Senhor_20251110.rbf[/INFO]
+[INFO]Updates: PCW_Senhor_20251111.rbf, Enterprise_Senhor_20251110.rbf[/INFO]
 [INFO]Updates: Atari5200_Senhor_20251104.rbf, Atari800_Senhor_20251104.rbf[/INFO]
 [INFO]New Cores: CBM-II_Senhor_20251101.rbf[/INFO]
 [INFO]Updates: Saturn_Senhor_20251026.rbf, Amstrad_Senhor_20251017.rbf[/INFO]
