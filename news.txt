@@ -2,6 +2,6 @@
 [INFO]New update_senhor.sh script v1.5[/INFO]
 [INFO]New MiSTer binary - 15/11/2025[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]Updates: CDi_Senhor_20251116.rbf[/INFO]
+[INFO]Updates: SNES_Senhor_20251120.rbf, CDi_Senhor_20251116.rbf[/INFO]
 [INFO]Updates: PCW_Senhor_20251111.rbf, Enterprise_Senhor_20251110.rbf[/INFO]
 [INFO]Updates: Atari5200_Senhor_20251104.rbf, Atari800_Senhor_20251104.rbf[/INFO]
