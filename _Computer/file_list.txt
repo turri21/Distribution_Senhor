@@ -58,6 +58,7 @@ SordM5_Senhor_20250919.rbf
 SparcStation20_Senhor_20250525.rbf
 SparcStation5_Senhor_20250525.rbf
 Specialist_Senhor_20240524.rbf
+TK2000_Senhor_20251125.rbf
 TOWNS_Senhor_20250521.rbf
 TRS-80_Senhor_20250920.rbf
 TSConf_Senhor_20250912.rbf
