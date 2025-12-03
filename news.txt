@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.5[/INFO]
 [INFO]New MiSTer binary - 3/12/2025[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]Updates: Jaguar_Senhor_20251204.rbf[/INFO]
 [INFO]Updates: PSX_Senhor_20251201.rbf, ao486_Senhor_20251130.rbf[/INFO]
 [INFO]Updates: Minimig_Senhor_20251128.rbf, Enterprise_Senhor_20251127.rbf[/INFO]
 [INFO]New Cores: TK2000_Senhor_20251125.rbf[/INFO]
