@@ -37,7 +37,7 @@ MC1201_Senhor_20231213.rbf
 MSX1-MSX2_Senhor_20250509.rbf
 MSX_Senhor_20240524.rbf
 MacPlus_Senhor_20240423.rbf
-Minimig_Senhor_20251128.rbf
+Minimig_Senhor_20251210.rbf
 MultiComp_Senhor_20250106.rbf
 ORAO_Senhor_20240729.rbf
 Ondra_SPO186_Senhor_20251007.rbf
