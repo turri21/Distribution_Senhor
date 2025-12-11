@@ -27,7 +27,7 @@ GnW_Senhor_20250305.rbf
 Intv_Senhor_20250919.rbf
 Jaguar_Senhor_20251204.rbf
 MegaDuck_Senhor_20250811.mgl
-MegaCD_Senhor_20250713.rbf
+MegaCD_Senhor_20251211.rbf
 MegaDrive_Senhor_20250702.rbf
 MyVision_Senhor_20250305.rbf
 N64-Turbo_Senhor_20250815.rbf
