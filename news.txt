@@ -1,6 +1,6 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New update_senhor.sh script v1.5[/INFO]
-[INFO]New MiSTer binary - 3/12/2025[/INFO]
+[INFO]New MiSTer binary - 12/12/2025[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: TeleStrat_Senhor_20251212.rbf[/INFO]
 [INFO]Updates: PMD85_Senhor_20251212.rbf, ao486_Senhor_20251212.rbf[/INFO]
