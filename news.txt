@@ -3,7 +3,7 @@
 [INFO]New MiSTer binary - 12/12/2025[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: mc-2g-1024_Senhor_20251212.rbf, TeleStrat_Senhor_20251212.rbf[/INFO]
-[INFO]Updates: MacPlus_Senhor_20251213.rbf[/INFO]
+[INFO]Updates: TRS-80_Senhor_20251213.rbf, MacPlus_Senhor_20251213.rbf[/INFO]
 [INFO]Updates: PMD85_Senhor_20251212.rbf, ao486_Senhor_20251212.rbf[/INFO]
 [INFO]Updates: MegaCD_Senhor_20251211.rbf, ZX-Spectrum_Senhor_20251211.rbf[/INFO]
 [INFO]Updates: MacPlus_Senhor_20251211.rbf, X68000_Senhor_20251210.rbf[/INFO]
