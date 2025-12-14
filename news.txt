@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.5[/INFO]
 [INFO]New MiSTer binary - 12/12/2025[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: Sorcerer_Senhor_20251214.rbf[/INFO]
 [INFO]New Cores: mc-2g-1024_Senhor_20251212.rbf, TeleStrat_Senhor_20251212.rbf[/INFO]
 [INFO]Updates: Laser310_Senhor_20251214.rbf[/INFO]
 [INFO]Updates: Arduboy_Senhor_20251214.rbf, AY-3-8500_Senhor_20251214.rbf[/INFO]
