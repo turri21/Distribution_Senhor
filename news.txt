@@ -3,6 +3,7 @@
 [INFO]New MiSTer binary - 12/12/2025[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: mc-2g-1024_Senhor_20251212.rbf, TeleStrat_Senhor_20251212.rbf[/INFO]
+[INFO]Updates: Ti994a_Senhor_20251214.rbf[/INFO]
 [INFO]Updates: Jupiter_Senhor_20251214.rbf, S32X_Senhor_20251214.rbf[/INFO]
 [INFO]Updates: SMS_Senhor_20251214.rbf, GBA_Senhor_20251213.rbf[/INFO]
 [INFO]Updates: PSX_Senhor_20251213.rbf, Atari800_Senhor_20251213.rbf[/INFO]
