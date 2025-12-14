@@ -31,7 +31,7 @@ Homelab_Senhor_20250920.rbf
 Interact_Senhor_20251006.rbf
 Jupiter_Senhor_20251214.rbf
 LM80C_Senhor_20250612.rbf
-Laser310_Senhor_20250920.rbf
+Laser310_Senhor_20251214.rbf
 Lynx48_Senhor_20250921.rbf
 MC1201_Senhor_20231213.rbf
 MSX1-MSX2_Senhor_20250509.rbf
