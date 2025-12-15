@@ -4,6 +4,7 @@
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Laser500_Senhor_20251214.rbf, Sorcerer_Senhor_20251214.rbf[/INFO]
 [INFO]New Cores: mc-2g-1024_Senhor_20251212.rbf, TeleStrat_Senhor_20251212.rbf[/INFO]
+[INFO]Updates: AcornAtom_Senhor_20251215.rbf[/INFO]
 [INFO]Updates: N64_Senhor_20251215.rbf, Laser310_Senhor_20251214.rbf[/INFO]
 [INFO]Updates: Arduboy_Senhor_20251214.rbf, AY-3-8500_Senhor_20251214.rbf[/INFO]
 [INFO]Updates: Chip8_Senhor_20251214.rbf, Ti994a_Senhor_20251214.rbf[/INFO]
