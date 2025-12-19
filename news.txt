@@ -4,7 +4,7 @@
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Laser500_Senhor_20251214.rbf, Sorcerer_Senhor_20251214.rbf[/INFO]
 [INFO]New Cores: mc-2g-1024_Senhor_20251212.rbf, TeleStrat_Senhor_20251212.rbf[/INFO]
-[INFO]Updates: Casio_PV-1000_Senhor_20251219.rbf[/INFO]
+[INFO]Updates: Super_Vision_8000_Senhor_20251219.rbf, Casio_PV-1000_Senhor_20251219.rbf[/INFO]
 [INFO]Updates: Casio_PV-2000_Senhor_20251219.rbf, ColecoAdam_Senhor_20251216.rbf[/INFO]
 [INFO]Updates: TomyTutor_Senhor_20251216.rbf, Lynx48_Senhor_20251216.rbf[/INFO]
 [INFO]Updates: AcornElectron_Senhor_20251216.rbf, Interact_Senhor_20251215.rbf[/INFO]
