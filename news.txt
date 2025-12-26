@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.5[/INFO]
 [INFO]New MiSTer binary - 24/12/2025[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]Updates: MyVision_Senhor_20251225.rbf[/INFO]
 [INFO]Updates: PMD85_Senhor_20251225.rbf, NES_Senhor_20251223.rbf[/INFO]
 [INFO]Updates: SNES_Senhor_20251225.rbf, S32X_Senhor_20251223.rbf[/INFO]
 [INFO]Updates: Super_Vision_8000_Senhor_20251219.rbf, Casio_PV-1000_Senhor_20251219.rbf[/INFO]
