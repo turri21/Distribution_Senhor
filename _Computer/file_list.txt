@@ -52,7 +52,7 @@ PMD85_Senhor_20251225.rbf
 QL_Senhor_20240524.rbf
 RX78_Senhor_20250517.rbf
 Rememotech_Senhor_20250327.rbf
-SAMCoupe_Senhor_20240421.rbf
+SAMCoupe_Senhor_20260101.rbf
 SVI328_Senhor_20250722.rbf
 SharpMZ_Senhor_20250514.rbf
 Sorcerer_Senhor_20251214.rbf
