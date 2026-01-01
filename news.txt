@@ -2,7 +2,7 @@
 [INFO]New update_senhor.sh script v1.5[/INFO]
 [INFO]New MiSTer binary - 24/12/2025[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]Updates: Vector-06C_Senhor_20251231.rbf[/INFO]
+[INFO]Updates: Minimig_Senhor_20260101.rbf, Vector-06C_Senhor_20251231.rbf[/INFO]
 [INFO]Updates: PCXT_Senhor_20251231.rbf, Saturn_Senhor_20251229.rbf[/INFO]
 [INFO]Updates: CDi_Senhor_20251229.rbf, Apogee_Senhor_20251229.rbf[/INFO]
 [INFO]Updates: Homelab_Senhor_20251227.rbf, MyVision_Senhor_20251225.rbf[/INFO]
