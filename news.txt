@@ -2,5 +2,6 @@
 [INFO]New update_senhor.sh script v1.5[/INFO]
 [INFO]New MiSTer binary - 1/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]Updates: Specialist_Senhor_20260103.rbf[/INFO]
 [INFO]Updates: BK0011M_Senhor_20260102.rbf, SAMCoupe_Senhor_20260101.rbf[/INFO]
 [INFO]Updates: Minimig_Senhor_20260101.rbf, Vector-06C_Senhor_20251231.rbf[/INFO]
