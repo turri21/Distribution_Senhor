@@ -28,7 +28,7 @@ Enterprise_Senhor_20251127.rbf
 FM-7_Senhor_20250412.rbf
 Galaksija_PLUS_ROMD.rbf
 Homelab_Senhor_20251227.rbf
-IIgs_Senhor_20260104.rbf
+IIgs_Senhor_20260105.rbf
 Interact_Senhor_20251215.rbf
 Jupiter_Senhor_20251214.rbf
 LM80C_Senhor_20250612.rbf
