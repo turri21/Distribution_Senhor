@@ -3,7 +3,7 @@
 [INFO]New MiSTer binary - 1/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: IIgs_Senhor_20260104.rbf[/INFO]
-[INFO]Updates: Aquarius_Senhor_20260104.rbf[/INFO]
+[INFO]Updates: Vectrex_Senhor_20260104.rbf, Aquarius_Senhor_20260104.rbf[/INFO]
 [INFO]Updates: PET2001_Senhor_20260104.rbf, CDi_Senhor_20260104.rbf[/INFO]
 [INFO]Updates: QL_Senhor_20260104.rbf, Archie_Senhor_20260104.rbf[/INFO]
 [INFO]Updates: MSX_Senhor_20260103.rbf, Specialist_Senhor_20260103.rbf[/INFO]
