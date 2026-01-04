@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.5[/INFO]
 [INFO]New MiSTer binary - 1/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Core: Archie_Senhor_20260104.rbf[/INFO]
 [INFO]New Core: QL_Senhor_20260104.rbf, IIgs_Senhor_20260104.rbf[/INFO]
 [INFO]Updates: MSX_Senhor_20260103.rbf, Specialist_Senhor_20260103.rbf[/INFO]
 [INFO]Updates: BK0011M_Senhor_20260102.rbf, SAMCoupe_Senhor_20260101.rbf[/INFO]
