@@ -3,7 +3,7 @@
 [INFO]New MiSTer binary - 1/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: IIgs_Senhor_20260105.rbf[/INFO]
-[INFO]Updates: TSConf_Senhor_20260107.rbf[/INFO]
+[INFO]Updates: Altair8800_Senhor_20260107.rbf, TSConf_Senhor_20260107.rbf[/INFO]
 [INFO]Updates: C16_Senhor_20260107.rbf, ZX81_Senhor_20260107.rbf[/INFO]
 [INFO]Updates: PCW_Senhor_20260107.rbf, VIC20_Senhor_20260107.rbf[/INFO]
 [INFO]Updates: PCXT_Senhor_20260106.rbf, BBCMicro_Senhor_20260105.rbf[/INFO]
