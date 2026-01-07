@@ -3,6 +3,7 @@
 [INFO]New MiSTer binary - 1/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: IIgs_Senhor_20260105.rbf[/INFO]
+[INFO]Updates: VIC20_Senhor_20260107.rbf[/INFO]
 [INFO]Updates: PCXT_Senhor_20260106.rbf, BBCMicro_Senhor_20260105.rbf[/INFO]
 [INFO]Updates: Atari800_Senhor_20260105.rbf, SNES_Senhor_20260104.rbf[/INFO]
 [INFO]Updates: Vectrex_Senhor_20260104.rbf, Aquarius_Senhor_20260104.rbf[/INFO]
