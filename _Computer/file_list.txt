@@ -41,7 +41,7 @@ MSX_Senhor_20260103.rbf
 MacPlus_Senhor_20251213.rbf
 Minimig_Senhor_20260101.rbf
 MultiComp_Senhor_20250106.rbf
-ORAO_Senhor_20240729.rbf
+ORAO_Senhor_20260108.rbf
 Ondra_SPO186_Senhor_20251007.rbf
 Oric_Senhor_20260108.rbf
 PC88_Senhor_20251208.rbf
