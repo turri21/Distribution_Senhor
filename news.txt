@@ -3,7 +3,7 @@
 [INFO]New MiSTer binary - 9/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: IIgs_Senhor_20260105.rbf[/INFO]
-[INFO]Updates: AtariST_Senhor_20260108.rbf[/INFO]
+[INFO]Updates: ORAO_Senhor_20260109.rbf, AtariST_Senhor_20260108.rbf[/INFO]
 [INFO]Updates: ORAO_Senhor_20260108.rbf, Oric_Senhor_20260108.rbf[/INFO]
 [INFO]Updates: Altair8800_Senhor_20260107.rbf, TSConf_Senhor_20260107.rbf[/INFO]
 [INFO]Updates: C16_Senhor_20260107.rbf, ZX81_Senhor_20260107.rbf[/INFO]
