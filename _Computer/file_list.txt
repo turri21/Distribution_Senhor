@@ -71,7 +71,7 @@ Ti994a_Senhor_20251214.rbf
 TomyTutor_Senhor_20251216.rbf
 UK101_Senhor_20240528.rbf
 VIC20_Senhor_20260107.rbf
-VT52_Senhor_20250517.rbf
+VT52_Senhor_20260112.rbf
 Vector-06C_Senhor_20251231.rbf
 X68000_Senhor_20251210.rbf
 ZX-Spectrum_Senhor_20251211.rbf
