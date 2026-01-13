@@ -1,6 +1,6 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New update_senhor.sh script v1.5[/INFO]
-[INFO]New MiSTer binary - 9/1/2026[/INFO]
+[INFO]New MiSTer binary - 13/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]Updates: SGB_Senhor_20260113.rbf[/INFO]
 [INFO]Updates: ZXNext_Senhor_20260113.rbf, CoCo3_Senhor_20260112.rbf[/INFO]
