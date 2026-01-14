@@ -65,7 +65,7 @@ TK2000_Senhor_20251125.rbf
 TOWNS_Senhor_20250521.rbf
 TRS-80_Senhor_20251213.rbf
 TSConf_Senhor_20260107.rbf
-TatungEinstein_Senhor_20250920.rbf
+TatungEinstein_Senhor_20260114.rbf
 TeleStrat_Senhor_20251212.rbf
 Ti994a_Senhor_20251214.rbf
 TomyTutor_Senhor_20251216.rbf
