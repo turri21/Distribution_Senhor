@@ -23,7 +23,7 @@ Gameboy_Senhor_20250226.rbf
 GBA2P_Senhor_20250305.rbf
 GBA_Senhor_20251213.rbf
 Genesis_Senhor_20250629.rbf
-GnW_Senhor_20250305.rbf
+GnW_Senhor_20260115.rbf
 Intv_Senhor_20250919.rbf
 Jaguar_Senhor_20251204.rbf
 MegaDuck_Senhor_20250811.mgl
