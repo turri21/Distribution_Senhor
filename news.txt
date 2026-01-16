@@ -2,7 +2,7 @@
 [INFO]New update_senhor.sh script v1.5[/INFO]
 [INFO]New MiSTer binary - 13/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]Updates: Gameboy_Senhor_20260115.rbf[/INFO]
+[INFO]Updates: SNES_Senhor_20260116.rbf, Gameboy_Senhor_20260115.rbf[/INFO]
 [INFO]Updates: GnW_Senhor_20260115.rbf, MegaDrive_Senhor_20260115.rbf[/INFO]
 [INFO]Updates: RX78_Senhor_20260114.rbf, TatungEinstein_Senhor_20260114.rbf[/INFO]
 [INFO]Updates: BBCBridgeCompanion_Senhor_20260113.rbf, Donut_Senhor_20260113.rbf[/INFO]
