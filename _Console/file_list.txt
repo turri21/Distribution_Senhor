@@ -46,7 +46,7 @@ Saturn_Senhor_20251229.rbf
 SG-1000_Senhor_20250811.mgl
 SGB_Senhor_20260113.rbf
 SMS_Senhor_20251214.rbf
-SNES_Senhor_20260104.rbf
+SNES_Senhor_20260116.rbf
 SuperVision_Senhor_20250517.rbf
 Super_Vision_8000_Senhor_20251219.rbf
 TurboGrafx16_Senhor_20250902.rbf
