@@ -204,7 +204,7 @@ TIAMC1_Senhor_20250128.rbf
 TimePilot84_Senhor_20240604.rbf
 TimePilot_Senhor_20250128.rbf
 TNKIII_Senhor_20240615.rbf
-TraverseUSA_Senhor_20250203.rbf
+TraverseUSA_Senhor_20260117.rbf
 TropicalAngel_Senhor_20250131.rbf
 truxton2_Senhor_20250501.rbf
 TurkeyShoot_Senhor_20250131.rbf
