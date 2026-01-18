@@ -56,7 +56,7 @@ Gaplus_Senhor_20250120.rbf
 Garegga_Senhor_20250302.rbf
 Gauntlet_Senhor_20250428.rbf
 Gyruss_Senhor_20250124.rbf
-IkariWarriors_Senhor_20240615.rbf
+IkariWarriors_Senhor_20260118.rbf
 Inferno_Senhor_20250121.rbf
 IremM107_Senhor_20250304.rbf
 IremM62_Senhor_20250121.rbf
@@ -216,3 +216,4 @@ XSleena_Senhor_20250227.rbf
 Zaxxon_Senhor_20240525.rbf
 Zerowing_Senhor_20250505.rbf
 ZigZag_Senhor_20250129.rbf
+
