@@ -8,7 +8,7 @@
 	<manufacturer>Toaplan</manufacturer>
 	<category>Puzzle</category>
 	<rbf>Performan</rbf>
-	<rotation>vertical (ccw)</rotation>
+	<rotation>vertical (cw)</rotation>
 	<joystick>8-way</joystick>
 	<switches default="FF,FF,FF">
 		<dip bits="15" name="Unused" ids="ON,OFF"/>
