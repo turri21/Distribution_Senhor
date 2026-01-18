@@ -10,7 +10,7 @@
 	<rbf>mrjong</rbf>
 	<about></about>
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
+	<rotation>vertical (ccw)</rotation>
 	<flip></flip>
 	<players>2</players>
 	<joystick>4-way</joystick>
@@ -46,3 +46,4 @@
 	<remark></remark>
 	<!-- <mratimestamp></mratimestamp> -->
 </misterromdescription>
+
