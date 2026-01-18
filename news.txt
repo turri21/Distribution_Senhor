@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.5[/INFO]
 [INFO]New MiSTer binary - 13/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]Updates: Pacman_Senhor_20260118.rbf[/INFO]
 [INFO]Updates: Performan_Senhor_20260118.rbf, IkariWarriors_Senhor_20260118.rbf[/INFO]
 [INFO]Updates: SVI328_Senhor_20260118.rbf, TraverseUSA_Senhor_20260117.rbf[/INFO]
 [INFO]Updates: TaitoSJ_Senhor_20260117.rbf, CDi_Senhor_20260116.rbf[/INFO]
