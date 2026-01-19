@@ -8,7 +8,7 @@ AtariTetris_Senhor_20250524.rbf
 Athena_Senhor_20250129.rbf
 Bagman_Senhor_20250129.rbf
 Bakraid_Senhor_20250302.rbf
-BankPanic_Senhor_20240525.rbf
+BankPanic_Senhor_20260119.rbf
 Batrider_Senhor_20250302.rbf
 BattleZone_Senhor_20250129.rbf
 Berzerk_Senhor_20240714.rbf
