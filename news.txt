@@ -2,7 +2,7 @@
 [INFO]New update_senhor.sh script v1.5[/INFO]
 [INFO]New MiSTer binary - 19/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]Updates: SNK_TripleZ80_Senhor_20260119.rbf[/INFO]
+[INFO]Updates: Cave_Senhor_20260119.rbf, SNK_TripleZ80_Senhor_20260119.rbf[/INFO]
 [INFO]Updates: IremM92_Senhor_20260119.rbf, IremM107_Senhor_20260119.rbf[/INFO]
 [INFO]Updates: NaughtyBoy_Senhor_20260118.rbf, SegaVICZ80_Senhor_20260118.rbf[/INFO]
 [INFO]Updates: MrJong_Senhor_20260118.rbf, Pacman_Senhor_20260118.rbf[/INFO]
