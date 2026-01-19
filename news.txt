@@ -2,7 +2,7 @@
 [INFO]New update_senhor.sh script v1.5[/INFO]
 [INFO]New MiSTer binary - 13/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]Updates: SegaVICZ80_Senhor_20260118.rbf[/INFO]
+[INFO]Updates: NaughtyBoy_Senhor_20260118.rbf, SegaVICZ80_Senhor_20260118.rbf[/INFO]
 [INFO]Updates: MrJong_Senhor_20260118.rbf, Pacman_Senhor_20260118.rbf[/INFO]
 [INFO]Updates: Performan_Senhor_20260118.rbf, IkariWarriors_Senhor_20260118.rbf[/INFO]
 [INFO]Updates: SVI328_Senhor_20260118.rbf, TraverseUSA_Senhor_20260117.rbf[/INFO]
