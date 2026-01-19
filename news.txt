@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.5[/INFO]
 [INFO]New MiSTer binary - 13/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]Updates: IremM107_Senhor_20260119.rbf[/INFO]
 [INFO]Updates: NaughtyBoy_Senhor_20260118.rbf, SegaVICZ80_Senhor_20260118.rbf[/INFO]
 [INFO]Updates: MrJong_Senhor_20260118.rbf, Pacman_Senhor_20260118.rbf[/INFO]
 [INFO]Updates: Performan_Senhor_20260118.rbf, IkariWarriors_Senhor_20260118.rbf[/INFO]
@@ -14,5 +15,3 @@
 [INFO]Updates: Pokemon_Mini_Senhor_20260113.rbf, SGB_Senhor_20260113.rbf[/INFO]
 [INFO]Updates: ZXNext_Senhor_20260113.rbf, CoCo3_Senhor_20260112.rbf[/INFO]
 [INFO]Updates: VT52_Senhor_20260112.rbf, SordM5_Senhor_20260110.rbf[/INFO]
-[INFO]Updates: ORAO_Senhor_20260109.rbf, AtariST_Senhor_20260108.rbf[/INFO]
-[INFO]Updates: ORAO_Senhor_20260108.rbf, Oric_Senhor_20260108.rbf[/INFO]
