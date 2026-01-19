@@ -1,6 +1,6 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New update_senhor.sh script v1.5[/INFO]
-[INFO]New MiSTer binary - 13/1/2026[/INFO]
+[INFO]New MiSTer binary - 19/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]Updates: SNK_TripleZ80_Senhor_20260119.rbf[/INFO]
 [INFO]Updates: IremM92_Senhor_20260119.rbf, IremM107_Senhor_20260119.rbf[/INFO]
