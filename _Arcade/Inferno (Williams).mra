@@ -65,4 +65,7 @@
         <!-- inferno_decoder -->
         <part crc="0ea3f7fb" name="prom3" />
 	</rom>
+
+    <!-- NVRAM -->
+    <nvram index="4" size="1024"/>
 </misterromdescription>
