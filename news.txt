@@ -2,7 +2,7 @@
 [INFO]New update_senhor.sh script v1.5[/INFO]
 [INFO]New MiSTer binary - 19/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]Updates: Joust2_Senhor_20260120.rbf[/INFO]
+[INFO]Updates: N64_Senhor_20260120.rbf, Joust2_Senhor_20260120.rbf[/INFO]
 [INFO]Updates: BankPanic_Senhor_20260119.rbf, PSX_Senhor_20260119.rbf[/INFO]
 [INFO]Updates: Cave_Senhor_20260119.rbf, SNK_TripleZ80_Senhor_20260119.rbf[/INFO]
 [INFO]Updates: IremM92_Senhor_20260119.rbf, IremM107_Senhor_20260119.rbf[/INFO]
