@@ -3,6 +3,7 @@
 [INFO]New MiSTer binary - 19/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: SegaChannelRevival_Senhor_20260120.rbf[/INFO]
+[INFO]Updates: TropicalAngel_Senhor_20260120.rbf[/INFO]
 [INFO]Updates: Inferno_Senhor_20260120.rbf, S32X_Senhor_20260120.rbf[/INFO]
 [INFO]Updates: N64_Senhor_20260120.rbf, Joust2_Senhor_20260120.rbf[/INFO]
 [INFO]Updates: BankPanic_Senhor_20260119.rbf, PSX_Senhor_20260119.rbf[/INFO]
