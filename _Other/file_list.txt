@@ -3,7 +3,7 @@ Chess_Senhor_20250212.rbf
 Chip8_Senhor_20251214.rbf
 Demo68k_Senhor_20250511.rbf
 Donut_Senhor_20260113.rbf
-EpochGalaxyII_Senhor_20250226.rbf
+EpochGalaxyII_Senhor_20260121.rbf
 FlappyBird_Senhor_20251208.rbf
 GameOfLife_Senhor_20250210.rbf
 GBMidi_Senhor_20250212.rbf
