@@ -1,6 +1,6 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New update_senhor.sh script v1.5[/INFO]
-[INFO]New MiSTer binary - 19/1/2026[/INFO]
+[INFO]New MiSTer binary - 22/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: SegaChannelRevival_Senhor_20260120.rbf[/INFO]
 [INFO]Updates: Odyssey2_Senhor_20260121.rbf, EpochGalaxyII_Senhor_20260121.rbf[/INFO]
