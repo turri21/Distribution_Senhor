@@ -3,7 +3,7 @@
 [INFO]New MiSTer binary - 22/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: SegaChannelRevival_Senhor_20260120.rbf[/INFO]
-[INFO]Updates: Athena_Senhor_20260124.rbf[/INFO]
+[INFO]Updates: BattleZone_Senhor_20260124.rbf, Athena_Senhor_20260124.rbf[/INFO]
 [INFO]Updates: IIgs_Senhor_20260124.rbf, AtariTetris_Senhor_20260123.rbf[/INFO]
 [INFO]Updates: Bagman_Senhor_20260123.rbf, CDi_Senhor_20260123.rbf[/INFO]
 [INFO]Updates: Atarisys1_Senhor_20260122.rbf, Astrocade_Senhor_20260122.rbf[/INFO]
