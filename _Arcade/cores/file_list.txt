@@ -12,7 +12,7 @@ Bakraid_Senhor_20250302.rbf
 BankPanic_Senhor_20260119.rbf
 Batrider_Senhor_20250302.rbf
 BattleZone_Senhor_20260124.rbf
-Berzerk_Senhor_20240714.rbf
+Berzerk_Senhor_20260124.rbf
 BlackWidow_Senhor_20250125.rbf
 Blockade_Senhor_20250105.rbf
 BombJack_Senhor_20240804.rbf
