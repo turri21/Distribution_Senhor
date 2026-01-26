@@ -3,7 +3,7 @@
 [INFO]New MiSTer binary - 22/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: SegaChannelRevival_Senhor_20260120.rbf[/INFO]
-[INFO]Updates: BurgerTime_Senhor_20260125.rbf[/INFO]
+[INFO]Updates: Chameleon_Senhor_20260126.rbf, BurgerTime_Senhor_20260125.rbf[/INFO]
 [INFO]Updates: Bosconian_Senhor_20260124.rbf, BurningRubber_Senhor_20260124.rbf[/INFO]
 [INFO]Updates: BombJack_Senhor_20260124.rbf, Berzerk_Senhor_20260124.rbf/INFO]
 [INFO]Updates: BattleZone_Senhor_20260124.rbf, Athena_Senhor_20260124.rbf[/INFO]
