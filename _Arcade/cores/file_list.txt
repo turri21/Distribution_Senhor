@@ -29,7 +29,7 @@ Chameleon_Senhor_20260126.rbf
 ComputerSpace_Senhor_20260126.rbf
 CongoBongo_Senhor_20260126.rbf
 CosmicGuerilla_Senhor_20260121.rbf
-Cosmic_Senhor_20241217.rbf
+Cosmic_Senhor_20260126.rbf
 CrazyBalloon_Senhor_20260121.rbf
 CrazyClimber_Senhor_20240526.rbf
 CrazyKong_Senhor_20240526.rbf
