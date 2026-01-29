@@ -54,4 +54,13 @@
 	<rom index="1">
 		<part>1</part>
 	</rom>		
+	<rom index="3" md5="none">
+		<part>
+			00 00 00 00 00 FF 00 02 00 02 00 01 00 FF 00 00
+			00 00 C0 DB 00 49 00 02
+ 			00 00 C1 5A 00 06 2D 00
+		</part>
+	</rom>
+	<rom index="4"></rom>
+	<nvram index="4" size="79"/>	
 </misterromdescription>
