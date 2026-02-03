@@ -32,7 +32,7 @@ CosmicGuerilla_Senhor_20260121.rbf
 Cosmic_Senhor_20260126.rbf
 CrazyBalloon_Senhor_20260121.rbf
 CrazyClimber_Senhor_20260126.rbf
-CrazyKong_Senhor_20240526.rbf
+CrazyKong_Senhor_20260126.rbf
 CrystalCastles_Senhor_20250123.rbf
 Defender_Senhor_20250122.rbf
 demonwld_Senhor_20250502.rbf
