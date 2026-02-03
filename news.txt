@@ -3,6 +3,7 @@
 [INFO]New MiSTer binary - 22/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Atari800VBXE_Senhor_20260128.rbf, SegaChannelRevival_Senhor_20260120.rbf[/INFO]
+[INFO]Updates: Exidy2_Senhor_20260203.rbf[/INFO]
 [INFO]Updates: Druaga_Senhor_20260203.rbf, DonkeyKong3_Senhor_20260203.rbf[/INFO]
 [INFO]Updates: DonkeyKong_Senhor_20260203.rbf, DonkeyKongJunior_Senhor_20260203.rbf[/INFO]
 [INFO]Updates: Dominos_Senhor_20260203.rbf, DigDug_Senhor_20260126.rbf[/INFO]
