@@ -3,7 +3,7 @@
 [INFO]New MiSTer binary - 22/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Atari800VBXE_Senhor_20260128.rbf, SegaChannelRevival_Senhor_20260120.rbf[/INFO]
-[INFO]Updates: PSX_Senhor_20260201.rbf[/INFO]
+[INFO]Updates: CrazyClimber_Senhor_20260126.rbf, PSX_Senhor_20260201.rbf[/INFO]
 [INFO]Updates: CDi_Senhor_20260131.rbf, Cosmic_Senhor_20260126.rbf[/INFO]
 [INFO]Updates: SlapFight_Senhor_20260128.rbf, Atari800_Senhor_20260128.rbf[/INFO]
 [INFO]Updates: MSX_Senhor_20260126.rbf, PSX_Senhor_20260126.rbf[/INFO]
