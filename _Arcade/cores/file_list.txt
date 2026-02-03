@@ -46,7 +46,7 @@ Druaga_Senhor_20260203.rbf
 Exerion_Senhor_20250421.rbf
 Exidy2_Senhor_20260203.rbf
 ExpressRaider_Senhor_20260203.rbf
-Finalizer_Senhor_20250120.rbf
+Finalizer_Senhor_20260203.rbf
 FoodFight_Senhor_20250120.rbf
 Freeze_Senhor_20240526.rbf
 Frenzy_Senhor_20250120.rbf
