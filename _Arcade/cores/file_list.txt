@@ -39,7 +39,7 @@ demonwld_Senhor_20250502.rbf
 DigDug_Senhor_20260126.rbf
 Dominos_Senhor_20260203.rbf
 DonkeyKong3_Senhor_20250122.rbf
-DonkeyKongJunior_Senhor_20250122.rbf
+DonkeyKongJunior_Senhor_20260203.rbf
 DonkeyKong_Senhor_20240526.rbf
 DottoriKun_Senhor_20250105.rbf
 Druaga_Senhor_20240525.rbf
