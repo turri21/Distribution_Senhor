@@ -136,7 +136,7 @@ jtwc_Senhor_20250821.rbf
 jtwwfss_Senhor_20250821.rbf
 jtyiear_Senhor_20250809.rbf
 KickAndRun_Senhor_20240730.rbf
-LadyBug_Senhor_20240529.rbf
+LadyBug_Senhor_20260204.rbf
 LunarLander_Senhor_20240529.rbf
 MarioBros_Senhor_20240802.rbf
 MCR1_Senhor_20250421.rbf
@@ -217,6 +217,3 @@ XSleena_Senhor_20250227.rbf
 Zaxxon_Senhor_20240525.rbf
 Zerowing_Senhor_20250505.rbf
 ZigZag_Senhor_20250129.rbf
-
-
-
