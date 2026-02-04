@@ -124,6 +124,7 @@ Exerion (Taito).mra
 Express Raider.mra
 Extra Bases.mra
 Eyes (US, Set 1).mra
+Fantasy Zone II - The Tears of Opa-Opa (System 16C version).mra
 Fantasy Zone II - The Tears of Opa-Opa.mra
 Faster, Harder, More Challenging Q`Bert (prototype).mra
 Fever SOS.mra
@@ -143,6 +144,7 @@ Gaia Crusaders.mra
 Galactic Warriors.mra
 Galaga (Midway, Set 1).mra
 Galaga 3 (GP3 Rev D).mra
+Galaga 3 - Gaplus (GP2 Rev B).mra
 Galaxian (Namco, Set 1).mra
 Galaxy Wars (Universal, Set 1).mra
 Gallop - Armed Police Unit (Japan, M72 hardware).mra
