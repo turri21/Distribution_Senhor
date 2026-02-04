@@ -50,7 +50,7 @@ Finalizer_Senhor_20260203.rbf
 FoodFight_Senhor_20250120.rbf
 Freeze_Senhor_20240526.rbf
 Frenzy_Senhor_20250120.rbf
-Galaga_Senhor_20240526.rbf
+Galaga_Senhor_20260203.rbf
 Galaxian_Senhor_20250120.rbf
 Galivan_Senhor_20240526.rbf
 Gaplus_Senhor_20250120.rbf
