@@ -3,6 +3,7 @@
 [INFO]New MiSTer binary - 22/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Atari800VBXE_Senhor_20260128.rbf, SegaChannelRevival_Senhor_20260120.rbf[/INFO]
+[INFO]Updates: Gyruss_Senhor_20260204.rbf[/INFO]
 [INFO]Updates: Galaxian_Senhor_20260204.rbf, Freeze_Senhor_20260204.rbf[/INFO]
 [INFO]Updates: Galaga_Senhor_20260203.rbf, Finalizer_Senhor_20260203.rbf[/INFO]
 [INFO]Updates: ExpressRaider_Senhor_20260203.rbf, Exidy2_Senhor_20260203.rbf[/INFO]
