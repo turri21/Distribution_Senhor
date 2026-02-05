@@ -3,7 +3,7 @@
 [INFO]New MiSTer binary - 22/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Atari800VBXE_Senhor_20260128.rbf, SegaChannelRevival_Senhor_20260120.rbf[/INFO]
-[INFO]Updates: Jailbreak_Senhor_20260204.rbf[/INFO]
+[INFO]Updates: MCR2_Senhor_20260205.rbf, Jailbreak_Senhor_20260204.rbf[/INFO]
 [INFO]Updates: LadyBug_Senhor_20260204.rbf, Jackal_Senhor_20260204.rbf[/INFO]
 [INFO]Updates: IremM90_Senhor_20260204.rbf, IremM72_Senhor_20260204.rbf[/INFO]
 [INFO]Updates: IremM62_Senhor_20260204.rbf, Gyruss_Senhor_20260204.rbf[/INFO]
