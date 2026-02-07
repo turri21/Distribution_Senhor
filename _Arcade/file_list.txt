@@ -298,7 +298,6 @@ Pirate Pete.mra
 Pisces.mra
 Pitfall II.mra
 Playball (Prototype).mra
-Pleiads (Centuri).mra
 Pleiads (Tehkan).mra
 Plus Alpha.mra
 Polaris.mra
