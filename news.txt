@@ -3,6 +3,7 @@
 [INFO]New MiSTer binary - 22/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Atari800VBXE_Senhor_20260128.rbf, SegaChannelRevival_Senhor_20260120.rbf[/INFO]
+[INFO]Updates: Pleiads_Senhor_20260207.rbf[/INFO]
 [INFO]Updates: Phoenix_Senhor_20260205.rbf, Pengo_Senhor_20260205.rbf[/INFO]
 [INFO]Updates: MysticMarathon_Senhor_20260205.rbf, MrDo_Senhor_20260205.rbf[/INFO]
 [INFO]Updates: MCR3Mono_Senhor_20260205.rbf, MoonPatrol_Senhor_20260206.rbf[/INFO]
