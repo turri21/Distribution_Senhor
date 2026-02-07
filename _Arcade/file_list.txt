@@ -300,7 +300,6 @@ Pitfall II.mra
 Playball (Prototype).mra
 Pleiads (Centuri).mra
 Pleiads (Tehkan).mra
-Pleiads.mra
 Plus Alpha.mra
 Polaris.mra
 Poly Play 2.mra
