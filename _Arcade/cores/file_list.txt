@@ -153,7 +153,7 @@ MysticMarathon_Senhor_20260205.rbf
 NaughtyBoy_Senhor_20260118.rbf
 Nemesis_Senhor_20250604.rbf
 NextSpace_Senhor_20250509.rbf
-NinjaKun_Senhor_20250124.rbf
+NinjaKun_Senhor_20260207.rbf
 Pacman_Senhor_20260118.rbf
 Pengo_Senhor_20260205.rbf
 PenguinKunWars_Senhor_20240531.rbf
