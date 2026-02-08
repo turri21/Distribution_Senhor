@@ -173,7 +173,7 @@ RallyX_Senhor_20240602.rbf
 RiverPatrol_Senhor_20240602.rbf
 Robotron_Senhor_20240602.rbf
 RshnAtk_Senhor_20240602.rbf
-Salamander_Senhor_20241030.rbf
+Salamander_Senhor_20260205.rbf
 ScooterShooter_Senhor_20240602.rbf
 Scramble_Senhor_20250320.rbf
 SEGASYS1and2_Senhor_20250429.rbf
