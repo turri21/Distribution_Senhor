@@ -199,7 +199,7 @@ SuprLoco_Senhor_20240616.rbf
 TaitoF2_Senhor_20251010.rbf
 TaitoSJ_Senhor_20260117.rbf
 TankBattalion_Senhor_20250127.rbf
-Tecmo_Senhor_20250226.rbf
+Tecmo_Senhor_20260209.rbf
 tekipaki_Senhor_20250501.rbf
 TIAMC1_Senhor_20250128.rbf
 TimePilot84_Senhor_20240604.rbf
