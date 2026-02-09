@@ -3,7 +3,7 @@
 [INFO]New MiSTer binary - 22/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Atari800VBXE_Senhor_20260128.rbf, SegaChannelRevival_Senhor_20260120.rbf[/INFO]
-[INFO]Updates: Tecmo_Senhor_20260209.rbf[/INFO]
+[INFO]Updates: NeoGeo_Senhor_20260209.rbf, Tecmo_Senhor_20260209.rbf[/INFO]
 [INFO]Updates: C128_Senhor_20260209.rbf, XSleena_Senhor_20260209.rbf[/INFO]
 [INFO]Updates: Psychic5_Senhor_20260205.rbf, Pooyan_Senhor_20260205.rbf[/INFO]
 [INFO]Updates: TOWNS_Senhor_20260209.rbf, SpaceInvaders_Senhor_20260205.rbf[/INFO]
