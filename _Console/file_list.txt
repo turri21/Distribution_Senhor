@@ -33,7 +33,7 @@ MyVision_Senhor_20251225.rbf
 N64-Turbo_Senhor_20250815.rbf
 N64_Senhor_20260120.rbf
 NeoGeoPocket_Senhor_20250820.rbf
-NeoGeo_Senhor_20251215.rbf
+NeoGeo_Senhor_20260209.rbf
 NES_Senhor_20251223.rbf
 Odyssey2_Senhor_20260121.rbf
 PocketChallengeV2_Senhor_20250811.mgl
