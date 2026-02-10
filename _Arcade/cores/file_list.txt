@@ -175,7 +175,7 @@ Robotron_Senhor_20240602.rbf
 RshnAtk_Senhor_20240602.rbf
 Salamander_Senhor_20260205.rbf
 ScooterShooter_Senhor_20260205.rbf
-Scramble_Senhor_20250320.rbf
+Scramble_Senhor_20260205.rbf
 SEGASYS1and2_Senhor_20250429.rbf
 SEGASYS1_Senhor_20250913.rbf
 SegaVICZ80_Senhor_20260118.rbf
@@ -194,7 +194,7 @@ Sprint2_Senhor_20250121.rbf
 Starforce_Senhor_20250916.rbf
 ST-V_Senhor_20250921.rbf
 Subs_Senhor_20250121.rbf
-SuperBreakout_Senhor_20250128.rbf
+SuperBreakout_Senhor_20260206.rbf
 SuprLoco_Senhor_20240616.rbf
 TaitoF2_Senhor_20251010.rbf
 TaitoSJ_Senhor_20260117.rbf
