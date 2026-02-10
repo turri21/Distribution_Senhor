@@ -185,7 +185,7 @@ SlapFight_Senhor_20260128.rbf
 SNK68_Senhor_20250510.rbf
 SNK_TripleZ80_Senhor_20260119.rbf
 snowbro2_Senhor_20250502.rbf
-SolomonsKey_Senhor_20240527.rbf
+SolomonsKey_Senhor_20260210.rbf
 Sonson_Senhor_20240527.rbf
 SpaceInvaders_Senhor_20260205.rbf
 SpaceRace_Senhor_20240527.rbf
