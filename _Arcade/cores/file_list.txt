@@ -195,7 +195,7 @@ Starforce_Senhor_20250916.rbf
 ST-V_Senhor_20250921.rbf
 Subs_Senhor_20260210.rbf
 SuperBreakout_Senhor_20260206.rbf
-SuprLoco_Senhor_20240616.rbf
+SuprLoco_Senhor_20260206.rbf
 TaitoF2_Senhor_20251010.rbf
 TaitoSJ_Senhor_20260117.rbf
 TankBattalion_Senhor_20250127.rbf
