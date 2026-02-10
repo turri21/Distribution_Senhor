@@ -170,11 +170,11 @@ Psychic5_Senhor_20260205.rbf
 QBert_Senhor_20260205.rbf
 Rallybike_Senhor_20250504.rbf
 RallyX_Senhor_20260205.rbf
-RiverPatrol_Senhor_20240602.rbf
+RiverPatrol_Senhor_20260205.rbf
 Robotron_Senhor_20240602.rbf
 RshnAtk_Senhor_20240602.rbf
 Salamander_Senhor_20260205.rbf
-ScooterShooter_Senhor_20240602.rbf
+ScooterShooter_Senhor_20260205.rbf
 Scramble_Senhor_20250320.rbf
 SEGASYS1and2_Senhor_20250429.rbf
 SEGASYS1_Senhor_20250913.rbf
