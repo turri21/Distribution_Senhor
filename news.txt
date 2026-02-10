@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.5[/INFO]
 [INFO]New MiSTer binary - 22/1/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: Tutankham_Senhor_20260210.rbf[/INFO]
 [INFO]New Cores: Atari800VBXE_Senhor_20260128.rbf, SegaChannelRevival_Senhor_20260120.rbf[/INFO]
 [INFO]Updates: SilverLand_Senhor_20260210.rbf[/INFO]
 [INFO]Updates: Scramble_Senhor_20260205.rbf, SuperBreakout_Senhor_20260206.rbf[/INFO]
