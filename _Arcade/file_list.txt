@@ -457,6 +457,7 @@ Truxton II - Tatsujin Oh.mra
 Turbo Tag (Prototype).mra
 Turkey Shoot - The Day They Took Over.mra
 Turtles.mra
+Tutankham.mra
 TwinBee (Bubble System).mra
 TwinBee.mra
 Two Tigers (Tron Conversion).mra
