@@ -4,7 +4,7 @@
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Tutankham_Senhor_20260210.rbf[/INFO]
 [INFO]New Cores: Atari800VBXE_Senhor_20260128.rbf, SegaChannelRevival_Senhor_20260120.rbf[/INFO]
-[INFO]Updates: C128_Senhor_20260211.rbf[/INFO]
+[INFO]Updates: TankBattalion_Senhor_20260211.rbf, C128_Senhor_20260211.rbf[/INFO]
 [INFO]Updates: TimePilot_Senhor_20260206.rbf, TimePilot84_Senhor_20260210.rbf[/INFO]
 [INFO]Updates: TaitoF2_Senhor_20260210.rbf, SlapFight_Senhor_20260210.rbf[/INFO]
 [INFO]Updates: SuprLoco_Senhor_20260206.rbf, Subs_Senhor_20260210.rbf[/INFO]
