@@ -1,5 +1,5 @@
 [TITLE]Important Updates[/TITLE]
-[INFO]New linux.img -- replace the old one in /media/fat/linux/
+[INFO]New linux.img -- replace the old one in /media/fat/linux/[/INFO]
 [INFO]https://github.com/turri21/Senhor/tree/main/Linux_Image[/INFO]
 [INFO]---------------------------------------------------------[/INFO]
 [INFO]New update_senhor.sh script v1.5[/INFO]
