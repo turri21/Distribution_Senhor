@@ -7,7 +7,7 @@
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Tutankham_Senhor_20260210.rbf[/INFO]
 [INFO]New Cores: Atari800VBXE_Senhor_20260128.rbf, SegaChannelRevival_Senhor_20260120.rbf[/INFO]
-[INFO]Updates: Amstrad_Senhor_20260217.rbf[/INFO]
+[INFO]Updates: MSX_Senhor_20260217.rbf, Amstrad_Senhor_20260217.rbf[/INFO]
 [INFO]Updates: Saturn_Senhor_20260216.rbf, SNES_Senhor_20260216.rbf[/INFO]
 [INFO]Updates: Atari7800_Senhor_20260215.rbf, PSX_Senhor_20260214.rbf[/INFO]
 [INFO]Updates: Tutankham_Senhor_20260214.rbf, IremM72_Senhor_20260212.rbf[/INFO]
