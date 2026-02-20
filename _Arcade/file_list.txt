@@ -1,496 +1,496 @@
-280Z-ZZAP (US).mra
-4D Warriors (315-5162).mra
-ASO.mra
-Ah Eikou no Koshien (Japan).mra
-Air Assault (World).mra
-Air Duel (World, M72 hardware).mra
-Alcon Bootleg.mra
-Ali Baba and 40 Thieves.mra
-Alien Arena (Stargate upgrade).mra
-Alpine Ski.mra
-Amazing Maze.mra
-Amidar (Scramble).mra
-Anteater.mra
-Argus no senshi (Japan).mra
-Arkanoid (JP).mra
-Arkanoid (US).mra
-Arkanoid (Unl. Lives, slower) [hb].mra
-Arkanoid (Unl. lives) [hb].mra
-Arkanoid (W).mra
-Armed F (Japan).mra
-Armed Police Batrider Special Ver. (USA) (Fri Feb 13 1998).mra
-Armored Car.mra
-Asteroids Deluxe.mra
-Asteroids.mra
-Astro Flash (Japan).mra
-Athena.mra
-Attack Force.mra
-Azurian Attack.mra
-Bagman.mra
-Balloon Bomber.mra
-Baluba-louk no Densetsu (Japan).mra
-BankPanic.mra
-Battle Bakraid - Unlimited Version Special Ver. (USA) (Tue Jun 8 1999).mra
-Battle Garegga (Europe - USA - Japan - Asia) (Sat Feb 3 1996).mra
-Battle Zone rev 2.mra
-Battle of Atlantis.mra
-Berzerk.mra
-Billiard.mra
-Bio Attack.mra
-Birdiy.mra
-Black Hole.mra
-Black Widow.mra
-Blade Master (World).mra
-Blasto.mra
-Block Gal.mra
-BlockBuster.mra
-Blockade.mra
-Blue Shark.mra
-Bomb Jack.mra
-Bomber Man - Dyna Blaster.mra
-Bomber Man World - New Dyna Blaster - Global Quest.mra
-Boot Hill.mra
-Bosconian - Star Destroyer (new version).mra
-Botanic (English, Spanish, Set 1).mra
-Bradley Trainer.mra
-Brain.mra
-Breakout (TTL).mra
-Bubbles.mra
-Bull Fight (315-5056).mra
-Burger Time (Set 1).mra
-Burnin' Rubber.mra
-Calipso.mra
-Cameltry (World, YM2610).mra
-Canyon Bomber.mra
-Carnival.mra
-Catacomb.mra
-Centipede (Rev 4).mra
-Chameleon.mra
-Choplifter (unprotected).mra
-Chouji Meikyuu Legion (Japan ver 1.05, set 2).mra
-Clean Sweep.mra
-Clowns.mra
-CoMotion.mra
-Colony 7 (Set 1).mra
-Combat Hawk.mra
-Computer Space.mra
-Congo Bongo.mra
-Cosmic Alien.mra
-Cosmic Avenger.mra
-Cosmic Guerilla.mra
-Cosmo Police Galivan (12-26-1985).mra
-Cosmo.mra
-Country Club.mra
-Crater Raider.mra
-Crazy Balloon.mra
-Crazy Blocks.mra
-Crazy Climber.mra
-Crazy Kong (Kyoei).mra
-Crazy Kong Part II (Set 1).mra
-Crush Roller (Set 2).mra
-Crystal Castles.mra
-Dakkochan House (MC-8123).mra
-Dark Planet.mra
-Dead Connection (World).mra
-Defender (Red Label).mra
-Demolition Derby (MCR-3 Mono Board Version).mra
-Demon's World - Horror Story (Set 3).mra
-Devil Fish (Galaxian Hardware).mra
-Devil Zone.mra
-Dig Dug (Rev 2).mra
-Dig Dug II (New Ver).mra
-Dino Rex (World).mra
-Discs of Tron.mra
-DoDonPachi.mra
-Domino Man.mra
-Dominos.mra
-Don Doko Don (World, rev 1).mra
-DonPachi.mra
-Donkey Kong (US, Set 1).mra
-Donkey Kong 3 (US).mra
-Donkey Kong Junior (US, Set F-2).mra
-Dorodon (Set 1).mra
-Dottori-Kun (new).mra
-Dragon Breed (Japan, M72 hardware).mra
-Dream Shopper.mra
-Dream Soccer '94 (World, M107 hardware).mra
-Drift Out (Europe).mra
-ESP Ra.De..mra
-Eeek! (Pac-Man Conversion).mra
-Eggor.mra
-Elevator Action Bootleg.mra
-Euro Champ '92 (World).mra
-Exerion (Taito).mra
-Express Raider.mra
-Extra Bases.mra
-Eyes (US, Set 1).mra
-Fantasy Zone II - The Tears of Opa-Opa (System 16C version).mra
-Fantasy Zone II - The Tears of Opa-Opa.mra
-Faster, Harder, More Challenging Q`Bert (prototype).mra
-Fever SOS.mra
-Fighting Golf.mra
-Final Blow (World).mra
-Finalizer - Super Transformation (Set 1).mra
-Finalizer - Super Transformation (Set 2) [bl].mra
-Finalizer - Super Transformation (Set 2).mra
-Flicky (128k Version, 315-5051).mra
-Food Fight (Rev 3).mra
-Football Champ - Euro Football Champ (World).mra
-Freeze.mra
-Frenzy (Rev RA1).mra
-Frogger (Konami Bugfixed).mra
-Future Spy (315-5061).mra
-Gaia Crusaders.mra
-Galactic Warriors.mra
-Galaga (Midway, Set 1).mra
-Galaga 3 (GP3 Rev D).mra
-Galaga 3 - Gaplus (GP2 Rev B).mra
-Galaxian (Namco, Set 1).mra
-Galaxy Wars (Universal, Set 1).mra
-Gallop - Armed Police Unit (Japan, M72 hardware).mra
-Gang Wars.mra
-Gaplus (GP2 Rev B).mra
-Gardia (317-0006).mra
-Gauntlet (rev 14).mra
-Gauntlet II.mra
-Gemini Wing.mra
-Gold Medalist (Set 1, Alpha68k II PCB).mra
-Gorf.mra
-Gorkans.mra
-Gorodki.mra
-Gradius.mra
-Gravitar (Ver 3).mra
-Grobda (W, New Ver.).mra
-Growl (World, Rev 1).mra
-Gun & Frontier (World).mra
-Gun Fight.mra
-Gun Force II (US).mra
-Gunforce - Battle Fire Engulfed Terror Island (World).mra
-Guwange.mra
-Gyruss.mra
-Hachoo.mra
-Hammerin' Harry (US, M84 hardware).mra
-Hang On Jr.mra
-Hard Hat.mra
-Heavy Metal (315-5135).mra
-Hellfire (2P Set).mra
-High Way Race.mra
-Hook (World).mra
-Horizon (Irem).mra
-Hotdog Storm.mra
-Hustle.mra
-I'm Sorry (US, 315-5110).mra
-Iga Ninjyutsuden (Japan).mra
-Ikari III - The Rescue (World Version 1, 8-Way Joystick).mra
-Ikari Warriors.mra
-Image Fight (World).mra
-In The Hunt (World).mra
-In Your Face (US, Prototype).mra
-Indiana Jones (set 4).mra
-Inferno (Williams).mra
-Iron Horse (Ver. K).mra
-Jack the Giantkiller (set 1).mra
-Jackal (W) [bl].mra
-Jackal (W).mra
-Jackal (W, Rotary).mra
-Jailbreak.mra
-Jin.mra
-Jitsuryoku!! Pro Yakyuu (Japan).mra
-Journey.mra
-Joust 2 - Survival of the Fittest (revision 2).mra
-Joust.mra
-Jump Shot.mra
-Jungle King.mra
-Kick And Run.mra
-Kick.mra
-Kid Niki - Radical Ninja (W).mra
-Kid no Hore Hore Daisakusen.mra
-King and Balloon (US).mra
-Kingdom Grandprix.mra
-Konek Gorbunok.mra
-Kot-Rybolov.mra
-Kozmik Krooz'r.mra
-Kozure Ookami (Japan).mra
-Kung-Fu Master (W).mra
-Lady Bug.mra
-Laguna Racer.mra
-Legend of Hero Tonma (Japan).mra
-Lethal Thunder (World).mra
-Lifeforce (Japan).mra
-Liquid Kids (World).mra
-Lizard Wizard.mra
-Lode Runner (Set 1).mra
-Lode Runner II - The Bungeling Strikes Back.mra
-Lode Runner III - The Golden Labyrinth.mra
-Lode Runner IV - Teikoku Karano Dasshutsu (JP).mra
-Lost Tomb.mra
-Lucky Today.mra
-Lunar Battle (Prototype).mra
-Lunar Lander.mra
-Lunar Rescue.mra
-Lupin III (Set 2).mra
-Mad Planets.mra
-Magical Spot.mra
-Major Title 2 (World, set 1).mra
-Mappy (US).mra
-Marble Madness (set 5 - LSI).mra
-Mario Bros. (US, Rev G).mra
-Mars.mra
-Max RPM (v2).mra
-Mayday (Set 1).mra
-Mega Blast (World).mra
-Megumi Rescue (Japan).mra
-Metal Black (World).mra
-Mighty Monkey (Scramble Hardware) [bl].mra
-Minefield.mra
-Missile Command (rev 3).mra
-Mister Viking (315-5041).mra
-Moon Cresta (Galaxian Hardware) [bl].mra
-Moon Patrol.mra
-Moon Quasar.mra
-Moon War.mra
-Motos.mra
-Mouse Trap.mra
-Mr. Do Nightmare.mra
-Mr. Do!.mra
-Mr. Goemon.mra
-Mr. HELI no Daibouken (Japan).mra
-Mr. Jong.mra
-Mr. TNT.mra
-Ms. Pac-Man.mra
-My Hero (US, not Encrypted).mra
-Mystic Marathon.mra
-Mystic Riders (World).mra
-Naughty Boy (Jaleco).mra
-Nemesis (ROM Version).mra
-New Rally-X.mra
-Ninja Baseball Bat Man (World).mra
-Ninja Spirit (Japan).mra
-Ninjakun.mra
-No Mans Land.mra
-Noboranka (bootleg).mra
-Nova 2001.mra
-Number Crash.mra
-Omega [bl].mra
-Opa Opa (Rev A, unprotected).mra
-Opa Opa.mra
-Orbitron.mra
-Out Zone.mra
-P-47 - The Freedom Fighter (Japan).mra
-P.O.W. - Prisoners of War (US Version 1).mra
-Pac & Pal.mra
-Pac-Man & Chomp Chomp.mra
-Pac-Man - Puck Man (JP, Set 1).mra
-Pac-Man Club- Club Lambada (AR).mra
-Pac-Man Plus.mra
-Pac-Manic Miner.mra
-Paddle Mania.mra
-Pengo (Set 1, Rev C).mra
-Penguin-Kun Wars.mra
-Pepper II.mra
-Performan (Japan).mra
-Pest Place.mra
-Peter Pack Rat.mra
-Phoenix (Amstar, Set 1).mra
-Pickin'.mra
-Pipi & Bibis - Whoopee!! (Z80 sound cpu, set 1).mra
-Pirate Pete.mra
-Pisces.mra
-Pitfall II.mra
-Playball (Prototype).mra
-Pleiads (Tehkan).mra
-Plus Alpha.mra
-Polaris.mra
-Poly Play 2.mra
-Poly Play.mra
-Pong (Rev E).mra
-Ponpoko.mra
-Pooyan.mra
-Pop Flamer (Bootleg conversion).mra
-Popeye (Rev D).mra
-Port Man (bootleg on Moon Cresta hardware).mra
-Portman (Galaxian Hardware).mra
-Power Drive.mra
-Prehistoric Isle in 1930 (World).mra
-Psychic 5 (World).mra
-PuLiRuLa (World, dual PCB).mra
-Puck Man (JP, Set 1).mra
-Pulsar.mra
-Puzzle Uo Poko.mra
-Q'bert (US, Set 1).mra
-QBert Qubes.mra
-R-Type (World).mra
-R-Type II (World).mra
-R-Type Leo (World).mra
-Radar Scope (rev. D).mra
-Rafflesia (315-5162).mra
-Raiders5.mra
-Rally Bike - Dash Yarou.mra
-Rally-X (32k Ver).mra
-Rampage (Rev 3, 860827).mra
-Red Baron (Revised Hardware).mra
-Red Baron.mra
-Regulus (315-5033, Rev A).mra
-Rescue.mra
-Riddle of Pythagoras (Japan).mra
-Risky Challenge.mra
-River Patrol (JP, Unprotected).mra
-Road Blasters (upright, rev 4).mra
-Road Runner (rev 2).mra
-Robotron 2084.mra
-Rod-Land (World, Set 1).mra
-Rush'n Attack - Green Beret.mra
-Rygar.mra
-S.O.S..mra
-SAR - Search And Rescue (World).mra
-Saint Dragon (Set 1).mra
-Salamander (version J).mra
-Same! Same! Same! (2P Set).mra
-Sarge.mra
-Satan's Hollow (Set 1).mra
-Scooter Shooter.mra
-Scramble (Stern, Set 1).mra
-Sea Wolf (Set 1).mra
-Sea Wolf II.mra
-Sega Ninja (315-5102).mra
-Sei Senshi Amatelass.mra
-Shot Rider (B-Board 89624B-1).mra
-Shuffleboard.mra
-Silkworm.mra
-Silver Land.mra
-Sinistar.mra
-Sky Adventure (World).mra
-Sky Skipper.mra
-Sky Soldiers (US).mra
-Slap Shooter.mra
-SlapFight Bootleg.mra
-Snap Jack.mra
-Snezhnaja Koroleva.mra
-Snow Bros. 2 - With New Elves - Otenki Paradise (Hanafram).mra
-Solar Fox.mra
-Soldam.mra
-Solitary Fighter (World).mra
-Solomon's Key.mra
-SonSon.mra
-Sorcer Striker.mra
-Space Chaser.mra
-Space Cruiser.mra
-Space Encounters.mra
-Space Invaders Part II (Taito, Bigger ROMs).mra
-Space Invaders.mra
-Space Panic.mra
-Space Race [TTL].mra
-Space Seeker.mra
-Space Zap.mra
-Spatter (315-5xxx).mra
-Spectar.mra
-Speed Coin.mra
-Spelunker II - 23 no Kagi (JP).mra
-Spelunker.mra
-Splat!.mra
-Sprint 1.mra
-Sprint 2.mra
-Spy Hunter.mra
-Squash.mra
-Star Guards.mra
-Star Jacker.mra
-StarForce.mra
-Stargate.mra
-Strategy X.mra
-Street Smart (US Version 2).mra
-Subs.mra
-Super Bagman.mra
-Super Breakout (Rev 04).mra
-Super Casino.mra
-Super Cobra.mra
-Super Glob (Pac-Man, German) [bl].mra
-Super Locomotive (old).mra
-Super Locomotive.mra
-Super Pac-Man.mra
-Super Space Invaders '91 (World, revised code, Rev 1).mra
-Super Xevious.mra
-Super Zaxxon (315-5013).mra
-Superior Soldiers (US).mra
-Swat (315-5048).mra
-TARG.mra
-TNKIII.mra
-TankBattalion.mra
-Tapper (Budweiser, 840127).mra
-Tatakae! Big Fighter (Japan).mra
-Tazz-Mania (Set 1).mra
-TeddyBoy Blues (315-5115, New Ver).mra
-Teki Paki.mra
-Terra Cresta (YM3526 set 1).mra
-Terra Force (Japan).mra
-Tetris (Japan, System E).mra
-Tetris.mra
-The Adventures of Robby Roto!.mra
-The Battle-Road.mra
-The End.mra
-The Glob (Pac-Man Hardware).mra
-The Lord of King (Japan).mra
-The Next Space (Japan).mra
-The Ninja Kids (World).mra
-The Tower of Druaga.mra
-Thunder Fox (World, rev 1).mra
-Thunder Heroes.mra
-Tiger Heli Bootleg.mra
-Timber.mra
-Time Pilot '84 (Set 1).mra
-Time Pilot '84 (Set 2).mra
-Time Pilot '84 (Set 3).mra
-Time Pilot.mra
-Time Soldiers (US Rev 3).mra
-Time Tunnel.mra
-Tip Top (3 board stack).mra
-Toki no Senshi - Chrono Soldier.mra
-Tokushu Butai Jackal (JP).mra
-Top Gunner (US) [bl].mra
-Top Gunner (US).mra
-Transformer.mra
-Traverse USA- Zippy Race (US).mra
-Tri-Pool (Casino Tech).mra
-Tron.mra
-Tropical Angel.mra
-Truxton - Tatsujin.mra
-Truxton II - Tatsujin Oh.mra
-Turbo Tag (Prototype).mra
-Turkey Shoot - The Day They Took Over.mra
-Turtles.mra
-Tutankham II.mra
-Tutankham.mra
-TwinBee (Bubble System).mra
-TwinBee.mra
-Two Tigers (Tron Conversion).mra
-UFO Senshi Youko Chan [MC-8123, 317-0064].mra
-Ufo Robo Dangar (4-07-1987).mra
-Ultra Tank.mra
-Undercover Cops (World).mra
-UniWar S.mra
-Up'n Down.mra
-V'Ball (US).mra
-Van-Van Car.mra
-Venture Revision 5.mra
-Victory Road.mra
-Victory.mra
-Vimana (Japan).mra
-Vindicators Part II (rev 3).mra
-Vortex.mra
-Wacko.mra
-War of the Bugs.mra
-Water Match (315-5064).mra
-Water Ski.mra
-Western Express (Japan, rev 4).mra
-Wild Western.mra
-Wizard of Wor.mra
-Wonder Boy (Set 1, 315-5177).mra
-Wonder Boy in Monster Land.mra
-Woodpecker (Set 1).mra
-X Multiply (Japan, M72 hardware).mra
-Xain'd Sleena (bootleg, bugfixed).mra
-Xevious.mra
-Youjyuden (JP).mra
-Zaxxon (Set 1, Rev D).mra
-Zero Wing (2P Set).mra
-Zig Zag (Dig Dug Conversion) [bl].mra
-Zzyzzyxx (set 1).mra
+280Z-ZZAP (US).mra|897f479a94a6712ada32b9f7e8ca3759|703469
+4D Warriors (315-5162).mra|f3aa3fe68cb0cff7fcb73764f7f951b2|3167
+Ah Eikou no Koshien (Japan).mra|590b0b9816637049c4a1ac20d618ed15|2550
+Air Assault (World).mra|794de9ce9881edaddf37439278572ae6|3845
+Air Duel (World, M72 hardware).mra|6db3376e5a00f070ef70a4d7d3cfc796|3144
+Alcon Bootleg.mra|358cd033bb4e4ae9c48717594453f097|2225
+Ali Baba and 40 Thieves.mra|a491a580ff843ecaefa130d45e164f5e|2483
+Alien Arena (Stargate upgrade).mra|3604607494b0de072619036ab680b400|4130
+Alpine Ski.mra|c02eeb523e157c13c56e0ed9bfcf2c20|2285
+Amazing Maze.mra|b43dc793ac8ae015e08f0d89959fddbe|133527
+Amidar (Scramble).mra|bee70136b9bef3af4b9099c143ecd078|2482
+Anteater.mra|469ce72969dc36c17dabb5863394e693|2288
+Argus no senshi (Japan).mra|1ea956f48472a017965fe004b8a314ec|2207
+Arkanoid (JP).mra|29d6a40e5a922045a2d32f2f7822bab3|2569
+Arkanoid (Unl. lives) [hb].mra|2f16222b779bdb9f32ff31997115952a|2647
+Arkanoid (Unl. Lives, slower) [hb].mra|ec57cb862ce077514ef37fbaa5461d22|2895
+Arkanoid (US).mra|ddaf972c6f65ded4be3b93b5dd3e7e00|2539
+Arkanoid (W).mra|21d9724d9e7bfd9ccb5100035d4399bb|2554
+Armed F (Japan).mra|5d088c6ec9d1e573d74bbf189e93c687|2889
+Armed Police Batrider Special Ver. (USA) (Fri Feb 13 1998).mra|2870dd526a36d635e6990c7e2a3ccbfe|6251
+Armored Car.mra|8eaec488ef68f6b57514303e466cae38|2367
+ASO.mra|9aaa8d9304d2a3e6474e38a868179127|3288
+Asteroids Deluxe.mra|e88a8d6fcbf28cc552327dce0a41da7b|1997678
+Asteroids.mra|4c310383bca5ecca72fab53c1fa5f27d|671
+Astro Flash (Japan).mra|c4c8b49224f08af7636ff3fa02a8e7f5|3155
+Athena.mra|b137674a642cf2f4ce9e4f591db69557|3191
+Attack Force.mra|bcb6c4a40c35fd465ae0e19bd7f027b7|5972
+Azurian Attack.mra|1cd03cae96dc0e5996292e70a7092c74|1971
+Bagman.mra|d2a683e1f2ba3c1ad51a491f82fba372|2320
+Balloon Bomber.mra|0e1f384fc50d843504465641bd8198b4|372941
+Baluba-louk no Densetsu (Japan).mra|3b20f7335fc1255a38a6b0ee36b3dc2b|3282
+BankPanic.mra|1282b084e832c1deae845138afd8ad4d|2253
+Battle Bakraid - Unlimited Version Special Ver. (USA) (Tue Jun 8 1999).mra|9ff38276c2b5b9509e2aaa615de9a42e|5128
+Battle Garegga (Europe - USA - Japan - Asia) (Sat Feb 3 1996).mra|a5e3b3d57db9db4e83e8691b4546f2b3|4002
+Battle of Atlantis.mra|0a1383a945d7edce8c9f05e180f84c17|2816
+Battle Zone rev 2.mra|793079b31cb8ff0d40edd68d24afb729|1758
+Berzerk.mra|97d688e4b2bf3c2d1c44548579b8b593|1868
+Billiard.mra|72c97e7f3328bc459bc15ff3d95244b3|1345
+Bio Attack.mra|59bfc4de7fad30a439037b38d3a5e892|2182
+Birdiy.mra|c28a578085c7315bc796af70669b8e6f|1956
+Black Hole.mra|65f2337ffb71eab7d9028e327a835c78|2078
+Black Widow.mra|9dc5a9ce4bcb8a3b5f7cd5978e195754|2767
+Blade Master (World).mra|4c8c33416bcd848daf9f85c7e2449678|6757
+Blasto.mra|805a3626a8420f73ecb4460a8b2da331|1196
+Block Gal.mra|9fcdfefb8eed826e2175f2382565f340|199102
+Blockade.mra|7a8383854ec0139346d6a26994c32a3a|1032
+BlockBuster.mra|177032ee4be897ef9316c25ddd298c98|1601
+Blue Shark.mra|7d3b3d44618516ef8750773414c3bd59|825681
+Bomb Jack.mra|3a24c7e7aa38beb3bb93645a3fb4f949|2449
+Bomber Man - Dyna Blaster.mra|4c295c893de3d89994735ccb483fdfdd|3653
+Bomber Man World - New Dyna Blaster - Global Quest.mra|e4c2ab2d79739eabebe99b3cb9719610|3639
+Boot Hill.mra|bb7e48529c7c5d9e18894bca7f276360|504387
+Bosconian - Star Destroyer (new version).mra|d402ba70891cf5aecb8406034bbdc4bb|3425
+Botanic (English, Spanish, Set 1).mra|dc3b6b54baf20e3f80701729bc367417|2121
+Bradley Trainer.mra|5527a712cf8d3ce13ca12687cf18b32f|1704
+Brain.mra|a91cb587e7205b66b73474f422cbb680|2224
+Breakout (TTL).mra|649745b79d2fc5c7fb3e5de393f8c97a|1273
+Bubbles.mra|5f171c6c75aab7337db34b19bcaaf0fd|4096
+Bull Fight (315-5056).mra|16a99d6a22186bb625bd0defc24d41dc|2827
+Burger Time (Set 1).mra|e745a5849ad492160904e4726ecfa4db|2807
+Burnin' Rubber.mra|965c00df5587e2dc51a462497ee714dc|2461
+Calipso.mra|e67a88b85c1f1d0f382c440a3b222056|2353
+Cameltry (World, YM2610).mra|a8132fe467b87bacacc03f476cb200f5|2042
+Canyon Bomber.mra|f6df6e5ed27e54a3a3e9d689a94dfb0f|1376
+Carnival.mra|f248a3fe3ebaad4decda9dad9d8ec04a|2078956
+Catacomb.mra|f318a8c59e69f2429998682e7ed5e823|1939
+Centipede (Rev 4).mra|2857a5b6415f8844fad454e4d388ea1d|1944
+Chameleon.mra|e4410d2f4057ce065436a7e9de5aa06a|2572
+Choplifter (unprotected).mra|086bb65a270cfac61e1fe8ef6b5702e5|2370
+Chouji Meikyuu Legion (Japan ver 1.05, set 2).mra|5b97135f35535e9dd3159d40db3861dc|3010
+Clean Sweep.mra|74bed1c3bc9f17561c0dca7f4f92d7bb|76031
+Clowns.mra|dd480dcb3d9619c13c26be6e98963428|161623
+Colony 7 (Set 1).mra|eda07db4e167bb2c3cf2377a1d7f69fc|1801
+Combat Hawk.mra|d51ee6866f555aa20474ad11fd1604fb|2129
+CoMotion.mra|31ae565520bc5c8d1a252a21cb491656|1059
+Computer Space.mra|1c5c33d1d3b083c8e173fbc086301a5c|1147
+Congo Bongo.mra|9b8746f0295ee9d398462aa52306b319|2088
+Cosmic Alien.mra|5c5086ccd6fef4024f8b28d3b2e67a6e|3370749
+Cosmic Avenger.mra|37560eb1f5262ca8ffc67a6ba55863a1|2951
+Cosmic Guerilla.mra|cc910024a6747e4768559fd673d6316e|884919
+Cosmo Police Galivan (12-26-1985).mra|51e595242ac4ae403ed81eecc81d4849|2699
+Cosmo.mra|6cd8a994b5794393c76fd1dee8e1d004|2569
+Country Club.mra|4445be3c106107856ddf3ba9d141847c|3147
+Crater Raider.mra|f6bee4202ccf4b82ca5bea8ef61d5dd4|2560
+Crazy Balloon.mra|36fb1600d44a4b265815175e7643eb0a|1787
+Crazy Blocks.mra|86942bc9591daea99c719ce8866727dd|1598
+Crazy Climber.mra|5ce153dd4e7dffbee8abb58445a732a6|1646
+Crazy Kong (Kyoei).mra|f45c4ad142f93f3677b82e00072dffb6|2087
+Crazy Kong Part II (Set 1).mra|c581c4ea42e2043abaa8eacb24e5824f|2072
+Crush Roller (Set 2).mra|37046f5aa03bd1867d3f8edb8a7e4e2f|2771
+Crystal Castles.mra|ea9a5760de3d1b69226c14b50a254ff2|715
+Dakkochan House (MC-8123).mra|818971dbd67902cebeaeac94b7840c30|2324
+Dark Planet.mra|124974270f3808972bf31979cf600578|2268
+Dead Connection (World).mra|6e2ad54e0ed93f853d0dad9f7b5c54b7|2325
+Defender (Red Label).mra|ffd7e6453bc14992e6410703bd7deec0|2485
+Demolition Derby (MCR-3 Mono Board Version).mra|ec832993337b2dca06d078a75420a03d|2367
+Demon's World - Horror Story (Set 3).mra|9c0c84b6db96032b779eb3bab0ea7476|2714
+Devil Fish (Galaxian Hardware).mra|765c60202287c79e4813e8b95f6ea779|1908
+Devil Zone.mra|bf7a21e459ee1232539c40c5aba2f70c|1515138
+Dig Dug (Rev 2).mra|d05e2866d0d60eb323887b541b26d7b6|2063
+Dig Dug II (New Ver).mra|32e9d9bbb59f4e7590442c910c6568c6|1813
+Dino Rex (World).mra|0903b43db2fcee42f311d254f6b90c35|2343
+Discs of Tron.mra|a64d1bb1f0a51da73c9320d0613ac731|2712
+DoDonPachi.mra|d151d5875ae039afb94b476e5460a7fe|1640
+Domino Man.mra|5bf14e3485f4aba90dee925acccfbe39|2225
+Dominos.mra|060678a56697adc99a47a8e4d122fefa|1310
+Don Doko Don (World, rev 1).mra|b48258f778e040f6f61148d7a0e091d9|2282
+Donkey Kong (US, Set 1).mra|cd0bfd38d9aacb9910ee6aaa07a24598|87584
+Donkey Kong 3 (US).mra|2c2f3ba010df39eeb48763cf3c8641be|2286
+Donkey Kong Junior (US, Set F-2).mra|91197e7098444585836cbbf94c8e26f9|303760
+DonPachi.mra|90623a59598cd6ceed53ae6691ac132c|1393
+Dorodon (Set 1).mra|1fb8cc37e64730af18491a55bb05c352|3027
+Dottori-Kun (new).mra|b74ea7831fdbb8be6c44704360e12ffc|1055
+Dragon Breed (Japan, M72 hardware).mra|b13688329114e5526f86c53ece4908cb|3576
+Dream Shopper.mra|c1751eee0bf421523b5f1fe9cd7f33a5|2421
+Dream Soccer '94 (World, M107 hardware).mra|0515246230359612d873297879490600|4095
+Drift Out (Europe).mra|9ced252b86eb4b96132db344be1d9bbe|2022
+Eeek! (Pac-Man Conversion).mra|c33a28105ede518dc05cecc1a9899631|1917
+Eggor.mra|7c4393d524de449b4e4c254df5c52e2f|2806
+Elevator Action Bootleg.mra|4cb4403ce07178704701ad3b6d3a3d7a|2928
+ESP Ra.De..mra|35c3ab912596a556c41261d7b3866e19|1704
+Euro Champ '92 (World).mra|34455673572f86b62b472b8103e1cd90|2410
+Exerion (Taito).mra|37fcfe36c33201f62cc514111f47c1cb|1977
+Express Raider.mra|1cb102fa97b8fcde9d7d05f76b28d59c|2530
+Extra Bases.mra|980266f53bbcec18c58bdc15f60eae90|503501
+Eyes (US, Set 1).mra|cbf71555cfe086c712709c1500367d5b|2168
+Fantasy Zone II - The Tears of Opa-Opa (System 16C version).mra|01f46a46152fd7700d93a991437ddf8f|5112
+Fantasy Zone II - The Tears of Opa-Opa.mra|559c0e109d501f9360393334c7911c70|2056
+Faster, Harder, More Challenging Q`Bert (prototype).mra|5bdc160c23a46790962b15ac98758bf5|2141
+Fever SOS.mra|f3a2b6408e93665e2a245ab793054788|1329
+Fighting Golf.mra|0f69c5d1dc2918b77cffb0a096c9716b|3266
+Final Blow (World).mra|6d90c1daac71d70fb496c2f6959fdc06|2814
+Finalizer - Super Transformation (Set 1).mra|5f5864defc2232e3c0095059126bc0cd|2775
+Finalizer - Super Transformation (Set 2) [bl].mra|656e9f7b13916ad0e3a44751e1b4bdca|2759
+Finalizer - Super Transformation (Set 2).mra|3ee251a01ec1ea19a5a97e6de7e5b749|2805
+Flicky (128k Version, 315-5051).mra|860b0d195b88726c597abdc2db608876|2778
+Food Fight (Rev 3).mra|03a20773eaeeb060440dbb668ddd8492|1805
+Football Champ - Euro Football Champ (World).mra|77b217e21aab484a0f56231016c17233|2534
+Freeze.mra|a57442257e3d08a4bbde470c7bcb49d1|1895
+Frenzy (Rev RA1).mra|af4efe2e76811d8a492cfa7d47a7d1a4|4790
+Frogger (Konami Bugfixed).mra|9fe96fa744e60cabd99a1cf4da34875f|8095
+Future Spy (315-5061).mra|7098f9aa6807cec7c431d60d0adf31e4|2403723
+Gaia Crusaders.mra|69043047a5bbd7d7533b70a457e420d7|2050
+Galactic Warriors.mra|f339b756e147fef303456e421dc0a0e1|2436
+Galaga (Midway, Set 1).mra|70eaf0f5abf35142a887e3cb8af9a300|2969
+Galaga 3 (GP3 Rev D).mra|1cdbf903d85bd032743f868e935e5bf7|69660
+Galaga 3 - Gaplus (GP2 Rev B).mra|247489450809117a8f11949a9effacd9|69637
+Galaxian (Namco, Set 1).mra|c12279989130ba3f6feba0eca3270f3a|2200
+Galaxy Wars (Universal, Set 1).mra|e34547b2004935874509edaf533115c6|1907
+Gallop - Armed Police Unit (Japan, M72 hardware).mra|c670d6282d918f53f6a2ed96c31c44d7|4155
+Gang Wars.mra|4b6e8a2586e7176edb33c794b06199ee|2906
+Gaplus (GP2 Rev B).mra|247489450809117a8f11949a9effacd9|69637
+Gardia (317-0006).mra|2e7dc860642acf4465594a3ea79600e6|3194
+Gauntlet (rev 14).mra|701359f7af866474e2937df39d98a79d|2329
+Gauntlet II.mra|005a40ff798ed7194d4aeb5352c26e93|2800
+Gemini Wing.mra|194d7f1a970b3639d6c5a94af14cad14|2568
+Gold Medalist (Set 1, Alpha68k II PCB).mra|5ecb636c2bd8e983250b9bed242b713b|2913
+Gorf.mra|159054d133f2680065e8edb574926bac|2557877
+Gorkans.mra|bd533166993f5956a6b4a7572b30be94|2964
+Gorodki.mra|bc2781bb878528510e74a9dba8c8afcb|1382
+Gradius.mra|ad65e5d4e7116342312b60c4b0dabf61|2502
+Gravitar (Ver 3).mra|244d85999bc8620d11b05712dc0187b0|2462
+Grobda (W, New Ver.).mra|331b8e102c4bb9d7588859cff9fdd6cb|3031
+Growl (World, Rev 1).mra|907ef30cd1afaa685073093deb4afdfa|2388
+Gun & Frontier (World).mra|1a59a3ead17e313ad612aa1fd0d52cf9|2333
+Gun Fight.mra|e7b409f61117f5fcc668686e92503311|5833
+Gun Force II (US).mra|7d492fb4333e0e6c9c9963bde318df01|4967
+Gunforce - Battle Fire Engulfed Terror Island (World).mra|2a306abd671c2e41d78bebff1fb2edc8|5150
+Guwange.mra|07cd2689315439b09dfe726cc8ed70d6|1724
+Gyruss.mra|8261b55ad9182d5ee028fec662e75d7b|2817
+Hachoo.mra|2b104cb3782a2f411e0ea0d532d8bfcd|3527
+Hammerin' Harry (US, M84 hardware).mra|0b94a08e529ce536a719ad43b5bafaf8|3204
+Hang On Jr.mra|42b1a5a10632b8e13da0d3bca4455db0|1995
+Hard Hat.mra|e388369415bb746b4accc90a809dc47a|1652
+Heavy Metal (315-5135).mra|043ce30ec179720aff3bd9552fdf02b2|2862
+Hellfire (2P Set).mra|0e78f467496511f99ffa0c4a31e6121f|2544
+High Way Race.mra|a58692f46ebaf12f38e949c35d51e6f8|2346
+Hook (World).mra|aeeb4e70d10bafa5c0af310876deb46c|6141
+Horizon (Irem).mra|9f57f15bc1642a0db7ad36859ef5a0ac|4869
+Hotdog Storm.mra|202c5550fa438b0c703c39cda23ff836|1551
+Hustle.mra|f9cd1f65c7c4db3b66146f040f0bcf4a|1205
+I'm Sorry (US, 315-5110).mra|2765fc291a1276e22667f03d9cacdded|2828
+Iga Ninjyutsuden (Japan).mra|4411e849d6c8aa10468b938ab99a8a5d|3365
+Ikari III - The Rescue (World Version 1, 8-Way Joystick).mra|36f33430a84cf3460d01e8d1f747e4d0|3993
+Ikari Warriors.mra|da3daf324c444de9da492dc05ac6ce74|3437
+Image Fight (World).mra|3a5890b1f7c8fcea9fce5ad5d8093434|3538
+In The Hunt (World).mra|afed3f9b2343633ad9348a9e47aa5047|7666
+In Your Face (US, Prototype).mra|0d93c36215247ee7c6e805d12efedc7d|3588
+Indiana Jones (set 4).mra|5d144f636705f752a8b411c0373ac778|7921
+Inferno (Williams).mra|7c9cbb9c04e77d03eca305bafedd735d|2103
+Iron Horse (Ver. K).mra|c4ba1a215a3b0b30224117af0e8ff51f|2883
+Jack the Giantkiller (set 1).mra|ea8bc73f2b97536b1e538c294a0dc599|2062
+Jackal (W) [bl].mra|7afd3dd634502d5e6518e6b36c2b0b2f|2614
+Jackal (W).mra|9880aed8007aa9f37e8f06724dcf7989|2523
+Jackal (W, Rotary).mra|78cb5d72b49b8391a3aea3d6e9d1ba0c|2568
+Jailbreak.mra|a382ed84795ea4534837d87e8999036b|2512
+Jin.mra|f030f686853f4ec1280a6287fbf5f2b6|1662
+Jitsuryoku!! Pro Yakyuu (Japan).mra|828d417d14447fe44145e8461a8de604|3091
+Journey.mra|f18440b07385446d95ec585db21019e4|2740
+Joust 2 - Survival of the Fittest (revision 2).mra|186e896e8d8fa4fcb441f1457d2bef38|4061
+Joust.mra|7ec459f1ee6a95a65dde66bcd6dbf6c7|4117
+Jump Shot.mra|33ff755705958fa75e8a99702d58e1fd|2136
+Jungle King.mra|6694655fe32df0f8bda93294d769ca43|2676
+Kick And Run.mra|a8c7874936e3d9c46b132d42b3cef2e7|2638
+Kick.mra|3a9e72662f93760cd9eea815abe0ff74|2127
+Kid Niki - Radical Ninja (W).mra|fd44c6d87b97161bcddde1d467b1e045|4229
+Kid no Hore Hore Daisakusen.mra|c375364fb6c9ec5beb34f4af69b44ffa|2872
+King and Balloon (US).mra|b130e94d559bda57693b7399a5de3f72|2299
+Kingdom Grandprix.mra|fde0c7d99ad7adf379b4c707da43c4ce|2828
+Konek Gorbunok.mra|16a76c4397caede30680676b2b0374be|1478
+Kot-Rybolov.mra|2f8a24edb730154e1c07884a1ca2b9ee|1473
+Kozmik Krooz'r.mra|f5b29c8674fe2814db2ac948343a6da3|1507384
+Kozure Ookami (Japan).mra|76a610ce4121bd918c7b94cff08246d2|2985
+Kung-Fu Master (W).mra|d558de82bcfffbf1a10505c7c8d7702d|5990
+Lady Bug.mra|d8f472358ccf8b9658f064db141a6d9d|3195
+Laguna Racer.mra|c40b096fbc108feda1829aa43db73597|699190
+Legend of Hero Tonma (Japan).mra|447833b8031ffcb362c3ca17ea607d8c|3271
+Lethal Thunder (World).mra|268059a8efd9cdf59115c4eb064f9012|6067
+Lifeforce (Japan).mra|3a7ecc32a0999631a1711c86e895a83b|2509
+Liquid Kids (World).mra|e96fe45bc8452a0eda23d9dc3f4cac5a|2243
+Lizard Wizard.mra|2826cfd009527b65418329ae3bca9eed|2281
+Lode Runner (Set 1).mra|c4af9a3acfc5b139bac9eaf9e1adcb72|6233
+Lode Runner II - The Bungeling Strikes Back.mra|26a2810865656452b7cc1cd3faab047a|6394
+Lode Runner III - The Golden Labyrinth.mra|803dcfbc1c841e23260889853606b012|4545
+Lode Runner IV - Teikoku Karano Dasshutsu (JP).mra|c84fec6ed40eb630a8b6f82d02881be6|4338
+Lost Tomb.mra|ff7dc92f0843d4ea8fd702de65bf2862|2295
+Lucky Today.mra|a16334c8250bc125c8a061f21c67d6d0|1905
+Lunar Battle (Prototype).mra|aa1ebd6eab0b2c2d0b65ecb5d9d1c128|1935
+Lunar Lander.mra|e83cf2064815a83d54f2bf0e25777569|1424
+Lunar Rescue.mra|e81817eb4cde6f13b62558ab2a05518f|1732
+Lupin III (Set 2).mra|59f203bf48af7d818e6d1f36dff3775f|284917
+Mad Planets.mra|bbc72ed22daceab223a6295a12009e36|1568
+Magical Spot.mra|bccf9173829ad66983c7d607ce9c101a|1290611
+Major Title 2 (World, set 1).mra|54cb615858bf9e068b2831dc4db91fb3|4393
+Mappy (US).mra|9d060fa681ee87de8c4e639e97042307|1995
+Marble Madness (set 5 - LSI).mra|b374dfd10bc058a6d3a33fe2ecdcd5de|6633
+Mario Bros. (US, Rev G).mra|e951de1ac2e85ac9298736c2c96be520|39216
+Mars.mra|ba6f72b0bca4c0a6a5c0c8cbb813de83|2442
+Max RPM (v2).mra|27afe34a14d451b8de0b7ccc033b5fd3|1832
+Mayday (Set 1).mra|d14ed0e472dce57c5690a86240b114fb|3725
+Mega Blast (World).mra|6d8189cda6c5ade2f639031e31404c5e|2779
+Megumi Rescue (Japan).mra|db7bb6e41fe0427d0ee831f446044bb4|1747
+Metal Black (World).mra|9e029ef32041fbf91ba134c99a428b6e|2379
+Mighty Monkey (Scramble Hardware) [bl].mra|726ef44b00b88ca5773db278d9370490|2073
+Minefield.mra|370807c2761c24103cc568c3e8edf4e0|2341
+Missile Command (rev 3).mra|baf1444e052dee135c52360814455258|1369
+Mister Viking (315-5041).mra|3b09903a026920eaa439c8788cedf578|2975
+Moon Cresta (Galaxian Hardware) [bl].mra|8fe00cb004e36a24a6bccb288c3bfdd2|2016
+Moon Patrol.mra|732b5ea1cac156035d4ee61b9286ee6f|1691
+Moon Quasar.mra|50a7f5b36d22a370eec34e19cf260588|1789
+Moon War.mra|835a8a4951fb7debffaf1bfdb454673e|2394
+Motos.mra|fd732c347019a829c45276877e06ba31|1727
+Mouse Trap.mra|78d698c4a5342d286575da9cc63f1f6c|1674
+Mr. Do Nightmare.mra|5e83bc7bb586056ffef75a82039e5ba4|53828
+Mr. Do!.mra|9b2f1eadbea3f059324ee74e9a4839fc|2527
+Mr. Goemon.mra|4beb7afca9b832af910e339e2b60fc2f|1734
+Mr. HELI no Daibouken (Japan).mra|da1ab963c33364694911bda20cf75ed6|3867
+Mr. Jong.mra|112ed10d52f3b7c2016253e88463d4a5|1557
+Mr. TNT.mra|9371b6a136a57dbc8b969341707910f0|2275
+Ms. Pac-Man.mra|ab2f026396be85408f177759f36de59e|2305
+My Hero (US, not Encrypted).mra|0a28edbd776d315c1262af9b5b88ab0d|2887
+Mystic Marathon.mra|1306e767d13d40d5208099f046b2d792|2184
+Mystic Riders (World).mra|b04dc0cd82613b4cc65fd5b5c51b0247|4647
+Naughty Boy (Jaleco).mra|5ed3acb46a1a10f38fb9336f644cd7c4|1691
+Nemesis (ROM Version).mra|1f45ecd32a440b0f0bfaa74d973c68ed|5314
+New Rally-X.mra|ddfe52bc25d11ae34b82a0b3e7674239|36540
+Ninja Baseball Bat Man (World).mra|39b535c4b9f3832786efb9ec07ab4183|6117
+Ninja Spirit (Japan).mra|eb1426b20cec74852af1c91373b6b7ed|3799
+Ninjakun.mra|7c6ccce731e2b6279ceef491d686475e|2820
+No Mans Land.mra|094a71d4452e2891c04bd00bb5e2a551|2052837
+Noboranka (bootleg).mra|63bf7b8fbd0474a317d2d926a268dc09|2354
+Nova 2001.mra|2253e1a4514a5cc92df0658231b41f10|2016
+Number Crash.mra|fd6ed3a9127b5aa45738ef7f8dbf4681|2423
+Omega [bl].mra|93abfb93c35b175467fe9cd4250694e6|2022
+Opa Opa (Rev A, unprotected).mra|beb8bc47d9518f3711174265e33aa172|2167
+Opa Opa.mra|ee1f6bdf1be73b98fb0bdcc4f82fc49e|2239
+Orbitron.mra|529a4f4e729bd510d3b618e4fcdf1375|2165
+Out Zone.mra|bc4cd0aa8dbc821ea90fd22f6b154a4e|2556
+P-47 - The Freedom Fighter (Japan).mra|b1abc8477aa75f38308d7983aa40bf04|3592
+P.O.W. - Prisoners of War (US Version 1).mra|59e053a0cd632faf7d2b61cd48f159ae|3661
+Pac & Pal.mra|80e5f785afad8919983a1c3a8c2d0f3d|3345
+Pac-Man & Chomp Chomp.mra|1ace4cb1402d80a4cd74076fecf979ab|2880
+Pac-Man - Puck Man (JP, Set 1).mra|d5097d23c2c2dea9f5f7254407e82c9b|3091
+Pac-Man Club- Club Lambada (AR).mra|dee7c2b900beb2dfb3a284840c94231a|2237
+Pac-Man Plus.mra|57de3ddd181fd6388b525b1c0bf7ac6a|2227
+Pac-Manic Miner.mra|ee5a5e24d5500391081622c1f1f78a8f|154366
+Paddle Mania.mra|ca4ce44e8f721f314db333343d5f5b3c|3255
+Pengo (Set 1, Rev C).mra|5c76a0043bc2ec694bcce8194beb5c29|1805
+Penguin-Kun Wars.mra|bb83badf5cee9d1ccc16a2ab396e43df|1132
+Pepper II.mra|495638adc1b1d2f23ec3b155a6d48d3f|1718
+Performan (Japan).mra|790e710e2df92adfbe337bca31161529|2247
+Pest Place.mra|2cd02bea2c41d60f3a720af0e600b1ff|2216
+Peter Pack Rat.mra|1d5b0ce96b12d50f9273102a3c38d98f|7454
+Phoenix (Amstar, Set 1).mra|0b80e64db059efe9931b2587db978189|2259
+Pickin'.mra|c40ebe31634c86f0d50e905d057705f0|2089
+Pipi & Bibis - Whoopee!! (Z80 sound cpu, set 1).mra|c6a9273bf01565e693b249f097721fcb|2417
+Pirate Pete.mra|122dc2db035ce1f810410a3542e7e924|2797
+Pisces.mra|7d45bd3a7b46a50141668188205c547d|2117
+Pitfall II.mra|53dcaa410a21a930beca5c487e8f9bc7|2950
+Playball (Prototype).mra|d88e51804f8c190d556c5dc95e084c83|4180
+Pleiads (Tehkan).mra|69148ef2a1b79b90d86e3af6f34a3843|1628
+Plus Alpha.mra|b837b5ee788fa134c04ee0d6818b60c0|3869
+Polaris.mra|fd01f3b5c43960e39d0f6cb234c7b8b7|535317
+Poly Play 2.mra|2e622f7147b33697b3b2363c63a25dc9|1342
+Poly Play.mra|d3d5f2c619ef1df404a4faed15f0dedd|2802
+Pong (Rev E).mra|f2b49129a5da3c868bcf171d73ac1365|911
+Ponpoko.mra|0f9e69f0ad704d13f60512b57a7f3d0c|2451
+Pooyan.mra|6241e4a3c1449c3f46274fa7615fb7ff|1547
+Pop Flamer (Bootleg conversion).mra|251442f0911469a13d08508bafb40c68|1821
+Popeye (Rev D).mra|64d8bea1c0a20514ce05233a697f6015|2091
+Port Man (bootleg on Moon Cresta hardware).mra|4632df7a74b950ccb5678b67406eeab4|1858
+Portman (Galaxian Hardware).mra|26b996cde00768ba7f08fe4b8ac5182a|1820
+Power Drive.mra|0563b2918e44152d3ff17e319aae609f|2215
+Prehistoric Isle in 1930 (World).mra|ca006fd2f090bdd4ee48652ba4374feb|2291
+Psychic 5 (World).mra|95ce2707f545363ab129ad8a8f163bad|2407
+Puck Man (JP, Set 1).mra|d5097d23c2c2dea9f5f7254407e82c9b|3091
+PuLiRuLa (World, dual PCB).mra|a105f7f4adcf2bd7c9a8d19b48fe7907|2294
+Pulsar.mra|96d15ee019782230759948aaf6f41335|2327539
+Puzzle Uo Poko.mra|027ffabc8c38a9bd163a77ec1827b1a1|1015
+Q'bert (US, Set 1).mra|c45cdffef8b554bc44801e79f5327ab6|2111
+QBert Qubes.mra|4b7fe7c6fcd5fdc268bd678e7f117e4a|1377
+R-Type (World).mra|1365dbf870188d9ea8ad593125f069fd|3510
+R-Type II (World).mra|69151a5be820cc3c5a6630d511ab8619|3088
+R-Type Leo (World).mra|ef9b632f177f70fb27063ca1d9f535c7|6350
+Radar Scope (rev. D).mra|0098ca477f15777365036f6c022653c4|2739
+Rafflesia (315-5162).mra|d65e1f2ebe6189081b8209c28ed4a49d|3252
+Raiders5.mra|57777fb3b1918a91062894b26f869784|1930
+Rally Bike - Dash Yarou.mra|7cf441dfb32a248bbbfdac9fdaba610a|2552
+Rally-X (32k Ver).mra|cf95e4fbd6948079d29169cf759b6ed6|35931
+Rampage (Rev 3, 860827).mra|db746a1c11d578657a952ba589d81c53|2191
+Red Baron (Revised Hardware).mra|f56b9e3c6d3ed4e698308213613480d0|1508
+Red Baron.mra|85b1987c0bb23ea48ce7acfcdc599fc2|1543
+Regulus (315-5033, Rev A).mra|45b0ab36505df6f6a28a9503ebba8f05|3017
+Rescue.mra|63c65e4d153462a39fc56bab5e31b7a9|2431
+Riddle of Pythagoras (Japan).mra|d696d74e4ebfc1022388c4583c018725|2181
+Risky Challenge.mra|525b428d4cc323678fb25849eca70819|3402
+River Patrol (JP, Unprotected).mra|0a8f704b1ed57e1c590a6d58f81faece|1423
+Road Blasters (upright, rev 4).mra|b61ca7c5a9575eca605b0d3f68141de0|9520
+Road Runner (rev 2).mra|6890ca6f4b473464d3f5ad7a197f27c7|8280
+Robotron 2084.mra|cc4349ff3be03472e35ed61295608567|4220
+Rod-Land (World, Set 1).mra|256cf6e657887d332f30f443b464fc56|3250
+Rush'n Attack - Green Beret.mra|f03ae7c0584d41cf110fd3999688c53f|3102
+Rygar.mra|fd34f05f4e451ac219f9096d4f23d2d1|2689
+S.O.S..mra|6e3624f052a82d53b0aae0f3efa56494|1466
+Saint Dragon (Set 1).mra|03763b0f572cd2f75a387b749dd6c276|3486
+Salamander (version J).mra|4cbae6aeaa3f2743b78acd5b86c534db|2327
+Same! Same! Same! (2P Set).mra|b8fbc37aaeaa079e53746de23c950efa|2886
+SAR - Search And Rescue (World).mra|28f37047a1b74a686b9c37488574cbc7|2891
+Sarge.mra|bedf823e04451e6487a87df847cb9909|2064
+Satan's Hollow (Set 1).mra|810c9cc2849db24a7a7ef50a7edd3c10|2116
+Scooter Shooter.mra|c32fea73ebdd7e3dae789aecff82ce4e|2348
+Scramble (Stern, Set 1).mra|19acea7e064208ab725295b2590dd191|2608
+Sea Wolf (Set 1).mra|9d82c403f007d75290dc5d63f722df83|204289
+Sea Wolf II.mra|f47691e8cb4fc6eaa513d8555b16331a|2052828
+Sega Ninja (315-5102).mra|775fc031a3582c44c13b634a54d649b2|2956
+Sei Senshi Amatelass.mra|b07c8c19a9483df8a2a598840c73d4f1|2888
+Shot Rider (B-Board 89624B-1).mra|83851653a625363a6edb8c8162860f12|2558
+Shuffleboard.mra|55afded87f6316c3275cb3afd40d86e9|1594
+Silkworm.mra|e609effb9006fb868b2b16133f3394f4|2542
+Silver Land.mra|42876ec7e25ec84cc7596020e0b5a413|1665
+Sinistar.mra|d053325e72d2b534b3a0f155559c929a|4421
+Sky Adventure (World).mra|55c310f9d9192a3eb10c534532647ec0|2386
+Sky Skipper.mra|fd48b0aa21c8ee39eddb8c5dbf384c99|2429
+Sky Soldiers (US).mra|928795019f48d63ccd48217b0dc9cc43|3987
+Slap Shooter.mra|09b29292e1853b18b61b43bda40c95c9|2455
+SlapFight Bootleg.mra|cef3d8a5d61113e83c81b9ce3a92c7f0|2271
+Snap Jack.mra|85d442bd8006f78d6aa6660e34c02a78|3027
+Snezhnaja Koroleva.mra|1c35d4273eafb021d488ea709f3a1260|1477
+Snow Bros. 2 - With New Elves - Otenki Paradise (Hanafram).mra|290528615868eabfba9d4e20b30bce86|2521
+Solar Fox.mra|09ddca143adff12300270b52c14346d3|2313
+Soldam.mra|49651b46761f80f5a95c53f484f60cbb|3313
+Solitary Fighter (World).mra|9f93c620c8d63f288aed8ecd17da016b|2207
+Solomon's Key.mra|909a23c2cb7c1673ec046acd81339abc|1738
+SonSon.mra|29b4b913eb305a1d10f1de2b9564ec73|1820
+Sorcer Striker.mra|333ddacf89b7eb3c44bfeb18c4630b79|2763
+Space Chaser.mra|188601613c5999168aa5bba0d6c15c12|1824
+Space Cruiser.mra|2f0b0b04ac4db4aaa309d7e68abc7614|2403
+Space Encounters.mra|a41ff19b0017477a1ef40187ba57ab12|1651
+Space Invaders Part II (Taito, Bigger ROMs).mra|205474364d4ea43e9085cb064899080b|2023
+Space Invaders.mra|d3fb85b9a573be9d2eb090769c1493bf|486763
+Space Panic.mra|4175fc9e32cabc1718f6c4018e4fcd74|2854669
+Space Race [TTL].mra|8b8268d61cbba306177be43f3d9f33a0|1107
+Space Seeker.mra|6a2617796815c7498662482ce005f170|2233
+Space Zap.mra|28f93b3ead530925c876ec00861045eb|1581
+Spatter (315-5xxx).mra|6daa83a912da477a928a2d6cb4622ac8|2918
+Spectar.mra|40ac08fe8894bc2f5df6c83894bc75eb|1572
+Speed Coin.mra|960df4cc6301d5530594987ca3f18fe9|2239
+Spelunker II - 23 no Kagi (JP).mra|e0c4bd97e6cddc2973be8d8328ef2c35|4203
+Spelunker.mra|02d484d8687c893c8fa072ddc84a3c3b|4612
+Splat!.mra|7ad2d8fbb03e833907a3d434ba2d4253|3998
+Sprint 1.mra|81b0a2b5211a2dfaf245a340a490ea0a|1539
+Sprint 2.mra|ee39cabe4ff66a46661fa87752179fef|1536
+Spy Hunter.mra|dd577ed04f36c13f7635b33a5f520d00|3336
+Squash.mra|3d6eb94999d59a5c6d2c0f706faced28|2116
+Star Guards.mra|c213b8a8865c09be3175f751d7c4e329|1990
+Star Jacker.mra|047a89a0f3c72358a4f785b65fe22124|3093
+StarForce.mra|b1000b5b02373e86840af04e65a19378|3349
+Stargate.mra|31599d87b18ee985a32e337c5c4e8289|4157
+Strategy X.mra|979c4e73650020d1c70f21e9939be61b|2038
+Street Smart (US Version 2).mra|8f6225eefbedb28138ab9c6e04d73c4f|2750
+Subs.mra|309e8ed8fe8e08a587e4664c5d3721a3|288510
+Super Bagman.mra|c8d1138e89819416db1200316f98f93e|2945
+Super Breakout (Rev 04).mra|9866582e8d1e8633faa10b5d71585a73|1381
+Super Casino.mra|427b34306822c6c57ae364a4b790e751|1625
+Super Cobra.mra|33eaf460f7b32aa4b3c7e46a1bd695f2|2300
+Super Glob (Pac-Man, German) [bl].mra|ccf42dfbf2f8dcdcd4a43b43c2bc5457|1970
+Super Locomotive (old).mra|6b150e103c49bf861b206cf7a30945e0|2800
+Super Locomotive.mra|34d0958ea74e6c0e2adc7204f2f75515|2800
+Super Pac-Man.mra|955f0f85bd05881e5e7ffd9fd6bf3480|3014
+Super Space Invaders '91 (World, revised code, Rev 1).mra|dc9efc3452c027b10fc15042cb30e5c8|2059
+Super Xevious.mra|efc5d1e55163d7cab7e291ce02a1e996|2816
+Super Zaxxon (315-5013).mra|52c540ce13259796679b91970a3c36eb|2403650
+Superior Soldiers (US).mra|f24eb79fa0612ed98efe5f949297f467|5938
+Swat (315-5048).mra|463cfa69c7001ac15db46d08aea06dce|2945
+TankBattalion.mra|485c2700860f482ea44645660e1c1e07|720
+Tapper (Budweiser, 840127).mra|d622b7eca7238d2842746452b274e613|2641
+TARG.mra|547e7397f77d0ab2c8e644f782f30e66|1600
+Tatakae! Big Fighter (Japan).mra|55826aeef5a31fbe0c1bcd63cf102532|2847
+Tazz-Mania (Set 1).mra|9123df44bcfabca4c547db0134201bb3|2216
+TeddyBoy Blues (315-5115, New Ver).mra|9ecfd42a494d7cc989e585681220d7e1|2906
+Teki Paki.mra|19fea16686958633fb1568d18fdc2d97|2075
+Terra Cresta (YM3526 set 1).mra|d57c8f60ef01f6e6124a10d05060b0fb|2687
+Terra Force (Japan).mra|92922205fc2d7162b0f67beaca112ea2|2961
+Tetris (Japan, System E).mra|dbd23f27012c75f402715d7d26b08b3e|2019
+Tetris.mra|b2a7257cf3cbf647a93ab21248ce7d43|1260
+The Adventures of Robby Roto!.mra|a07c3b8fa7f92b8b7d2c5a9723c77706|1947
+The Battle-Road.mra|ed0693a3ae40dbdbe6babd38b1052403|6582
+The End.mra|247f1723c5465b71355b39d51d8444a0|2703
+The Glob (Pac-Man Hardware).mra|e8ea01364aa3f628188a870f7ce8d648|2286
+The Lord of King (Japan).mra|80632a4f970bba7a91d102df727ba36b|3714
+The Next Space (Japan).mra|306cc33cdb932f87afb77ab31a206e10|2494
+The Ninja Kids (World).mra|4247c4cd10c2bad613248f1104b3261e|2353
+The Tower of Druaga.mra|a2efee884695b71252b0e8304d4b791f|1938
+Thunder Fox (World, rev 1).mra|8b35bcf205e8197d539900da8583f8d0|2858
+Thunder Heroes.mra|1bfb424667e62894468543e3c6aba267|2072
+Tiger Heli Bootleg.mra|bc8f6efbe28828829dd6a4c561d33427|2580
+Timber.mra|aa8d75e8ef0082519786589ea9708040|2322
+Time Pilot '84 (Set 1).mra|2138db7899615d119bb4568cf3363652|2763
+Time Pilot '84 (Set 2).mra|14225a5a7e8bd42c218bedbb358c761d|2761
+Time Pilot '84 (Set 3).mra|9694d78a9faffe532aca92885f0ff5b4|2508
+Time Pilot.mra|b043cfad839151e5cd990ddc333a6cc9|2293
+Time Soldiers (US Rev 3).mra|ed8daeb506eb0fcc1d93ff530937cd88|3317
+Time Tunnel.mra|06eddca467a55c5c00ee83a41f125f43|2476
+Tip Top (3 board stack).mra|08b36d2b50a2d33b6dc2799b7d2f468a|2018
+TNKIII.mra|4a24648e418c816cf738c00667dcd60e|3116
+Toki no Senshi - Chrono Soldier.mra|73704da76696afbd801febaf4164b697|2187
+Tokushu Butai Jackal (JP).mra|2ac5d1c2e6eb5d66982225f80aaa7fd9|2560
+Top Gunner (US) [bl].mra|f828d9480ad66ede8a1ec025153b148d|2623
+Top Gunner (US).mra|9542431cf1bf22e813ee356e8fb5aa25|2579
+Transformer.mra|0831bd7e7382f05003240eed2fb36a66|2253
+Traverse USA- Zippy Race (US).mra|901be0481ff468bf6d39088e8e177972|3015
+Tri-Pool (Casino Tech).mra|8f1350a8c4b404c78e2a0a2ff75b5002|1756
+Tron.mra|bd582dff263d0bcb96c20da4c4ca826f|2246
+Tropical Angel.mra|35edf2c6c2aa80cc46b45749267b234e|2917
+Truxton - Tatsujin.mra|9a6ebdd0d3714675004f46b70c376965|2703
+Truxton II - Tatsujin Oh.mra|73813fba8c4ee9665277c44309f597a0|2408
+Turbo Tag (Prototype).mra|5c87ca136495ea601a53b76a449d9f6d|2578
+Turkey Shoot - The Day They Took Over.mra|332ef9138d3d43095a5f2344ca81d04d|2549
+Turtles.mra|172b77da1307411f4b365b4c2540faa8|2227
+Tutankham II.mra|551a6bc02dd7ba38f577ea374a3466d9|2420
+Tutankham.mra|82cd105fe260586f2dd679ad2e366544|2582
+TwinBee (Bubble System).mra|ab9a462d64d6263074068a6facdc5d42|2383
+TwinBee.mra|70cf7a5faea9689aeb51075b78e2e0ef|2405
+Two Tigers (Tron Conversion).mra|76443434ce390740107a9d9fdccf38e8|2739
+Ufo Robo Dangar (4-07-1987).mra|d4796a0f9326803177e73505f4b07714|2740
+UFO Senshi Youko Chan [MC-8123, 317-0064].mra|0e791b859dec9d192a3ea9216f3ffd37|2450
+Ultra Tank.mra|02c12aca55973591114b24b226ad807e|1608
+Undercover Cops (World).mra|7f525e0d0fd75ccd1f0d46629952a67e|5453
+UniWar S.mra|9c940c5ff0dc99d9bfd2350ccb049e18|2280
+Up'n Down.mra|9af53712b09c4762886f91c82e7152b3|2887
+V'Ball (US).mra|98343be6c1c75616276234b7c360f87d|2278
+Van-Van Car.mra|a7e6d131d1ef4f7a8d51ef8517322f04|2472
+Venture Revision 5.mra|9f4fa6f2c4218d0624d625a9d35303ad|1774
+Victory Road.mra|38f0e786abee00b795e2efdaba6b7e02|3508
+Victory.mra|2307404fd177e2531dde205a969eb9cc|1969
+Vimana (Japan).mra|73b4c553ccecdb3a148f0728dcf2f678|2603
+Vindicators Part II (rev 3).mra|b96f3ca79b88653bb8d8e43985ab337d|3938
+Vortex.mra|e96fe836228e8aefc3d68fd2bd0271bd|1549
+Wacko.mra|ccce6b2fdf2c6c5a8a055b33677848ec|2163
+War of the Bugs.mra|0ebd70569e6596b74b63582b0cc1eeda|2157
+Water Match (315-5064).mra|bbe68ab882b7de67e853480bf62af15b|2824
+Water Ski.mra|40068d94369d3463742c98be1f5cc820|2166
+Western Express (Japan, rev 4).mra|3b638347ffd35a9daf7c229a7bbed9a4|2542
+Wild Western.mra|25a15718b34ca218db58b240460bcefa|2560
+Wizard of Wor.mra|288e52cea9c4bf5cbd73b44e69e57ec5|2157
+Wonder Boy (Set 1, 315-5177).mra|adf03bbb1bd7737f1b9b746e5a2818cf|3347
+Wonder Boy in Monster Land.mra|bb888ad2029ff1a8b300a78d88532960|2291
+Woodpecker (Set 1).mra|8e4cb4f56e9366f0d15181f94179aaf9|2443
+X Multiply (Japan, M72 hardware).mra|7bf3715e35c44bc983e1a7d09ce7a404|3751
+Xain'd Sleena (bootleg, bugfixed).mra|c30f7736caab1e4b6a61c992ea5f3d57|4832
+Xevious.mra|810e14cf74e7d39b9e3b9cbd8a9d393b|2881
+Youjyuden (JP).mra|2e738ae4d5c0dab213ee4fc072b8180a|4337
+Zaxxon (Set 1, Rev D).mra|3669e5d3af38514213afac5744025f19|2403682
+Zero Wing (2P Set).mra|3d733134fbc4387206cea10c5462f3ca|2711
+Zig Zag (Dig Dug Conversion) [bl].mra|6a74f5e641847abedb67ae72fbfc5833|1275
+Zzyzzyxx (set 1).mra|08c8c0df7045e93094de7ceeeb3100fb|1865
