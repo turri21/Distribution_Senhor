@@ -1,43 +1,43 @@
-Astra SuperStars (J 980514 V1.002).mra
-Baku Baku Animal (J 950407 V1.000).mra
-Batman Forever (JUE 960507 V1.000).mra
-Columns '97 (JET 961209 V1.000).mra
-Cotton 2 (JUET 970902 V1.000).mra
-Cotton Boomerang (JUET 980709 V1.000).mra
-Danchi de Hanafuda (J 990607 V1.400).mra
-Danchi de Quiz Okusan Yontaku Desuyo! (J 001128 V1.200).mra
-Decathlete (JUET 960709 V1.001).mra
-Die Hard Arcade (UET 960515 V1.000).mra
-Ejihon Tantei Jimusyo (J 950613 V1.000).mra
-Final Fight Revenge - Final Revenge (JUET 990930 V1.100).mra
-Find Love (J 971212 V1.000).mra
-Funky Head Boxers (JUETBKAL 951218 V1.000).mra
-Golden Axe - The Duel (JUETL 950117 V1.000).mra
-Groove on Fight - Gouketsuji Ichizoku 3 (J 970416 V1.001).mra
-Guardian Force (JUET 980318 V0.105).mra
-Hanagumi Taisen Columns - Sakura Wars (J 971007 V1.010).mra
-Karaoke Quiz Intro Don Don! (J 960213 V1.000).mra
-Maru-Chan de Goo! (J 971216 V1.000).mra
-Mausuke no Ojama the World (J 960314 V1.000).mra
-Othello Shiyouyo (J 980423 V1.002).mra
-Pebble Beach - The Great Shot (JUE 950913 V0.990).mra
-Princess Clara Daisakusen (J 960910 V1.000).mra
-Pro Mahjong Kiwame S (J 951020 V1.208).mra
-Puyo Puyo Sun (J 961115 V0.001).mra
-Puzzle & Action- Sando-R (J 951114 V1.000).mra
-Radiant Silvergun (JUET 980523 V1.000).mra
-Sea Bass Fishing (JUET 971110 V0.001).mra
-Shanghai - The Great Wall - Shanghai Triple Threat (JUE 950623 V1.005).mra
-Shienryu (JUET 961226 V1.000).mra
-Soukyugurentai - Terra Diver (JUET 960821 V1.000).mra
-Steep Slope Sliders (JUET 981110 V1.000).mra
-Suikoenbu - Outlaws of the Lost Dynasty (JUETL 950314 V2.001).mra
-Super Major League (U 960108 V1.000).mra
-Taisen Tanto-R Sashissu!! (J 980216 V1.000).mra
-Tecmo World Cup '98 (JUET 980410 V1.000).mra
-Touryuu Densetsu Elan-Doree - Elan Doree - Legend of Dragoon (JUET 980922 V1.006).mra
-Virtua Fighter Kids (JUET 960319 V0.000).mra
-Virtua Fighter Remix (JUETBKAL 950428 V1.000).mra
-Virtual Mahjong 2 - My Fair Lady (J 980608 V1.000).mra
-Winter Heat (JUET 971012 V1.000).mra
-Zen Nippon Pro-Wrestling Featuring Virtua (J 971123 V1.000).mra
+Astra SuperStars (J 980514 V1.002).mra|703632c348bf399690a9fa0dd43f909d|1799
+Baku Baku Animal (J 950407 V1.000).mra|a63658bbe398a9ab7b1e5f87d711e84f|1329
+Batman Forever (JUE 960507 V1.000).mra|4c6dc43aae8d4a962fc203895b834fe4|2496
+Columns '97 (JET 961209 V1.000).mra|75469b5d0ee58f9d3762d99d6f6c610b|1273
+Cotton 2 (JUET 970902 V1.000).mra|af3cc45c2065051c61375ce22f9ef8d5|1789
+Cotton Boomerang (JUET 980709 V1.000).mra|3a8bf7024895092486a6c05e23f9c841|1697
+Danchi de Hanafuda (J 990607 V1.400).mra|7188a7d5dac3dd3a9c8573e8c99e9c4b|1349
+Danchi de Quiz Okusan Yontaku Desuyo! (J 001128 V1.200).mra|72ba816a209fbb1226d4c89511c17325|1807
+Decathlete (JUET 960709 V1.001).mra|c7435f35a46308ca39fda8c357421b29|1583
+Die Hard Arcade (UET 960515 V1.000).mra|344cce39d1e2a9160ee4b0fde4847c6f|1328
+Ejihon Tantei Jimusyo (J 950613 V1.000).mra|841c030a207be8d258f05d7cb7dbe332|1531
+Final Fight Revenge - Final Revenge (JUET 990930 V1.100).mra|6932e12eb5eeb12b4683cfcc89705691|1793
+Find Love (J 971212 V1.000).mra|a6f5fbcfd1cf462384f4e3ed89957837|2192
+Funky Head Boxers (JUETBKAL 951218 V1.000).mra|26fd59a16c4a1647a2777d9b78f0078f|2041
+Golden Axe - The Duel (JUETL 950117 V1.000).mra|88a0b7bbd61ce98b3085d57cea44d86f|1811
+Groove on Fight - Gouketsuji Ichizoku 3 (J 970416 V1.001).mra|a859007d848423b5159aef138483da5b|1815
+Guardian Force (JUET 980318 V0.105).mra|e6ffc476c26a77921484e253dd5a50b3|1592
+Hanagumi Taisen Columns - Sakura Wars (J 971007 V1.010).mra|c58ff05922973f064da064f769cd868d|2113
+Karaoke Quiz Intro Don Don! (J 960213 V1.000).mra|369a3b5b8e7ab5c9191df53ea36597ad|1762
+Maru-Chan de Goo! (J 971216 V1.000).mra|e89d0998fc13d6509d18528c916c2c8a|1755
+Mausuke no Ojama the World (J 960314 V1.000).mra|34b1a76457c2b31be228e029e2770c83|2027
+Othello Shiyouyo (J 980423 V1.002).mra|2575e1824e53e806dec2b49286fbd6e5|1335
+Pebble Beach - The Great Shot (JUE 950913 V0.990).mra|ec4ab8474350c746160774482333025c|1605
+Princess Clara Daisakusen (J 960910 V1.000).mra|b0e4fc882e3c0b5fba26b3beae863200|1339
+Pro Mahjong Kiwame S (J 951020 V1.208).mra|c36e661b58af5d45def3c9917fa3a3a2|1400
+Puyo Puyo Sun (J 961115 V0.001).mra|054c96f7e2cd49a51d708ecf07dcbe15|1838
+Puzzle & Action- Sando-R (J 951114 V1.000).mra|63692b9da20d4f88c5c1a073cbf48ec0|1786
+Radiant Silvergun (JUET 980523 V1.000).mra|c21c4111952838494a9f5ac5ee836683|1484
+Sea Bass Fishing (JUET 971110 V0.001).mra|5b632be8a9f6195272e4617a8b0454d7|1987
+Shanghai - The Great Wall - Shanghai Triple Threat (JUE 950623 V1.005).mra|6fa5896c8598d91b381465eecbe235da|1228
+Shienryu (JUET 961226 V1.000).mra|450d13432a0a0aad3fadbe6b844244a1|1361
+Soukyugurentai - Terra Diver (JUET 960821 V1.000).mra|39f18eeb0e5c095c2e899548a91ad26d|1511
+Steep Slope Sliders (JUET 981110 V1.000).mra|9821ac8eda4091f364ccc945fa1b7d7b|1782
+Suikoenbu - Outlaws of the Lost Dynasty (JUETL 950314 V2.001).mra|883a44d8c071d6f64e02ae40e54fb9a3|1952
+Super Major League (U 960108 V1.000).mra|146836ddf8da21cd8efecf25675fd696|1539
+Taisen Tanto-R Sashissu!! (J 980216 V1.000).mra|6437a10a6f55279897a101c1b2879cdf|1541
+Tecmo World Cup '98 (JUET 980410 V1.000).mra|8b896a597018553821c9212e90c625dd|1490
+Touryuu Densetsu Elan-Doree - Elan Doree - Legend of Dragoon (JUET 980922 V1.006).mra|ec034b34774e99bddba054bd88f00fd3|1859
+Virtua Fighter Kids (JUET 960319 V0.000).mra|b4dbc70c957f99c4f37516c2148bb3cb|2000
+Virtua Fighter Remix (JUETBKAL 950428 V1.000).mra|b884684c98a6beeb19ad91d3d5c21c3c|1796
+Virtual Mahjong 2 - My Fair Lady (J 980608 V1.000).mra|967be4fae4751e9ce723190daf6c09f1|1715
+Winter Heat (JUET 971012 V1.000).mra|79507bf5f17ef6b23a823b7f6d1a10fa|1789
+Zen Nippon Pro-Wrestling Featuring Virtua (J 971123 V1.000).mra|61a4b245580003fd2de9859a08b29812|1864
