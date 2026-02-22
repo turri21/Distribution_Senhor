@@ -15,6 +15,7 @@ BattleZone_Senhor_20260124.rbf
 Berzerk_Senhor_20260124.rbf
 BlackWidow_Senhor_20250125.rbf
 Blockade_Senhor_20250105.rbf
+BluePrint_Senhor_20260222.rbf
 BombJack_Senhor_20260124.rbf
 Bosconian_Senhor_20260124.rbf
 Breakout_Senhor_20250124.rbf
