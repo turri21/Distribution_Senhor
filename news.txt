@@ -5,6 +5,7 @@
 [INFO]New update_senhor.sh script v1.6[/INFO]
 [INFO]New MiSTer binary - 16/2/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: BluePrint_Senhor_20260222.rbf[/INFO]
 [INFO]Updates: Minimig_Senhor_20260220.rbf[/INFO]
 [INFO]Updates: MegaDrive_Senhor_20260219.rbf, Gameboy_Senhor_20260218.rbf[/INFO]
 [INFO]Updates: MSX_Senhor_20260217.rbf, Amstrad_Senhor_20260217.rbf[/INFO]
