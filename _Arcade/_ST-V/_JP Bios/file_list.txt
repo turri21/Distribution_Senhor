@@ -1,7 +1,7 @@
-Cotton 2 (JUET 970902 V1.000).mra|eec5454a60dc9dd67e0e768786aa36c5|1422
-Cotton Boomerang (JUET 980709 V1.000).mra|774ce872618b86203b5ba659b97f192c|1322
-Final Fight Revenge - Final Revenge (JUET 990930 V1.100).mra|ccbcc57c8a1f3542f882c0e82ee53b54|1447
-Guardian Force (JUET 980318 V0.105).mra|3be0d031603ffefc5f0e4f6a9abf5cb4|1219
-Radiant Silvergun (JUET 980523 V1.000).mra|c98871accab16a608d7520800d92d2f2|1150
-Shienryu (JUET 961226 V1.000).mra|2b020be42405c42c500a93217407a342|990
-Touryuu Densetsu Elan-Doree - Elan Doree - Legend of Dragoon (JUET 980922 V1.006).mra|a5254409020dfd8b9a49eb644c55f0f8|1482
+Cotton 2 (JUET 970902 V1.000)_JP.mra|eec5454a60dc9dd67e0e768786aa36c5|1422
+Cotton Boomerang (JUET 980709 V1.000)_JP.mra|774ce872618b86203b5ba659b97f192c|1322
+Final Fight Revenge - Final Revenge (JUET 990930 V1.100)_JP.mra|ccbcc57c8a1f3542f882c0e82ee53b54|1447
+Guardian Force (JUET 980318 V0.105)_JP.mra|3be0d031603ffefc5f0e4f6a9abf5cb4|1219
+Radiant Silvergun (JUET 980523 V1.000)_JP.mra|c98871accab16a608d7520800d92d2f2|1150
+Shienryu (JUET 961226 V1.000)_JP.mra|2b020be42405c42c500a93217407a342|990
+Touryuu Densetsu Elan-Doree - Elan Doree - Legend of Dragoon (JUET 980922 V1.006)_JP.mra|a5254409020dfd8b9a49eb644c55f0f8|1482
