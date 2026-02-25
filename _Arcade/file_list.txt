@@ -45,7 +45,7 @@ Blasto.mra|805a3626a8420f73ecb4460a8b2da331|1196
 Block Gal.mra|9fcdfefb8eed826e2175f2382565f340|199102
 Blockade.mra|7a8383854ec0139346d6a26994c32a3a|1032
 BlockBuster.mra|177032ee4be897ef9316c25ddd298c98|1601
-Blue Print (Midway).mra|bb2914934c00064f1223957c06e90a4a|2452
+Blue Print (Midway).mra|56d645776cfda01b57d121f981405104|2534
 Blue Shark.mra|7d3b3d44618516ef8750773414c3bd59|825681
 Bomb Jack.mra|3a24c7e7aa38beb3bb93645a3fb4f949|2449
 Bomber Man - Dyna Blaster.mra|4c295c893de3d89994735ccb483fdfdd|3653
@@ -160,6 +160,7 @@ Gorf.mra|159054d133f2680065e8edb574926bac|2557877
 Gorkans.mra|bd533166993f5956a6b4a7572b30be94|2964
 Gorodki.mra|bc2781bb878528510e74a9dba8c8afcb|1382
 Gradius.mra|ad65e5d4e7116342312b60c4b0dabf61|2502
+Grasspin (Jaleco).mra|5ed1417d04525cd30bd7f627a97bfb92|2551
 Gravitar (Ver 3).mra|244d85999bc8620d11b05712dc0187b0|2462
 Grobda (W, New Ver.).mra|331b8e102c4bb9d7588859cff9fdd6cb|3031
 Growl (World, Rev 1).mra|907ef30cd1afaa685073093deb4afdfa|2388
@@ -202,6 +203,7 @@ Joust 2 - Survival of the Fittest (revision 2).mra|186e896e8d8fa4fcb441f1457d2be
 Joust.mra|7ec459f1ee6a95a65dde66bcd6dbf6c7|4117
 Jump Shot.mra|33ff755705958fa75e8a99702d58e1fd|2136
 Jungle King.mra|6694655fe32df0f8bda93294d769ca43|2676
+Juno First.mra|d1dccbcfedf53b6da29b379d094553c8|3436
 Kick And Run.mra|a8c7874936e3d9c46b132d42b3cef2e7|2638
 Kick.mra|3a9e72662f93760cd9eea815abe0ff74|2127
 Kid Niki - Radical Ninja (W).mra|fd44c6d87b97161bcddde1d467b1e045|4229
@@ -349,6 +351,7 @@ Same! Same! Same! (2P Set).mra|b8fbc37aaeaa079e53746de23c950efa|2886
 SAR - Search And Rescue (World).mra|28f37047a1b74a686b9c37488574cbc7|2891
 Sarge.mra|bedf823e04451e6487a87df847cb9909|2064
 Satan's Hollow (Set 1).mra|810c9cc2849db24a7a7ef50a7edd3c10|2116
+Saturn (Zilec).mra|37abf4a48cd8d6dee7c36ec90f55f3af|2340
 Scooter Shooter.mra|c32fea73ebdd7e3dae789aecff82ce4e|2348
 Scramble (Stern, Set 1).mra|19acea7e064208ab725295b2590dd191|2608
 Sea Wolf (Set 1).mra|9d82c403f007d75290dc5d63f722df83|204289
@@ -458,7 +461,6 @@ Truxton II - Tatsujin Oh.mra|73813fba8c4ee9665277c44309f597a0|2408
 Turbo Tag (Prototype).mra|5c87ca136495ea601a53b76a449d9f6d|2578
 Turkey Shoot - The Day They Took Over.mra|332ef9138d3d43095a5f2344ca81d04d|2549
 Turtles.mra|172b77da1307411f4b365b4c2540faa8|2227
-Tutankham II.mra|551a6bc02dd7ba38f577ea374a3466d9|2420
 Tutankham.mra|82cd105fe260586f2dd679ad2e366544|2582
 TwinBee (Bubble System).mra|ab9a462d64d6263074068a6facdc5d42|2383
 TwinBee.mra|70cf7a5faea9689aeb51075b78e2e0ef|2405
