@@ -69,6 +69,7 @@ IronHorse_Senhor_20240527.rbf
 Jackal_Senhor_20260204.rbf
 Jailbreak_Senhor_20260204.rbf
 Joust2_Senhor_20260120.rbf
+JunoFirst_Senhor_20260224.rbf
 jt1942_Senhor_20250922.rbf
 jt1943_Senhor_20250922.rbf
 jtajax_Senhor_20250921.rbf
