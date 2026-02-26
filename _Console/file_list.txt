@@ -36,7 +36,7 @@ NeoGeoPocket_Senhor_20250820.rbf
 NeoGeo_Senhor_20260209.rbf
 NES_Senhor_20251223.rbf
 Odyssey2_Senhor_20260121.rbf
-PocketChallengeV2_Senhor_20250811.mgl
+PocketChallengeV2_Senhor_20260226.mgl
 Pokemon_Mini_Senhor_20260113.rbf
 PSX-2xCPU_Senhor_20250908.rbf
 PSX_Senhor_20260214.rbf
@@ -53,5 +53,5 @@ Super_Vision_8000_Senhor_20251219.rbf
 TurboGrafx16_Senhor_20250902.rbf
 VC4000_Senhor_20250921.rbf
 Vectrex_Senhor_20260104.rbf
-WonderSwanColor_Senhor_20250811.mgl
-WonderSwan_Senhor_20240410.rbf
+WonderSwanColor_Senhor_20260226.mgl
+WonderSwan_Senhor_20260226.rbf
