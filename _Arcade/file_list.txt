@@ -203,7 +203,7 @@ Joust 2 - Survival of the Fittest (revision 2).mra|186e896e8d8fa4fcb441f1457d2be
 Joust.mra|7ec459f1ee6a95a65dde66bcd6dbf6c7|4117
 Jump Shot.mra|33ff755705958fa75e8a99702d58e1fd|2136
 Jungle King.mra|6694655fe32df0f8bda93294d769ca43|2676
-Juno First.mra|d1dccbcfedf53b6da29b379d094553c8|3436
+Juno First.mra|6d5dccb898e59502e15ea7600b186617|3495
 Kick And Run.mra|a8c7874936e3d9c46b132d42b3cef2e7|2638
 Kick.mra|3a9e72662f93760cd9eea815abe0ff74|2127
 Kid Niki - Radical Ninja (W).mra|fd44c6d87b97161bcddde1d467b1e045|4229
