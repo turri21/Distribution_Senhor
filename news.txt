@@ -6,6 +6,7 @@
 [INFO]New MiSTer binary - 26/2/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: JunoFirst_Senhor_20260224.rbf, BluePrint_Senhor_20260222.rbf[/INFO]
+[INFO]Updates: SNES_Senhor_20260227.rbf[/INFO]
 [INFO]Updates: PocketChallengeV2_Senhor_20260226.mgl, WonderSwanColor_Senhor_20260226.mgl[/INFO]
 [INFO]Updates: WonderSwan_Senhor_20260226.rbf, Jaguar_Senhor_20260226.rbf[/INFO]
 [INFO]Updates: Atari800_Senhor_20260224.rbf, BlackWidow_Senhor_20260220.rbf[/INFO]
