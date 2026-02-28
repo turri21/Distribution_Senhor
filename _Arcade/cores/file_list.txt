@@ -23,7 +23,7 @@ BubSysROM_Senhor_20250107.rbf
 BubSys_Senhor_20250107.rbf
 BurgerTime_Senhor_20260125.rbf
 BurningRubber_Senhor_20260124.rbf
-CanyonBomber_Senhor_20250123.rbf
+CanyonBomber_Senhor_20260228.rbf
 Cave_Senhor_20260119.rbf
 Centipede_Senhor_20250123.rbf
 Chameleon_Senhor_20260126.rbf
