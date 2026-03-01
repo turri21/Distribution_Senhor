@@ -157,7 +157,7 @@ Gauntlet (rev 14).mra|701359f7af866474e2937df39d98a79d|2329
 Gauntlet II.mra|005a40ff798ed7194d4aeb5352c26e93|2800
 Gemini Wing.mra|194d7f1a970b3639d6c5a94af14cad14|2568
 Gold Medalist (Set 1, Alpha68k II PCB).mra|5ecb636c2bd8e983250b9bed242b713b|2913
-Gorf.mra|159054d133f2680065e8edb574926bac|2557877
+Gorf.mra|2d894a5546af65f7d7a138aa05cacad9|2557959
 Gorkans.mra|bd533166993f5956a6b4a7572b30be94|2964
 Gorodki.mra|bc2781bb878528510e74a9dba8c8afcb|1382
 Gradius.mra|ad65e5d4e7116342312b60c4b0dabf61|2502
@@ -428,7 +428,7 @@ Terra Cresta (YM3526 set 1).mra|d57c8f60ef01f6e6124a10d05060b0fb|2687
 Terra Force (Japan).mra|92922205fc2d7162b0f67beaca112ea2|2961
 Tetris (Japan, System E).mra|dbd23f27012c75f402715d7d26b08b3e|2019
 Tetris.mra|b2a7257cf3cbf647a93ab21248ce7d43|1260
-The Adventures of Robby Roto!.mra|a07c3b8fa7f92b8b7d2c5a9723c77706|1947
+The Adventures of Robby Roto!.mra|ae1a755d1a1121270a3bfafbc91187e2|2442
 The Battle-Road.mra|ed0693a3ae40dbdbe6babd38b1052403|6582
 The End.mra|247f1723c5465b71355b39d51d8444a0|2703
 The Glob (Pac-Man Hardware).mra|e8ea01364aa3f628188a870f7ce8d648|2286
@@ -486,7 +486,7 @@ Water Match (315-5064).mra|bbe68ab882b7de67e853480bf62af15b|2824
 Water Ski.mra|40068d94369d3463742c98be1f5cc820|2166
 Western Express (Japan, rev 4).mra|3b638347ffd35a9daf7c229a7bbed9a4|2542
 Wild Western.mra|25a15718b34ca218db58b240460bcefa|2560
-Wizard of Wor.mra|288e52cea9c4bf5cbd73b44e69e57ec5|2157
+Wizard of Wor.mra|901db70f826dac6425f2484dcf500b7d|11403817
 Wonder Boy (Set 1, 315-5177).mra|adf03bbb1bd7737f1b9b746e5a2818cf|3347
 Wonder Boy in Monster Land.mra|bb888ad2029ff1a8b300a78d88532960|2291
 Woodpecker (Set 1).mra|8e4cb4f56e9366f0d15181f94179aaf9|2443
