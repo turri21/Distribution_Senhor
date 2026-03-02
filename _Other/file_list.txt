@@ -1,4 +1,5 @@
 Arduboy_Senhor_20251214.rbf
+BubbleUniverse_Senhor_20260302.rbf
 Chess_Senhor_20250212.rbf
 Chip8_Senhor_20251214.rbf
 Demo68k_Senhor_20250511.rbf
