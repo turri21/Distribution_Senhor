@@ -5,6 +5,7 @@
 [INFO]New update_senhor.sh script v1.9[/INFO]
 [INFO]New MiSTer binary - 26/2/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: BubbleUniverse_Senhor_20260302.rbf[/INFO]
 [INFO]New Cores: JunoFirst_Senhor_20260224.rbf, BluePrint_Senhor_20260222.rbf[/INFO]
 [INFO]Updates: Astrocade_Senhor_20260301.rbf, ST-V_Senhor_20260301.rbf[/INFO]
 [INFO]Updates: Defender_Senhor_20260228.rbf, Robotron_Senhor_20260228.rbf[/INFO]
