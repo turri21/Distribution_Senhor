@@ -84,7 +84,7 @@ jtcomsc_Senhor_20250319.rbf
 jtcontra_Senhor_20250318.rbf
 jtcop_Senhor_20250319.rbf
 jtcps15_Senhor_20250319.rbf
-jtcps1_Senhor_20250712.rbf
+jtcps1_Senhor_20260302.rbf
 jtcps2_Senhor_20250712.rbf
 jtdd2_Senhor_20250319.rbf
 jtdd_Senhor_20250319.rbf
@@ -106,7 +106,7 @@ jtmikie_Senhor_20250808.rbf
 jtmx5k_Senhor_20250319.rbf
 jtngp_Senhor_20250820.rbf
 jtninja_Senhor_20250808.rbf
-jtoutrun_Senhor_20250808.rbf
+jtoutrun_Senhor_20260303.rbf
 jtpaclan_Senhor_20250809b.rbf
 jtpang_Senhor_20250809.rbf
 jtparoda_Senhor_20250810.rbf
