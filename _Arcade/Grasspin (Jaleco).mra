@@ -10,19 +10,23 @@
     <year>1983</year>
     <manufacturer>Zilec Electronics / Jaleco</manufacturer>
     <category>Maze</category>
+
     <setname>grasspin</setname>
     <parent>grasspin</parent>
     <mameversion>0220</mameversion>
     <rbf>BluePrint</rbf>
     <about></about>
+    
     <resolution>15kHz</resolution>
     <rotation>vertical (ccw)</rotation>
     <flip>no</flip>
+    
     <players>2 (alternating)</players>
     <joystick>8-way</joystick>
     <special_controls></special_controls>
     <num_buttons>2</num_buttons>
     <button_names>Fire</button_names>
+    
     <switches default="60,03">
         <!-- DIP Switch 1 -->
         <dip bits="5,6"   name="Coinage" ids="2c/1cr,1c/2cr,1c/1cr,2c/3cr"/>
