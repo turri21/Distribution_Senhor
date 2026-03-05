@@ -161,7 +161,7 @@ Gorf.mra|2d894a5546af65f7d7a138aa05cacad9|2557959
 Gorkans.mra|bd533166993f5956a6b4a7572b30be94|2964
 Gorodki.mra|bc2781bb878528510e74a9dba8c8afcb|1382
 Gradius.mra|ad65e5d4e7116342312b60c4b0dabf61|2502
-Grasspin (Jaleco).mra|5ed1417d04525cd30bd7f627a97bfb92|2551
+Grasspin (Jaleco).mra|4c5221431ccf2c904cc6dfb5225bd778|2567
 Gravitar (Ver 3).mra|244d85999bc8620d11b05712dc0187b0|2462
 Grobda (W, New Ver.).mra|331b8e102c4bb9d7588859cff9fdd6cb|3031
 Growl (World, Rev 1).mra|907ef30cd1afaa685073093deb4afdfa|2388
@@ -204,7 +204,7 @@ Joust 2 - Survival of the Fittest (revision 2).mra|186e896e8d8fa4fcb441f1457d2be
 Joust.mra|7ec459f1ee6a95a65dde66bcd6dbf6c7|4117
 Jump Shot.mra|33ff755705958fa75e8a99702d58e1fd|2136
 Jungle King.mra|6694655fe32df0f8bda93294d769ca43|2676
-Juno First.mra|6d5dccb898e59502e15ea7600b186617|3436
+Juno First.mra|d1dccbcfedf53b6da29b379d094553c8|3436
 Kick And Run.mra|a8c7874936e3d9c46b132d42b3cef2e7|2638
 Kick.mra|3a9e72662f93760cd9eea815abe0ff74|2127
 Kid Niki - Radical Ninja (W).mra|fd44c6d87b97161bcddde1d467b1e045|4229
@@ -352,7 +352,7 @@ Same! Same! Same! (2P Set).mra|b8fbc37aaeaa079e53746de23c950efa|2886
 SAR - Search And Rescue (World).mra|28f37047a1b74a686b9c37488574cbc7|2891
 Sarge.mra|bedf823e04451e6487a87df847cb9909|2064
 Satan's Hollow (Set 1).mra|810c9cc2849db24a7a7ef50a7edd3c10|2116
-Saturn (Zilec).mra|37abf4a48cd8d6dee7c36ec90f55f3af|2340
+Saturn (Zilec).mra|558a77099c580468c3e67af815d1668e|2342
 Scooter Shooter.mra|c32fea73ebdd7e3dae789aecff82ce4e|2348
 Scramble (Stern, Set 1).mra|19acea7e064208ab725295b2590dd191|2608
 Sea Wolf (Set 1).mra|9d82c403f007d75290dc5d63f722df83|204289
