@@ -157,7 +157,7 @@ Gauntlet (rev 14).mra|701359f7af866474e2937df39d98a79d|2329
 Gauntlet II.mra|005a40ff798ed7194d4aeb5352c26e93|2800
 Gemini Wing.mra|194d7f1a970b3639d6c5a94af14cad14|2568
 Gold Medalist (Set 1, Alpha68k II PCB).mra|5ecb636c2bd8e983250b9bed242b713b|2913
-Gorf.mra|2d894a5546af65f7d7a138aa05cacad9|2557959
+Gorf.mra|a63de6527aa26c72ddc2d11d878c5ca2|2402
 Gorkans.mra|bd533166993f5956a6b4a7572b30be94|2964
 Gorodki.mra|bc2781bb878528510e74a9dba8c8afcb|1382
 Gradius.mra|ad65e5d4e7116342312b60c4b0dabf61|2502
@@ -486,7 +486,7 @@ Water Match (315-5064).mra|bbe68ab882b7de67e853480bf62af15b|2824
 Water Ski.mra|40068d94369d3463742c98be1f5cc820|2166
 Western Express (Japan, rev 4).mra|3b638347ffd35a9daf7c229a7bbed9a4|2542
 Wild Western.mra|25a15718b34ca218db58b240460bcefa|2560
-Wizard of Wor.mra|901db70f826dac6425f2484dcf500b7d|11403817
+Wizard of Wor.mra|a1bf8859b2788c4b5697d7778fe23951|2224
 Wonder Boy (Set 1, 315-5177).mra|adf03bbb1bd7737f1b9b746e5a2818cf|3347
 Wonder Boy in Monster Land.mra|bb888ad2029ff1a8b300a78d88532960|2291
 Woodpecker (Set 1).mra|8e4cb4f56e9366f0d15181f94179aaf9|2443
