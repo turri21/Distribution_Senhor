@@ -6,7 +6,7 @@
 [INFO]New MiSTer binary - 22/3/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: PCjr_Senhor_20260321.rbf, [/INFO]
-[INFO]Updates: Jaguar_Senhor_20260323.rbf[/INFO]
+[INFO]Updates: QBert_Senhor_20260323.rbf, Jaguar_Senhor_20260323.rbf[/INFO]
 [INFO]Updates: PC88_Senhor_20260321.rbf, PC88_Senhor_20260320.rbf[/INFO]
 [INFO]Updates: Astrocade_Senhor_20260320.rbf, PCXT_Senhor_20260319.rbf[/INFO]
 [INFO]Updates: PC88_Senhor_20260317.rbf, Galaxian_Senhor_20260316.rbf[/INFO]
