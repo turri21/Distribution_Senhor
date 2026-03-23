@@ -332,6 +332,7 @@ Raiders5.mra|57777fb3b1918a91062894b26f869784|1930
 Rally Bike - Dash Yarou.mra|7cf441dfb32a248bbbfdac9fdaba610a|2552
 Rally-X (32k Ver).mra|cf95e4fbd6948079d29169cf759b6ed6|35931
 Rampage (Rev 3, 860827).mra|db746a1c11d578657a952ba589d81c53|2191
+Reactor.mra|483832a8cebb7cc567959d5e1f89510d|3687
 Red Baron (Revised Hardware).mra|f56b9e3c6d3ed4e698308213613480d0|1508
 Red Baron.mra|85b1987c0bb23ea48ce7acfcdc599fc2|1543
 Regulus (315-5033, Rev A).mra|45b0ab36505df6f6a28a9503ebba8f05|3017
