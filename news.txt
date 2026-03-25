@@ -3,7 +3,7 @@
 [INFO]https://github.com/turri21/Senhor/tree/main/Linux_Image[/INFO]
 [INFO]-------------------------------------------------------------------[/INFO]
 [INFO]New update_senhor.sh script v1.9[/INFO]
-[INFO]New MiSTer binary - 24/3/2026[/INFO]
+[INFO]New MiSTer binary - 25/3/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: PCjr_Senhor_20260321.rbf, [/INFO]
 [INFO]Updates: Saturn_Senhor_20260323.rbf[/INFO]
