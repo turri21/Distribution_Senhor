@@ -13,7 +13,7 @@ Casio_PV-1000_Senhor_20251219.rbf
 CDi_Senhor_20260131.rbf
 ChannelF_Senhor_20250921.rbf
 ColecoVision_Senhor_20240502.rbf
-CreatiVision_Senhor_20250305.rbf
+CreatiVision_Senhor_20260325.rbf
 Gamate_Senhor_20250213.rbf
 GameGear_Senhor_20250811.mgl
 GameAndWatch_Senhor_20250306.rbf
