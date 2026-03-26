@@ -6,6 +6,7 @@
 [INFO]New MiSTer binary - 25/3/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Vastar_Senhor_20260320.rbf, PCjr_Senhor_20260321.rbf[/INFO]
+[INFO]Updates: Gameboy_Senhor_20260326.rbf[/INFO]
 [INFO]Updates: JunoFirst_Senhor_20260326.rbf, Atari5200_Senhor_20260325.rbf[/INFO]
 [INFO]Updates: CreatiVision_Senhor_20260325.rbf, Atari800_Senhor_20260325.rbf[/INFO]
 [INFO]Updates: PSX_Senhor_20260325.rbf, Saturn_Senhor_20260323.rbf[/INFO]
