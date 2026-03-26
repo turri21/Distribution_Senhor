@@ -204,7 +204,7 @@ Joust 2 - Survival of the Fittest (revision 2).mra|186e896e8d8fa4fcb441f1457d2be
 Joust.mra|7ec459f1ee6a95a65dde66bcd6dbf6c7|4117
 Jump Shot.mra|33ff755705958fa75e8a99702d58e1fd|2136
 Jungle King.mra|6694655fe32df0f8bda93294d769ca43|2676
-Juno First.mra|d1dccbcfedf53b6da29b379d094553c8|3436
+Juno First.mra|6d5dccb898e59502e15ea7600b186617|3495
 Kick And Run.mra|a8c7874936e3d9c46b132d42b3cef2e7|2638
 Kick.mra|3a9e72662f93760cd9eea815abe0ff74|2127
 Kid Niki - Radical Ninja (W).mra|fd44c6d87b97161bcddde1d467b1e045|4229
@@ -301,6 +301,7 @@ Pipi & Bibis - Whoopee!! (Z80 sound cpu, set 1).mra|c6a9273bf01565e693b249f09772
 Pirate Pete.mra|122dc2db035ce1f810410a3542e7e924|2797
 Pisces.mra|7d45bd3a7b46a50141668188205c547d|2117
 Pitfall II.mra|53dcaa410a21a930beca5c487e8f9bc7|2950
+Planet Probe.mra|1fa16869f469d91913e3a69560403f87|2862
 Playball (Prototype).mra|d88e51804f8c190d556c5dc95e084c83|4180
 Pleiads (Tehkan).mra|69148ef2a1b79b90d86e3af6f34a3843|1628
 Plus Alpha.mra|b837b5ee788fa134c04ee0d6818b60c0|3869
@@ -475,6 +476,7 @@ UniWar S.mra|9c940c5ff0dc99d9bfd2350ccb049e18|2280
 Up'n Down.mra|9af53712b09c4762886f91c82e7152b3|2887
 V'Ball (US).mra|98343be6c1c75616276234b7c360f87d|2278
 Van-Van Car.mra|a7e6d131d1ef4f7a8d51ef8517322f04|2472
+Vastar.mra|612f92d79c3ea383d15305456d721043|3069
 Venture Revision 5.mra|9f4fa6f2c4218d0624d625a9d35303ad|1774
 Victory Road.mra|38f0e786abee00b795e2efdaba6b7e02|3508
 Victory.mra|2307404fd177e2531dde205a969eb9cc|1969
