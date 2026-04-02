@@ -6,7 +6,7 @@
 [INFO]New MiSTer binary - 31/3/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Vastar_Senhor_20260320.rbf, PCjr_Senhor_20260321.rbf[/INFO]
-[INFO]Updates: SpaceInvaders_Senhor_20260402.rbf[/INFO]
+[INFO]Updates: X68000_Senhor_20260402.rbf, SpaceInvaders_Senhor_20260403.rbf[/INFO]
 [INFO]Updates: PCXT_Senhor_20260331.rbf, MegaDrive_Senhor_20260331.rbf[/INFO]
 [INFO]Updates: MegaCD_Senhor_20260327.rbf, Gameboy_Senhor_20260326.rbf[/INFO]
 [INFO]Updates: JunoFirst_Senhor_20260326.rbf, Atari5200_Senhor_20260325.rbf[/INFO]
