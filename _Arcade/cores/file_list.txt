@@ -189,7 +189,7 @@ SNK_TripleZ80_Senhor_20260119.rbf
 snowbro2_Senhor_20250502.rbf
 SolomonsKey_Senhor_20260210.rbf
 Sonson_Senhor_20240527.rbf
-SpaceInvaders_Senhor_20260205.rbf
+SpaceInvaders_Senhor_20260402.rbf
 SpaceRace_Senhor_20240527.rbf
 Sprint1_Senhor_20260206.rbf
 Sprint2_Senhor_20260206.rbf
