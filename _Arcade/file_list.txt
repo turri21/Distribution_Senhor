@@ -81,7 +81,7 @@ Cosmic Alien.mra|5c5086ccd6fef4024f8b28d3b2e67a6e|3370749
 Cosmic Avenger.mra|37560eb1f5262ca8ffc67a6ba55863a1|2951
 Cosmic Guerilla.mra|cc910024a6747e4768559fd673d6316e|884919
 Cosmo Police Galivan (12-26-1985).mra|51e595242ac4ae403ed81eecc81d4849|2699
-Cosmo.mra|6cd8a994b5794393c76fd1dee8e1d004|2569
+Cosmo.mra|4ad024327a7e170784745d6c334f1f73|1388539
 Country Club.mra|4445be3c106107856ddf3ba9d141847c|3147
 Crater Raider.mra|f6bee4202ccf4b82ca5bea8ef61d5dd4|2560
 Crazy Balloon.mra|36fb1600d44a4b265815175e7643eb0a|1787
