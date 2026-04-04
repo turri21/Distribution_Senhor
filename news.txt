@@ -5,7 +5,7 @@
 [INFO]New update_senhor.sh script v1.9[/INFO]
 [INFO]New MiSTer binary - 31/3/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]Updates: Tutankham_Senhor_20260404.rbf, BluePrint_Senhor_20260404.rbf[/INFO]
+[INFO]Updates: BluePrint_Senhor_20260404.rbf, Tutankham_Senhor_20260404.rbf[/INFO]
 [INFO]Updates: Saturn_Senhor_20260403.rbf, C64_Senhor_20260403.rbf[/INFO]
 [INFO]Updates: Pokemon_Mini_Senhor_20260403.rbf, X68000_Senhor_20260403.rbf[/INFO]
 [INFO]Updates: Gameboy_Senhor_20260402.rbf, SNES_Senhor_20260403.rbf[/INFO]
