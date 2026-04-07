@@ -57,7 +57,7 @@ D. D. Crew (World, 3 Players) (FD1094 317-0190).mra|4f8b841a0ea961ea3c117946ddbb
 Dangerous Seed (Japan).mra|719c6fb2bc53c4719f1ff05c54ea7062|4527
 Darkstalkers The Night Warriors (Euro 940705).mra|be18b3f9ed924f139fea45b19e9c0d5f|4376
 Desert Breaker (World) (FD1094 317-0196).mra|d06d20783195bc277a323e218fe5d171|4966
-Devil World.mra|4c38bda55aa7a02e3185c135c1f7bc65|4749
+Devil World.mra|f75193ff027b8b36e2e2e7e2fce2cd7a|4749
 Dimahoo (Euro 000121).mra|6a1a68afa7660142410c1686e1c6b836|3867
 Dokaben (Japan).mra|f46a23318a11f02efa70426ea0b32d57|3123
 Dokaben 2 (Japan).mra|aab4e579efd47311f8262942e77dcd6b|3127
@@ -242,7 +242,7 @@ Varth Operation Thunderstorm (World 920714).mra|eda4d16040bac67bba37ec5f8fd3db77
 Vendetta (World, 4 Players, ver. T).mra|8372efde1716572cc2f739ecdfe57acd|3731
 Victorious Nine.mra|12322e0ded58d61b85e9b31dc0e2a396|5410
 Vigilante (World, Rev E).mra|9ca0cc5f6776c35f94b39dc101cd6b7c|4061
-Vulcan Venture (New).mra|773e5aab37cfaafe20b26e2a8dcc1036|4784
+Vulcan Venture (new).mra|0504687447164ece1691395a751c433a|4784
 Vulgus (set 1).mra|e97ae5942d4132a09e8b4b6e38d642a9|5357
 Wally wo Sagase! (rev B, Japan, 2 players) (FD1094 317-0197B).mra|54acb49cdede42068b6cec0ab78b6f52|4410
 Warriors of Fate (World 921031).mra|28742bcba8d0a31b1032e9f4db892b13|3645
