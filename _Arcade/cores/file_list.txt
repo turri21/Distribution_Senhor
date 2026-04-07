@@ -70,8 +70,8 @@ Jackal_Senhor_20260204.rbf
 Jailbreak_Senhor_20260204.rbf
 Joust2_Senhor_20260120.rbf
 JunoFirst_Senhor_20260326.rbf
-jt1942_Senhor_20250922.rbf
-jt1943_Senhor_20250922.rbf
+jt1942_Senhor_20260407.rbf
+jt1943_Senhor_20260407.rbf
 jtajax_Senhor_20260407.rbf
 jtaliens_Senhor_20250728.rbf
 jtbiocom_Senhor_20250808.rbf
@@ -84,7 +84,7 @@ jtcomsc_Senhor_20250319.rbf
 jtcontra_Senhor_20250318.rbf
 jtcop_Senhor_20250319.rbf
 jtcps15_Senhor_20250319.rbf
-jtcps1_Senhor_20260302.rbf
+jtcps1_Senhor_20260407.rbf
 jtcps2_Senhor_20260304.rbf
 jtdd2_Senhor_20250319.rbf
 jtdd_Senhor_20250319.rbf
