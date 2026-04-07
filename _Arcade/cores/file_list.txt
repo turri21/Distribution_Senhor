@@ -109,7 +109,7 @@ jtninja_Senhor_20250808.rbf
 jtoutrun_Senhor_20260303.rbf
 jtpaclan_Senhor_20260407.rbf
 jtpang_Senhor_20250809.rbf
-jtparoda_Senhor_20250810.rbf
+jtparoda_Senhor_20260407.rbf
 jtpinpon_Senhor_20250809.rbf
 jtrastan_Senhor_20250730.rbf
 jtriders_Senhor_20250808b.rbf
