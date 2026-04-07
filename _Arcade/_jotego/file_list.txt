@@ -145,7 +145,7 @@ Pac-Mania.mra|d5192ec5adceeea32cc81eee5887f364|4275
 Pang (World).mra|1991be7a6da84069a3d44a7083a74569|3071
 Pang! 3 (Euro 950601).mra|a84ed97d4caa23b885f764aa67322c7b|3222
 Pang! 3 (Europe 950601).mra|9be0f43961c679d1ccf6c1e3a3f30c7e|3272
-Parodius Da! Shinwa kara Owarai e (World, set 1).mra|4e47310b5975aa35aa94be09cca0b9d9|4331
+Parodius Da! Shinwa kara Owarai e (World, set 1).mra|ee08a65f236ac40a2d86f7f315609e49|4368
 Passing Shot (World, 2 Players) (FD1094 317-0080).mra|08626216af46ff13a5c8550f0bd91ec9|5356
 Pirate Ship Higemaru.mra|bb12c0939b4d4f89c0652899c6b47901|4410
 Pistol Daimyo no Bouken (Japan).mra|b95612ff34aeab3e8ed862fd25649f0a|4303
@@ -208,6 +208,7 @@ Super Pang (World 900914).mra|401eba069d79e3bc4bb944e2f7d49dc0|3219
 Super Puzzle Fighter II Turbo (Euro 960529).mra|92011833b9fa3066166d224b08e33ae3|3769
 Super Street Fighter II The New Challengers (World 931005).mra|397ec22023bbb98a00dc8d2e1c585bc9|4337
 Super Street Fighter II Turbo (World 940223).mra|2a937b1c7b8b8f38eeb591d95410f61b|4637
+Surprise Attack (World ver. K).mra|2ad3a7deeeaa010b7fc41ea14c1f7368|3752
 Tank Force (US, 2 Players).mra|39da97337d3779b2669ae37d6f0a678e|4169
 Teenage Mutant Ninja Turtles (World 4 Players, version X).mra|d07f6f5bfbac3a1112a96ecb007a9195|4570
 Tehkan World Cup (set 1).mra|311164b93a017d5bb5c7e6461ea05c85|3785
