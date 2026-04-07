@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2026. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -24,20 +24,20 @@
     <rotation>horizontal</rotation>
     <name>Pirate Ship Higemaru</name>
     <setname>higemaru</setname>
-    <mameversion>0261</mameversion>
+    <mameversion>0282</mameversion>
     <year>1984</year>
     <manufacturer>Capcom</manufacturer>
     <players>2</players>
     <rbf>jt1942</rbf>
     <joystick>4</joystick>
     <region>World</region>
-    <rom index="0" zip="higemaru.zip" md5="None" asm_md5="fd3dfa858b78ce0bba2260ba639dcd86">
+    <rom index="0" zip="higemaru.zip" md5="None" asm_md5="d751784265f9dc0764ec50c914ccb9eb">
         <!--  Header to identify the PCB type
         Byte 0 = 0 for 1942, 1 for Vulgus, 2 for Higemaru
         Byte 1 = XOR with flip
  -->
         <part>
-            02 00 00 00 </part>
+            02 01 00 00 </part>
         <!-- maincpu - starts at 0x0 - length 0x18000 (17 bits) -->
         <part name="hg4.p12" crc="dc67a7f9"/>
         <part name="hg5.m12" crc="f65a4b68"/>
@@ -61,7 +61,7 @@
         <!-- sprprom - starts at 0x1E000 - length 0x1C000 (17 bits) -->
         <part repeat="0x1C000"> FF</part>
         <!-- JTFRAME_PROM_START -->
-        <!-- proms - starts at 0x3A000 - length 0x500 (11 bits) -->
+        <!-- proms - starts at 0x3A000 - length 0x400 (10 bits) -->
         <part name="hgb3.l6" crc="629cebd8"/>
         <part name="hgb3.l6" crc="629cebd8"/>
         <part name="hgb3.l6" crc="629cebd8"/>
@@ -72,8 +72,9 @@
         <part name="hgb3.l6" crc="629cebd8"/>
         <part name="hgb5.m4" crc="dbaa4443" length="0x100"/>
         <part name="hgb1.h7" crc="07c607ce" length="0x100"/>
-        <part name="hgb4.l9" crc="712ac508" length="0x100"/>
         <part name="hgb2.k7" crc="4921635c" length="0x100"/>
+        <!-- irqprom - starts at 0x3A400 - length 0x100 (8 bits) -->
+        <part name="hgb4.l9" crc="712ac508"/>
         <!-- Total 0x3A500 bytes - 233 kBytes -->
     </rom>
     <rom index="1">
