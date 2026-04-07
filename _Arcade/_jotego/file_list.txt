@@ -140,7 +140,7 @@ NeoGeo Pocket.mra|3279ec97cfa3825d411b989a864cd86a|1823
 Night Warriors Darkstalkers' Revenge (Euro 950316).mra|4ebdc03b10988c6e6baaf7e88b09c6f0|4386
 Onna Sanshirou - Typhoon Gal.mra|3570df3114282b1b49b697eed6e7221c|5499
 Out Run (sitdown-upright, Rev B).mra|0b83a8d2b6bd7a63c9e387b4bc148441|6845
-Pac-Land (World).mra|4a628cbb53c4cb8ca20d2caf41963e2e|4604
+Pac-Land (World).mra|0b73742960168b9845ae73e8aa70e1cf|4455
 Pac-Mania.mra|d5192ec5adceeea32cc81eee5887f364|4275
 Pang (World).mra|1991be7a6da84069a3d44a7083a74569|3071
 Pang! 3 (Euro 950601).mra|a84ed97d4caa23b885f764aa67322c7b|3222
