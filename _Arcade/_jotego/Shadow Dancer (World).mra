@@ -5,7 +5,7 @@
               This work is not mantained by the MiSTer project. Please contact the
               core author for issues and updates.
 
-              (c) Jose Tejada, 2025. Please support this research
+              (c) Jose Tejada, 2026. Please support this research
               Patreon: https://patreon.com/jotego
 
               The author does not endorse or participate in illegal distribution
@@ -24,7 +24,7 @@
     <rotation>horizontal</rotation>
     <name>Shadow Dancer (World)</name>
     <setname>shdancer</setname>
-    <mameversion>0261</mameversion>
+    <mameversion>0282</mameversion>
     <year>1989</year>
     <manufacturer>Sega</manufacturer>
     <players>2</players>
@@ -76,9 +76,6 @@
         <!-- maincpu:key - starts at 0x580000 -->
         <!-- mcu - starts at 0x580000 -->
         <!-- Total 0x580000 bytes - 5632 kBytes -->
-    </rom>
-    <rom index="17" zip="jtbeta.zip" md5="None" asm_md5="3e2d7474f2c93d482866bc2952047160">
-        <part name="beta.bin" crc="32970d5"/>
     </rom>
     <nvram index="2" size="16384"/>
     <rom index="1">
