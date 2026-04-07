@@ -6,7 +6,7 @@
 [INFO]New MiSTer binary - 5/4/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: jtpaclan_Senhor_20260407.rbf, jts18_Senhor_20260407.rbf[/INFO]
-[INFO]Updates: jts16_Senhor_20260407.rbf[/INFO]
+[INFO]Updates: jtparoda_Senhor_20260407.rbf, jts16_Senhor_20260407.rbf[/INFO]
 [INFO]Updates: jtcps1_Senhor_20260407.rbf, jtajax_Senhor_20260407.rbf[/INFO]
 [INFO]Updates: jt1942_Senhor_20260407.rbf, jt1943_Senhor_20260407.rbf[/INFO]
 [INFO]Updates: BluePrint_Senhor_20260404.rbf, Tutankham_Senhor_20260404.rbf[/INFO]
