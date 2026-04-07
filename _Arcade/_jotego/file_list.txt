@@ -10,8 +10,8 @@ Action Fighter (World, S16A) [FD1089A 317-0018].mra|26ddff8fd796733826f641dffdf7
 Adventure Quiz Capcom World 2 (Japan 920611).mra|6135cb9c9a5bad2d239835c3925627f0|5168
 Ajax.mra|d636683dc9e2b4e2ef8ecfd969709b5f|6608
 Alex Kidd The Lost Stars (Set 2, World, S16A) [No Protection].mra|9869412a09197239683769d6e7afa716|5688
-Alien Storm (World, 2 Players) (FD1094 317-0154).mra|a4fd5cddd5682fb3738466f90f713ea8|4901
-Alien Syndrome (set 4, System 16B, unprotected).mra|79c16cb8ad72c8657735a5010b8aa99f|5681
+Alien Storm (World, 2 Players) (FD1094 317-0154).mra|d180c5edf7f707c6a87481077264f09d|4752
+Alien Syndrome (set 4, System 16B, unprotected).mra|223dcd604463e732ef295b6803ec6b99|5681
 Alien vs. Predator (Euro 940520).mra|1eebf7f99cefaebb96afca0b714c3a69|4074
 Aliens (World set 1).mra|7dda302b391d4b56a7bae529f73838c6|4350
 Altered Beast (set 8) (8751 317-0078).mra|4535fb4e9804eeab689df2dc999952ae|5219
@@ -29,7 +29,7 @@ Black Tiger.mra|e7ed31d6cdfbe66b427d806694a78455|4425
 Blast Off (Japan).mra|f945fddbf36d7b58e83ab36b42c3e279|4445
 Blazer (Japan).mra|16b433b1d548d3d6a36da5b25254f685|5323
 Block Block (World 911219 Joystick).mra|64b1a40a9fc7d46413e0603e72402662|3201
-Bloxeed (Japan) (FD1094 317-0139).mra|f0c9f74281f6be6e914f0b3961b990de|4145
+Bloxeed (Japan) (FD1094 317-0139).mra|c6cec875603609ee69ee3cbdb1f0580c|3996
 Body Slam (World, S16) [8751 317-0015].mra|19ee511d060945e3358a331f9494f364|5922
 Boulder Dash - Boulder Dash Part 2 (World).mra|3c2677474967031e1943bc056049f105|5079
 Boxy Boy (World, SB2).mra|b0a4a15d3e7807236ff425a8e00213df|4132
@@ -44,7 +44,8 @@ Carrier Air Wing (World 901012).mra|1575a921cc1b55e8f6addc0b46abf0ae|3911
 Chelnov - Atomic Runner (World).mra|0b51002a76a936798d58edb0d2d1dbfd|4916
 Chou Zetsurinjin Berabowman (Japan, Rev C).mra|e8c384e1fbcd81633d07a20edbd55187|195821
 Circus Charlie (level select, set 1).mra|04667f2372cffe45410832687b5699f1|3922
-Clutch Hitter (US) (FD1094 317-0176).mra|6eea7b7210203be6ac4d0cc283acb225|4745
+Clockwork Aquario (prototype).mra|599991e7ca2a7e4eba1469a8b0aab129|4792
+Clutch Hitter (US) (FD1094 317-0176).mra|e06d5bd8216c04dd72023ab045a4c44a|4596
 Combat School (joystick).mra|dcf51002a8dc358c349f347b50648fe1|3858
 Commando (World).mra|53030b0e716c313325646cd41564d24a|4605
 Contra (US - Asia, set 1).mra|5c8aec982fd17796aabdc7d0c339c1df|3724
@@ -52,9 +53,10 @@ Cotton (set 4, World) (FD1094 317-0181a).mra|2fcfcf16b6486a246d66a1c4c76a218a|62
 CPS1 Multi Game.mra|cc99d339f88009a7226e911f83a91354|4769
 Crime Fighters (World 2 players).mra|75b765fad9c36240729c119dc23bc2f0|3985
 Cyberbots Fullmetal Madness (Euro 950424).mra|e5b433c88eb1e4be0db0be1a6ab08e2c|4321
+D. D. Crew (World, 3 Players) (FD1094 317-0190).mra|4f8b841a0ea961ea3c117946ddbbcf7b|4989
 Dangerous Seed (Japan).mra|719c6fb2bc53c4719f1ff05c54ea7062|4527
 Darkstalkers The Night Warriors (Euro 940705).mra|be18b3f9ed924f139fea45b19e9c0d5f|4376
-Desert Breaker (World) (FD1094 317-0196).mra|352d41c60a30dfe20f83deb2fb8933a3|5115
+Desert Breaker (World) (FD1094 317-0196).mra|d06d20783195bc277a323e218fe5d171|4966
 Devil World.mra|4c38bda55aa7a02e3185c135c1f7bc65|4749
 Dimahoo (Euro 000121).mra|6a1a68afa7660142410c1686e1c6b836|3867
 Dokaben (Japan).mra|f46a23318a11f02efa70426ea0b32d57|3123
@@ -91,6 +93,7 @@ Golden Axe (set 6, US) (8751 317-123A).mra|ec5d78b678f98cc4b9211b5bab33f558|5668
 Gridiron Fight.mra|c72e7e76556f658e230f0b30a6d8e4a7|3778
 Gulun.Pa! (Japan 931220 L) (prototype).mra|5aad07d9634355214def525e04550004|3567
 Gun.Smoke (World, 1985-11-15).mra|0b0b6797005c5fb40b36718181c8a8f0|5557
+Hammer Away (Japan, prototype).mra|e6dda04b3b6ddace0458fbc60a528679|4689
 Haunted Castle (version M).mra|c62cc1b3b6f748aab92fd3024ac99cbb|3852
 Heavy Barrel (World).mra|809c2a1311eaaa1ef1e42f67447fd371|6143
 Hippodrome (US).mra|111ba5655450fbaa432f09d36c367b62|5846
@@ -107,7 +110,7 @@ Karnov (US, rev 6).mra|4334fbd31f2370d66a2c83767e634565|5598
 Kicker.mra|8fcf9d8e4167e0c4318eea70a9961b61|4087
 Knights of the Round (World 911127).mra|06836ccbdc32954dbba1d2c5eded3207|4061
 Konami's Ping-Pong.mra|62b52df10f566d9988e867bd1d7cc012|2977
-Laser Ghost (World) (FD1094 317-0166).mra|7a0476ca06d7841b91da3aa97bd41315|5292
+Laser Ghost (World) (FD1094 317-0166).mra|3279ede23ec066d111fb631c6afed590|5143
 Legendary Wings (US set 1).mra|dfcfa7b76f64f961b07d5366c0d02975|4500
 Lightning Fighters (World).mra|0ba563bcbf4368744e084eb4ecca7e39|4030
 M.I.A. - Missing in Action (version T).mra|b0f261fc225c5d878bc89182acd617f6|4670
@@ -124,7 +127,7 @@ Mega Man The Power Battle (CPS1, USA 951006).mra|35254b658071476df406c270ebe3a8f
 Mega Twins (World 900619).mra|ae25d5063d4a34f5c70d400e7df58ec8|3888
 Mercs (World 900302).mra|79a00b92f4e55b17e27c6aa84c2c8be3|4482
 Metro-Cross (set 1).mra|b2bc3f70f0a602f1ac55518d09a685e1|8781
-Michael Jackson's Moonwalker (World) (FD1094-8751 317-0159).mra|480582e059b8dc7445c3088b4f336564|5132
+Michael Jackson's Moonwalker (World) (FD1094-8751 317-0159).mra|d55ee6b85154817cf8295a3047de8d13|4983
 Midnight Resistance (World, set 1).mra|28b9696183e70e43dc43f5c2bf3249ba|4864
 Mighty! Pang (Euro 001010).mra|1457bb808938b604f6bb3d0313ad4dcf|3977
 Mikie.mra|d5c3413bdf396f874b45c315da746a5a|3782
@@ -176,7 +179,7 @@ SDI Strategic Defense Initiative (Japan, New Ver., S16A) [FD1089B 317-0027].mra|
 Secret Agent (World revision 3).mra|acfab303851be38c5c0507603eda85b1|5179
 Secret Agent (World, revision 3).mra|510517dca85a823750ca9cdfe420734b|5166
 Section Z (set 1).mra|55f7a947d007cd191860d2678c020650|4468
-Shadow Dancer (World).mra|d438e56cb05c0685f0bcff0c8996b2e4|4653
+Shadow Dancer (World).mra|f0582afdf5db1536a35926a97df070f6|4504
 Shadow Warriors (World, set 1).mra|877d556b5aed21713874b22f81eddac7|5303
 Shadowland (YD3).mra|02cb931609994b82992cd0a58f2e2471|5036
 Shinobi (Set 6, World, S16A) [No Protection].mra|2a379779c78b8a92d27740ac0da5696b|5536
@@ -240,6 +243,7 @@ Victorious Nine.mra|12322e0ded58d61b85e9b31dc0e2a396|5410
 Vigilante (World, Rev E).mra|9ca0cc5f6776c35f94b39dc101cd6b7c|4061
 Vulcan Venture (New).mra|773e5aab37cfaafe20b26e2a8dcc1036|4784
 Vulgus (set 1).mra|e97ae5942d4132a09e8b4b6e38d642a9|5357
+Wally wo Sagase! (rev B, Japan, 2 players) (FD1094 317-0197B).mra|54acb49cdede42068b6cec0ab78b6f52|4410
 Warriors of Fate (World 921031).mra|28742bcba8d0a31b1032e9f4db892b13|3645
 Wild Fang - Tecmo Knight.mra|a301b47f5c0e8a734c1474120f7bcc04|4547
 Willow (World).mra|3a89e5aa0ebb523ae91ec561e91b12bf|4634
