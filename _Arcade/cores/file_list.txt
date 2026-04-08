@@ -80,7 +80,7 @@ jtbubl_Senhor_20260407.rbf
 jtcastle_Senhor_20260407.rbf
 jtcircus_Senhor_20260407.rbf
 jtcommnd_Senhor_20260407.rbf
-jtcomsc_Senhor_20250319.rbf
+jtcomsc_Senhor_20260407.rbf
 jtcontra_Senhor_20260407.rbf
 jtcop_Senhor_20260407.rbf
 jtcps15_Senhor_20250319.rbf
