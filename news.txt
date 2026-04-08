@@ -8,6 +8,7 @@
 [INFO]New Cores: 3DO_Senhor_20260408.rbf[/INFO]
 [INFO]New Cores: jtpaclan_Senhor_20260407.rbf, jts18_Senhor_20260407.rbf[/INFO]
 [INFO]Updates: jttwin16_Senhor_20260408.rbf[/INFO]
+[INFO]Updates: jtaliens_Senhor_20260407.rbf[/INFO]
 [INFO]Updates: jtparoda_Senhor_20260407.rbf, jts16_Senhor_20260407.rbf[/INFO]
 [INFO]Updates: jtcps1_Senhor_20260407.rbf, jtajax_Senhor_20260407.rbf[/INFO]
 [INFO]Updates: jt1942_Senhor_20260407.rbf, jt1943_Senhor_20260407.rbf[/INFO]
