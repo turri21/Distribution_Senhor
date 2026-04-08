@@ -86,8 +86,8 @@ jtcop_Senhor_20260407.rbf
 jtcps15_Senhor_20260407.rbf
 jtcps1_Senhor_20260407.rbf
 jtcps2_Senhor_20260304.rbf
-jtdd2_Senhor_20250319.rbf
-jtdd_Senhor_20250319.rbf
+jtdd2_Senhor_20260407.rbf
+jtdd_Senhor_20260407.rbf
 jtexed_Senhor_20250319.rbf
 jtflane_Senhor_20250319.rbf
 jtflstory_Senhor_20250821.rbf
