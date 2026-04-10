@@ -100,7 +100,7 @@ jtkchamp_Senhor_20260407.rbf
 jtkicker_Senhor_20260407.rbf
 jtkiwi_Senhor_20260407.rbf
 jtkunio_Senhor_20260407.rbf
-jtlabrun_Senhor_20250320.rbf
+jtlabrun_Senhor_20260407.rbf
 jtmidres_Senhor_20250319.rbf
 jtmikie_Senhor_20250808.rbf
 jtmx5k_Senhor_20250319.rbf
