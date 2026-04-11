@@ -7,5 +7,6 @@
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: 3DO_Senhor_20260408.rbf[/INFO]
 [INFO]New Cores: jtpaclan_Senhor_20260407.rbf, jts18_Senhor_20260407.rbf[/INFO]
+[INFO]Updates: X68000_Senhor_20260411.rbf[/INFO]
 [INFO]Updates: C64_Senhor_20260409.rbf, JOTEGO CORES (on going update)[/INFO]
 [INFO]Updates: Scramble_Senhor_20260409.rbf, Pooyan_Senhor_20260408.rbf [/INFO]
