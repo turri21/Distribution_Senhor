@@ -33,7 +33,7 @@ MegaDrive_Senhor_20260331.rbf
 MyVision_Senhor_20251225.rbf
 N64-Turbo_Senhor_20250815.rbf
 N64_Senhor_20260211.rbf
-NeoGeoPocket_Senhor_20250820.rbf
+NeoGeoPocket_Senhor_20260407.rbf
 NeoGeo_Senhor_20260209.rbf
 NES_Senhor_20260310.rbf
 Odyssey2_Senhor_20260121.rbf
