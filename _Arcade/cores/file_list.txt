@@ -108,7 +108,7 @@ jtngp_Senhor_20260407.rbf
 jtninja_Senhor_20260412.rbf
 jtoutrun_Senhor_20260412.rbf
 jtpaclan_Senhor_20260407.rbf
-jtpang_Senhor_20250809.rbf
+jtpang_Senhor_20260412.rbf
 jtparoda_Senhor_20260407.rbf
 jtpinpon_Senhor_20250809.rbf
 jtrastan_Senhor_20250730.rbf
