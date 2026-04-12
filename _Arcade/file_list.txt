@@ -66,7 +66,7 @@ Cameltry (World, YM2610).mra|a8132fe467b87bacacc03f476cb200f5|2042
 Canyon Bomber.mra|f6df6e5ed27e54a3a3e9d689a94dfb0f|1376
 Carnival.mra|f248a3fe3ebaad4decda9dad9d8ec04a|2078956
 Catacomb.mra|f318a8c59e69f2429998682e7ed5e823|1939
-Cavelon.mra|c1a20e505f5db289480fafcd66e403bd|1909
+Cavelon.mra|7def2969bcfc41f7ba6eee714d2b6e14|1908
 Centipede (Rev 4).mra|2857a5b6415f8844fad454e4d388ea1d|1944
 Chameleon.mra|e4410d2f4057ce065436a7e9de5aa06a|2572
 Choplifter (unprotected).mra|086bb65a270cfac61e1fe8ef6b5702e5|2370
