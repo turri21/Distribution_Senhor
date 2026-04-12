@@ -325,6 +325,8 @@ Pulsar.mra|96d15ee019782230759948aaf6f41335|2327539
 Puzzle Uo Poko.mra|027ffabc8c38a9bd163a77ec1827b1a1|1015
 Q'bert (US, Set 1).mra|c45cdffef8b554bc44801e79f5327ab6|2111
 QBert Qubes.mra|4b7fe7c6fcd5fdc268bd678e7f117e4a|1377
+Qix (set 1).mra|2158203ab443c4abfc5d649d6daa6132|1976
+Qix II (Tournament).mra|4048cc62d9abf3f5290022bdd997316a|1655
 R-Type (World).mra|1365dbf870188d9ea8ad593125f069fd|3510
 R-Type II (World).mra|69151a5be820cc3c5a6630d511ab8619|3088
 R-Type Leo (World).mra|ef9b632f177f70fb27063ca1d9f535c7|6350
