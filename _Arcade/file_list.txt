@@ -93,6 +93,7 @@ Crazy Kong Part II (Set 1).mra|c581c4ea42e2043abaa8eacb24e5824f|2072
 Crush Roller (Set 2).mra|37046f5aa03bd1867d3f8edb8a7e4e2f|2771
 Crystal Castles.mra|ea9a5760de3d1b69226c14b50a254ff2|715
 Dakkochan House (MC-8123).mra|818971dbd67902cebeaeac94b7840c30|2324
+Darius (World).mra|bdad8872f3c5db8782472637d26cf7bb|4322
 Dark Planet.mra|124974270f3808972bf31979cf600578|2268
 Dead Connection (World).mra|6e2ad54e0ed93f853d0dad9f7b5c54b7|2325
 Defender (Red Label).mra|ffd7e6453bc14992e6410703bd7deec0|2485
