@@ -35,6 +35,7 @@ CrazyBalloon_Senhor_20260121.rbf
 CrazyClimber_Senhor_20260126.rbf
 CrazyKong_Senhor_20260126.rbf
 CrystalCastles_Senhor_20250123.rbf
+Darius_Senhor_20260413.rbf
 Defender_Senhor_20260228.rbf
 demonwld_Senhor_20250502.rbf
 DigDug_Senhor_20260126.rbf
