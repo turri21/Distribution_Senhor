@@ -76,6 +76,7 @@ Clowns.mra|dd480dcb3d9619c13c26be6e98963428|161623
 Colony 7 (Set 1).mra|eda07db4e167bb2c3cf2377a1d7f69fc|1801
 Combat Hawk.mra|d51ee6866f555aa20474ad11fd1604fb|2129
 CoMotion.mra|31ae565520bc5c8d1a252a21cb491656|1059
+Complex X.mra|295d0042f9bac7f51a55830d43ef4e72|1718
 Computer Space.mra|1c5c33d1d3b083c8e173fbc086301a5c|1147
 Congo Bongo.mra|9b8746f0295ee9d398462aa52306b319|2088
 Cosmic Alien.mra|5c5086ccd6fef4024f8b28d3b2e67a6e|3370749
@@ -326,8 +327,8 @@ Pulsar.mra|96d15ee019782230759948aaf6f41335|2327539
 Puzzle Uo Poko.mra|027ffabc8c38a9bd163a77ec1827b1a1|1015
 Q'bert (US, Set 1).mra|c45cdffef8b554bc44801e79f5327ab6|2111
 QBert Qubes.mra|4b7fe7c6fcd5fdc268bd678e7f117e4a|1377
-Qix (set 1).mra|2158203ab443c4abfc5d649d6daa6132|1976
-Qix II (Tournament).mra|4048cc62d9abf3f5290022bdd997316a|1655
+Qix (set 1).mra|6b9e432357f572e8b265f4af5f6ee22e|2098
+Qix II (Tournament).mra|f55cf1638ba078de09151c9d8f568f3f|1777
 R-Type (World).mra|1365dbf870188d9ea8ad593125f069fd|3510
 R-Type II (World).mra|69151a5be820cc3c5a6630d511ab8619|3088
 R-Type Leo (World).mra|ef9b632f177f70fb27063ca1d9f535c7|6350
@@ -386,6 +387,7 @@ SonSon.mra|29b4b913eb305a1d10f1de2b9564ec73|1820
 Sorcer Striker.mra|333ddacf89b7eb3c44bfeb18c4630b79|2763
 Space Chaser.mra|188601613c5999168aa5bba0d6c15c12|1824
 Space Cruiser.mra|2f0b0b04ac4db4aaa309d7e68abc7614|2403
+Space Dungeon.mra|fb7e741cfe0c8bfb7c9e7df2c0ead01e|1868
 Space Encounters.mra|a41ff19b0017477a1ef40187ba57ab12|1651
 Space Invaders Part II (Taito, Bigger ROMs).mra|205474364d4ea43e9085cb064899080b|2023
 Space Invaders.mra|d3fb85b9a573be9d2eb090769c1493bf|486763
