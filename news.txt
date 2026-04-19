@@ -7,7 +7,7 @@
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Darius_Senhor_20260413.rbf, 3DO_Senhor_20260408.rbf[/INFO]
 [INFO]New Cores: jtpaclan_Senhor_20260407.rbf, jts18_Senhor_20260407.rbf[/INFO]
-[INFO]Updates: MacPlus_Senhor_20260419.rbf, Gameboy_Senhor_20260415.rbf[/INFO]
+[INFO]Updates: MacPlus_Senhor_20260420.rbf, Gameboy_Senhor_20260415.rbf[/INFO]
 [INFO]Updates: C128_Senhor_202604214.rbf, C64_Senhor_20260412.rbf[/INFO]
 [INFO]Updates: SMS_Senhor_20260412.rbf, X68000_Senhor_20260411.rbf[/INFO]
 [INFO]Updates: C64_Senhor_20260409.rbf, JOTEGO CORES (on going update)[/INFO]
