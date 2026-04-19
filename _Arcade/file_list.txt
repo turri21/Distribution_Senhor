@@ -218,6 +218,7 @@ Konek Gorbunok.mra|16a76c4397caede30680676b2b0374be|1478
 Kot-Rybolov.mra|2f8a24edb730154e1c07884a1ca2b9ee|1473
 Kozmik Krooz'r.mra|f5b29c8674fe2814db2ac948343a6da3|1507384
 Kozure Ookami (Japan).mra|76a610ce4121bd918c7b94cff08246d2|2985
+Kram.mra|7c0720fdd92d64ed40db357c24d40398|1626
 Kung-Fu Master (W).mra|d558de82bcfffbf1a10505c7c8d7702d|5990
 Lady Bug.mra|d8f472358ccf8b9658f064db141a6d9d|3195
 Laguna Racer.mra|c40b096fbc108feda1829aa43db73597|699190
@@ -387,7 +388,7 @@ SonSon.mra|29b4b913eb305a1d10f1de2b9564ec73|1820
 Sorcer Striker.mra|333ddacf89b7eb3c44bfeb18c4630b79|2763
 Space Chaser.mra|188601613c5999168aa5bba0d6c15c12|1824
 Space Cruiser.mra|2f0b0b04ac4db4aaa309d7e68abc7614|2403
-Space Dungeon.mra|fb7e741cfe0c8bfb7c9e7df2c0ead01e|1868
+Space Dungeon.mra|0421343c9f828570a02ecf7d268c304d|2022
 Space Encounters.mra|a41ff19b0017477a1ef40187ba57ab12|1651
 Space Invaders Part II (Taito, Bigger ROMs).mra|205474364d4ea43e9085cb064899080b|2023
 Space Invaders.mra|d3fb85b9a573be9d2eb090769c1493bf|486763
