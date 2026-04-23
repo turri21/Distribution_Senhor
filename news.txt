@@ -7,7 +7,7 @@
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Qix_Senhor_20260419.rbf[/INFO]
 [INFO]New Cores: Darius_Senhor_20260413.rbf, 3DO_Senhor_20260408.rbf[/INFO]
-[INFO]Updates: SMS_Senhor_20260423.rbf[/INFO]
+[INFO]Updates: Atari800_Senhor_20260423.rbf, SMS_Senhor_20260423.rbf[/INFO]
 [INFO]Updates: MacPlus_Senhor_20260421.rbf, Starforce_Senhor_20260421.rbf[/INFO]
 [INFO]Updates: MacPlus_Senhor_20260420.rbf, Gameboy_Senhor_20260415.rbf[/INFO]
 [INFO]Updates: C128_Senhor_202604214.rbf, C64_Senhor_20260412.rbf[/INFO]
