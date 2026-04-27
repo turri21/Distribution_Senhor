@@ -14,7 +14,7 @@
 	<setname>pprobe</setname>
 	<parent>vastar</parent>
 	<mameversion>0220</mameversion>
-	<rbf>Vastar</rbf>
+	<rbf>PlanetProbe</rbf>
 	<about></about>
 
 	<resolution>15kHz</resolution>
