@@ -5,7 +5,7 @@
 [INFO]New update_senhor.sh script v1.96[/INFO]
 [INFO]New MiSTer binary - 27/4/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]Updates: SNES_Senhor_20260428.rbf[/INFO]
+[INFO]Updates: C64_Senhor_20260428.rbf, SNES_Senhor_20260428.rbf[/INFO]
 [INFO]Updates: PSX_Senhor_20260428.rbf, Vastar_Senhor_20260427.rbf[/INFO]
 [INFO]Updates: PlanetProbe_Senhor_20260320.rbf, SMS_Senhor_20260427.rbf[/INFO]
 [INFO]Updates: 3DO_Senhor_20260426.rbf, MCR1_Senhor_20260425.rbf[/INFO]
