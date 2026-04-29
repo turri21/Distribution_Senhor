@@ -131,6 +131,7 @@ Extra Bases.mra|980266f53bbcec18c58bdc15f60eae90|503501
 Eyes (US, Set 1).mra|cbf71555cfe086c712709c1500367d5b|2168
 Fantasy Zone II - The Tears of Opa-Opa (System 16C version).mra|01f46a46152fd7700d93a991437ddf8f|5112
 Fantasy Zone II - The Tears of Opa-Opa.mra|559c0e109d501f9360393334c7911c70|2056
+Fantasy.mra|5d4f12a55fe1735acdd25aec854a42b8|1941
 Faster, Harder, More Challenging Q`Bert (prototype).mra|5bdc160c23a46790962b15ac98758bf5|2141
 Fever SOS.mra|f3a2b6408e93665e2a245ab793054788|1329
 Fighting Golf.mra|0f69c5d1dc2918b77cffb0a096c9716b|3266
@@ -272,6 +273,7 @@ Mystic Riders (World).mra|b04dc0cd82613b4cc65fd5b5c51b0247|4647
 Naughty Boy (Jaleco).mra|5ed3acb46a1a10f38fb9336f644cd7c4|1691
 Nemesis (ROM Version).mra|1f45ecd32a440b0f0bfaa74d973c68ed|5314
 New Rally-X.mra|ddfe52bc25d11ae34b82a0b3e7674239|36540
+Nibbler (Set 9).mra|ff062e0c69057297875a09673289564d|4031
 Ninja Baseball Bat Man (World).mra|39b535c4b9f3832786efb9ec07ab4183|6117
 Ninja Spirit (Japan).mra|eb1426b20cec74852af1c91373b6b7ed|3799
 Ninjakun.mra|7c6ccce731e2b6279ceef491d686475e|2820
@@ -301,6 +303,7 @@ Pest Place.mra|2cd02bea2c41d60f3a720af0e600b1ff|2216
 Peter Pack Rat.mra|1d5b0ce96b12d50f9273102a3c38d98f|7454
 Phoenix (Amstar, Set 1).mra|0b80e64db059efe9931b2587db978189|2259
 Pickin'.mra|c40ebe31634c86f0d50e905d057705f0|2089
+Pioneer Balloon.mra|35c08b21a355235405998d8683cd8f9b|1918
 Pipi & Bibis - Whoopee!! (Z80 sound cpu, set 1).mra|c6a9273bf01565e693b249f097721fcb|2417
 Pirate Pete.mra|122dc2db035ce1f810410a3542e7e924|2797
 Pisces.mra|7d45bd3a7b46a50141668188205c547d|2117
@@ -359,6 +362,8 @@ Salamander (version J).mra|4cbae6aeaa3f2743b78acd5b86c534db|2327
 Same! Same! Same! (2P Set).mra|b8fbc37aaeaa079e53746de23c950efa|2886
 SAR - Search And Rescue (World).mra|28f37047a1b74a686b9c37488574cbc7|2891
 Sarge.mra|bedf823e04451e6487a87df847cb9909|2064
+Sasuke.mra|0db33dca153e4b7e5e209bf23b83f9db|2021
+Satan Of Saturn.mra|9eee02c4c548286218794fc592e4e214|2050
 Satan's Hollow (Set 1).mra|810c9cc2849db24a7a7ef50a7edd3c10|2116
 Saturn (Zilec).mra|558a77099c580468c3e67af815d1668e|2342
 Scooter Shooter.mra|c32fea73ebdd7e3dae789aecff82ce4e|2348
@@ -483,6 +488,7 @@ UniWar S.mra|9c940c5ff0dc99d9bfd2350ccb049e18|2280
 Up'n Down.mra|9af53712b09c4762886f91c82e7152b3|2887
 V'Ball (US).mra|98343be6c1c75616276234b7c360f87d|2278
 Van-Van Car.mra|a7e6d131d1ef4f7a8d51ef8517322f04|2472
+Vanguard.mra|d68be44da74771f01bbf3fb93a33fe38|2194
 Vastar.mra|612f92d79c3ea383d15305456d721043|3069
 Venture Revision 5.mra|9f4fa6f2c4218d0624d625a9d35303ad|1774
 Victory Road.mra|38f0e786abee00b795e2efdaba6b7e02|3508
