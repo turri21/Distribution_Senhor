@@ -187,6 +187,7 @@ SegaVICZ80_Senhor_20260118.rbf
 SilverLand_Senhor_20260210.rbf
 SkySkipper_Senhor_20250131.rbf
 SlapFight_Senhor_20260423.rbf
+SNK6502_Senhor_20260502.rbf
 SNK68_Senhor_20250510.rbf
 SNK_TripleZ80_Senhor_20260119.rbf
 snowbro2_Senhor_20250502.rbf
