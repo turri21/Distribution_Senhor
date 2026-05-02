@@ -3,7 +3,7 @@
 [INFO]https://github.com/turri21/Senhor/tree/main/Linux_Image[/INFO]
 [INFO]-------------------------------------------------------------------[/INFO]
 [INFO]New update_senhor.sh script v1.96[/INFO]
-[INFO]New MiSTer binary - 29/4/2026[/INFO]
+[INFO]New MiSTer binary - 2/5/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: SNK6502_Senhor_20260502.rbf[/INFO]
 [INFO]Updates: Bagman_Senhor_20260430.rbf, ao486_Senhor_20260501.rbf[/INFO]
