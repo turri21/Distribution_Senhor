@@ -5,7 +5,7 @@
 [INFO]New update_senhor.sh script v1.96[/INFO]
 [INFO]New MiSTer binary - 29/4/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]Updates: SNK6502_Senhor_20260502.rbf[/INFO]
+[INFO]New Cores: SNK6502_Senhor_20260502.rbf[/INFO]
 [INFO]Updates: Bagman_Senhor_20260430.rbf, ao486_Senhor_20260501.rbf[/INFO]
 [INFO]Updates: MCR3_Senhor_20260430.rbf, MCR2_Senhor_20260428.rbf[/INFO]
 [INFO]Updates: AdventureVision_Senhor_20260428.rbf, BurningRubber_Senhor_20260428.rbf[/INFO]
