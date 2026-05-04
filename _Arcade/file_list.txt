@@ -71,6 +71,7 @@ Centipede (Rev 4).mra|2857a5b6415f8844fad454e4d388ea1d|1944
 Chameleon.mra|e4410d2f4057ce065436a7e9de5aa06a|2572
 Choplifter (unprotected).mra|086bb65a270cfac61e1fe8ef6b5702e5|2370
 Chouji Meikyuu Legion (Japan ver 1.05, set 2).mra|5b97135f35535e9dd3159d40db3861dc|3010
+City Connection (set 1).mra|ab836353b288ef93237cedf71c4b774d|3386
 Clean Sweep.mra|74bed1c3bc9f17561c0dca7f4f92d7bb|76031
 Clowns.mra|dd480dcb3d9619c13c26be6e98963428|161623
 Colony 7 (Set 1).mra|eda07db4e167bb2c3cf2377a1d7f69fc|1801
@@ -219,7 +220,7 @@ Konek Gorbunok.mra|16a76c4397caede30680676b2b0374be|1478
 Kot-Rybolov.mra|2f8a24edb730154e1c07884a1ca2b9ee|1473
 Kozmik Krooz'r.mra|f5b29c8674fe2814db2ac948343a6da3|1507384
 Kozure Ookami (Japan).mra|76a610ce4121bd918c7b94cff08246d2|2985
-Kram.mra|7c0720fdd92d64ed40db357c24d40398|1626
+Kram.mra|454158ba4db6fad500232070b91d248a|1626
 Kung-Fu Master (W).mra|d558de82bcfffbf1a10505c7c8d7702d|5990
 Lady Bug.mra|d8f472358ccf8b9658f064db141a6d9d|3195
 Laguna Racer.mra|c40b096fbc108feda1829aa43db73597|699190
@@ -513,4 +514,5 @@ Youjyuden (JP).mra|2e738ae4d5c0dab213ee4fc072b8180a|4337
 Zaxxon (Set 1, Rev D).mra|3669e5d3af38514213afac5744025f19|2403682
 Zero Wing (2P Set).mra|3d733134fbc4387206cea10c5462f3ca|2711
 Zig Zag (Dig Dug Conversion) [bl].mra|6a74f5e641847abedb67ae72fbfc5833|1275
+Zoo Keeper.mra|2a4a10df7b99e639c45f186c3cb0dddc|3342
 Zzyzzyxx (set 1).mra|08c8c0df7045e93094de7ceeeb3100fb|1865
