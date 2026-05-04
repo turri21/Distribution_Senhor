@@ -6,7 +6,7 @@
 [INFO]New MiSTer binary - 2/5/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: SNK6502_Senhor_20260502.rbf[/INFO]
-[INFO]Updates: SMS_Senhor_20260503.rbf[/INFO]
+[INFO]Updates: Qix_Senhor_20260504.rbf, SMS_Senhor_20260503.rbf[/INFO]
 [INFO]Updates: Bagman_Senhor_20260430.rbf, ao486_Senhor_20260501.rbf[/INFO]
 [INFO]Updates: MCR3_Senhor_20260430.rbf, MCR2_Senhor_20260428.rbf[/INFO]
 [INFO]Updates: AdventureVision_Senhor_20260428.rbf, BurningRubber_Senhor_20260428.rbf[/INFO]
