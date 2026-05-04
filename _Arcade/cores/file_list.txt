@@ -27,6 +27,7 @@ CanyonBomber_Senhor_20260228.rbf
 Cave_Senhor_20260424.rbf
 Centipede_Senhor_20250123.rbf
 Chameleon_Senhor_20260126.rbf
+CityConnection_Senhor_20260504.rbf
 ComputerSpace_Senhor_20260126.rbf
 CongoBongo_Senhor_20260126.rbf
 CosmicGuerilla_Senhor_20260121.rbf
