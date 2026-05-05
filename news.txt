@@ -6,7 +6,7 @@
 [INFO]New MiSTer binary - 2/5/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: CityConnection_Senhor_20260504.rbf, SNK6502_Senhor_20260502.rbf[/INFO]
-[INFO]Updates: NeoGeo_Senhor_20260504.rbf[/INFO]
+[INFO]Updates: PSX_Senhor_20260502.rbf, NeoGeo_Senhor_20260504.rbf[/INFO]
 [INFO]Updates: BubSys_Senhor_20260504.rbf, Darius_Senhor_20260504.rbf[/INFO]
 [INFO]Updates: Qix_Senhor_20260504.rbf, SMS_Senhor_20260503.rbf[/INFO]
 [INFO]Updates: Bagman_Senhor_20260430.rbf, ao486_Senhor_20260501.rbf[/INFO]
