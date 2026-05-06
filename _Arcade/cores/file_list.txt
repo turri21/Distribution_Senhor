@@ -136,9 +136,9 @@ jttrack_Senhor_20260506.rbf
 jttrojan_Senhor_20260506.rbf
 jttwin16_Senhor_20260408.rbf
 jtvigil_Senhor_20260506.rbf
-jtwc_Senhor_20250821.rbf
-jtwwfss_Senhor_20250821.rbf
-jtyiear_Senhor_20250809.rbf
+jtwc_Senhor_20260506.rbf
+jtwwfss_Senhor_20260506.rbf
+jtyiear_Senhor_20260506.rbf
 KickAndRun_Senhor_20240730.rbf
 LadyBug_Senhor_20260204.rbf
 LunarLander_Senhor_20240529.rbf
