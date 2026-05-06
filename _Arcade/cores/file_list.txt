@@ -121,7 +121,7 @@ jtrumble_Senhor_20260506.rbf
 jts16b_Senhor_20260407.rbf
 jts16_Senhor_20260407.rbf
 jts18_Senhor_20260407.rbf
-jtsarms_Senhor_20250811.rbf
+jtsarms_Senhor_20260506.rbf
 jtsbaskt_Senhor_20250811.rbf
 jtsectnz_Senhor_20250810.rbf
 jtsf_Senhor_20260412.rbf
