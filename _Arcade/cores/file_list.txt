@@ -123,7 +123,7 @@ jts16_Senhor_20260407.rbf
 jts18_Senhor_20260407.rbf
 jtsarms_Senhor_20260506.rbf
 jtsbaskt_Senhor_20260506.rbf
-jtsectnz_Senhor_20250810.rbf
+jtsectnz_Senhor_20260506.rbf
 jtsf_Senhor_20260412.rbf
 jtshanon_Senhor_20250811.rbf
 jtshouse_Senhor_20260412.rbf
