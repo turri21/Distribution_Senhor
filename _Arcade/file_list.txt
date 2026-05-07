@@ -69,6 +69,7 @@ Catacomb.mra|f318a8c59e69f2429998682e7ed5e823|1939
 Cavelon.mra|7def2969bcfc41f7ba6eee714d2b6e14|1908
 Centipede (Rev 4).mra|2857a5b6415f8844fad454e4d388ea1d|1944
 Chameleon.mra|e4410d2f4057ce065436a7e9de5aa06a|2572
+China Gate (US).mra|7e23415f53f3b83713d7ceff23563ee6|4083
 Choplifter (unprotected).mra|086bb65a270cfac61e1fe8ef6b5702e5|2370
 Chouji Meikyuu Legion (Japan ver 1.05, set 2).mra|5b97135f35535e9dd3159d40db3861dc|3010
 City Connection (set 1).mra|ab836353b288ef93237cedf71c4b774d|3386
