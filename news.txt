@@ -5,6 +5,7 @@
 [INFO]New update_senhor.sh script v1.96[/INFO]
 [INFO]New MiSTer binary - 5/5/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: ChinaGate_Senhor_20260507.rbf[/INFO]
 [INFO]New Cores: CityConnection_Senhor_20260504.rbf, SNK6502_Senhor_20260502.rbf[/INFO]
 [INFO]Updates: JOTEGO (on going updates)
 [INFO]Updates: PSX_Senhor_20260502.rbf, NeoGeo_Senhor_20260504.rbf[/INFO]
