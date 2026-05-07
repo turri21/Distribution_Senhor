@@ -7,7 +7,7 @@
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: ChinaGate_Senhor_20260507.rbf[/INFO]
 [INFO]New Cores: CityConnection_Senhor_20260504.rbf, SNK6502_Senhor_20260502.rbf[/INFO]
-[INFO]Updates: JOTEGO (on going updates)
+[INFO]Updates: Saturn_Senhor_20260507.rbf, JOTEGO (on going updates)
 [INFO]Updates: PSX_Senhor_20260502.rbf, NeoGeo_Senhor_20260504.rbf[/INFO]
 [INFO]Updates: BubSys_Senhor_20260504.rbf, Darius_Senhor_20260504.rbf[/INFO]
 [INFO]Updates: Qix_Senhor_20260504.rbf, SMS_Senhor_20260503.rbf[/INFO]
