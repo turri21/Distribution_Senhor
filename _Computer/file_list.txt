@@ -43,7 +43,7 @@ Minimig_Senhor_20260220.rbf
 MultiComp_Senhor_20250106.rbf
 ORAO_Senhor_20260109.rbf
 Ondra_SPO186_Senhor_20251007.rbf
-Oric_Senhor_20260108.rbf
+Oric_Senhor_20260511.rbf
 PC88_Senhor_20260321.rbf
 PCW_Senhor_20260107.rbf
 PCXT_Senhor_20260331.rbf
