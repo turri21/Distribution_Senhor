@@ -398,6 +398,7 @@ Space Chaser.mra|188601613c5999168aa5bba0d6c15c12|1824
 Space Cruiser.mra|2f0b0b04ac4db4aaa309d7e68abc7614|2403
 Space Dungeon.mra|0421343c9f828570a02ecf7d268c304d|2022
 Space Encounters.mra|a41ff19b0017477a1ef40187ba57ab12|1651
+Space Firebird.mra|19cef961b23774f9effd675e87cf051c|875810
 Space Invaders Part II (Taito, Bigger ROMs).mra|205474364d4ea43e9085cb064899080b|2023
 Space Invaders.mra|d3fb85b9a573be9d2eb090769c1493bf|486763
 Space Panic.mra|4175fc9e32cabc1718f6c4018e4fcd74|2854669
