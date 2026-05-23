@@ -6,6 +6,6 @@
 [INFO]New MiSTer binary - 15/5/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: SpaceFirebird_Senhor_20260518.rbf, SDGundamPS_Senhor_20260514.rbf[/INFO]
-[INFO]Updates: SMS_Senhor_20260520.rbf[/INFO]
+[INFO]Updates: CrazyClimber_Senhor_20260521.rbf, SMS_Senhor_20260520.rbf[/INFO]
 [INFO]Updates: Tamagotchi_Senhor_20260516, NeoGeo_Senhor_20260514.rbf[/INFO]
 [INFO]Updates: C64_Senhor_20260513.rbf, Oric_Senhor_20260511.rbf[/INFO]
