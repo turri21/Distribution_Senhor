@@ -90,7 +90,7 @@ Country Club.mra|4445be3c106107856ddf3ba9d141847c|3147
 Crater Raider.mra|f6bee4202ccf4b82ca5bea8ef61d5dd4|2560
 Crazy Balloon.mra|36fb1600d44a4b265815175e7643eb0a|1787
 Crazy Blocks.mra|86942bc9591daea99c719ce8866727dd|1598
-Crazy Climber.mra|5ce153dd4e7dffbee8abb58445a732a6|1646
+Crazy Climber.mra|efdd017af253729731d7410477d0464b|1997
 Crazy Kong (Kyoei).mra|f45c4ad142f93f3677b82e00072dffb6|2087
 Crazy Kong Part II (Set 1).mra|c581c4ea42e2043abaa8eacb24e5824f|2072
 Crush Roller (Set 2).mra|37046f5aa03bd1867d3f8edb8a7e4e2f|2771
