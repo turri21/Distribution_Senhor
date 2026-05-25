@@ -97,6 +97,7 @@ Crush Roller (Set 2).mra|37046f5aa03bd1867d3f8edb8a7e4e2f|2771
 Crystal Castles.mra|ea9a5760de3d1b69226c14b50a254ff2|715
 Dakkochan House (MC-8123).mra|818971dbd67902cebeaeac94b7840c30|2324
 Darius (World).mra|bdad8872f3c5db8782472637d26cf7bb|4322
+Darius II (Japan, rev 1).mra|ac3d2694a7012d0539d95439c02c60f0|3721
 Dark Planet.mra|124974270f3808972bf31979cf600578|2268
 Dead Connection (World).mra|6e2ad54e0ed93f853d0dad9f7b5c54b7|2325
 Defender (Red Label).mra|ffd7e6453bc14992e6410703bd7deec0|2485
@@ -453,6 +454,7 @@ The Glob (Pac-Man Hardware).mra|e8ea01364aa3f628188a870f7ce8d648|2286
 The Lord of King (Japan).mra|80632a4f970bba7a91d102df727ba36b|3714
 The Next Space (Japan).mra|306cc33cdb932f87afb77ab31a206e10|2494
 The Ninja Kids (World).mra|4247c4cd10c2bad613248f1104b3261e|2353
+The Ninja Warriors (World).mra|7cd9b04b1eed2cdeba7f009296257ca1|3328
 The Tower of Druaga.mra|a2efee884695b71252b0e8304d4b791f|1938
 Thunder Fox (World, rev 1).mra|8b35bcf205e8197d539900da8583f8d0|2858
 Thunder Heroes.mra|1bfb424667e62894468543e3c6aba267|2072
