@@ -203,7 +203,7 @@ SpaceInvaders_Senhor_20260403.rbf
 SpaceRace_Senhor_20240527.rbf
 Sprint1_Senhor_20260206.rbf
 Sprint2_Senhor_20260206.rbf
-StarWars_Senhor_20260606.rbf
+StarWars_Senhor_20260610.rbf
 Starforce_Senhor_20260421.rbf
 ST-V_Senhor_20260301.rbf
 Subs_Senhor_20260210.rbf
