@@ -384,6 +384,7 @@ Silver Land.mra|42876ec7e25ec84cc7596020e0b5a413|1665
 Sinistar.mra|d053325e72d2b534b3a0f155559c929a|4421
 Sky Adventure (World).mra|55c310f9d9192a3eb10c534532647ec0|2386
 Sky Skipper.mra|fd48b0aa21c8ee39eddb8c5dbf384c99|2429
+Sky Smasher.mra|4b54fe7ea2f6fc50b1d06de495705edb|4357
 Sky Soldiers (US).mra|928795019f48d63ccd48217b0dc9cc43|3987
 Slap Shooter.mra|09b29292e1853b18b61b43bda40c95c9|2455
 SlapFight Bootleg.mra|cef3d8a5d61113e83c81b9ce3a92c7f0|2271
