@@ -38,6 +38,7 @@ CrazyBalloon_Senhor_20260121.rbf
 CrazyClimber_Senhor_20260521.rbf
 CrazyKong_Senhor_20260126.rbf
 CrystalCastles_Senhor_20250123.rbf
+DCon_Senhor_20260611.rbf
 Darius2NinjaWarriors_Senhor_20260524.rbf
 Darius_Senhor_20260504.rbf
 Defender_Senhor_20260228.rbf
