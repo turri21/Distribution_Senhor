@@ -8,4 +8,5 @@
 [INFO]New Cores: DCon_Senhor_20260611.rbf[/INFO]
 [INFO]New Cores: BloodBros_Senhor_20260610.rbf, SkySmasher_Senhor_20260609.rbf[/INFO]
 [INFO]New Cores: StarWars_Senhor_20260610.rbf, Darius2NinjaWarriors_Senhor_20260524.rbf[/INFO]
+[INFO]Updates: Apple-IIgs_Senhor_20260611.rbf[/INFO]
 [INFO]Updates: CrazyClimber_Senhor_20260521.rbf, SMS_Senhor_20260520.rbf[/INFO]
