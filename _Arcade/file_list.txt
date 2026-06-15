@@ -3,6 +3,7 @@
 Ah Eikou no Koshien (Japan).mra|590b0b9816637049c4a1ac20d618ed15|2550
 Air Assault (World).mra|794de9ce9881edaddf37439278572ae6|3845
 Air Duel (World, M72 hardware).mra|6db3376e5a00f070ef70a4d7d3cfc796|3144
+Air Gallet (Europe).mra|57cce0b8145c9d11d3eec8b3f3b465fc|1572
 Alcon Bootleg.mra|358cd033bb4e4ae9c48717594453f097|2225
 Ali Baba and 40 Thieves.mra|a491a580ff843ecaefa130d45e164f5e|2483
 Alien Arena (Stargate upgrade).mra|3604607494b0de072619036ab680b400|4130
@@ -190,6 +191,7 @@ Hellfire (2P Set).mra|0e78f467496511f99ffa0c4a31e6121f|2544
 High Way Race.mra|a58692f46ebaf12f38e949c35d51e6f8|2346
 Hook (World).mra|aeeb4e70d10bafa5c0af310876deb46c|6141
 Horizon (Irem).mra|9f57f15bc1642a0db7ad36859ef5a0ac|4869
+Hotdog Storm (Korea).mra|028e36b69371bce1834ed02df008356b|1589
 Hotdog Storm.mra|202c5550fa438b0c703c39cda23ff836|1551
 Hustle.mra|f9cd1f65c7c4db3b66146f040f0bcf4a|1205
 I'm Sorry (US, 315-5110).mra|2765fc291a1276e22667f03d9cacdded|2828
@@ -253,9 +255,11 @@ Mario Bros. (US, Rev G).mra|e951de1ac2e85ac9298736c2c96be520|39216
 Mars.mra|ba6f72b0bca4c0a6a5c0c8cbb813de83|2442
 Max RPM (v2).mra|27afe34a14d451b8de0b7ccc033b5fd3|1832
 Mayday (Set 1).mra|d14ed0e472dce57c5690a86240b114fb|3725
+Mazinger Z (World).mra|c152642fbc9679d59f2f5ff44ca5e2be|1572
 Mega Blast (World).mra|6d8189cda6c5ade2f639031e31404c5e|2779
 Megumi Rescue (Japan).mra|db7bb6e41fe0427d0ee831f446044bb4|1747
 Metal Black (World).mra|9e029ef32041fbf91ba134c99a428b6e|2379
+Metamoqester (World).mra|e0709946d85c8e93418cfd362e6be8cf|2313
 Mighty Monkey (Scramble Hardware) [bl].mra|726ef44b00b88ca5773db278d9370490|2073
 Minefield.mra|370807c2761c24103cc568c3e8edf4e0|2341
 Missile Command (rev 3).mra|baf1444e052dee135c52360814455258|1369
@@ -330,6 +334,7 @@ Port Man (bootleg on Moon Cresta hardware).mra|4632df7a74b950ccb5678b67406eeab4|
 Portman (Galaxian Hardware).mra|26b996cde00768ba7f08fe4b8ac5182a|1820
 Power Drive.mra|0563b2918e44152d3ff17e319aae609f|2215
 Prehistoric Isle in 1930 (World).mra|ca006fd2f090bdd4ee48652ba4374feb|2291
+Pretty Soldier Sailor Moon (Version 95-03-22B, Europe).mra|00e83bda4f6484e842102c3a9b694f5d|2202
 Psychic 5 (World).mra|95ce2707f545363ab129ad8a8f163bad|2407
 Puck Man (JP, Set 1).mra|d5097d23c2c2dea9f5f7254407e82c9b|3091
 PuLiRuLa (World, dual PCB).mra|a105f7f4adcf2bd7c9a8d19b48fe7907|2294
