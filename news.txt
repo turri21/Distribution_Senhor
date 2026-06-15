@@ -5,7 +5,7 @@
 [INFO]New update_senhor.sh script v1.97[/INFO]
 [INFO]New MiSTer binary - 12/6/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]New Cores: DCon_Senhor_20260611.rbf[/INFO]
+[INFO]New Cores: CaveBanpresto_Senhor_20260614.rbf, DCon_Senhor_20260611.rbf[/INFO]
 [INFO]New Cores: BloodBros_Senhor_20260610.rbf, SkySmasher_Senhor_20260609.rbf[/INFO]
 [INFO]New Cores: StarWars_Senhor_20260610.rbf, Darius2NinjaWarriors_Senhor_20260524.rbf[/INFO]
 [INFO]Updates: SMS_Senhor_20260614.rbf[/INFO]
