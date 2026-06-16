@@ -1,5 +1,6 @@
 280Z-ZZAP (US).mra|897f479a94a6712ada32b9f7e8ca3759|703469
 4D Warriors (315-5162).mra|f3aa3fe68cb0cff7fcb73764f7f951b2|3167
+Act-Fancer (World rev 3).mra|3f00523b6d89c975a93465e87dfaf048|5475
 Ah Eikou no Koshien (Japan).mra|590b0b9816637049c4a1ac20d618ed15|2550
 Air Assault (World).mra|794de9ce9881edaddf37439278572ae6|3845
 Air Duel (World, M72 hardware).mra|6db3376e5a00f070ef70a4d7d3cfc796|3144
