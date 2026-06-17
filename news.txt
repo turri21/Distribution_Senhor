@@ -2,7 +2,7 @@
 [WARNING]New linux.img 16/2/2026 -- replace the old one in /media/fat/linux/ [/WARNING]
 [INFO]https://github.com/turri21/Senhor/tree/main/Linux_Image[/INFO]
 [INFO]-------------------------------------------------------------------[/INFO]
-[INFO]New update_senhor.sh script v1.97[/INFO]
+[INFO]New update_senhor.sh script v1.98[/INFO]
 [INFO]New MiSTer binary - 17/6/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Deco16_Senhor_20260617.rbf, ActFancer_Senhor_20260616.rbf[/INFO]
