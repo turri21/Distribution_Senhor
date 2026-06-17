@@ -70,6 +70,7 @@ Canyon Bomber.mra|f6df6e5ed27e54a3a3e9d689a94dfb0f|1376
 Carnival.mra|f248a3fe3ebaad4decda9dad9d8ec04a|2078956
 Catacomb.mra|f318a8c59e69f2429998682e7ed5e823|1939
 Cavelon.mra|7def2969bcfc41f7ba6eee714d2b6e14|1908
+Caveman Ninja (World ver 4).mra|5244050759938f02b7a36e1e03af7fab|6783
 Centipede (Rev 4).mra|2857a5b6415f8844fad454e4d388ea1d|1944
 Chameleon.mra|e4410d2f4057ce065436a7e9de5aa06a|2572
 China Gate (US).mra|7e23415f53f3b83713d7ceff23563ee6|4083
@@ -96,6 +97,7 @@ Crazy Blocks.mra|86942bc9591daea99c719ce8866727dd|1598
 Crazy Climber.mra|efdd017af253729731d7410477d0464b|1997
 Crazy Kong (Kyoei).mra|f45c4ad142f93f3677b82e00072dffb6|2087
 Crazy Kong Part II (Set 1).mra|c581c4ea42e2043abaa8eacb24e5824f|2072
+Crude Buster (World FX version).mra|063065376a136b8cbd1148121569b295|5747
 Crush Roller (Set 2).mra|37046f5aa03bd1867d3f8edb8a7e4e2f|2771
 Crystal Castles.mra|ea9a5760de3d1b69226c14b50a254ff2|715
 D-Con.mra|2fd43945e89648da7d55dba47f3e224b|4247
