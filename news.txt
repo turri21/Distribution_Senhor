@@ -3,7 +3,7 @@
 [INFO]https://github.com/turri21/Senhor/tree/main/Linux_Image[/INFO]
 [INFO]-------------------------------------------------------------------[/INFO]
 [INFO]New update_senhor.sh script v1.97[/INFO]
-[INFO]New MiSTer binary - 12/6/2026[/INFO]
+[INFO]New MiSTer binary - 17/6/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: ActFancer_Senhor_20260616.rbf[/INFO]
 [INFO]New Cores: CaveBanpresto_Senhor_20260614.rbf, DCon_Senhor_20260611.rbf[/INFO]
