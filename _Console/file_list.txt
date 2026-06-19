@@ -5,7 +5,7 @@ Arcadia_Senhor_20250919.rbf
 Atari2600mgl_Senhor_20250811.mgl
 Atari2600_Senhor_20210228.rbf
 Atari5200_Senhor_20260325.rbf
-Atari7800_Senhor_20260215.rbf
+Atari7800_Senhor_20260619.rbf
 AtariLynx_Senhor_20260224.rbf
 AY-3-8500_Senhor_20251214.rbf
 BallyAstrocade_Senhor_20250204.rbf
