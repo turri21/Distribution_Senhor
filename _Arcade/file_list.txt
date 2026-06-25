@@ -429,6 +429,7 @@ Splat!.mra|7ad2d8fbb03e833907a3d434ba2d4253|3998
 Sprint 1.mra|81b0a2b5211a2dfaf245a340a490ea0a|1539
 Sprint 2.mra|ee39cabe4ff66a46661fa87752179fef|1536
 Spy Hunter.mra|dd577ed04f36c13f7635b33a5f520d00|3336
+Squash (Gaelco, V.010).mra|8e95f85c8b8fc58f89e4ee01e7da57f6|2612
 Squash.mra|3d6eb94999d59a5c6d2c0f706faced28|2116
 Star Guards.mra|c213b8a8865c09be3175f751d7c4e329|1990
 Star Jacker.mra|047a89a0f3c72358a4f785b65fe22124|3093
@@ -473,6 +474,7 @@ The Ninja Warriors (World).mra|7cd9b04b1eed2cdeba7f009296257ca1|3328
 The Tower of Druaga.mra|a2efee884695b71252b0e8304d4b791f|1938
 Thunder Fox (World, rev 1).mra|8b35bcf205e8197d539900da8583f8d0|2858
 Thunder Heroes.mra|1bfb424667e62894468543e3c6aba267|2072
+Thunder Hoop (Gaelco, V.013).mra|69b34d4bd689afdd1f7a48916982238a|3384
 Tiger Heli Bootleg.mra|bc8f6efbe28828829dd6a4c561d33427|2580
 Timber.mra|aa8d75e8ef0082519786589ea9708040|2322
 Time Pilot '84 (Set 1).mra|2138db7899615d119bb4568cf3363652|2763
