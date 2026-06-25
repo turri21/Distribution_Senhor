@@ -208,6 +208,7 @@ SpaceInvaders_Senhor_20260403.rbf
 SpaceRace_Senhor_20240527.rbf
 Sprint1_Senhor_20260206.rbf
 Sprint2_Senhor_20260206.rbf
+squash_Senhor_20260625.rbf
 StarWars_Senhor_20260610.rbf
 Starforce_Senhor_20260421.rbf
 ST-V_Senhor_20260301.rbf
@@ -220,6 +221,7 @@ TankBattalion_Senhor_20260211.rbf
 Tecmo_Senhor_20260309.rbf
 tekipaki_Senhor_20250501.rbf
 terracresta_Senhor_20250511.rbf
+thoop_Senhor_20260625.rbf
 TIAMC1_Senhor_20260212.rbf
 TimePilot84_Senhor_20260210.rbf
 TimePilot_Senhor_20260206.rbf
