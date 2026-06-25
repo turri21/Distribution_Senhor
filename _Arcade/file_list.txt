@@ -155,6 +155,7 @@ Football Champ - Euro Football Champ (World).mra|77b217e21aab484a0f56231016c1723
 Freeze.mra|a57442257e3d08a4bbde470c7bcb49d1|1895
 Frenzy (Rev RA1).mra|af4efe2e76811d8a492cfa7d47a7d1a4|4790
 Frogger (Konami Bugfixed).mra|9fe96fa744e60cabd99a1cf4da34875f|8095
+Funky Fish.mra|042b70af527f90d05a0f90f63859a9b4|2633
 Future Spy (315-5061).mra|7098f9aa6807cec7c431d60d0adf31e4|2403723
 Gaia Crusaders.mra|69043047a5bbd7d7533b70a457e420d7|2050
 Galactic Warriors.mra|f339b756e147fef303456e421dc0a0e1|2436
@@ -220,6 +221,7 @@ Joust.mra|7ec459f1ee6a95a65dde66bcd6dbf6c7|4117
 Jump Shot.mra|33ff755705958fa75e8a99702d58e1fd|2136
 Jungle King.mra|6694655fe32df0f8bda93294d769ca43|2676
 Juno First.mra|6d5dccb898e59502e15ea7600b186617|3495
+Kangaroo (Atari).mra|418536c8bf2377860348a975931c6e70|3311
 Kick And Run.mra|a8c7874936e3d9c46b132d42b3cef2e7|2638
 Kick.mra|3a9e72662f93760cd9eea815abe0ff74|2127
 Kid Niki - Radical Ninja (W).mra|fd44c6d87b97161bcddde1d467b1e045|4229
@@ -525,6 +527,7 @@ Wizard of Wor.mra|a1bf8859b2788c4b5697d7778fe23951|2224
 Wonder Boy (Set 1, 315-5177).mra|adf03bbb1bd7737f1b9b746e5a2818cf|3347
 Wonder Boy in Monster Land.mra|bb888ad2029ff1a8b300a78d88532960|2291
 Woodpecker (Set 1).mra|8e4cb4f56e9366f0d15181f94179aaf9|2443
+World Rally (Gaelco, V.068).mra|8e88ab6708450623b99497f19129ca04|5656
 X Multiply (Japan, M72 hardware).mra|7bf3715e35c44bc983e1a7d09ce7a404|3751
 Xain'd Sleena (bootleg, bugfixed).mra|c30f7736caab1e4b6a61c992ea5f3d57|4832
 Xevious.mra|810e14cf74e7d39b9e3b9cbd8a9d393b|2881
