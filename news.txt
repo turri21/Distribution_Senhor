@@ -8,4 +8,5 @@
 [INFO]New Cores: thoop_Senhor_20260625.rbf, squash_Senhor_20260625.rbf[/INFO]
 [INFO]New Cores: wrally_Senhor_20260625.rbf, Kangaroo_Senhor_20260624.rbf[/INFO]
 [INFO]New Cores: Deco16_Senhor_20260617.rbf, ActFancer_Senhor_20260616.rbf[/INFO]
+[INFO]Updates: Cave_Senhor_20260627.rbf[/INFO]
 [INFO]Updates: Atari7800_Senhor_20260624.rbf, 3DO_Senhor_20260624.rbf[/INFO]
