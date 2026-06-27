@@ -115,14 +115,14 @@ Dig Dug (Rev 2).mra|d05e2866d0d60eb323887b541b26d7b6|2063
 Dig Dug II (New Ver).mra|32e9d9bbb59f4e7590442c910c6568c6|1813
 Dino Rex (World).mra|0903b43db2fcee42f311d254f6b90c35|2343
 Discs of Tron.mra|a64d1bb1f0a51da73c9320d0613ac731|2712
-DoDonPachi.mra|d151d5875ae039afb94b476e5460a7fe|1640
+DoDonPachi (World, 1997 25 Master Ver.).mra|6fe472f1619d62af13bc6cc5e573a5a7|1670
 Domino Man.mra|5bf14e3485f4aba90dee925acccfbe39|2225
 Dominos.mra|060678a56697adc99a47a8e4d122fefa|1310
 Don Doko Don (World, rev 1).mra|b48258f778e040f6f61148d7a0e091d9|2282
 Donkey Kong (US, Set 1).mra|cd0bfd38d9aacb9910ee6aaa07a24598|87584
 Donkey Kong 3 (US).mra|2c2f3ba010df39eeb48763cf3c8641be|2286
 Donkey Kong Junior (US, Set F-2).mra|91197e7098444585836cbbf94c8e26f9|303760
-DonPachi.mra|90623a59598cd6ceed53ae6691ac132c|1393
+DonPachi (US).mra|52811b2845042b8d07fc2a8e66463312|1398
 Dorodon (Set 1).mra|1fb8cc37e64730af18491a55bb05c352|3027
 Dottori-Kun (new).mra|b74ea7831fdbb8be6c44704360e12ffc|1055
 Dragon Breed (Japan, M72 hardware).mra|b13688329114e5526f86c53ece4908cb|3576
@@ -133,7 +133,7 @@ Eeek! (Pac-Man Conversion).mra|c33a28105ede518dc05cecc1a9899631|1917
 Eggor.mra|7c4393d524de449b4e4c254df5c52e2f|2806
 Elevator Action Bootleg.mra|4cb4403ce07178704701ad3b6d3a3d7a|2928
 Empire Strikes Back.mra|a8a1320bdd050d68938a39cc00252ba0|4401
-ESP Ra.De..mra|35c3ab912596a556c41261d7b3866e19|1704
+ESP Ra.De. (World 1998 422 International Ver).mra|5fe6dc199b7cb344966a540a749f76e4|1743
 Euro Champ '92 (World).mra|34455673572f86b62b472b8103e1cd90|2410
 Exerion (Taito).mra|37fcfe36c33201f62cc514111f47c1cb|1977
 Express Raider.mra|1cb102fa97b8fcde9d7d05f76b28d59c|2530
@@ -143,6 +143,7 @@ Fantasy Zone II - The Tears of Opa-Opa (System 16C version).mra|01f46a46152fd770
 Fantasy Zone II - The Tears of Opa-Opa.mra|559c0e109d501f9360393334c7911c70|2056
 Fantasy.mra|5d4f12a55fe1735acdd25aec854a42b8|1941
 Faster, Harder, More Challenging Q`Bert (prototype).mra|5bdc160c23a46790962b15ac98758bf5|2141
+Fever SOS (World, 980925 VER).mra|bdfa332b76ec04130c729dcbed365cfb|1351
 Fever SOS.mra|f3a2b6408e93665e2a245ab793054788|1329
 Fighting Golf.mra|0f69c5d1dc2918b77cffb0a096c9716b|3266
 Final Blow (World).mra|6d90c1daac71d70fb496c2f6959fdc06|2814
@@ -157,7 +158,7 @@ Frenzy (Rev RA1).mra|af4efe2e76811d8a492cfa7d47a7d1a4|4790
 Frogger (Konami Bugfixed).mra|9fe96fa744e60cabd99a1cf4da34875f|8095
 Funky Fish.mra|042b70af527f90d05a0f90f63859a9b4|2633
 Future Spy (315-5061).mra|7098f9aa6807cec7c431d60d0adf31e4|2403723
-Gaia Crusaders.mra|69043047a5bbd7d7533b70a457e420d7|2050
+Gaia Crusaders.mra|f35cfb03eb3ac1f6e2b4495ea12b1482|2084
 Galactic Warriors.mra|f339b756e147fef303456e421dc0a0e1|2436
 Galaga (Midway, Set 1).mra|70eaf0f5abf35142a887e3cb8af9a300|2969
 Galaga 3 (GP3 Rev D).mra|1cdbf903d85bd032743f868e935e5bf7|69660
@@ -171,6 +172,7 @@ Gardia (317-0006).mra|2e7dc860642acf4465594a3ea79600e6|3194
 Gauntlet (rev 14).mra|701359f7af866474e2937df39d98a79d|2329
 Gauntlet II.mra|005a40ff798ed7194d4aeb5352c26e93|2800
 Gemini Wing.mra|194d7f1a970b3639d6c5a94af14cad14|2568
+Gogetsuji Legends (US, Ver. 95.06.20).mra|8c99649424ec97a58a9dac23d960ae62|2764
 Gold Medalist (Set 1, Alpha68k II PCB).mra|5ecb636c2bd8e983250b9bed242b713b|2913
 Gorf.mra|a63de6527aa26c72ddc2d11d878c5ca2|2402
 Gorkans.mra|bd533166993f5956a6b4a7572b30be94|2964
@@ -184,6 +186,7 @@ Gun & Frontier (World).mra|1a59a3ead17e313ad612aa1fd0d52cf9|2333
 Gun Fight.mra|e7b409f61117f5fcc668686e92503311|5833
 Gun Force II (US).mra|7d492fb4333e0e6c9c9963bde318df01|4967
 Gunforce - Battle Fire Engulfed Terror Island (World).mra|2a306abd671c2e41d78bebff1fb2edc8|5150
+Guwange (Japan, 1999 624 Master Ver 1655).mra|0a10a0ab94c84ebe5469e480e5d5138b|1760
 Guwange.mra|07cd2689315439b09dfe726cc8ed70d6|1724
 Gyruss.mra|8261b55ad9182d5ee028fec662e75d7b|2817
 Hachoo.mra|2b104cb3782a2f411e0ea0d532d8bfcd|3527
@@ -338,13 +341,14 @@ Popeye (Rev D).mra|64d8bea1c0a20514ce05233a697f6015|2091
 Port Man (bootleg on Moon Cresta hardware).mra|4632df7a74b950ccb5678b67406eeab4|1858
 Portman (Galaxian Hardware).mra|26b996cde00768ba7f08fe4b8ac5182a|1820
 Power Drive.mra|0563b2918e44152d3ff17e319aae609f|2215
+Power Instinct 2 (US, Ver. 94.04.08, set 1).mra|94feda91d181e1b58f895083a75a4d5a|2629
 Prehistoric Isle in 1930 (World).mra|ca006fd2f090bdd4ee48652ba4374feb|2291
 Pretty Soldier Sailor Moon (Version 95-03-22B, Europe).mra|00e83bda4f6484e842102c3a9b694f5d|2202
 Psychic 5 (World).mra|95ce2707f545363ab129ad8a8f163bad|2407
 Puck Man (JP, Set 1).mra|d5097d23c2c2dea9f5f7254407e82c9b|3091
 PuLiRuLa (World, dual PCB).mra|a105f7f4adcf2bd7c9a8d19b48fe7907|2294
 Pulsar.mra|96d15ee019782230759948aaf6f41335|2327539
-Puzzle Uo Poko.mra|027ffabc8c38a9bd163a77ec1827b1a1|1015
+Puzzle Uo Poko (World).mra|49a7dc48fc23cc7e8b8b9aa49de530a6|1023
 Q'bert (US, Set 1).mra|c45cdffef8b554bc44801e79f5327ab6|2111
 QBert Qubes.mra|4b7fe7c6fcd5fdc268bd678e7f117e4a|1377
 Qix (set 1).mra|6b9e432357f572e8b265f4af5f6ee22e|2098
@@ -473,6 +477,7 @@ The Ninja Kids (World).mra|4247c4cd10c2bad613248f1104b3261e|2353
 The Ninja Warriors (World).mra|7cd9b04b1eed2cdeba7f009296257ca1|3328
 The Tower of Druaga.mra|a2efee884695b71252b0e8304d4b791f|1938
 Thunder Fox (World, rev 1).mra|8b35bcf205e8197d539900da8583f8d0|2858
+Thunder Heroes (set 1).mra|c62eef01733b9cccb39ffb75bcd77e78|2114
 Thunder Heroes.mra|1bfb424667e62894468543e3c6aba267|2072
 Thunder Hoop (Gaelco, V.013).mra|69b34d4bd689afdd1f7a48916982238a|3384
 Tiger Heli Bootleg.mra|bc8f6efbe28828829dd6a4c561d33427|2580
