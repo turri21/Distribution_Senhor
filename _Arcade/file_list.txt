@@ -108,6 +108,7 @@ Dark Planet.mra|124974270f3808972bf31979cf600578|2268
 Dead Connection (World).mra|6e2ad54e0ed93f853d0dad9f7b5c54b7|2325
 Defender (Red Label).mra|ffd7e6453bc14992e6410703bd7deec0|2485
 Demolition Derby (MCR-3 Mono Board Version).mra|ec832993337b2dca06d078a75420a03d|2367
+Demon Front (ver. 105).mra|11f75f6b4bda08f51b17e09db3ef75fc|2926
 Demon's World - Horror Story (Set 3).mra|9c0c84b6db96032b779eb3bab0ea7476|2714
 Devil Fish (Galaxian Hardware).mra|765c60202287c79e4813e8b95f6ea779|1908
 Devil Zone.mra|bf7a21e459ee1232539c40c5aba2f70c|1515138
@@ -116,6 +117,8 @@ Dig Dug II (New Ver).mra|32e9d9bbb59f4e7590442c910c6568c6|1813
 Dino Rex (World).mra|0903b43db2fcee42f311d254f6b90c35|2343
 Discs of Tron.mra|a64d1bb1f0a51da73c9320d0613ac731|2712
 DoDonPachi (World, 1997 25 Master Ver.).mra|6fe472f1619d62af13bc6cc5e573a5a7|1670
+DoDonPachi II - Bee Storm (World, ver. 102).mra|137aa6031b7fd9ea32acf3b73c51653b|2050
+DoDonPachi III (World, 2002.05.15 Master Ver).mra|e44251b61b49c6a981a4c254aebb536f|4018
 Domino Man.mra|5bf14e3485f4aba90dee925acccfbe39|2225
 Dominos.mra|060678a56697adc99a47a8e4d122fefa|1310
 Don Doko Don (World, rev 1).mra|b48258f778e040f6f61148d7a0e091d9|2282
@@ -126,6 +129,9 @@ DonPachi (US).mra|52811b2845042b8d07fc2a8e66463312|1398
 Dorodon (Set 1).mra|1fb8cc37e64730af18491a55bb05c352|3027
 Dottori-Kun (new).mra|b74ea7831fdbb8be6c44704360e12ffc|1055
 Dragon Breed (Japan, M72 hardware).mra|b13688329114e5526f86c53ece4908cb|3576
+Dragon World 2001 (ver. 100, Japan).mra|9ef296457c0d0f769e27aff1b3f535a2|2056
+Dragon World 3 (ver. 106).mra|cf3bed83fd27d61b14b512ec6c5e9958|2358
+Dragon World 3 EX (ver. 100).mra|86514671d5ee7bece420cb8a29f96d46|2241
 Dream Shopper.mra|c1751eee0bf421523b5f1fe9cd7f33a5|2421
 Dream Soccer '94 (World, M107 hardware).mra|0515246230359612d873297879490600|4095
 Drift Out (Europe).mra|9ced252b86eb4b96132db344be1d9bbe|2022
@@ -134,6 +140,7 @@ Eggor.mra|7c4393d524de449b4e4c254df5c52e2f|2806
 Elevator Action Bootleg.mra|4cb4403ce07178704701ad3b6d3a3d7a|2928
 Empire Strikes Back.mra|a8a1320bdd050d68938a39cc00252ba0|4401
 ESP Ra.De. (World 1998 422 International Ver).mra|5fe6dc199b7cb344966a540a749f76e4|1743
+Espgaluda (2003.10.15 Master Ver).mra|d7d5a49d04f7f03c5099c13a69078952|3934
 Euro Champ '92 (World).mra|34455673572f86b62b472b8103e1cd90|2410
 Exerion (Taito).mra|37fcfe36c33201f62cc514111f47c1cb|1977
 Express Raider.mra|1cb102fa97b8fcde9d7d05f76b28d59c|2530
@@ -225,12 +232,15 @@ Jump Shot.mra|33ff755705958fa75e8a99702d58e1fd|2136
 Jungle King.mra|6694655fe32df0f8bda93294d769ca43|2676
 Juno First.mra|6d5dccb898e59502e15ea7600b186617|3495
 Kangaroo (Atari).mra|418536c8bf2377860348a975931c6e70|3311
+Ketsui - Kizuna Jigoku Tachi (2003.01.01. Master Ver.).mra|95bc497b71a92fa82a18eed6c3f66c3f|4041
 Kick And Run.mra|a8c7874936e3d9c46b132d42b3cef2e7|2638
 Kick.mra|3a9e72662f93760cd9eea815abe0ff74|2127
 Kid Niki - Radical Ninja (W).mra|fd44c6d87b97161bcddde1d467b1e045|4229
 Kid no Hore Hore Daisakusen.mra|c375364fb6c9ec5beb34f4af69b44ffa|2872
 King and Balloon (US).mra|b130e94d559bda57693b7399a5de3f72|2299
 Kingdom Grandprix.mra|fde0c7d99ad7adf379b4c707da43c4ce|2828
+Knights of Valour 2 (ver. 107).mra|74d1f0771f6ccefdcb10f9c10d0ea24f|2765
+Knights of Valour Super Heroes (ver. 104, CN).mra|c87984a8fe0d546a741ffb4d67951acd|2724
 Konek Gorbunok.mra|16a76c4397caede30680676b2b0374be|1478
 Kot-Rybolov.mra|2f8a24edb730154e1c07884a1ca2b9ee|1473
 Kozmik Krooz'r.mra|f5b29c8674fe2814db2ac948343a6da3|1507384
@@ -261,6 +271,7 @@ Mappy (US).mra|9d060fa681ee87de8c4e639e97042307|1995
 Marble Madness (set 5 - LSI).mra|b374dfd10bc058a6d3a33fe2ecdcd5de|6633
 Mario Bros. (US, Rev G).mra|e951de1ac2e85ac9298736c2c96be520|39216
 Mars.mra|ba6f72b0bca4c0a6a5c0c8cbb813de83|2442
+Martial Masters (ver. 104, 102, 102US).mra|7e5d8b3529db55983a6a5aad45eeb4a8|2338
 Max RPM (v2).mra|27afe34a14d451b8de0b7ccc033b5fd3|1832
 Mayday (Set 1).mra|d14ed0e472dce57c5690a86240b114fb|3725
 Mazinger Z (World).mra|c152642fbc9679d59f2f5ff44ca5e2be|1572
@@ -303,6 +314,7 @@ Omega [bl].mra|93abfb93c35b175467fe9cd4250694e6|2022
 Opa Opa (Rev A, unprotected).mra|beb8bc47d9518f3711174265e33aa172|2167
 Opa Opa.mra|ee1f6bdf1be73b98fb0bdcc4f82fc49e|2239
 Orbitron.mra|529a4f4e729bd510d3b618e4fcdf1375|2165
+Oriental Legend (ver. 126).mra|c0a8fe23561705249d666d0b7e4aa784|2293
 Out Zone.mra|bc4cd0aa8dbc821ea90fd22f6b154a4e|2556
 P-47 - The Freedom Fighter (Japan).mra|b1abc8477aa75f38308d7983aa40bf04|3592
 P.O.W. - Prisoners of War (US Version 1).mra|59e053a0cd632faf7d2b61cd48f159ae|3661
@@ -319,7 +331,9 @@ Pepper II.mra|495638adc1b1d2f23ec3b155a6d48d3f|1718
 Performan (Japan).mra|790e710e2df92adfbe337bca31161529|2247
 Pest Place.mra|2cd02bea2c41d60f3a720af0e600b1ff|2216
 Peter Pack Rat.mra|1d5b0ce96b12d50f9273102a3c38d98f|7454
+PGM (Polygame Master) System BIOS.mra|1594d596bb34f691f87d407f242025d9|1057
 Phoenix (Amstar, Set 1).mra|0b80e64db059efe9931b2587db978189|2259
+Photo Y2K (ver. 105).mra|f0c09c7d749c65dc511aff85db8764e9|2458
 Pickin'.mra|c40ebe31634c86f0d50e905d057705f0|2089
 Pioneer Balloon.mra|35c08b21a355235405998d8683cd8f9b|1918
 Pipi & Bibis - Whoopee!! (Z80 sound cpu, set 1).mra|c6a9273bf01565e693b249f097721fcb|2417
@@ -377,6 +391,7 @@ Rod-Land (World, Set 1).mra|256cf6e657887d332f30f443b464fc56|3250
 Rush'n Attack - Green Beret.mra|f03ae7c0584d41cf110fd3999688c53f|3102
 Rygar.mra|fd34f05f4e451ac219f9096d4f23d2d1|2689
 S.O.S..mra|6e3624f052a82d53b0aae0f3efa56494|1466
+S.V.G. - Spectral vs Generation (ver. 200).mra|f4ad9f4131b83b7b37d29fc37f7a6107|3753
 Saint Dragon (Set 1).mra|03763b0f572cd2f75a387b749dd6c276|3486
 Salamander (version J).mra|4cbae6aeaa3f2743b78acd5b86c534db|2327
 Same! Same! Same! (2P Set).mra|b8fbc37aaeaa079e53746de23c950efa|2886
@@ -470,7 +485,10 @@ Tetris.mra|b2a7257cf3cbf647a93ab21248ce7d43|1260
 The Adventures of Robby Roto!.mra|ae1a755d1a1121270a3bfafbc91187e2|2442
 The Battle-Road.mra|ed0693a3ae40dbdbe6babd38b1052403|6582
 The End.mra|247f1723c5465b71355b39d51d8444a0|2703
+The Gladiator (ver. 107).mra|2f49d3d0f66f79c666f6aef2249eba25|3610
 The Glob (Pac-Man Hardware).mra|e8ea01364aa3f628188a870f7ce8d648|2286
+The Killing Blade (ver. 109, Chinese Board).mra|37bc4560a3a04d3f5b4a935179857232|2525
+The Killing Blade Plus (China, ver. 300).mra|2c9ec22f7f12ead61dd5fa2db8a82645|2285
 The Lord of King (Japan).mra|80632a4f970bba7a91d102df727ba36b|3714
 The Next Space (Japan).mra|306cc33cdb932f87afb77ab31a206e10|2494
 The Ninja Kids (World).mra|4247c4cd10c2bad613248f1104b3261e|2353
@@ -538,6 +556,7 @@ World Rally (Gaelco, V.068).mra|8e88ab6708450623b99497f19129ca04|5656
 X Multiply (Japan, M72 hardware).mra|7bf3715e35c44bc983e1a7d09ce7a404|3751
 Xain'd Sleena (bootleg, bugfixed).mra|c30f7736caab1e4b6a61c992ea5f3d57|4832
 Xevious.mra|810e14cf74e7d39b9e3b9cbd8a9d393b|2881
+Xiyou Shi E Zhuan Super (ver. 103, China, Tencent) (unprotected).mra|b209b2448e108e5a6486d6682198b9a4|2480
 Youjyuden (JP).mra|2e738ae4d5c0dab213ee4fc072b8180a|4337
 Zaxxon (Set 1, Rev D).mra|3669e5d3af38514213afac5744025f19|2403682
 Zero Wing (2P Set).mra|3d733134fbc4387206cea10c5462f3ca|2711
