@@ -67,6 +67,7 @@ Gaplus_Senhor_20250120.rbf
 Garegga_Senhor_20250302.rbf
 Gauntlet_Senhor_20250428.rbf
 Gyruss_Senhor_20260204.rbf
+IGSPGM_Senhor_20260628.rbf
 IkariWarriors_Senhor_20260509.rbf
 Inferno_Senhor_20260120.rbf
 IremM107_Senhor_20260119.rbf
