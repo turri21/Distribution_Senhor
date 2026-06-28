@@ -138,7 +138,7 @@ Drift Out (Europe).mra|9ced252b86eb4b96132db344be1d9bbe|2022
 Eeek! (Pac-Man Conversion).mra|c33a28105ede518dc05cecc1a9899631|1917
 Eggor.mra|7c4393d524de449b4e4c254df5c52e2f|2806
 Elevator Action Bootleg.mra|4cb4403ce07178704701ad3b6d3a3d7a|2928
-Empire Strikes Back.mra|a8a1320bdd050d68938a39cc00252ba0|4401
+Empire Strikes Back.mra|6425d6c8e130d41be113d4e1ff5cd11f|4394
 ESP Ra.De. (World 1998 422 International Ver).mra|5fe6dc199b7cb344966a540a749f76e4|1743
 Espgaluda (2003.10.15 Master Ver).mra|d7d5a49d04f7f03c5099c13a69078952|3934
 Euro Champ '92 (World).mra|34455673572f86b62b472b8103e1cd90|2410
@@ -452,7 +452,7 @@ Squash (Gaelco, V.010).mra|8e95f85c8b8fc58f89e4ee01e7da57f6|2612
 Squash.mra|3d6eb94999d59a5c6d2c0f706faced28|2116
 Star Guards.mra|c213b8a8865c09be3175f751d7c4e329|1990
 Star Jacker.mra|047a89a0f3c72358a4f785b65fe22124|3093
-Star Wars (Rev 2).mra|c94da244af99c5f82805c197fd59b19c|1855
+Star Wars (Rev 2).mra|5146e7cc2f7e57e7e1063d8c810dcee2|1848
 StarForce.mra|b1000b5b02373e86840af04e65a19378|3349
 Stargate.mra|31599d87b18ee985a32e337c5c4e8289|4157
 Strategy X.mra|979c4e73650020d1c70f21e9939be61b|2038
