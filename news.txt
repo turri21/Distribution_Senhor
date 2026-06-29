@@ -8,5 +8,6 @@
 [INFO]New Cores: MajorHavoc_Senhor_20260629.rbf[/INFO]
 [INFO]New Cores: Tempest_Senhor_20260628.rbf, IGSPGM_Senhor_20260628.rbf[/INFO]
 [INFO]New Cores: thoop_Senhor_20260625.rbf, squash_Senhor_20260625.rbf[/INFO]
+[INFO]Updates: PSX_Senhor_20260630.rbf[/INFO]
 [INFO]Updates: C64_Senhor_20260629.rbf, Cave_Senhor_20260627.rbf[/INFO]
 [INFO]Updates: Atari7800_Senhor_20260624.rbf, 3DO_Senhor_20260624.rbf[/INFO]
