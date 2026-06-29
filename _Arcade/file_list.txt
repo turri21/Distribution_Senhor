@@ -266,6 +266,7 @@ Lunar Rescue.mra|e81817eb4cde6f13b62558ab2a05518f|1732
 Lupin III (Set 2).mra|59f203bf48af7d818e6d1f36dff3775f|284917
 Mad Planets.mra|bbc72ed22daceab223a6295a12009e36|1568
 Magical Spot.mra|bccf9173829ad66983c7d607ce9c101a|1290611
+Major Havoc.mra|ea263bfb349280f86f735d7bb380d8cd|3795
 Major Title 2 (World, set 1).mra|54cb615858bf9e068b2831dc4db91fb3|4393
 Mappy (US).mra|9d060fa681ee87de8c4e639e97042307|1995
 Marble Madness (set 5 - LSI).mra|b374dfd10bc058a6d3a33fe2ecdcd5de|6633
