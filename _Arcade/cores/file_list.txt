@@ -224,6 +224,7 @@ Tecmo_Senhor_20260309.rbf
 tekipaki_Senhor_20250501.rbf
 Tempest_Senhor_20260628.rbf
 terracresta_Senhor_20250511.rbf
+thoop2_Senhor_20260630.rbf
 thoop_Senhor_20260625.rbf
 TIAMC1_Senhor_20260212.rbf
 TimePilot84_Senhor_20260210.rbf
