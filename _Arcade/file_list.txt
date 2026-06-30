@@ -484,6 +484,7 @@ Terra Cresta (YM3526 set 1).mra|d57c8f60ef01f6e6124a10d05060b0fb|2687
 Terra Force (Japan).mra|92922205fc2d7162b0f67beaca112ea2|2961
 Tetris (Japan, System E).mra|dbd23f27012c75f402715d7d26b08b3e|2019
 Tetris.mra|b2a7257cf3cbf647a93ab21248ce7d43|1260
+TH Strikes Back (Gaelco, V.002).mra|b93d4d6ff5fe3a6530fbbc6ea74d7cdf|3671
 The Adventures of Robby Roto!.mra|ae1a755d1a1121270a3bfafbc91187e2|2442
 The Battle-Road.mra|ed0693a3ae40dbdbe6babd38b1052403|6582
 The End.mra|247f1723c5465b71355b39d51d8444a0|2703
