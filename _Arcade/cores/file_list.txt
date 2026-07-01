@@ -41,6 +41,7 @@ CrazyClimber_Senhor_20260521.rbf
 CrazyKong_Senhor_20260126.rbf
 CrystalCastles_Senhor_20250123.rbf
 DCon_Senhor_20260611.rbf
+DECOCassette_Senhor_20260701.rbf
 Darius2NinjaWarriors_Senhor_20260524.rbf
 Darius_Senhor_20260504.rbf
 Deco16_Senhor_20260617.rbf
