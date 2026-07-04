@@ -189,6 +189,7 @@ Grasspin (Jaleco).mra|4c5221431ccf2c904cc6dfb5225bd778|2567
 Gravitar (Ver 3).mra|244d85999bc8620d11b05712dc0187b0|2462
 Grobda (W, New Ver.).mra|331b8e102c4bb9d7588859cff9fdd6cb|3031
 Growl (World, Rev 1).mra|907ef30cd1afaa685073093deb4afdfa|2388
+Gulf War II (set 1).mra|502c63f046b6f08f634ebdf2c2346fb8|4303
 Gun & Frontier (World).mra|1a59a3ead17e313ad612aa1fd0d52cf9|2333
 Gun Fight.mra|e7b409f61117f5fcc668686e92503311|5833
 Gun Force II (US).mra|7d492fb4333e0e6c9c9963bde318df01|4967
