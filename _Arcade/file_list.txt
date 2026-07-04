@@ -54,6 +54,7 @@ Blue Shark.mra|7d3b3d44618516ef8750773414c3bd59|825681
 Bomb Jack.mra|3a24c7e7aa38beb3bb93645a3fb4f949|2449
 Bomber Man - Dyna Blaster.mra|4c295c893de3d89994735ccb483fdfdd|3653
 Bomber Man World - New Dyna Blaster - Global Quest.mra|e4c2ab2d79739eabebe99b3cb9719610|3639
+Boogie Wings (Euro v1.5, 92.12.07).mra|4aac42a3e18a6ad4d98b20e9b513da7f|3586
 Boot Hill.mra|bb7e48529c7c5d9e18894bca7f276360|504387
 Bosconian - Star Destroyer (new version).mra|d402ba70891cf5aecb8406034bbdc4bb|3425
 Botanic (English, Spanish, Set 1).mra|dc3b6b54baf20e3f80701729bc367417|2121
