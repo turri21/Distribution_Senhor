@@ -19,6 +19,7 @@ Blockade_Senhor_20250105.rbf
 BloodBros_Senhor_20260610.rbf
 BluePrint_Senhor_20260404.rbf
 BombJack_Senhor_20260124.rbf
+BoogieWings_Senhor_20260705.rbf
 Bosconian_Senhor_20260124.rbf
 Breakout_Senhor_20250124.rbf
 BubSysROM_Senhor_20250107.rbf
