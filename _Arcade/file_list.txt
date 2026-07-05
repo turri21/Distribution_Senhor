@@ -8,6 +8,7 @@ Air Gallet (Europe).mra|57cce0b8145c9d11d3eec8b3f3b465fc|1572
 Alcon Bootleg.mra|358cd033bb4e4ae9c48717594453f097|2225
 Ali Baba and 40 Thieves.mra|a491a580ff843ecaefa130d45e164f5e|2483
 Alien Arena (Stargate upgrade).mra|3604607494b0de072619036ab680b400|4130
+Alligator Hunt (Gaelco, 1994).mra|65377cf9f741b4ad74ad8f9a5112624e|2635
 Alpine Ski.mra|c02eeb523e157c13c56e0ed9bfcf2c20|2285
 Amazing Maze.mra|b43dc793ac8ae015e08f0d89959fddbe|133527
 Amidar (Scramble).mra|bee70136b9bef3af4b9099c143ecd078|2482
