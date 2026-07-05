@@ -5,7 +5,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 17/6/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]New Cores: BoogieWings_Senhor_20260705.rbf[/INFO]
+[INFO]New Cores: nslasher_Senhor_20260705.rbf, BoogieWings_Senhor_20260705.rbf[/INFO]
 [INFO]New Cores: GulfWarII_Senhor_20260704.rbf, DECOCassette_Senhor_20260701.rbf[/INFO]
 [INFO]New Cores: thoop2_Senhor_20260630.rbf, MajorHavoc_Senhor_20260629.rbf[/INFO]
 [INFO]New Cores: Tempest_Senhor_20260628.rbf, IGSPGM_Senhor_20260628.rbf[/INFO]
