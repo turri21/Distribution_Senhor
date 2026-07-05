@@ -39,6 +39,7 @@ Battle Garegga (Europe - USA - Japan - Asia) (Sat Feb 3 1996).mra|a5e3b3d57db9db
 Battle of Atlantis.mra|0a1383a945d7edce8c9f05e180f84c17|2816
 Battle Zone rev 2.mra|793079b31cb8ff0d40edd68d24afb729|1758
 Berzerk.mra|97d688e4b2bf3c2d1c44548579b8b593|1868
+Big Karnak (Gaelco, 1991).mra|8bda060ee1fdb199b1284d4b8fcba955|3913
 Billiard.mra|72c97e7f3328bc459bc15ff3d95244b3|1345
 Bio Attack.mra|59bfc4de7fad30a439037b38d3a5e892|2182
 Birdiy.mra|c28a578085c7315bc796af70669b8e6f|1956
