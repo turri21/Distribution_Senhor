@@ -306,6 +306,7 @@ Naughty Boy (Jaleco).mra|5ed3acb46a1a10f38fb9336f644cd7c4|1691
 Nemesis (ROM Version).mra|1f45ecd32a440b0f0bfaa74d973c68ed|5314
 New Rally-X.mra|ddfe52bc25d11ae34b82a0b3e7674239|36540
 Nibbler (Set 9).mra|ff062e0c69057297875a09673289564d|4031
+Night Slashers (Over Sea Rev 1.2, DE-0397-0 PCB).mra|5fa629a3f16876789898a4c59d966de5|4234
 Ninja Baseball Bat Man (World).mra|39b535c4b9f3832786efb9ec07ab4183|6117
 Ninja Spirit (Japan).mra|eb1426b20cec74852af1c91373b6b7ed|3799
 Ninjakun.mra|7c6ccce731e2b6279ceef491d686475e|2820
