@@ -42,6 +42,7 @@ Berzerk.mra|97d688e4b2bf3c2d1c44548579b8b593|1868
 Big Karnak (Gaelco, 1991).mra|8bda060ee1fdb199b1284d4b8fcba955|3913
 Billiard.mra|72c97e7f3328bc459bc15ff3d95244b3|1345
 Bio Attack.mra|59bfc4de7fad30a439037b38d3a5e892|2182
+Biomechanical Toy (Gaelco, 1995).mra|1358cb0ffee8794b28adba92a8b813eb|3206
 Birdiy.mra|c28a578085c7315bc796af70669b8e6f|1956
 Black Hole.mra|65f2337ffb71eab7d9028e327a835c78|2078
 Black Widow.mra|9dc5a9ce4bcb8a3b5f7cd5978e195754|2767
