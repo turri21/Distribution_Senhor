@@ -562,6 +562,7 @@ Wonder Boy (Set 1, 315-5177).mra|adf03bbb1bd7737f1b9b746e5a2818cf|3347
 Wonder Boy in Monster Land.mra|bb888ad2029ff1a8b300a78d88532960|2291
 Woodpecker (Set 1).mra|8e4cb4f56e9366f0d15181f94179aaf9|2443
 World Rally (Gaelco, V.068).mra|8e88ab6708450623b99497f19129ca04|5656
+World Rally 2 (Gaelco, 1995).mra|ca6f46a5b537a457b5f5c75bc285d478|3741
 X Multiply (Japan, M72 hardware).mra|7bf3715e35c44bc983e1a7d09ce7a404|3751
 Xain'd Sleena (bootleg, bugfixed).mra|c30f7736caab1e4b6a61c992ea5f3d57|4832
 Xevious.mra|810e14cf74e7d39b9e3b9cbd8a9d393b|2881
