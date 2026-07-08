@@ -369,7 +369,10 @@ Psychic 5 (World).mra|95ce2707f545363ab129ad8a8f163bad|2407
 Puck Man (JP, Set 1).mra|d5097d23c2c2dea9f5f7254407e82c9b|3091
 PuLiRuLa (World, dual PCB).mra|a105f7f4adcf2bd7c9a8d19b48fe7907|2294
 Pulsar.mra|96d15ee019782230759948aaf6f41335|2327539
+Puzzle Star (ver. 100MG, WORLD).mra|e41e02275a1222d9ae2b8263b1adfbae|12528
 Puzzle Uo Poko (World).mra|49a7dc48fc23cc7e8b8b9aa49de530a6|1023
+Puzzli 2 (ver. 100, WORLD).mra|e4d100a18a9a0bd9ddf9844cd538a07f|9729
+Puzzli 2 Super (ver. 200, WORLD).mra|b962f24bdca1b7000a3e35dbd7ae970f|9235
 Q'bert (US, Set 1).mra|c45cdffef8b554bc44801e79f5327ab6|2111
 QBert Qubes.mra|4b7fe7c6fcd5fdc268bd678e7f117e4a|1377
 Qix (set 1).mra|6b9e432357f572e8b265f4af5f6ee22e|2098
