@@ -527,6 +527,7 @@ Top Gunner (US).mra|9542431cf1bf22e813ee356e8fb5aa25|2579
 Transformer.mra|0831bd7e7382f05003240eed2fb36a66|2253
 Traverse USA- Zippy Race (US).mra|901be0481ff468bf6d39088e8e177972|3015
 Tri-Pool (Casino Tech).mra|8f1350a8c4b404c78e2a0a2ff75b5002|1756
+Trio The Punch (World).mra|4e40ead8d8de27b2b3efebb1cc34d7f9|5114
 Tron.mra|bd582dff263d0bcb96c20da4c4ca826f|2246
 Tropical Angel.mra|35edf2c6c2aa80cc46b45749267b234e|2917
 Truxton - Tatsujin.mra|9a6ebdd0d3714675004f46b70c376965|2703
