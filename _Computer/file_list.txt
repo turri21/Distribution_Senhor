@@ -14,7 +14,7 @@ Atari800_Senhor_20260423.rbf
 AtariST_Senhor_20260108.rbf
 BBCMicro_Senhor_20260105.rbf
 BK0011M_Senhor_20260102.rbf
-BasicMasterJr_Senhor_20250227.rbf
+BasicMasterJr_Senhor_20260708.rbf
 BeebFpga_Senhor_20220320.rbf
 C128_Senhor_20260614.rbf
 C16_Senhor_20260107.rbf
