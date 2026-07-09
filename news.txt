@@ -5,7 +5,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 7/7/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]New Cores: TrioThePunch_Senhor_20260709.rbf[/INFO]
+[INFO]New Cores: xnbrkthru_Senhor_20260709.rbf, TrioThePunch_Senhor_20260709.rbf[/INFO]
 [INFO]New Cores: wrally2_Senhor_20260707.rbf, biomtoy_Senhor_20260707.rbf[/INFO]
 [INFO]New Cores: bigkarnk_Senhor_20270706.rbf, aligator_Senhor_20260705.rbf[/INFO]
 [INFO]New Cores: nslasher_Senhor_20260705.rbf, BoogieWings_Senhor_20260705.rbf[/INFO]
