@@ -153,6 +153,7 @@ jtvigil_Senhor_20260506.rbf
 jtwc_Senhor_20260506.rbf
 jtwwfss_Senhor_20260506.rbf
 jtyiear_Senhor_20260506.rbf
+Kangaroo_Senhor_20260712.rbf
 KickAndRun_Senhor_20240730.rbf
 LadyBug_Senhor_20260204.rbf
 LunarLander_Senhor_20240529.rbf
