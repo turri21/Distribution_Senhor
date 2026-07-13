@@ -1,7 +1,4 @@
 [TITLE]Important Updates[/TITLE]
-[WARNING]New linux.img 16/2/2026 -- replace the old one in /media/fat/linux/ [/WARNING]
-[INFO]https://github.com/turri21/Senhor/tree/main/Linux_Image[/INFO]
-[INFO]-------------------------------------------------------------------[/INFO]
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 7/7/2026[/INFO]
 [TITLE]Cores[/TITLE]
