@@ -2,6 +2,6 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 7/7/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]New Cores: Lisa_Senhor_20260713.rbf[/INFO]
+[INFO]New Cores: X16_Senhor_20260714.rbf, Lisa_Senhor_20260713.rbf[/INFO]
 [INFO]New Cores: xnbrkthru_Senhor_20260709.rbf, TrioThePunch_Senhor_20260709.rbf[/INFO]
 [INFO]Updates: Pacman_Senhor_20260714.rbf, ZX-Spectrum_Senhor_20260713.rbf[/INFO]
