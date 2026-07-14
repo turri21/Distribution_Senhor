@@ -234,6 +234,7 @@ Jitsuryoku!! Pro Yakyuu (Japan).mra|828d417d14447fe44145e8461a8de604|3091
 Journey.mra|f18440b07385446d95ec585db21019e4|2740
 Joust 2 - Survival of the Fittest (revision 2).mra|186e896e8d8fa4fcb441f1457d2bef38|4061
 Joust.mra|7ec459f1ee6a95a65dde66bcd6dbf6c7|4117
+Jr. Pac-Man.mra|3b0bbc43715a7c0c4541ba98984fcb6b|2402
 Jump Shot.mra|33ff755705958fa75e8a99702d58e1fd|2136
 Jungle King.mra|6694655fe32df0f8bda93294d769ca43|2676
 Juno First.mra|6d5dccb898e59502e15ea7600b186617|3495
