@@ -257,6 +257,7 @@ Kung-Fu Master (W).mra|d558de82bcfffbf1a10505c7c8d7702d|5990
 Lady Bug.mra|d8f472358ccf8b9658f064db141a6d9d|3195
 Laguna Racer.mra|c40b096fbc108feda1829aa43db73597|699190
 Legend of Hero Tonma (Japan).mra|447833b8031ffcb362c3ca17ea607d8c|3271
+Legionnaire (World).mra|293f7f03a675ea0bd26bb26cba405027|5952
 Lethal Thunder (World).mra|268059a8efd9cdf59115c4eb064f9012|6067
 Lifeforce (Japan).mra|3a7ecc32a0999631a1711c86e895a83b|2509
 Liquid Kids (World).mra|e96fe45bc8452a0eda23d9dc3f4cac5a|2243
