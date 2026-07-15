@@ -16,4 +16,4 @@ GBA_Borders=|05-08-2025
 Presets=|05-08-2025
 Scripts=NEW|01-07-2026
 Shadow_Masks=|05-08-2025
-Wallpapers=|15-07-2026
+Wallpapers=NEW|15-07-2026
