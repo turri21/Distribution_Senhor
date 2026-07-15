@@ -206,6 +206,7 @@ Hachoo.mra|2b104cb3782a2f411e0ea0d532d8bfcd|3527
 Hammerin' Harry (US, M84 hardware).mra|0b94a08e529ce536a719ad43b5bafaf8|3204
 Hang On Jr.mra|42b1a5a10632b8e13da0d3bca4455db0|1995
 Hard Hat.mra|e388369415bb746b4accc90a809dc47a|1652
+Heated Barrel (World version 3).mra|d4ff886912658b6f747be308733789a0|4199
 Heavy Metal (315-5135).mra|043ce30ec179720aff3bd9552fdf02b2|2862
 Hellfire (2P Set).mra|0e78f467496511f99ffa0c4a31e6121f|2544
 High Way Race.mra|a58692f46ebaf12f38e949c35d51e6f8|2346
