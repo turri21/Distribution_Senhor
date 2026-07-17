@@ -23,7 +23,7 @@ CBM-II_Senhor_20251101.rbf
 Casio_PV-2000_Senhor_20251219.rbf
 CoCo2_Senhor_20250704.rbf
 CoCo3_Senhor_20260112.rbf
-ColecoAdam_Senhor_20251216.rbf
+ColecoAdam_Senhor_20260717.rbf
 EDSAC_Senhor_20250906.rbf
 Enterprise_Senhor_20251127.rbf
 FM-7_Senhor_20250412.rbf
