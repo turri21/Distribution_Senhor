@@ -25,10 +25,10 @@
 	<joystick>2-way horizontal</joystick>
 	<special_controls></special_controls>
 	<num_buttons>3</num_buttons>
-	<buttons default="A,B,Y,Start,Select,R,L" names="Fire,Thrust,-,Shield,Start 1P,Start 2P,Coin,Pause"></buttons>
+	<buttons default="A,B,Y,Start,Select,R,L" names="Fire,Thrust,-,Shield,Start 1P,Start 2P,Coin,Pause,Aux Coin"></buttons>
 
-	<switches default="FF,FF,00">
-		<dip bits="17" ids="Off,On" name="Service"></dip>
+	<switches default="00,00,00">
+		<dip bits="16" ids="Off,On" name="Service"></dip>
 		</switches>
 
 	<rom index="1">

@@ -45,7 +45,7 @@ Bio Attack.mra|59bfc4de7fad30a439037b38d3a5e892|2182
 Biomechanical Toy (Gaelco, 1995).mra|1358cb0ffee8794b28adba92a8b813eb|3206
 Birdiy.mra|c28a578085c7315bc796af70669b8e6f|1956
 Black Hole.mra|65f2337ffb71eab7d9028e327a835c78|2078
-Black Widow.mra|9dc5a9ce4bcb8a3b5f7cd5978e195754|2767
+Black Widow.mra|51a51bc58d7e57eee2ff2488b79733e2|2966
 Blade Master (World).mra|4c8c33416bcd848daf9f85c7e2449678|6757
 Blasto.mra|805a3626a8420f73ecb4460a8b2da331|1196
 Block Gal.mra|9fcdfefb8eed826e2175f2382565f340|199102
@@ -191,7 +191,7 @@ Gorkans.mra|bd533166993f5956a6b4a7572b30be94|2964
 Gorodki.mra|bc2781bb878528510e74a9dba8c8afcb|1382
 Gradius.mra|ad65e5d4e7116342312b60c4b0dabf61|2502
 Grasspin (Jaleco).mra|4c5221431ccf2c904cc6dfb5225bd778|2567
-Gravitar (Ver 3).mra|244d85999bc8620d11b05712dc0187b0|2462
+Gravitar (Ver 3).mra|f34a947f80d79452179acfa51411f8a2|2645
 Grobda (W, New Ver.).mra|331b8e102c4bb9d7588859cff9fdd6cb|3031
 Growl (World, Rev 1).mra|907ef30cd1afaa685073093deb4afdfa|2388
 Gulf War II (set 1).mra|502c63f046b6f08f634ebdf2c2346fb8|4303
@@ -269,7 +269,7 @@ Lode Runner III - The Golden Labyrinth.mra|803dcfbc1c841e23260889853606b012|4545
 Lode Runner IV - Teikoku Karano Dasshutsu (JP).mra|c84fec6ed40eb630a8b6f82d02881be6|4338
 Lost Tomb.mra|ff7dc92f0843d4ea8fd702de65bf2862|2295
 Lucky Today.mra|a16334c8250bc125c8a061f21c67d6d0|1905
-Lunar Battle (Prototype).mra|aa1ebd6eab0b2c2d0b65ecb5d9d1c128|1935
+Lunar Battle (Prototype).mra|f3308d81e4052e19db9bb132f518f796|1944
 Lunar Lander.mra|e83cf2064815a83d54f2bf0e25777569|1424
 Lunar Rescue.mra|e81817eb4cde6f13b62558ab2a05518f|1732
 Lupin III (Set 2).mra|59f203bf48af7d818e6d1f36dff3775f|284917
