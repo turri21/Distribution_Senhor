@@ -17,7 +17,7 @@ BattleZone_Senhor_20260124.rbf
 Berzerk_Senhor_20260124.rbf
 bigkarnk_Senhor_20270706.rbf
 biomtoy_Senhor_20260707.rbf
-BlackWidow_Senhor_20260220.rbf
+BlackWidow_Senhor_20260717.rbf
 Blockade_Senhor_20250105.rbf
 BloodBros_Senhor_20260610.rbf
 BluePrint_Senhor_20260404.rbf
