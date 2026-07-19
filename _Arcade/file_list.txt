@@ -34,6 +34,7 @@ Bagman.mra|d2a683e1f2ba3c1ad51a491f82fba372|2320
 Balloon Bomber.mra|0e1f384fc50d843504465641bd8198b4|372941
 Baluba-louk no Densetsu (Japan).mra|3b20f7335fc1255a38a6b0ee36b3dc2b|3282
 BankPanic.mra|1282b084e832c1deae845138afd8ad4d|2253
+Batsugun.mra|2675c2e0104ed1192e531533bddb36fb|2257
 Battle Bakraid - Unlimited Version Special Ver. (USA) (Tue Jun 8 1999).mra|9ff38276c2b5b9509e2aaa615de9a42e|5128
 Battle Garegga (Europe - USA - Japan - Asia) (Sat Feb 3 1996).mra|a5e3b3d57db9db4e83e8691b4546f2b3|4002
 Battle of Atlantis.mra|0a1383a945d7edce8c9f05e180f84c17|2816
