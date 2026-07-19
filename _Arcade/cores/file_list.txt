@@ -13,6 +13,7 @@ Bagman_Senhor_20260430.rbf
 Bakraid_Senhor_20250302.rbf
 BankPanic_Senhor_20260119.rbf
 Batrider_Senhor_20250302.rbf
+Batsugun_Senhor_20260719.rbf
 BattleZone_Senhor_20260124.rbf
 Berzerk_Senhor_20260124.rbf
 bigkarnk_Senhor_20270706.rbf
