@@ -325,6 +325,7 @@ Number Crash.mra|fd6ed3a9127b5aa45738ef7f8dbf4681|2423
 Omega [bl].mra|93abfb93c35b175467fe9cd4250694e6|2022
 Opa Opa (Rev A, unprotected).mra|beb8bc47d9518f3711174265e33aa172|2167
 Opa Opa.mra|ee1f6bdf1be73b98fb0bdcc4f82fc49e|2239
+Operation Wolf (World, rev 2, set 1).mra|93aa635c081dd70d501c9bc981ecb051|5085
 Orbitron.mra|529a4f4e729bd510d3b618e4fcdf1375|2165
 Oriental Legend (ver. 126).mra|c0a8fe23561705249d666d0b7e4aa784|2293
 Out Zone.mra|bc4cd0aa8dbc821ea90fd22f6b154a4e|2556
