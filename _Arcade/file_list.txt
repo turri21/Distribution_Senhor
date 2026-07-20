@@ -218,6 +218,8 @@ Horizon (Irem).mra|9f57f15bc1642a0db7ad36859ef5a0ac|4869
 Hotdog Storm (Korea).mra|028e36b69371bce1834ed02df008356b|1589
 Hotdog Storm.mra|202c5550fa438b0c703c39cda23ff836|1551
 Hustle.mra|f9cd1f65c7c4db3b66146f040f0bcf4a|1205
+Hyper Duel (Set 2).mra|a8aaa9d349aee5f8d3206bd3d3d8cdf7|3986
+Hyper Duel.mra|4126e85fd8546d465ccef53530f5b66a|3905
 I'm Sorry (US, 315-5110).mra|2765fc291a1276e22667f03d9cacdded|2828
 Iga Ninjyutsuden (Japan).mra|4411e849d6c8aa10468b938ab99a8a5d|3365
 Ikari III - The Rescue (World Version 1, 8-Way Joystick).mra|36f33430a84cf3460d01e8d1f747e4d0|3993
