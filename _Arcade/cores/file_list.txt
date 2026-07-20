@@ -53,6 +53,7 @@ Darius_Senhor_20260504.rbf
 Deco16_Senhor_20260617.rbf
 Defender_Senhor_20260228.rbf
 demonwld_Senhor_20250502.rbf
+Destroyer_Senhor_20260720.rbf
 DigDug_Senhor_20260126.rbf
 Dominos_Senhor_20260203.rbf
 DonkeyKong3_Senhor_20260203.rbf
