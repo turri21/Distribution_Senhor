@@ -145,6 +145,7 @@ Drift Out (Europe).mra|9ced252b86eb4b96132db344be1d9bbe|2022
 Eeek! (Pac-Man Conversion).mra|c33a28105ede518dc05cecc1a9899631|1917
 Eggor.mra|7c4393d524de449b4e4c254df5c52e2f|2806
 Elevator Action Bootleg.mra|4cb4403ce07178704701ad3b6d3a3d7a|2928
+Eleven Beat.mra|6cee191e436787ccc57bbb5773f092e7|1949
 Empire Strikes Back.mra|6425d6c8e130d41be113d4e1ff5cd11f|4394
 empirecity.mra|65861662fe46c89e1cb5af53d1cd65c3|11125
 ESP Ra.De. (World 1998 422 International Ver).mra|5fe6dc199b7cb344966a540a749f76e4|1743
@@ -207,11 +208,14 @@ Guwange.mra|07cd2689315439b09dfe726cc8ed70d6|1724
 Gyruss.mra|8261b55ad9182d5ee028fec662e75d7b|2817
 Hachoo.mra|2b104cb3782a2f411e0ea0d532d8bfcd|3527
 Hammerin' Harry (US, M84 hardware).mra|0b94a08e529ce536a719ad43b5bafaf8|3204
+Hanabi de Doon! - Don-chan Puzzle.mra|4b328146dd1fb02a897be4776a646408|1448
 Hang On Jr.mra|42b1a5a10632b8e13da0d3bca4455db0|1995
 Hard Hat.mra|e388369415bb746b4accc90a809dc47a|1652
 Heated Barrel (World version 3).mra|d4ff886912658b6f747be308733789a0|4199
 Heavy Metal (315-5135).mra|043ce30ec179720aff3bd9552fdf02b2|2862
 Hellfire (2P Set).mra|0e78f467496511f99ffa0c4a31e6121f|2544
+Hi Pai Paradise 2.mra|5d99c484d9b7d48421249be31732ac95|2044
+Hi Pai Paradise.mra|6d02dee549662045034aa82ef696ff24|1974
 High Way Race.mra|a58692f46ebaf12f38e949c35d51e6f8|2346
 Hook (World).mra|aeeb4e70d10bafa5c0af310876deb46c|6141
 Horizon (Irem).mra|9f57f15bc1642a0db7ad36859ef5a0ac|4869
@@ -260,6 +264,7 @@ Kozmik Krooz'r.mra|f5b29c8674fe2814db2ac948343a6da3|1507384
 Kozure Ookami (Japan).mra|76a610ce4121bd918c7b94cff08246d2|2985
 Kram.mra|454158ba4db6fad500232070b91d248a|1626
 Kung-Fu Master (W).mra|d558de82bcfffbf1a10505c7c8d7702d|5990
+Kurukuru Fever.mra|7057a49839f833bd85a2f686f849b99b|1423
 Lady Bug.mra|d8f472358ccf8b9658f064db141a6d9d|3195
 Laguna Racer.mra|c40b096fbc108feda1829aa43db73597|699190
 Legend of Hero Tonma (Japan).mra|447833b8031ffcb362c3ca17ea607d8c|3271
@@ -281,6 +286,7 @@ Lupin III (Set 2).mra|59f203bf48af7d818e6d1f36dff3775f|284917
 Mad Planets.mra|bbc72ed22daceab223a6295a12009e36|1568
 Magical Error wo Sagase.mra|6b907ecea28f5b72223194b55812dd24|2309
 Magical Spot.mra|bccf9173829ad66983c7d607ce9c101a|1290611
+Magical Tetris Challenge (981009 Japan).mra|45b16a2163777ba9cec958b84d93d2d4|2410
 Major Havoc.mra|ea263bfb349280f86f735d7bb380d8cd|3795
 Major Title 2 (World, set 1).mra|54cb615858bf9e068b2831dc4db91fb3|4393
 Mappy (US).mra|9d060fa681ee87de8c4e639e97042307|1995
@@ -290,6 +296,7 @@ Mars.mra|ba6f72b0bca4c0a6a5c0c8cbb813de83|2442
 Martial Masters (ver. 104, 102, 102US).mra|7e5d8b3529db55983a6a5aad45eeb4a8|2338
 Max RPM (v2).mra|27afe34a14d451b8de0b7ccc033b5fd3|1832
 Mayday (Set 1).mra|d14ed0e472dce57c5690a86240b114fb|3725
+Mayjinsen 3.mra|abbe3f9e8c6fb53944c1c4e9b635672d|1901
 Mazinger Z (World).mra|c152642fbc9679d59f2f5ff44ca5e2be|1572
 Mega Blast (World).mra|6d8189cda6c5ade2f639031e31404c5e|2779
 Megumi Rescue (Japan).mra|db7bb6e41fe0427d0ee831f446044bb4|1747
@@ -473,6 +480,7 @@ Squash (Gaelco, V.010).mra|8e95f85c8b8fc58f89e4ee01e7da57f6|2612
 Squash.mra|3d6eb94999d59a5c6d2c0f706faced28|2116
 Star Guards.mra|c213b8a8865c09be3175f751d7c4e329|1990
 Star Jacker.mra|047a89a0f3c72358a4f785b65fe22124|3093
+Star Soldier - Vanishing Earth.mra|f944e61095e329459b8148ef570ca625|1957
 Star Wars (Rev 2).mra|5146e7cc2f7e57e7e1063d8c810dcee2|1848
 StarForce.mra|b1000b5b02373e86840af04e65a19378|3349
 Stargate.mra|31599d87b18ee985a32e337c5c4e8289|4157
@@ -487,6 +495,7 @@ Super Glob (Pac-Man, German) [bl].mra|ccf42dfbf2f8dcdcd4a43b43c2bc5457|1970
 Super Locomotive (old).mra|6b150e103c49bf861b206cf7a30945e0|2800
 Super Locomotive.mra|34d0958ea74e6c0e2adc7204f2f75515|2800
 Super Pac-Man.mra|955f0f85bd05881e5e7ffd9fd6bf3480|3014
+Super Real Mahjong VS (Rev A).mra|2426cb381457244333b70d9a33d2c7dd|2126
 Super Space Invaders '91 (World, revised code, Rev 1).mra|dc9efc3452c027b10fc15042cb30e5c8|2059
 Super Xevious.mra|efc5d1e55163d7cab7e291ce02a1e996|2816
 Super Zaxxon (315-5013).mra|52c540ce13259796679b91970a3c36eb|2403650
@@ -535,6 +544,7 @@ Toki no Senshi - Chrono Soldier.mra|73704da76696afbd801febaf4164b697|2187
 Tokushu Butai Jackal (JP).mra|2ac5d1c2e6eb5d66982225f80aaa7fd9|2560
 Top Gunner (US) [bl].mra|f828d9480ad66ede8a1ec025153b148d|2623
 Top Gunner (US).mra|9542431cf1bf22e813ee356e8fb5aa25|2579
+Tower & Shaft.mra|a62f5f909e7ccde6a89e228131c74eed|1274
 Transformer.mra|0831bd7e7382f05003240eed2fb36a66|2253
 Traverse USA- Zippy Race (US).mra|901be0481ff468bf6d39088e8e177972|3015
 Tri-Pool (Casino Tech).mra|8f1350a8c4b404c78e2a0a2ff75b5002|1756
@@ -565,6 +575,7 @@ Victory Road.mra|38f0e786abee00b795e2efdaba6b7e02|3508
 Victory.mra|2307404fd177e2531dde205a969eb9cc|1969
 Vimana (Japan).mra|73b4c553ccecdb3a148f0728dcf2f678|2603
 Vindicators Part II (rev 3).mra|b96f3ca79b88653bb8d8e43985ab337d|3938
+Vivid Dolls.mra|605342787be482cdcf7c1140210f799b|1519
 Vortex.mra|e96fe836228e8aefc3d68fd2bd0271bd|1549
 Wacko.mra|ccce6b2fdf2c6c5a8a055b33677848ec|2163
 War of the Bugs.mra|0ebd70569e6596b74b63582b0cc1eeda|2157
