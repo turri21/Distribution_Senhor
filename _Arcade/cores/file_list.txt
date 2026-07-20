@@ -164,6 +164,7 @@ KickAndRun_Senhor_20240730.rbf
 LadyBug_Senhor_20260204.rbf
 Legionnaire_Senhor_20260715.rbf
 LunarLander_Senhor_20240529.rbf
+magerror_Senhor_20260720.rbf
 MajorHavoc_Senhor_20260629.rbf
 MarioBros_Senhor_20240802.rbf
 MCR1_Senhor_20260425.rbf
