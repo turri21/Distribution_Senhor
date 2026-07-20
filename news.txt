@@ -2,7 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 7/7/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]New Cores: magerror_Senhor_20260720.rbf[/INFO]
+[INFO]New Cores: Aleck64_Senhor_20260720.rbf, magerror_Senhor_20260720.rbf[/INFO]
 [INFO]New Cores: Hyprduel_Senhor_20260720.rbf, empirecity_Senhor_20260720.rbf[/INFO]
 [INFO]New Cores: Destroyer_Senhor_20260720.rbf, cowboys_Senhor_20260720.rbf[/INFO]
 [INFO]New Cores: opwolf_Senhor_20260719.rbf, Batsugun_Senhor_20260719.rbf[/INFO]
