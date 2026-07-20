@@ -566,6 +566,7 @@ War of the Bugs.mra|0ebd70569e6596b74b63582b0cc1eeda|2157
 Water Match (315-5064).mra|bbe68ab882b7de67e853480bf62af15b|2824
 Water Ski.mra|40068d94369d3463742c98be1f5cc820|2166
 Western Express (Japan, rev 4).mra|3b638347ffd35a9daf7c229a7bbed9a4|2542
+Wild West C.O.W.-Boys of Moo Mesa (ver EAB).mra|9a15c02da2068134f066225bbb56774a|4065
 Wild Western.mra|25a15718b34ca218db58b240460bcefa|2560
 Wizard of Wor.mra|a1bf8859b2788c4b5697d7778fe23951|2224
 Wonder Boy (Set 1, 315-5177).mra|adf03bbb1bd7737f1b9b746e5a2818cf|3347
