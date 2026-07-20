@@ -41,6 +41,7 @@ ComputerSpace_Senhor_20260126.rbf
 CongoBongo_Senhor_20260126.rbf
 CosmicGuerilla_Senhor_20260121.rbf
 Cosmic_Senhor_20260126.rbf
+cowboys_Senhor_20260720.rbf
 CrazyBalloon_Senhor_20260121.rbf
 CrazyClimber_Senhor_20260521.rbf
 CrazyKong_Senhor_20260126.rbf
