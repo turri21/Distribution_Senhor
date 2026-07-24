@@ -8,6 +8,7 @@ Apogee_Senhor_20251229.rbf
 Apple-I_Senhor_20251006.rbf
 Apple-IIgs_Senhor_20260708.rbf
 Apple-II_Senhor_20250705.rbf
+Apple-Lisa_Senhor_20260724.rbf
 Aquarius_Senhor_20260104.rbf
 Archie_Senhor_20260104.rbf
 Atari800_Senhor_20260423.rbf
@@ -34,7 +35,6 @@ Jupiter_Senhor_20251214.rbf
 LM80C_Senhor_20250612.rbf
 Laser310_Senhor_20251214.rbf
 Laser500_Senhor_20251214.rbf
-Lisa_Senhor_20260713.rbf
 Lynx48_Senhor_20251216.rbf
 MC1201_Senhor_20231213.rbf
 MSX1-MSX2_Senhor_20250509.rbf
