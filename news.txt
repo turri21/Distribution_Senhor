@@ -10,6 +10,7 @@
 [INFO]New Cores: HeatedBarrel_Senhor_20260715.rbf, Legionnaire_Senhor_20260715.rbf[/INFO]
 [INFO]New Cores: X16_Senhor_20260714.rbf, Lisa_Senhor_20260713.rbf[/INFO]
 [INFO]New Cores: xnbrkthru_Senhor_20260709.rbf, TrioThePunch_Senhor_20260709.rbf[/INFO]
+[INFO]Updates: X16_Senhor_20260725.rbf[/INFO]
 [INFO]Updates: PCFX_Senhor_20260725.rbf, Apple-Lisa_Senhor_20260724.rbf[/INFO]
 [INFO]Updates: Jaguar_Senhor_20260722.rbf, Tempest_Senhor_20260721.rbf[/INFO]
 [INFO]Updates: NightSlashers_Senhor_20260720.rbf, BlackWidow_Senhor_20260718.rbf[/INFO]
