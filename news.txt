@@ -5,7 +5,7 @@
 [INFO]New Cores: JR100_Senhor_20260725.rbf[/INFO]
 [INFO]New Cores: Aleck64_Senhor_20260720.rbf, magerror_Senhor_20260720.rbf[/INFO]
 [INFO]New Cores: Hyprduel_Senhor_20260720.rbf, empirecity_Senhor_20260720.rbf[/INFO]
-[INFO]Updates: Arduboy_Senhor_20260726.rbf[/INFO]
+[INFO]Updates: Minimig_Senhor_20260727.rbf, Arduboy_Senhor_20260726.rbf[/INFO]
 [INFO]Updates: RX78_Senhor_20260726.rbf, UK101_Senhor_20260726.rbf[/INFO]
 [INFO]Updates: ZX-Spectrum_Senhor_20260725.rbf, X16_Senhor_20260725.rbf[/INFO]
 [INFO]Updates: PCFX_Senhor_20260725.rbf, Apple-Lisa_Senhor_20260724.rbf[/INFO]
