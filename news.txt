@@ -1,6 +1,6 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New update_senhor.sh script v1.99[/INFO]
-[INFO]New MiSTer binary - 25/7/2026[/INFO]
+[INFO]New MiSTer binary - 26/7/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: JR100_Senhor_20260725.rbf[/INFO]
 [INFO]New Cores: Aleck64_Senhor_20260720.rbf, magerror_Senhor_20260720.rbf[/INFO]
