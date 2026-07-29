@@ -296,6 +296,7 @@ Major Havoc.mra|ea263bfb349280f86f735d7bb380d8cd|3795
 Major Title 2 (World, set 1).mra|54cb615858bf9e068b2831dc4db91fb3|4393
 Mappy (US).mra|9d060fa681ee87de8c4e639e97042307|1995
 Marble Madness (set 5 - LSI).mra|b374dfd10bc058a6d3a33fe2ecdcd5de|6633
+Marble Madness II (prototype).mra|c43056632f9f843cd487dd7238519927|1800
 Mario Bros. (US, Rev G).mra|e951de1ac2e85ac9298736c2c96be520|39216
 Mars.mra|ba6f72b0bca4c0a6a5c0c8cbb813de83|2442
 Martial Masters (ver. 104, 102, 102US).mra|7e5d8b3529db55983a6a5aad45eeb4a8|2338
