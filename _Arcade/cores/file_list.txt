@@ -201,6 +201,7 @@ prehisle_Senhor_20250509.rbf
 Psychic5_Senhor_20260205.rbf
 QBert_Senhor_20260709.rbf
 Qix_Senhor_20260504.rbf
+Raiden_Senhor_20260729.rbf
 Rallybike_Senhor_20250504.rbf
 RallyX_Senhor_20260205.rbf
 RiverPatrol_Senhor_20260205.rbf
