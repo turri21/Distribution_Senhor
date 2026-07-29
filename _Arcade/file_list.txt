@@ -11,6 +11,7 @@ Alien Arena (Stargate upgrade).mra|3604607494b0de072619036ab680b400|4130
 Alligator Hunt (Gaelco, 1994).mra|65377cf9f741b4ad74ad8f9a5112624e|2635
 Alpine Ski.mra|c02eeb523e157c13c56e0ed9bfcf2c20|2285
 Amazing Maze.mra|b43dc793ac8ae015e08f0d89959fddbe|133527
+American Soccer.mra|5aebe6538d9a181138960b1ba29ddc82|2325
 Amidar (Scramble).mra|bee70136b9bef3af4b9099c143ecd078|2482
 Anteater.mra|469ce72969dc36c17dabb5863394e693|2288
 Argus no senshi (Japan).mra|1ea956f48472a017965fe004b8a314ec|2207
@@ -123,6 +124,7 @@ Dig Dug (Rev 2).mra|f897c5ca063984d0381d141f3290a648|2064
 Dig Dug II (New Ver).mra|32e9d9bbb59f4e7590442c910c6568c6|1813
 Dino Rex (World).mra|0903b43db2fcee42f311d254f6b90c35|2343
 Discs of Tron.mra|a64d1bb1f0a51da73c9320d0613ac731|2712
+Do! Run Run.mra|7588749da69d0351e288df3808f09106|2211
 DoDonPachi (World, 1997 25 Master Ver.).mra|6fe472f1619d62af13bc6cc5e573a5a7|1670
 DoDonPachi II - Bee Storm (World, ver. 102).mra|137aa6031b7fd9ea32acf3b73c51653b|2050
 DoDonPachi III (World, 2002.05.15 Master Ver).mra|e44251b61b49c6a981a4c254aebb536f|4018
@@ -232,6 +234,7 @@ Image Fight (World).mra|3a5890b1f7c8fcea9fce5ad5d8093434|3538
 In The Hunt (World).mra|afed3f9b2343633ad9348a9e47aa5047|7666
 In Your Face (US, Prototype).mra|0d93c36215247ee7c6e805d12efedc7d|3588
 Indiana Jones (set 4).mra|5d144f636705f752a8b411c0373ac778|7921
+Indoor Soccer.mra|301a581070f4c8a20d9241f318b3b291|2293
 Inferno (Williams).mra|7c9cbb9c04e77d03eca305bafedd735d|2103
 Iron Horse (Ver. K).mra|c4ba1a215a3b0b30224117af0e8ff51f|2883
 Jack the Giantkiller (set 1).mra|ea8bc73f2b97536b1e538c294a0dc599|2062
@@ -246,11 +249,13 @@ Joust 2 - Survival of the Fittest (revision 2).mra|186e896e8d8fa4fcb441f1457d2be
 Joust.mra|7ec459f1ee6a95a65dde66bcd6dbf6c7|4117
 Jr. Pac-Man.mra|3b0bbc43715a7c0c4541ba98984fcb6b|2402
 Jump Shot.mra|33ff755705958fa75e8a99702d58e1fd|2136
+Jumping Jack.mra|668e0eea392cb2be73a90e257fbed28f|2097
 Jungle King.mra|6694655fe32df0f8bda93294d769ca43|2676
 Juno First.mra|6d5dccb898e59502e15ea7600b186617|3495
 Kangaroo (Atari).mra|418536c8bf2377860348a975931c6e70|3311
 Ketsui - Kizuna Jigoku Tachi (2003.01.01. Master Ver.).mra|95bc497b71a92fa82a18eed6c3f66c3f|4041
 Kick And Run.mra|a8c7874936e3d9c46b132d42b3cef2e7|2638
+Kick Rider.mra|4037ceb6f90c78b6fc19fa301a28877a|2156
 Kick.mra|3a9e72662f93760cd9eea815abe0ff74|2127
 Kid Niki - Radical Ninja (W).mra|fd44c6d87b97161bcddde1d467b1e045|4229
 Kid no Hore Hore Daisakusen.mra|c375364fb6c9ec5beb34f4af69b44ffa|2872
@@ -313,7 +318,10 @@ Moon War.mra|835a8a4951fb7debffaf1bfdb454673e|2394
 Motos.mra|fd732c347019a829c45276877e06ba31|1727
 Mouse Trap.mra|78d698c4a5342d286575da9cc63f1f6c|1674
 Mr. Do Nightmare.mra|5e83bc7bb586056ffef75a82039e5ba4|53828
+Mr. Do! vs. Unicorns.mra|db94b2b16552167c6f059de5d75a8deb|2147
 Mr. Do!.mra|9b2f1eadbea3f059324ee74e9a4839fc|2527
+Mr. Do's Castle.mra|d2d25bf6ff736429dbfd5d880ea83b72|2148
+Mr. Do's Wild Ride.mra|d3d6213842103beb25e2554e758b910b|2162
 Mr. Goemon.mra|4beb7afca9b832af910e339e2b60fc2f|1734
 Mr. HELI no Daibouken (Japan).mra|da1ab963c33364694911bda20cf75ed6|3867
 Mr. Jong.mra|112ed10d52f3b7c2016253e88463d4a5|1557
@@ -496,6 +504,7 @@ Super Glob (Pac-Man, German) [bl].mra|ccf42dfbf2f8dcdcd4a43b43c2bc5457|1970
 Super Locomotive (old).mra|6b150e103c49bf861b206cf7a30945e0|2800
 Super Locomotive.mra|34d0958ea74e6c0e2adc7204f2f75515|2800
 Super Pac-Man.mra|955f0f85bd05881e5e7ffd9fd6bf3480|3014
+Super Pierrot.mra|0253ff3802a11be2bdcfdf898eb61b7a|2179
 Super Real Mahjong VS (Rev A).mra|2426cb381457244333b70d9a33d2c7dd|2126
 Super Space Invaders '91 (World, revised code, Rev 1).mra|dc9efc3452c027b10fc15042cb30e5c8|2059
 Super Xevious.mra|efc5d1e55163d7cab7e291ce02a1e996|2816
