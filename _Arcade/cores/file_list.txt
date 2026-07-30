@@ -42,7 +42,6 @@ ComputerSpace_Senhor_20260126.rbf
 CongoBongo_Senhor_20260126.rbf
 CosmicGuerilla_Senhor_20260121.rbf
 Cosmic_Senhor_20260126.rbf
-cowboys_Senhor_20260720.rbf
 CrazyBalloon_Senhor_20260121.rbf
 CrazyClimber_Senhor_20260521.rbf
 CrazyKong_Senhor_20260126.rbf
@@ -166,6 +165,7 @@ LadyBug_Senhor_20260204.rbf
 Legionnaire_Senhor_20260715.rbf
 LunarLander_Senhor_20240529.rbf
 magerror_Senhor_20260720.rbf
+moomesa_Senhor_20260730.rbf
 MajorHavoc_Senhor_20260629.rbf
 MarbleMadness2_Senhor_20260730.rbf
 MarioBros_Senhor_20240802.rbf
