@@ -370,6 +370,7 @@ PGM (Polygame Master) System BIOS.mra|1594d596bb34f691f87d407f242025d9|1057
 Phoenix (Amstar, Set 1).mra|0b80e64db059efe9931b2587db978189|2259
 Photo Y2K (ver. 105).mra|f0c09c7d749c65dc511aff85db8764e9|2458
 Pickin'.mra|c40ebe31634c86f0d50e905d057705f0|2089
+Pinball Action.mra|46e61500e3817344c84ba2e6ccc17059|1830
 Pioneer Balloon.mra|35c08b21a355235405998d8683cd8f9b|1918
 Pipi & Bibis - Whoopee!! (Z80 sound cpu, set 1).mra|c6a9273bf01565e693b249f097721fcb|2417
 Pirate Pete.mra|122dc2db035ce1f810410a3542e7e924|2797
