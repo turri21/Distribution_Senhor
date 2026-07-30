@@ -18,7 +18,7 @@
 	<about author="MrX-8B" source="https://github.com/MiSTer-devel/Arcade-ATetris_MiSTer" twitter="@MrX_8B" webpage="https://patreon.com/MrX_8B"></about>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (ccw)</rotation>
+	<rotation>horizontal</rotation>
 	<flip>no</flip>
 
 	<players>2 (simultaneous)</players>
