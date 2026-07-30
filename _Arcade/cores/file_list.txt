@@ -162,6 +162,7 @@ jtwwfss_Senhor_20260506.rbf
 jtyiear_Senhor_20260506.rbf
 Kangaroo_Senhor_20260712.rbf
 KickAndRun_Senhor_20240730.rbf
+Kyugo_Senhor_20260730.rbf
 LadyBug_Senhor_20260204.rbf
 Legionnaire_Senhor_20260715.rbf
 LunarLander_Senhor_20240529.rbf
