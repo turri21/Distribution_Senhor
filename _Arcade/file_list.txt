@@ -1,10 +1,12 @@
 280Z-ZZAP (US).mra|897f479a94a6712ada32b9f7e8ca3759|703469
 4D Warriors (315-5162).mra|f3aa3fe68cb0cff7fcb73764f7f951b2|3167
+99 The Last War.mra|af16ef7b7a4c26168cabd6474ec590e2|3788
 Act-Fancer (World rev 3).mra|3f00523b6d89c975a93465e87dfaf048|5475
 Ah Eikou no Koshien (Japan).mra|590b0b9816637049c4a1ac20d618ed15|2550
 Air Assault (World).mra|794de9ce9881edaddf37439278572ae6|3845
 Air Duel (World, M72 hardware).mra|6db3376e5a00f070ef70a4d7d3cfc796|3144
 Air Gallet (Europe).mra|57cce0b8145c9d11d3eec8b3f3b465fc|1572
+Airwolf.mra|6d784748a10f5a14a1fe0ae16aa38b24|4997
 Alcon Bootleg.mra|358cd033bb4e4ae9c48717594453f097|2225
 Ali Baba and 40 Thieves.mra|a491a580ff843ecaefa130d45e164f5e|2483
 Alien Arena (Stargate upgrade).mra|3604607494b0de072619036ab680b400|4130
@@ -169,6 +171,7 @@ Final Blow (World).mra|6d90c1daac71d70fb496c2f6959fdc06|2814
 Finalizer - Super Transformation (Set 1).mra|5f5864defc2232e3c0095059126bc0cd|2775
 Finalizer - Super Transformation (Set 2) [bl].mra|656e9f7b13916ad0e3a44751e1b4bdca|2759
 Finalizer - Super Transformation (Set 2).mra|3ee251a01ec1ea19a5a97e6de7e5b749|2805
+Flashgal.mra|a9ee479b1f8fe6455a4c32688140ded4|3281
 Flicky (128k Version, 315-5051).mra|860b0d195b88726c597abdc2db608876|2778
 Food Fight (Rev 3).mra|03a20773eaeeb060440dbb668ddd8492|1805
 Football Champ - Euro Football Champ (World).mra|77b217e21aab484a0f56231016c17233|2534
@@ -208,6 +211,7 @@ Gun Force II (US).mra|7d492fb4333e0e6c9c9963bde318df01|4967
 Gunforce - Battle Fire Engulfed Terror Island (World).mra|2a306abd671c2e41d78bebff1fb2edc8|5150
 Guwange (Japan, 1999 624 Master Ver 1655).mra|0a10a0ab94c84ebe5469e480e5d5138b|1760
 Guwange.mra|07cd2689315439b09dfe726cc8ed70d6|1724
+Gyrodine.mra|90886f7cfd19c9438d286b4718e9628f|4210
 Gyruss.mra|8261b55ad9182d5ee028fec662e75d7b|2817
 Hachoo.mra|2b104cb3782a2f411e0ea0d532d8bfcd|3527
 Hammerin' Harry (US, M84 hardware).mra|0b94a08e529ce536a719ad43b5bafaf8|3204
@@ -274,6 +278,7 @@ Kurukuru Fever.mra|7057a49839f833bd85a2f686f849b99b|1423
 Lady Bug.mra|d8f472358ccf8b9658f064db141a6d9d|3195
 Laguna Racer.mra|c40b096fbc108feda1829aa43db73597|699190
 Legend of Hero Tonma (Japan).mra|447833b8031ffcb362c3ca17ea607d8c|3271
+Legend.mra|5649d74e8f59bf7d2fa0c36cf5886371|2996
 Legionnaire (World).mra|293f7f03a675ea0bd26bb26cba405027|5952
 Lethal Thunder (World).mra|268059a8efd9cdf59115c4eb064f9012|6067
 Lifeforce (Japan).mra|3a7ecc32a0999631a1711c86e895a83b|2509
@@ -420,6 +425,7 @@ Reactor.mra|483832a8cebb7cc567959d5e1f89510d|3687
 Red Baron (Revised Hardware).mra|f56b9e3c6d3ed4e698308213613480d0|1508
 Red Baron.mra|85b1987c0bb23ea48ce7acfcdc599fc2|1543
 Regulus (315-5033, Rev A).mra|45b0ab36505df6f6a28a9503ebba8f05|3017
+Repulse.mra|1adb325b22f52a3f89a38bbbae016802|3383
 Rescue.mra|63c65e4d153462a39fc56bab5e31b7a9|2431
 Riddle of Pythagoras (Japan).mra|d696d74e4ebfc1022388c4583c018725|2181
 Risky Challenge.mra|525b428d4cc323678fb25849eca70819|3402
@@ -466,6 +472,7 @@ Solar Fox.mra|09ddca143adff12300270b52c14346d3|2313
 Soldam.mra|49651b46761f80f5a95c53f484f60cbb|3313
 Solitary Fighter (World).mra|9f93c620c8d63f288aed8ecd17da016b|2207
 Solomon's Key.mra|909a23c2cb7c1673ec046acd81339abc|1738
+Son of Phoenix.mra|7c3cec818dd91d14fb18b812f2fb6d81|3824
 SonSon.mra|29b4b913eb305a1d10f1de2b9564ec73|1820
 Sorcer Striker.mra|333ddacf89b7eb3c44bfeb18c4630b79|2763
 Space Chaser.mra|188601613c5999168aa5bba0d6c15c12|1824
@@ -490,6 +497,7 @@ Sprint 2.mra|ee39cabe4ff66a46661fa87752179fef|1536
 Spy Hunter.mra|dd577ed04f36c13f7635b33a5f520d00|3336
 Squash (Gaelco, V.010).mra|8e95f85c8b8fc58f89e4ee01e7da57f6|2612
 Squash.mra|3d6eb94999d59a5c6d2c0f706faced28|2116
+SRD Mission.mra|4fce5f5980141dcdd32bf152d448b914|3235
 Star Guards.mra|c213b8a8865c09be3175f751d7c4e329|1990
 Star Jacker.mra|047a89a0f3c72358a4f785b65fe22124|3093
 Star Soldier - Vanishing Earth.mra|f944e61095e329459b8148ef570ca625|1957
