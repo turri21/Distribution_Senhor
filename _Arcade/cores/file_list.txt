@@ -192,6 +192,7 @@ Pengo_Senhor_20260205.rbf
 PenguinKunWars_Senhor_20240531.rbf
 Performan_Senhor_20260118.rbf
 Phoenix_Senhor_20260205.rbf
+PinballAction_Senhor_20260730.rbf
 pipibibs_Senhor_20250501.rbf
 PlanetProbe_Senhor_20260320.rbf
 Pleiads_Senhor_20260207.rbf
