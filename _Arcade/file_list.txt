@@ -24,6 +24,7 @@ Armed F (Japan).mra|5d088c6ec9d1e573d74bbf189e93c687|2889
 Armed Police Batrider Special Ver. (USA) (Fri Feb 13 1998).mra|2870dd526a36d635e6990c7e2a3ccbfe|6251
 Armored Car.mra|8eaec488ef68f6b57514303e466cae38|2367
 ASO.mra|9aaa8d9304d2a3e6474e38a868179127|3288
+Asterix (FF ver EAD).mra|427ca5286cdb75e65ac9d877cd914577|3622
 Asteroids Deluxe.mra|e88a8d6fcbf28cc552327dce0a41da7b|1997678
 Asteroids.mra|4c310383bca5ecca72fab53c1fa5f27d|671
 Astro Flash (Japan).mra|c4c8b49224f08af7636ff3fa02a8e7f5|3155
