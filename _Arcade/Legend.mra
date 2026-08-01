@@ -9,7 +9,7 @@
 	<rbf>Kyugo</rbf>
 
 	<resolution>15kHz</resolution>
-	<rotation>vertical (cw)</rotation>
+	<rotation>horizontal</rotation>
 	<flip>no</flip>
 
 	<players>2 (alternating)</players>
