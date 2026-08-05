@@ -2,7 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 2/8/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]New Cores: VirtualBoy_Senhor_20260804.rbf[/INFO]
+[INFO]New Cores: AmstradNC_Senhor_20260805.rbf, VirtualBoy_Senhor_20260804.rbf[/INFO]
 [INFO]New Cores: Kyugo_Senhor_20260730.rbf, PinballAction_Senhor_20260730.rbf[/INFO]
 [INFO]New Cores: asterix_Senhor_20260730.rbf, MarbleMadness2_Senhor_20260730.rbf[/INFO]
 [INFO]New Cores: Universal_DoCastle_Senhor_20260730.rbf, Raiden_Senhor_20260729.rbf[/INFO]
