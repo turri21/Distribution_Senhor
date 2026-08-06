@@ -218,6 +218,7 @@ Scramble_Senhor_20260409.rbf
 SDGundamPS_Senhor_20260715.rbf
 SEGASYS1and2_Senhor_20250429.rbf
 SEGASYS1_Senhor_20250913.rbf
+SegaSystem24_Senhor_20260806.rbf
 SegaVICZ80_Senhor_20260118.rbf
 SilverLand_Senhor_20260210.rbf
 SkySkipper_Senhor_20250131.rbf
