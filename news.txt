@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 2/8/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: microbee_Senhor_20260806.rbf[/INFO]
 [INFO]New Cores: SegaSystem24_Senhor_20260806.rbf, Gladiator_Senhor_20260806.rbf[/INFO]
 [INFO]New Cores: AmstradNC_Senhor_20260805.rbf, VirtualBoy_Senhor_20260804.rbf[/INFO]
 [INFO]New Cores: Kyugo_Senhor_20260730.rbf, PinballAction_Senhor_20260730.rbf[/INFO]
