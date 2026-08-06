@@ -193,6 +193,7 @@ Gardia (317-0006).mra|2e7dc860642acf4465594a3ea79600e6|3194
 Gauntlet (rev 14).mra|701359f7af866474e2937df39d98a79d|2329
 Gauntlet II.mra|005a40ff798ed7194d4aeb5352c26e93|2800
 Gemini Wing.mra|194d7f1a970b3639d6c5a94af14cad14|2568
+Gladiator (US).mra|247210bd120632b4cf2b6d16f1682fe7|3321
 Gogetsuji Legends (US, Ver. 95.06.20).mra|8c99649424ec97a58a9dac23d960ae62|2764
 Gold Medalist (Set 1, Alpha68k II PCB).mra|5ecb636c2bd8e983250b9bed242b713b|2913
 Gorf.mra|a63de6527aa26c72ddc2d11d878c5ca2|2402
