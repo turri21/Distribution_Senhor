@@ -76,6 +76,7 @@ Galivan_Senhor_20240526.rbf
 Gaplus_Senhor_20250120.rbf
 Garegga_Senhor_20250302.rbf
 Gauntlet_Senhor_20250428.rbf
+Gladiator_Senhor_20260806.rbf
 GulfWarII_Senhor_20260704.rbf
 Gyruss_Senhor_20260204.rbf
 HeatedBarrel_Senhor_20260715.rbf
