@@ -333,7 +333,7 @@ Mr. Do's Castle.mra|d2d25bf6ff736429dbfd5d880ea83b72|2148
 Mr. Do's Wild Ride.mra|d3d6213842103beb25e2554e758b910b|2162
 Mr. Goemon.mra|4beb7afca9b832af910e339e2b60fc2f|1734
 Mr. HELI no Daibouken (Japan).mra|da1ab963c33364694911bda20cf75ed6|3867
-Mr. Jong.mra|112ed10d52f3b7c2016253e88463d4a5|1557
+Mr. Jong.mra|2f3692d58b8101ab58ad9760ebee02e6|1591
 Mr. TNT.mra|9371b6a136a57dbc8b969341707910f0|2275
 Ms. Pac-Man.mra|ab2f026396be85408f177759f36de59e|2305
 My Hero (US, not Encrypted).mra|0a28edbd776d315c1262af9b5b88ab0d|2887
