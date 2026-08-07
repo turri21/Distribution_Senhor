@@ -10,7 +10,7 @@
 [INFO]New Cores: Universal_DoCastle_Senhor_20260730.rbf, Raiden_Senhor_20260729.rbf[/INFO]
 [INFO]New Cores: MacLC_Senhor_20260728.rbf, JR100_Senhor_20260725.rbf[/INFO]
 [INFO]New Cores: Aleck64_Senhor_20260720.rbf, magerror_Senhor_20260720.rbf[/INFO]
-[INFO]Updates: X68000_Senhor_20260804.rbf[/INFO]
+[INFO]Updates: MacLC_Senhor_20260807.rbf, X68000_Senhor_20260804.rbf[/INFO]
 [INFO]Updates: Minimig030_Senhor_20260803.rbf, MacLC_Senhor_20260801.rbf[/INFO]
 [INFO]Updates: Darius_Senhor_20260730.rbf, moomesa_Senhor_20260730.rbf[/INFO]
 [INFO]Updates: Aleck64_Senhor_20260729.rbf, N64_Senhor_20260728.rbf[/INFO]
