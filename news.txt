@@ -6,7 +6,7 @@
 [INFO]New Cores: microbee_Senhor_20260806.rbf[/INFO]
 [INFO]New Cores: SegaSystem24_Senhor_20260806.rbf, Gladiator_Senhor_20260806.rbf[/INFO]
 [INFO]New Cores: AmstradNC_Senhor_20260805.rbf, VirtualBoy_Senhor_20260804.rbf[/INFO]
-[INFO]Updates: C128[/INFO]
+[INFO]Updates: C128_Senhor_20260810.rbf[/INFO]
 [INFO]Updates: PSX_Senhor_20260809.rbf, ZX-Spectrum_Senhor_20260809.rbf[/INFO]
 [INFO]Updates: MacLC_Senhor_20260807.rbf, X68000_Senhor_20260804.rbf[/INFO]
 [INFO]Updates: Minimig030_Senhor_20260803.rbf, MacLC_Senhor_20260801.rbf[/INFO]
