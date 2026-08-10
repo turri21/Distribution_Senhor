@@ -1,6 +1,6 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New update_senhor.sh script v1.99[/INFO]
-[INFO]New MiSTer binary - 2/8/2026[/INFO]
+[INFO]New MiSTer binary - 10/8/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Godzilla_Senhor_20260809.rbf[/INFO]
 [INFO]New Cores: microbee_Senhor_20260806.rbf[/INFO]
