@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 10/8/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: SDGundamRainbow_Senhor_20260811.rbf[/INFO]
 [INFO]New Cores: TVC_Senhor_20260811.rbf, Raiden2_Senhor_20260811.rbf[/INFO]
 [INFO]New Cores: Godzilla_Senhor_20260809.rbf, microbee_Senhor_20260806.rbf[/INFO]
 [INFO]New Cores: SegaSystem24_Senhor_20260806.rbf, Gladiator_Senhor_20260806.rbf[/INFO]
