@@ -455,6 +455,7 @@ Saturn (Zilec).mra|558a77099c580468c3e67af815d1668e|2342
 Scooter Shooter.mra|c32fea73ebdd7e3dae789aecff82ce4e|2348
 Scramble (Stern, Set 1).mra|19acea7e064208ab725295b2590dd191|2608
 SD Gundam Psycho Salamander no Kyoui.mra|342698fd841d4092a37ee6c22bb62317|4063
+SD Gundam Sangokushi Rainbow Tairiku Senki (Japan).mra|da95ea8860ffb2a5c629f23b39c16402|4202
 Sea Wolf (Set 1).mra|9d82c403f007d75290dc5d63f722df83|204289
 Sea Wolf II.mra|f47691e8cb4fc6eaa513d8555b16331a|2052828
 Sega Ninja (315-5102).mra|775fc031a3582c44c13b634a54d649b2|2956
