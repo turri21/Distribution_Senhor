@@ -420,6 +420,8 @@ R-Type Leo (World).mra|ef9b632f177f70fb27063ca1d9f535c7|6350
 Radar Scope (rev. D).mra|0098ca477f15777365036f6c022653c4|2739
 Rafflesia (315-5162).mra|d65e1f2ebe6189081b8209c28ed4a49d|3252
 Raiden (World).mra|00d4f11dc2c53627df181338cf111c27|6116
+Raiden DX.mra|1d2e7e23dc6a62234fc2464bfd53c07d|5451
+Raiden II.mra|21eeee36e18b2a50a96d55cf2378859b|5451
 Raiders5.mra|57777fb3b1918a91062894b26f869784|1930
 Rally Bike - Dash Yarou.mra|7cf441dfb32a248bbbfdac9fdaba610a|2552
 Rally-X (32k Ver).mra|cf95e4fbd6948079d29169cf759b6ed6|35931
