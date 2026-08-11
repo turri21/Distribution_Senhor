@@ -41,7 +41,7 @@ Lynx48_Senhor_20251216.rbf
 MC1201_Senhor_20231213.rbf
 MSX1-MSX2_Senhor_20250509.rbf
 MSX_Senhor_20260217.rbf
-MacLC_Senhor_20260807.rbf
+MacLC_Senhor_20260811.rbf
 MacPlus_Senhor_20260421.rbf
 microbee_Senhor_20260806.rbf
 Minimig030_Senhor_20260803.rbf
