@@ -30,6 +30,7 @@ Bosconian_Senhor_20260124.rbf
 Breakout_Senhor_20250124.rbf
 BubSysROM_Senhor_20250107.rbf
 BubSys_Senhor_20260504.rbf
+Bucky_Senhor_20260812.rbf
 BurgerTime_Senhor_20260125.rbf
 BurningRubber_Senhor_20260428.rbf
 CanyonBomber_Senhor_20260228.rbf
