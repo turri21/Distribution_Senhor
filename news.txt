@@ -7,6 +7,7 @@
 [INFO]New Cores: Godzilla_Senhor_20260809.rbf, microbee_Senhor_20260806.rbf[/INFO]
 [INFO]New Cores: SegaSystem24_Senhor_20260806.rbf, Gladiator_Senhor_20260806.rbf[/INFO]
 [INFO]New Cores: AmstradNC_Senhor_20260805.rbf, VirtualBoy_Senhor_20260804.rbf[/INFO]
+[INFO]Updates: VirtualBoy_Senhor_20260812.rbf[/INFO]
 [INFO]Updates: MultiComp_Senhor_20260812.rbf, GameAndWatch_Senhor_20260812.rbf[/INFO]
 [INFO]Updates: BasicMasterJr_Senhor_20260812.rbf, FM-7_Senhor_20260811.rbf[/INFO]
 [INFO]Updates: MacLC_Senhor_20260811.rbf, C128_Senhor_20260810.rbf[/INFO]
