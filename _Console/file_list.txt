@@ -17,7 +17,7 @@ ColecoVision_Senhor_20240502.rbf
 CreatiVision_Senhor_20260325.rbf
 Gamate_Senhor_20250213.rbf
 GameGear_Senhor_20250811.mgl
-GameAndWatch_Senhor_20250306.rbf
+GameAndWatch_Senhor_20260812.rbf
 Gameboy2P_Senhor_20250306.rbf
 GameboyColor_Senhor_20250811.mgl
 Gameboy_Senhor_20260415.rbf
