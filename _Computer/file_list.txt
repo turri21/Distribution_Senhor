@@ -12,7 +12,7 @@ Apple-II_Senhor_20250705.rbf
 Apple-Lisa_Senhor_20260724.rbf
 Aquarius_Senhor_20260104.rbf
 Archie_Senhor_20260104.rbf
-Atari800_Senhor_20260423.rbf
+Atari800_Senhor_20260813.rbf
 AtariST_Senhor_20260108.rbf
 BBCMicro_Senhor_20260105.rbf
 BK0011M_Senhor_20260102.rbf
