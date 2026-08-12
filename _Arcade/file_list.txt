@@ -269,6 +269,7 @@ Kid Niki - Radical Ninja (W).mra|fd44c6d87b97161bcddde1d467b1e045|4229
 Kid no Hore Hore Daisakusen.mra|c375364fb6c9ec5beb34f4af69b44ffa|2872
 King and Balloon (US).mra|b130e94d559bda57693b7399a5de3f72|2299
 Kingdom Grandprix.mra|fde0c7d99ad7adf379b4c707da43c4ce|2828
+Klax.mra|6fbeee07022516419d80776260cee4ab|9950
 Knights of Valour 2 (ver. 107).mra|74d1f0771f6ccefdcb10f9c10d0ea24f|2765
 Knights of Valour Super Heroes (ver. 104, CN).mra|c87984a8fe0d546a741ffb4d67951acd|2724
 Konek Gorbunok.mra|16a76c4397caede30680676b2b0374be|1478
