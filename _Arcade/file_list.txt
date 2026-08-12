@@ -71,6 +71,7 @@ Brain.mra|a91cb587e7205b66b73474f422cbb680|2224
 Break Thru (World).mra|42bb51e104006ef97f7c24584222b38d|45928
 Breakout (TTL).mra|649745b79d2fc5c7fb3e5de393f8c97a|1273
 Bubbles.mra|5f171c6c75aab7337db34b19bcaaf0fd|4096
+Bucky O'Hare.mra|8987215a754876c3786e030112264253|3005
 Bull Fight (315-5056).mra|16a99d6a22186bb625bd0defc24d41dc|2827
 Burger Time (Set 1).mra|e745a5849ad492160904e4726ecfa4db|2807
 Burnin' Rubber.mra|965c00df5587e2dc51a462497ee714dc|2461
