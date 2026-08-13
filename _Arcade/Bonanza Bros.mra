@@ -6,7 +6,7 @@
   <setname>bnzabros</setname>
   <year>1990</year>
   <manufacturer>Sega</manufacturer>
-  <rbf>Arcade-SegaSystem24</rbf>
+  <rbf>SegaSystem24</rbf>
   <resolution>15kHz</resolution>
   <rotation>horizontal</rotation>
   <joystick>8-way</joystick>

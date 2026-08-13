@@ -61,7 +61,7 @@ Blue Shark.mra|7d3b3d44618516ef8750773414c3bd59|825681
 Bomb Jack.mra|3a24c7e7aa38beb3bb93645a3fb4f949|2449
 Bomber Man - Dyna Blaster.mra|4c295c893de3d89994735ccb483fdfdd|3653
 Bomber Man World - New Dyna Blaster - Global Quest.mra|e4c2ab2d79739eabebe99b3cb9719610|3639
-Bonanza Bros (US, Floppy DS3-5000-07d- Based).mra|4693e9c8cbe20ca088dfc8d1824fde3e|1645
+Bonanza Bros.mra|d761a9cc517e4bd343a987823ba85cf6|1722
 Boogie Wings (Euro v1.5, 92.12.07).mra|4aac42a3e18a6ad4d98b20e9b513da7f|3586
 Boot Hill.mra|bb7e48529c7c5d9e18894bca7f276360|504387
 Bosconian - Star Destroyer (new version).mra|d402ba70891cf5aecb8406034bbdc4bb|3425
@@ -102,7 +102,7 @@ Cosmic Guerilla.mra|cc910024a6747e4768559fd673d6316e|884919
 Cosmo Police Galivan (12-26-1985).mra|51e595242ac4ae403ed81eecc81d4849|2699
 Cosmo.mra|4ad024327a7e170784745d6c334f1f73|1388539
 Country Club.mra|4445be3c106107856ddf3ba9d141847c|3147
-Crack Down (World, Floppy Based, FD1094 317-0058-04c).mra|2f40907293674b31d7281c36b1dc00ae|1078
+Crack Down.mra|12f31a21e13165d3b38781d267b2fd0a|1155
 Crater Raider.mra|f6bee4202ccf4b82ca5bea8ef61d5dd4|2560
 Crazy Balloon.mra|36fb1600d44a4b265815175e7643eb0a|1787
 Crazy Blocks.mra|86942bc9591daea99c719ce8866727dd|1598
