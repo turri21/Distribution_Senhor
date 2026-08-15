@@ -8,7 +8,7 @@
 [INFO]New Cores: Godzilla_Senhor_20260809.rbf, microbee_Senhor_20260806.rbf[/INFO]
 [INFO]New Cores: SegaSystem24_Senhor_20260806.rbf, Gladiator_Senhor_20260806.rbf[/INFO]
 [INFO]New Cores: AmstradNC_Senhor_20260805.rbf, VirtualBoy_Senhor_20260804.rbf[/INFO]
-[INFO]Updates: IremM72_Senhor_20260814.rbf[/INFO]
+[INFO]Updates: SMS_Senhor_20260815.rbf, IremM72_Senhor_20260814.rbf[/INFO]
 [INFO]Updates: SNES_Senhor_20260814.rbf, FM-7_Senhor_20260814.rbf[/INFO]
 [INFO]Updates: SegaSystem24_Senhor_20260813.rbf, Jaguar_Senhor_20260813.rbf[/INFO]
 [INFO]Updates: Atari800_Senhor_20260813.rbf, VirtualBoy_Senhor_20260812.rbf[/INFO]
