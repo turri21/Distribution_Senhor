@@ -153,7 +153,7 @@ Eeek! (Pac-Man Conversion).mra|c33a28105ede518dc05cecc1a9899631|1917
 Eggor.mra|7c4393d524de449b4e4c254df5c52e2f|2806
 Elevator Action Bootleg.mra|4cb4403ce07178704701ad3b6d3a3d7a|2928
 Eleven Beat.mra|6cee191e436787ccc57bbb5773f092e7|1949
-Empire Strikes Back.mra|6425d6c8e130d41be113d4e1ff5cd11f|4394
+Empire Strikes Back.mra|185b5d656a310b5cefa56044b838590c|4275
 empirecity.mra|65861662fe46c89e1cb5af53d1cd65c3|11125
 ESP Ra.De. (World 1998 422 International Ver).mra|5fe6dc199b7cb344966a540a749f76e4|1743
 Espgaluda (2003.10.15 Master Ver).mra|d7d5a49d04f7f03c5099c13a69078952|3934
@@ -509,7 +509,7 @@ Star Guards.mra|c213b8a8865c09be3175f751d7c4e329|1990
 Star Jacker.mra|047a89a0f3c72358a4f785b65fe22124|3093
 Star Soldier - Vanishing Earth.mra|f944e61095e329459b8148ef570ca625|1957
 Star Trek.mra|21b4aecc81c17ea52616e7e1cd4c0066|3371
-Star Wars (Rev 2).mra|5146e7cc2f7e57e7e1063d8c810dcee2|1848
+Star Wars (Rev 2).mra|0795af266ea8b5b4a12472eb147f7d45|2030
 StarForce.mra|b1000b5b02373e86840af04e65a19378|3349
 Stargate.mra|31599d87b18ee985a32e337c5c4e8289|4157
 Strategy X.mra|979c4e73650020d1c70f21e9939be61b|2038

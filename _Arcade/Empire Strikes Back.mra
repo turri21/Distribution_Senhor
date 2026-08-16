@@ -13,15 +13,10 @@
 
 	<setname>esb</setname>
 	<parent>starwars</parent>
-	<mameversion>0218</mameversion>
+	<mameversion>0228</mameversion>
 	<rbf>StarWars</rbf>
-	<about>Atari, 1985.  Sister hardware to Star Wars 1983.  Same AVG state
-	       PROM (136021-105.1l, CRC 82fc3eb2), same mathbox PROM interface,
-	       same audio chain — plus a slapstic chip (137412-101) for copy
-	       protection on the $8000-$9FFF page.  Snowspeeder + AT-AT walkers
-	       on Hoth, Asteroid field, Death Star trench.</about>
+	<about author="Videodr0me" webpage="https://github.com/Videodr0me/Arcade-StarWars_MiSTer">Atari The Empire Strikes Back with Slapstic protection, a cycle-accurate AVG, mathbox, flight-yoke controls, cabinet audio, and a high-resolution vector framebuffer.</about>
 
-	<resolution>31kHz</resolution>
 	<rotation>horizontal</rotation>
 	<flip></flip>
 
@@ -53,7 +48,7 @@
 	       0x1D000-0x1DFFF  pad
 	       0x1E000-0x25FFF  audio ROMs         (2 x 16KB = 32KB)
 	     Total stream size: ~152 KB.  Requires dn_addr width >= 18 bits
-	     (already supported -- starwars.sv routes dn_addr as 25 bits). -->
+	     (already supported - starwars.sv routes dn_addr as 25 bits). -->
 	<rom index="0" md5="none" type="merged|nonmerged" zip="esb.zip">
 		<!-- Main CPU ROMs (4 x 16KB = 64KB) at 0x00000-0x0FFFF.
 		     CPU sees default bank2 view: file low halves map to
