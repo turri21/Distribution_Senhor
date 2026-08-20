@@ -54,6 +54,7 @@ Darius2NinjaWarriors_Senhor_20260524.rbf
 Darius_Senhor_20260730.rbf
 Deco16_Senhor_20260617.rbf
 Defender_Senhor_20260228.rbf
+DenjinMakai_Senhor_20260820.rbf
 demonwld_Senhor_20250502.rbf
 Destroyer_Senhor_20260720.rbf
 DigDug_Senhor_20260126.rbf
