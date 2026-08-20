@@ -122,6 +122,7 @@ Defender (Red Label).mra|ffd7e6453bc14992e6410703bd7deec0|2485
 Demolition Derby (MCR-3 Mono Board Version).mra|ec832993337b2dca06d078a75420a03d|2367
 Demon Front (ver. 105).mra|11f75f6b4bda08f51b17e09db3ef75fc|2926
 Demon's World - Horror Story (Set 3).mra|9c0c84b6db96032b779eb3bab0ea7476|2714
+Denjin Makai (set 1).mra|7f53a64a024ec8a473652c675dfdbdc7|4645
 Destroyer (Cidelsa, 1980).mra|36dcf028161d94b546f6cf03dc3c8f04|1222
 Devil Fish (Galaxian Hardware).mra|765c60202287c79e4813e8b95f6ea779|1908
 Devil Zone.mra|bf7a21e459ee1232539c40c5aba2f70c|1515138
