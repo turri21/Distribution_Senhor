@@ -2,5 +2,5 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 13/8/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]New Cores: Toobin_Senhor_20260819.rbf[/INFO]
+[INFO]New Cores: DenjinMakai_Senhor_20260820.rbf, Toobin_Senhor_20260819.rbf[/INFO]
 [INFO]Updates: StarWars_Senhor_20260816.rbf, N64_Senhor_20260815.rbf[/INFO]
