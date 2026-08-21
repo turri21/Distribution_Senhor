@@ -1,5 +1,6 @@
 280Z-ZZAP (US).mra|897f479a94a6712ada32b9f7e8ca3759|703469
 4D Warriors (315-5162).mra|f3aa3fe68cb0cff7fcb73764f7f951b2|3167
+720 Degrees (rev 4).mra|28301575cec4ce3842011b50c11ac535|8273
 Act-Fancer (World rev 3).mra|3f00523b6d89c975a93465e87dfaf048|5475
 Ah Eikou no Koshien (Japan).mra|590b0b9816637049c4a1ac20d618ed15|2550
 Air Assault (World).mra|794de9ce9881edaddf37439278572ae6|3845
@@ -15,6 +16,7 @@ Amazing Maze.mra|b43dc793ac8ae015e08f0d89959fddbe|133527
 American Soccer.mra|5aebe6538d9a181138960b1ba29ddc82|2325
 Amidar (Scramble).mra|bee70136b9bef3af4b9099c143ecd078|2482
 Anteater.mra|469ce72969dc36c17dabb5863394e693|2288
+APB - All Points Bulletin (rev 7).mra|5aee38e1303c29ba187b572def922273|7172
 Argus no senshi (Japan).mra|1ea956f48472a017965fe004b8a314ec|2207
 Arkanoid (JP).mra|29d6a40e5a922045a2d32f2f7822bab3|2569
 Arkanoid (Unl. lives) [hb].mra|2f16222b779bdb9f32ff31997115952a|2647
@@ -84,6 +86,7 @@ Cavelon.mra|7def2969bcfc41f7ba6eee714d2b6e14|1908
 Caveman Ninja (World ver 4).mra|5244050759938f02b7a36e1e03af7fab|6783
 Centipede (Rev 4).mra|2857a5b6415f8844fad454e4d388ea1d|1944
 Chameleon.mra|e4410d2f4057ce065436a7e9de5aa06a|2572
+Championship Sprint (rev 3).mra|0848c5ca145f8731bf9a20f2d2706eca|4604
 China Gate (US).mra|7e23415f53f3b83713d7ceff23563ee6|4083
 Choplifter (unprotected).mra|086bb65a270cfac61e1fe8ef6b5702e5|2370
 Chouji Meikyuu Legion (Japan ver 1.05, set 2).mra|5b97135f35535e9dd3159d40db3861dc|3010
@@ -371,6 +374,7 @@ Pac-Man Club- Club Lambada (AR).mra|dee7c2b900beb2dfb3a284840c94231a|2237
 Pac-Man Plus.mra|57de3ddd181fd6388b525b1c0bf7ac6a|2227
 Pac-Manic Miner.mra|ee5a5e24d5500391081622c1f1f78a8f|154366
 Paddle Mania.mra|ca4ce44e8f721f314db333343d5f5b3c|3255
+Paperboy (rev 3).mra|4ec467de0bafcfe3f0d7a8ce7996cb64|7173
 Pengo (Set 1, Rev C).mra|5c76a0043bc2ec694bcce8194beb5c29|1805
 Penguin-Kun Wars.mra|bb83badf5cee9d1ccc16a2ab396e43df|1132
 Pepper II.mra|495638adc1b1d2f23ec3b155a6d48d3f|1718
@@ -527,6 +531,7 @@ Super Pac-Man.mra|955f0f85bd05881e5e7ffd9fd6bf3480|3014
 Super Pierrot.mra|0253ff3802a11be2bdcfdf898eb61b7a|2179
 Super Real Mahjong VS (Rev A).mra|2426cb381457244333b70d9a33d2c7dd|2126
 Super Space Invaders '91 (World, revised code, Rev 1).mra|dc9efc3452c027b10fc15042cb30e5c8|2059
+Super Sprint (rev 4).mra|e2cf59d4a7addd0fa5c9e6a688f68d96|4844
 Super Xevious.mra|efc5d1e55163d7cab7e291ce02a1e996|2816
 Super Zaxxon (315-5013).mra|52c540ce13259796679b91970a3c36eb|2403650
 Superior Soldiers (US).mra|f24eb79fa0612ed98efe5f949297f467|5938
