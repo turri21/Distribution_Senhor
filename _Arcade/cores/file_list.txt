@@ -232,6 +232,7 @@ SilverLand_Senhor_20260210.rbf
 SkySkipper_Senhor_20250131.rbf
 SkySmasher_Senhor_20260609.rbf
 SlapFight_Senhor_20260423.rbf
+SMS_Senhor_20260822.rbf
 SNK6502_Senhor_20260502.rbf
 SNK68_Senhor_20250510.rbf
 SNK_TripleZ80_Senhor_20260119.rbf
