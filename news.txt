@@ -2,7 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 13/8/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]New Cores: ts2068_Senhor_20260821.rbf[/INFO]
+[INFO]New Cores: Arabian_Senhor_20260823.rbf, ts2068_Senhor_20260821.rbf[/INFO]
 [INFO]New Cores: DenjinMakai_Senhor_20260820.rbf, Toobin_Senhor_20260819.rbf[/INFO]
 [INFO]Updates: Apple-II_Senhor_20260822.rbf[/INFO]
 [INFO]Updates: SMS_Senhor_20260822.rbf, PSX_Senhor_20260822.rbf[/INFO]
