@@ -17,6 +17,7 @@ American Soccer.mra|5aebe6538d9a181138960b1ba29ddc82|2325
 Amidar (Scramble).mra|bee70136b9bef3af4b9099c143ecd078|2482
 Anteater.mra|469ce72969dc36c17dabb5863394e693|2288
 APB - All Points Bulletin (rev 7).mra|5aee38e1303c29ba187b572def922273|7172
+Arabian.mra|ecf59a9e4eab518d537d2b349554d7e0|3587
 Argus no senshi (Japan).mra|1ea956f48472a017965fe004b8a314ec|2207
 Arkanoid (JP).mra|29d6a40e5a922045a2d32f2f7822bab3|2569
 Arkanoid (Unl. lives) [hb].mra|2f16222b779bdb9f32ff31997115952a|2647
