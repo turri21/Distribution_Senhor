@@ -226,6 +226,7 @@ Hachoo.mra|2b104cb3782a2f411e0ea0d532d8bfcd|3527
 Hammerin' Harry (US, M84 hardware).mra|0b94a08e529ce536a719ad43b5bafaf8|3204
 Hanabi de Doon! - Don-chan Puzzle.mra|4b328146dd1fb02a897be4776a646408|1448
 Hang On Jr.mra|1443ef733545a0081846188f52ef6d12|2003
+Hard Dunk (World).mra|e8a165db54434a6b08b6104c6f29624e|2333
 Hard Hat.mra|e388369415bb746b4accc90a809dc47a|1652
 Heated Barrel (World version 3).mra|d4ff886912658b6f747be308733789a0|4199
 Heavy Metal (315-5135).mra|043ce30ec179720aff3bd9552fdf02b2|2862
@@ -366,6 +367,7 @@ Operation Wolf (World, rev 2, set 1).mra|93aa635c081dd70d501c9bc981ecb051|5085
 Orbitron.mra|529a4f4e729bd510d3b618e4fcdf1375|2165
 Oriental Legend (ver. 126).mra|c0a8fe23561705249d666d0b7e4aa784|2293
 Out Zone.mra|bc4cd0aa8dbc821ea90fd22f6b154a4e|2556
+OutRunners (World).mra|fba54167c00d6fd7421cfcd58f59f41a|2647
 P-47 - The Freedom Fighter (Japan).mra|b1abc8477aa75f38308d7983aa40bf04|3592
 P.O.W. - Prisoners of War (US Version 1).mra|59e053a0cd632faf7d2b61cd48f159ae|3661
 Pac & Pal.mra|80e5f785afad8919983a1c3a8c2d0f3d|3345
@@ -511,6 +513,7 @@ Spy Hunter.mra|dd577ed04f36c13f7635b33a5f520d00|3336
 Squash (Gaelco, V.010).mra|8e95f85c8b8fc58f89e4ee01e7da57f6|2612
 Squash.mra|3d6eb94999d59a5c6d2c0f706faced28|2116
 SRD Mission.mra|4fce5f5980141dcdd32bf152d448b914|3235
+Stadium Cross (World).mra|b38801fad83285eae99a32c8015d08ec|2716
 Star Guards.mra|c213b8a8865c09be3175f751d7c4e329|1990
 Star Jacker.mra|047a89a0f3c72358a4f785b65fe22124|3093
 Star Soldier - Vanishing Earth.mra|f944e61095e329459b8148ef570ca625|1957
@@ -576,6 +579,7 @@ Time Pilot.mra|b043cfad839151e5cd990ddc333a6cc9|2293
 Time Soldiers (US Rev 3).mra|ed8daeb506eb0fcc1d93ff530937cd88|3317
 Time Tunnel.mra|06eddca467a55c5c00ee83a41f125f43|2476
 Tip Top (3 board stack).mra|08b36d2b50a2d33b6dc2799b7d2f468a|2018
+Title Fight (World).mra|de1b1c0f982cbf68c5bad324f2cecc5c|2362
 TNKIII.mra|4a24648e418c816cf738c00667dcd60e|3116
 Toki no Senshi - Chrono Soldier.mra|73704da76696afbd801febaf4164b697|2187
 Tokushu Butai Jackal (JP).mra|2ac5d1c2e6eb5d66982225f80aaa7fd9|2560
