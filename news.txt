@@ -1,6 +1,6 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New update_senhor.sh script v1.99[/INFO]
-[INFO]New MiSTer binary - 13/8/2026[/INFO]
+[INFO]New MiSTer binary - 27/8/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: SegaSystem32Multi_Senhor_20260826.rbf[/INFO]
 [INFO]New Cores: jtriders_Senhor_20260826.rbf, NeoGeoPocketColor_Senhor_20260826.rbf[/INFO]
