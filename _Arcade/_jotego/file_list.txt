@@ -91,7 +91,7 @@ Ghosts'n Goblins (World set 1).mra|f38da625e63dc106e909e250d1259ce1|4445
 Ghouls'n Ghosts (World).mra|6d120839b3044613545d3ab3aab70faa|5183
 Giga Wing (USA 990222).mra|260006f741f4c87f94dc702bb8ae1ff7|3875
 Golden Axe (set 6, US) (8751 317-123A).mra|0309af2bf5e80494c79592e6636db215|5717
-Golfing Greats (World, version L).mra|e3bb293b13e184be224c89bcc2953af6|4834
+Golfing Greats (World, version L).mra|dcaad2172db7f8eec2d2f3bbf76e5ebd|4684
 Gridiron Fight (World).mra|e2e71f4b201b05598bd4ef49bcacb6f8|3820
 Gulun.Pa! (Japan 931220 L) (prototype).mra|5aad07d9634355214def525e04550004|3567
 Gun.Smoke (World, 1985-11-15).mra|89fda5f4b23b1b87b3e383b2cea0a059|5562
@@ -115,7 +115,7 @@ Knights of the Round (World 911127).mra|06836ccbdc32954dbba1d2c5eded3207|4061
 Konami's Ping-Pong.mra|ec0944412666689259f18784a246e30d|2970
 Laser Ghost (World) (FD1094 317-0166).mra|3279ede23ec066d111fb631c6afed590|5143
 Legendary Wings (US, rev. C).mra|5774f6d00d55a531a51b619c8c78f6e8|4455
-Lightning Fighters (World).mra|56e23b058f253ffc20f29d2157750470|4080
+Lightning Fighters (World).mra|dd96a2cc2c4c3e061860a98423557886|3930
 M.I.A. - Missing in Action (version T).mra|e7dad92b06719142a40af09a83aee344|4670
 Magic Sword Heroic Fantasy (World 900725).mra|249b3a4a966bb11b05ea30e69141840f|4030
 Magical Pumpkin Puroland de Daibouken (Japan 960712).mra|920a7f794008ebaeb9e9cb276eb51631|4382
@@ -213,7 +213,7 @@ Super Street Fighter II Turbo (World 940223).mra|643247c8420e4ede0b2ce58a157ca26
 Surprise Attack (World ver. K).mra|2ad3a7deeeaa010b7fc41ea14c1f7368|3752
 Tank Force (US, 2 Players).mra|475d4751d5ea9f2d7914c01ff48d3e08|4190
 Teenage Mutant Ninja Turtles (World 4 Players, version X).mra|33343040a3e1201852ff50d50ecd6c3e|4570
-Teenage Mutant Ninja Turtles Turtles in Time (4 Players ver UAA).mra|6a49e28bd08f96ccc60e4638e556a66e|4050
+Teenage Mutant Ninja Turtles Turtles in Time (4 Players ver UAA).mra|6341b77e191ce92c230777e77f0af516|3900
 Tehkan World Cup (set 1).mra|451ec57a0bce9ed425fcaba17498b271|3819
 Tenchi wo Kurau II Sekiheki no Tatakai (CPS Changer, Japan 921031).mra|500480af2f18e514add1f00f426c3197|4163
 Tetris (Set 4, Japan, S16A) [FD1094 317-0093].mra|4f48c520bebfc6a3e89141cd96961717|4593

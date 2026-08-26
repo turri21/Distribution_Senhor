@@ -68,9 +68,6 @@
         <!-- z-tilemap - starts at 0x690000 -->
         <!-- Total 0x690000 bytes - 6720 kBytes -->
     </rom>
-    <rom index="17" zip="jtbeta.zip" md5="None" asm_md5="64bf6f32556d237ec04d22062b462fde">
-        <part name="beta.bin" crc="84dbdb6d"/>
-    </rom>
     <rom index="2">
         <part>
 03 CC FC 33 90 63 55 41 41 00 00 00 00 01 01 01
