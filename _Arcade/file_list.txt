@@ -521,6 +521,7 @@ Stargate.mra|31599d87b18ee985a32e337c5c4e8289|4157
 Strategy X.mra|979c4e73650020d1c70f21e9939be61b|2038
 Street Smart (US Version 2).mra|8f6225eefbedb28138ab9c6e04d73c4f|2750
 Subs.mra|309e8ed8fe8e08a587e4664c5d3721a3|288510
+Sunset Riders (4 Players ver EAC).mra|737d9e14ea6b7c3832b4069bff26ad8c|3920
 Super Bagman.mra|c8d1138e89819416db1200316f98f93e|2945
 Super Breakout (Rev 04).mra|9866582e8d1e8633faa10b5d71585a73|1381
 Super Casino.mra|427b34306822c6c57ae364a4b790e751|1625
