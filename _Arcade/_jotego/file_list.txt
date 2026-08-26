@@ -200,7 +200,7 @@ Street Fighter Zero (CPS Changer, Japan 951020).mra|a0587345a8a4fa4f5eed1f3c6e78
 Street Fighter Zero 2 Alpha (Asia 960826).mra|157b59352357e11e43d3dbcd702fad29|4425
 Strider (USA, B-Board 89624B-2).mra|590d0ab6c728382a34ae0ea870dcfe9c|4526
 Sukeban Jansi Ryuko (set 2, System 16B, FD1089B 317-5021).mra|086f52ab1db50227c7697a8e0f1a617a|6507
-Sunset Riders (4 Players ver EAC).mra|809b296c50ffeb96e49dfe526a952962|3987
+Sunset Riders (4 Players ver EAC).mra|737d9e14ea6b7c3832b4069bff26ad8c|3920
 Super Basketball (version I, encrypted).mra|569f704e366af88e3b0b41a70acf1f89|3975
 Super Contra (set 1).mra|2a355fee7a77c33345b15ee03a9eff2c|6436
 Super Gem Fighter Mini Mix (USA 970904).mra|9d56d046c0074e180a0aa4aec960daf5|4319
