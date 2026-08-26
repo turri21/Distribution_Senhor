@@ -141,7 +141,7 @@ jtpang_Senhor_20260412.rbf
 jtparoda_Senhor_20260407.rbf
 jtpinpon_Senhor_20260505.rbf
 jtrastan_Senhor_20260505.rbf
-jtriders_Senhor_20260505b.rbf
+jtriders_Senhor_20260826.rbf
 jtroadf_Senhor_20260506.rbf
 jtroc_Senhor_20260506.rbf
 jtrumble_Senhor_20260506.rbf
