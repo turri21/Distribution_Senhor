@@ -133,6 +133,7 @@ jtlabrun_Senhor_20260407.rbf
 jtmidres_Senhor_20260407.rbf
 jtmikie_Senhor_20260407.rbf
 jtmx5k_Senhor_20260407.rbf
+jtngpc_Senhor_20260826.rbf
 jtngp_Senhor_20260407.rbf
 jtninja_Senhor_20260412.rbf
 jtoutrun_Senhor_20260412.rbf
