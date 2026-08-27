@@ -169,6 +169,7 @@ jtwwfss_Senhor_20260506.rbf
 jtyiear_Senhor_20260506.rbf
 Kangaroo_Senhor_20260712.rbf
 KickAndRun_Senhor_20240730.rbf
+KillerInstinct_Senhor_20260827.rbf
 Klax_Senhor_20260812.rbf
 Kyugo_Senhor_20260730.rbf
 LadyBug_Senhor_20260204.rbf
