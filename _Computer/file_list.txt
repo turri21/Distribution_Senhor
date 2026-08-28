@@ -83,7 +83,7 @@ VIC20_Senhor_20260107.rbf
 VT52_Senhor_20260112.rbf
 Vector-06C_Senhor_20251231.rbf
 X16_Senhor_20260725.rbf
-X68000_Senhor_20260804.rbf
+X68000_Senhor_20260828.rbf
 ZX-Spectrum_Senhor_20260809.rbf
 ZX81_Senhor_20260107.rbf
 ZXNext_Senhor_20260113.rbf
