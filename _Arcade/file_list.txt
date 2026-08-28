@@ -1,7 +1,10 @@
 280Z-ZZAP (US).mra|897f479a94a6712ada32b9f7e8ca3759|703469
 4D Warriors (315-5162).mra|f3aa3fe68cb0cff7fcb73764f7f951b2|3167
 720 Degrees (rev 4).mra|28301575cec4ce3842011b50c11ac535|8273
+A.B. Cop (World).mra|4c203fd7f6881c2d8020e76366c25ea9|3948
 Act-Fancer (World rev 3).mra|3f00523b6d89c975a93465e87dfaf048|5475
+After Burner (Ver 1.32).mra|164e4f27fa7765bf01cfee167ccddaf4|3699
+After Burner II.mra|ae4f5c27e1a2fbe744253f437235bd93|3717
 Ah Eikou no Koshien (Japan).mra|590b0b9816637049c4a1ac20d618ed15|2550
 Air Assault (World).mra|794de9ce9881edaddf37439278572ae6|3845
 Air Duel (World, M72 hardware).mra|6db3376e5a00f070ef70a4d7d3cfc796|3144
@@ -208,6 +211,7 @@ Gold Medalist (Set 1, Alpha68k II PCB).mra|5ecb636c2bd8e983250b9bed242b713b|2913
 Gorf.mra|a63de6527aa26c72ddc2d11d878c5ca2|2402
 Gorkans.mra|bd533166993f5956a6b4a7572b30be94|2964
 Gorodki.mra|bc2781bb878528510e74a9dba8c8afcb|1382
+GP Rider (World).mra|241f1347d5f350bc1fc05bfd64cea5bd|3874
 Gradius.mra|ad65e5d4e7116342312b60c4b0dabf61|2502
 Grasspin (Jaleco).mra|4c5221431ccf2c904cc6dfb5225bd778|2567
 Gravitar (Ver 3).mra|f34a947f80d79452179acfa51411f8a2|2645
@@ -290,11 +294,13 @@ Kung-Fu Master (W).mra|d558de82bcfffbf1a10505c7c8d7702d|5990
 Kurukuru Fever.mra|7057a49839f833bd85a2f686f849b99b|1423
 Lady Bug.mra|d8f472358ccf8b9658f064db141a6d9d|3195
 Laguna Racer.mra|c40b096fbc108feda1829aa43db73597|699190
+Last Survivor.mra|edc631ced5400f0ddbcc7727c5647b29|4023
 Legend of Hero Tonma (Japan).mra|447833b8031ffcb362c3ca17ea607d8c|3271
 Legend.mra|4f608862663de5df0037d10ab67ed38c|2993
 Legionnaire (World).mra|293f7f03a675ea0bd26bb26cba405027|5952
 Lethal Thunder (World).mra|268059a8efd9cdf59115c4eb064f9012|6067
 Lifeforce (Japan).mra|3a7ecc32a0999631a1711c86e895a83b|2509
+Line of Fire (World).mra|e05bdf644aae4b9ca85994b1c402c56d|3948
 Liquid Kids (World).mra|e96fe45bc8452a0eda23d9dc3f4cac5a|2243
 Lizard Wizard.mra|2826cfd009527b65418329ae3bca9eed|2281
 Lode Runner (Set 1).mra|c4af9a3acfc5b139bac9eaf9e1adcb72|6233
@@ -429,6 +435,7 @@ Qix II (Tournament).mra|f55cf1638ba078de09151c9d8f568f3f|1777
 R-Type (World).mra|1365dbf870188d9ea8ad593125f069fd|3510
 R-Type II (World).mra|69151a5be820cc3c5a6630d511ab8619|3088
 R-Type Leo (World).mra|ef9b632f177f70fb27063ca1d9f535c7|6350
+Racing Hero.mra|7daac33bfdb845b1ded02995b11e0de5|3931
 Radar Scope (rev. D).mra|0098ca477f15777365036f6c022653c4|2739
 Rafflesia (315-5162).mra|d65e1f2ebe6189081b8209c28ed4a49d|3252
 Raiden (World).mra|00d4f11dc2c53627df181338cf111c27|6116
@@ -533,6 +540,7 @@ Super Cobra.mra|33eaf460f7b32aa4b3c7e46a1bd695f2|2300
 Super Glob (Pac-Man, German) [bl].mra|ccf42dfbf2f8dcdcd4a43b43c2bc5457|1970
 Super Locomotive (old).mra|6b150e103c49bf861b206cf7a30945e0|2800
 Super Locomotive.mra|34d0958ea74e6c0e2adc7204f2f75515|2800
+Super Monaco GP (World, Rev B).mra|30641507f7287b2241120dc2821f4687|3910
 Super Pac-Man.mra|955f0f85bd05881e5e7ffd9fd6bf3480|3014
 Super Pierrot.mra|0253ff3802a11be2bdcfdf898eb61b7a|2179
 Super Real Mahjong VS (Rev A).mra|2426cb381457244333b70d9a33d2c7dd|2126
@@ -568,6 +576,7 @@ The Next Space (Japan).mra|306cc33cdb932f87afb77ab31a206e10|2494
 The Ninja Kids (World).mra|4247c4cd10c2bad613248f1104b3261e|2353
 The Ninja Warriors (World).mra|7cd9b04b1eed2cdeba7f009296257ca1|3328
 The Tower of Druaga.mra|a2efee884695b71252b0e8304d4b791f|1938
+Thunder Blade (upright).mra|91506103649a799422b697f6a977baf7|4125
 Thunder Fox (World, rev 1).mra|8b35bcf205e8197d539900da8583f8d0|2858
 Thunder Heroes (set 1).mra|c62eef01733b9cccb39ffb75bcd77e78|2114
 Thunder Heroes.mra|1bfb424667e62894468543e3c6aba267|2072
