@@ -86,7 +86,7 @@ GulfWarII_Senhor_20260704.rbf
 Gyruss_Senhor_20260204.rbf
 HeatedBarrel_Senhor_20260715.rbf
 Hyprduel_Senhor_20260720.rbf
-IGSPGM_Senhor_20260708.rbf
+IGSPGM_Senhor_20260828.rbf
 IkariWarriors_Senhor_20260509.rbf
 Inferno_Senhor_20260120.rbf
 IremM107_Senhor_20260119.rbf
