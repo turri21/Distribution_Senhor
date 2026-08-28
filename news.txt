@@ -7,6 +7,7 @@
 [INFO]New Cores: jtriders_Senhor_20260826.rbf, NeoGeoPocketColor_Senhor_20260826.rbf[/INFO]
 [INFO]New Cores: Arabian_Senhor_20260823.rbf, ts2068_Senhor_20260821.rbf[/INFO]
 [INFO]New Cores: DenjinMakai_Senhor_20260820.rbf, Toobin_Senhor_20260819.rbf[/INFO]
+[INFO]Updates: X68000_Senhor_20260828.rbf[/INFO]
 [INFO]Updates: IGSPGM_Senhor_20260828.rbf, InputTest_Senhor_20260825.rbf[/INFO]
 [INFO]Updates: Arcadia_Senhor_20260824.rbf, Apple-II_Senhor_20260822.rbf[/INFO]
 [INFO]Updates: SMS_Senhor_20260822.rbf, PSX_Senhor_20260822.rbf[/INFO]
