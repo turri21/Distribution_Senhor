@@ -256,7 +256,7 @@ Wonder Momo.mra|901e02f631795462efe22808ba27b090|6855
 Wonder Planet (Japan).mra|109ef33986b1ce9722384f7adc104806|5216
 Wrestle War (set 3, World) (8751 317-0103).mra|f7e5584af1bb28c54523776210ff4676|5761
 WWF Superstars (Europe).mra|f14072e76008a99db950406d02ca9dec|4038
-X-Men (4 Players ver EBA).mra|5a2b8900421005ea0b059388b7d5da75|3896
+X-Men (4 Players ver EBA).mra|13591f308d6d6d5095d5716dfb45efe1|3979
 X-Men Children of the Atom (Europe 950331).mra|27e8fdeba0b8332ca2542ae78569168e|4525
 X-Men Vs. Street Fighter (Europe 961004).mra|3a2c6d170bd2f788f583d7fa8b72281d|4466
 Yie Ar Kung-Fu (version I).mra|222a037e2a30051d08dfd11bfe84094d|3843
