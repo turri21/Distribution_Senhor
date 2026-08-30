@@ -95,6 +95,7 @@ Championship Sprint (rev 3).mra|0848c5ca145f8731bf9a20f2d2706eca|4604
 China Gate (US).mra|7e23415f53f3b83713d7ceff23563ee6|4083
 Choplifter (unprotected).mra|086bb65a270cfac61e1fe8ef6b5702e5|2370
 Chouji Meikyuu Legion (Japan ver 1.05, set 2).mra|5b97135f35535e9dd3159d40db3861dc|3010
+Choukou Senki Kikaioh (Japan).mra|0cfb873c3c311e9f309025fe9cfd0e4d|1914
 City Connection (set 1).mra|ab836353b288ef93237cedf71c4b774d|3386
 Clean Sweep.mra|74bed1c3bc9f17561c0dca7f4f92d7bb|76031
 Clowns.mra|dd480dcb3d9619c13c26be6e98963428|161623
@@ -405,6 +406,7 @@ Pirate Pete.mra|122dc2db035ce1f810410a3542e7e924|2797
 Pisces.mra|7d45bd3a7b46a50141668188205c547d|2117
 Pitfall II.mra|53dcaa410a21a930beca5c487e8f9bc7|2950
 Planet Probe.mra|ab82898aee73541fbc74093e11f7b4a3|2867
+Plasma Sword - Nightmare of Bilstein (USA).mra|6e0d5ed6ffb5673dd24f990435c8bc7b|1858
 Playball (Prototype).mra|d88e51804f8c190d556c5dc95e084c83|4180
 Pleiads (Tehkan).mra|69148ef2a1b79b90d86e3af6f34a3843|1628
 Plus Alpha.mra|b837b5ee788fa134c04ee0d6818b60c0|3869
@@ -455,6 +457,7 @@ Repulse.mra|1adb325b22f52a3f89a38bbbae016802|3383
 Rescue.mra|63c65e4d153462a39fc56bab5e31b7a9|2431
 Riddle of Pythagoras (Japan).mra|f22ee1db922042612f5ff2282c1f3b23|2189
 Risky Challenge.mra|525b428d4cc323678fb25849eca70819|3402
+Rival Schools - United By Fate (USA).mra|8cc50a58a81f6935d1c52bf052fca869|2059
 River Patrol (JP, Unprotected).mra|0a8f704b1ed57e1c590a6d58f81faece|1423
 Road Blasters (upright, rev 4).mra|b61ca7c5a9575eca605b0d3f68141de0|9520
 Road Runner (rev 2).mra|6890ca6f4b473464d3f5ad7a197f27c7|8280
@@ -481,6 +484,7 @@ Sea Wolf (Set 1).mra|9d82c403f007d75290dc5d63f722df83|204289
 Sea Wolf II.mra|f47691e8cb4fc6eaa513d8555b16331a|2052828
 Sega Ninja (315-5102).mra|775fc031a3582c44c13b634a54d649b2|2956
 Sei Senshi Amatelass.mra|b07c8c19a9483df8a2a598840c73d4f1|2888
+Shiritsu Justice Gakuen - Legion of Heroes (Japan 971216).mra|f2c05302c0d9cc35fcd2f01a63ade713|2062
 Shot Rider (B-Board 89624B-1).mra|83851653a625363a6edb8c8162860f12|2558
 Shuffleboard.mra|55afded87f6316c3275cb3afd40d86e9|1594
 Silkworm.mra|e609effb9006fb868b2b16133f3394f4|2542
@@ -525,6 +529,7 @@ Squash (Gaelco, V.010).mra|8e95f85c8b8fc58f89e4ee01e7da57f6|2612
 Squash.mra|3d6eb94999d59a5c6d2c0f706faced28|2116
 SRD Mission.mra|4fce5f5980141dcdd32bf152d448b914|3235
 Stadium Cross (World).mra|60dc898f6f7de10f11894244c4c5bcb9|2709
+Star Gladiator 2 - Nightmare of Bilstein (Japan).mra|c14e9134dced66c864faf4648089ebc5|1895
 Star Gladiator Episode I - Final Crusade (USA).mra|376f9a39348435edd826aabb05736de8|3253
 Star Guards.mra|c213b8a8865c09be3175f751d7c4e329|1990
 Star Jacker.mra|047a89a0f3c72358a4f785b65fe22124|3093
@@ -536,7 +541,11 @@ Stargate.mra|31599d87b18ee985a32e337c5c4e8289|4157
 Strategy X.mra|979c4e73650020d1c70f21e9939be61b|2038
 Street Fighter EX (USA).mra|2500c9a0252201b1d6c870a84d481106|2320
 Street Fighter EX Plus (USA 970311).mra|64bf0e271ee5a40b32e9746df8430cf2|2333
+Street Fighter EX2 (USA 980526).mra|d470d64ca9616d846b3d867069d17114|1812
+Street Fighter EX2 Plus (USA).mra|c354065e36d245e7536bbeaab9a3edda|1912
 Street Smart (US Version 2).mra|8f6225eefbedb28138ab9c6e04d73c4f|2750
+Strider 2 (USA).mra|611005d792499a69e77a20fa83c8fe7d|2021
+Strider Hiryu 2 (Japan).mra|ea1b8235cb46bdaba52de3b734b47985|2017
 Subs.mra|309e8ed8fe8e08a587e4664c5d3721a3|288510
 Super Bagman.mra|c8d1138e89819416db1200316f98f93e|2945
 Super Breakout (Rev 04).mra|9866582e8d1e8633faa10b5d71585a73|1381
@@ -561,12 +570,14 @@ Tapper (Budweiser, 840127).mra|d622b7eca7238d2842746452b274e613|2641
 TARG.mra|547e7397f77d0ab2c8e644f782f30e66|1600
 Tatakae! Big Fighter (Japan).mra|55826aeef5a31fbe0c1bcd63cf102532|2847
 Tazz-Mania (Set 1).mra|9123df44bcfabca4c547db0134201bb3|2216
+Tech Romancer (USA).mra|c88614ea9a7882497df3be55aacfc8a2|1916
 TeddyBoy Blues (315-5115, New Ver).mra|9ecfd42a494d7cc989e585681220d7e1|2906
 Teki Paki.mra|19fea16686958633fb1568d18fdc2d97|2075
 Tempest.mra|b9e481475afb9696221849d2fee8bed8|2890
 Terra Cresta (YM3526 set 1).mra|d57c8f60ef01f6e6124a10d05060b0fb|2687
 Terra Force (Japan).mra|92922205fc2d7162b0f67beaca112ea2|2961
 Tetris (Japan, System E).mra|a350670ae978e95a45aef0380ac5c7c4|2027
+Tetris - The Grand Master (Japan).mra|71dbb9992d9c74476451124cc6b38957|1679
 Tetris.mra|8117bc6985574574aafe2d5eaae9f45c|1256
 TH Strikes Back (Gaelco, V.002).mra|b93d4d6ff5fe3a6530fbbc6ea74d7cdf|3671
 The Adventures of Robby Roto!.mra|ae1a755d1a1121270a3bfafbc91187e2|2442
