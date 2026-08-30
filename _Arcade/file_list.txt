@@ -123,6 +123,7 @@ Crush Roller (Set 2).mra|37046f5aa03bd1867d3f8edb8a7e4e2f|2771
 Crystal Castles.mra|ea9a5760de3d1b69226c14b50a254ff2|715
 D-Con.mra|2fd43945e89648da7d55dba47f3e224b|4247
 Dakkochan House (MC-8123).mra|818971dbd67902cebeaeac94b7840c30|2324
+Dancing Eyes (DC2-VER.B).mra|54b0fb116c589e3f813560e567987adc|2419
 Darius (World).mra|bdad8872f3c5db8782472637d26cf7bb|4322
 Darius II (Japan, rev 1).mra|ac3d2694a7012d0539d95439c02c60f0|3721
 Dark Planet.mra|124974270f3808972bf31979cf600578|2268
@@ -159,6 +160,7 @@ Dragon World 3 EX (ver. 100).mra|c9f060beefe9b4e51d8f162a6a8882ad|2356
 Dream Shopper.mra|c1751eee0bf421523b5f1fe9cd7f33a5|2421
 Dream Soccer '94 (World, M107 hardware).mra|0515246230359612d873297879490600|4095
 Drift Out (Europe).mra|9ced252b86eb4b96132db344be1d9bbe|2022
+Dunk Mania (DM2-VER.C).mra|e4e565add969c49c6392eec7caba8185|2183
 Eeek! (Pac-Man Conversion).mra|c33a28105ede518dc05cecc1a9899631|1917
 Eggor.mra|7c4393d524de449b4e4c254df5c52e2f|2806
 Elevator Action Bootleg.mra|4cb4403ce07178704701ad3b6d3a3d7a|2928
@@ -289,6 +291,7 @@ Klax.mra|6fbeee07022516419d80776260cee4ab|9950
 Knights of Valour 2 (ver. 107).mra|831b5a7c94b7f76537b58f733116baee|2889
 Knights of Valour Super Heroes (ver. 104, CN).mra|2ee0f2600fef1cb3dcfd49aa46c34791|2848
 Konek Gorbunok.mra|16a76c4397caede30680676b2b0374be|1478
+Kosodate Quiz My Angel 3 (KQT1-VER.A).mra|3e72689740b6c112beed3377351f8f65|2020
 Kot-Rybolov.mra|2f8a24edb730154e1c07884a1ca2b9ee|1473
 Kozmik Krooz'r.mra|f5b29c8674fe2814db2ac948343a6da3|1507384
 Kozure Ookami (Japan).mra|76a610ce4121bd918c7b94cff08246d2|2985
@@ -410,6 +413,8 @@ Plasma Sword - Nightmare of Bilstein (USA).mra|6e0d5ed6ffb5673dd24f990435c8bc7b|
 Playball (Prototype).mra|d88e51804f8c190d556c5dc95e084c83|4180
 Pleiads (Tehkan).mra|69148ef2a1b79b90d86e3af6f34a3843|1628
 Plus Alpha.mra|b837b5ee788fa134c04ee0d6818b60c0|3869
+Pocket Racer (Japan PKR1-VER.B).mra|00881b2f1dd3f1c049d09f3971c20e69|1817
+Point Blank 2 (World GNB2-VER.A).mra|be64c31ad4b878af01d1819ee6695b50|2270
 Polaris.mra|fd01f3b5c43960e39d0f6cb234c7b8b7|535317
 Poly Play 2.mra|2e622f7147b33697b3b2363c63a25dc9|1342
 Poly Play.mra|d3d5f2c619ef1df404a4faed15f0dedd|2802
@@ -424,6 +429,7 @@ Power Drive.mra|0563b2918e44152d3ff17e319aae609f|2215
 Power Instinct 2 (US, Ver. 94.04.08, set 1).mra|94feda91d181e1b58f895083a75a4d5a|2629
 Prehistoric Isle in 1930 (World).mra|ca006fd2f090bdd4ee48652ba4374feb|2291
 Pretty Soldier Sailor Moon (Version 95-03-22B, Europe).mra|00e83bda4f6484e842102c3a9b694f5d|2202
+Prime Goal EX (PG1-VER.A).mra|5fdeab0b114dc04d8238c9cd25b6e20b|2090
 Psychic 5 (World).mra|95ce2707f545363ab129ad8a8f163bad|2407
 Puck Man (JP, Set 1).mra|d5097d23c2c2dea9f5f7254407e82c9b|3091
 PuLiRuLa (World, dual PCB).mra|a105f7f4adcf2bd7c9a8d19b48fe7907|2294
@@ -505,6 +511,7 @@ Solitary Fighter (World).mra|9f93c620c8d63f288aed8ecd17da016b|2207
 Solomon's Key.mra|909a23c2cb7c1673ec046acd81339abc|1738
 SonSon.mra|29b4b913eb305a1d10f1de2b9564ec73|1820
 Sorcer Striker.mra|333ddacf89b7eb3c44bfeb18c4630b79|2763
+Soul Edge Ver. II (SO4-VER.C).mra|9a79712d48571bae83ddb2c2943510a6|2425
 Space Chaser.mra|188601613c5999168aa5bba0d6c15c12|1824
 Space Cruiser.mra|2f0b0b04ac4db4aaa309d7e68abc7614|2403
 Space Dungeon.mra|0421343c9f828570a02ecf7d268c304d|2022
@@ -534,6 +541,7 @@ Star Gladiator Episode I - Final Crusade (USA).mra|376f9a39348435edd826aabb05736
 Star Guards.mra|c213b8a8865c09be3175f751d7c4e329|1990
 Star Jacker.mra|047a89a0f3c72358a4f785b65fe22124|3093
 Star Soldier - Vanishing Earth.mra|f944e61095e329459b8148ef570ca625|1957
+Star Sweep (STP1-VER.A).mra|bbbec5a6a4129131d8a88add0cbe1211|1732
 Star Trek.mra|21b4aecc81c17ea52616e7e1cd4c0066|3371
 Star Wars (Rev 2).mra|0795af266ea8b5b4a12472eb147f7d45|2030
 StarForce.mra|b1000b5b02373e86840af04e65a19378|3349
@@ -573,6 +581,8 @@ Tazz-Mania (Set 1).mra|9123df44bcfabca4c547db0134201bb3|2216
 Tech Romancer (USA).mra|c88614ea9a7882497df3be55aacfc8a2|1916
 TeddyBoy Blues (315-5115, New Ver).mra|9ecfd42a494d7cc989e585681220d7e1|2906
 Teki Paki.mra|19fea16686958633fb1568d18fdc2d97|2075
+Tekken (TE2 Ver.C).mra|ebe4faac371556dc1332ac510f3f8b85|2775
+Tekken 2 Ver.B (TES2-VER.D).mra|b537e8a28e411aafde7d2c36ccdeba33|2488
 Tempest.mra|b9e481475afb9696221849d2fee8bed8|2890
 Terra Cresta (YM3526 set 1).mra|d57c8f60ef01f6e6124a10d05060b0fb|2687
 Terra Force (Japan).mra|92922205fc2d7162b0f67beaca112ea2|2961
@@ -661,6 +671,7 @@ World Rally (Gaelco, V.068).mra|8e88ab6708450623b99497f19129ca04|5656
 World Rally 2 (Gaelco, 1995).mra|ca6f46a5b537a457b5f5c75bc285d478|3741
 X Multiply (Japan, M72 hardware).mra|7bf3715e35c44bc983e1a7d09ce7a404|3751
 Xain'd Sleena (bootleg, bugfixed).mra|c30f7736caab1e4b6a61c992ea5f3d57|4832
+Xevious 3D-G (XV32-VER.B).mra|16acf4adf80459da3f606cde0a23deaa|2274
 Xevious.mra|810e14cf74e7d39b9e3b9cbd8a9d393b|2881
 Xiyou Shi E Zhuan Super (ver. 103, China, Tencent) (unprotected).mra|b209b2448e108e5a6486d6682198b9a4|2480
 Youjyuden (JP).mra|2e738ae4d5c0dab213ee4fc072b8180a|4337
