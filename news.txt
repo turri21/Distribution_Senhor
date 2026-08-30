@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 28/8/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: ZN1Capcom_Senhor_20260830.rbf[/INFO]
 [INFO]New Cores: jtxmen_Senhor_20260829.rbf, SegaXBoard_Senhor_20260828.rbf[/INFO]
 [INFO]New Cores: KillerInstinct_Senhor_20260827.rbf, SegaSystem32Multi_Senhor_20260826.rbf[/INFO]
 [INFO]New Cores: jtriders_Senhor_20260826.rbf, NeoGeoPocketColor_Senhor_20260826.rbf[/INFO]
