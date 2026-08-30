@@ -44,6 +44,7 @@ Balloon Bomber.mra|0e1f384fc50d843504465641bd8198b4|372941
 Baluba-louk no Densetsu (Japan).mra|3b20f7335fc1255a38a6b0ee36b3dc2b|3282
 BankPanic.mra|1282b084e832c1deae845138afd8ad4d|2253
 Batsugun.mra|2675c2e0104ed1192e531533bddb36fb|2257
+Battle Arena Toshinden 2 (USA).mra|4c282eb13362f836faeb8d0bb5ab4b52|2338
 Battle Bakraid - Unlimited Version Special Ver. (USA) (Tue Jun 8 1999).mra|9ff38276c2b5b9509e2aaa615de9a42e|5128
 Battle Garegga (Europe - USA - Japan - Asia) (Sat Feb 3 1996).mra|a5e3b3d57db9db4e83e8691b4546f2b3|4002
 Battle of Atlantis.mra|0a1383a945d7edce8c9f05e180f84c17|2816
@@ -198,6 +199,7 @@ Galaga 3 - Gaplus (GP2 Rev B).mra|247489450809117a8f11949a9effacd9|69637
 Galaxian (Namco, Set 1).mra|c12279989130ba3f6feba0eca3270f3a|2200
 Galaxy Wars (Universal, Set 1).mra|e34547b2004935874509edaf533115c6|1907
 Gallop - Armed Police Unit (Japan, M72 hardware).mra|c670d6282d918f53f6a2ed96c31c44d7|4155
+Gallop Racer.mra|8441632fd111749c8d348197ffb2f969|2079
 Gang Wars.mra|4b6e8a2586e7176edb33c794b06199ee|2906
 Gaplus (GP2 Rev B).mra|247489450809117a8f11949a9effacd9|69637
 Gardia (317-0006).mra|2e7dc860642acf4465594a3ea79600e6|3194
@@ -523,6 +525,7 @@ Squash (Gaelco, V.010).mra|8e95f85c8b8fc58f89e4ee01e7da57f6|2612
 Squash.mra|3d6eb94999d59a5c6d2c0f706faced28|2116
 SRD Mission.mra|4fce5f5980141dcdd32bf152d448b914|3235
 Stadium Cross (World).mra|60dc898f6f7de10f11894244c4c5bcb9|2709
+Star Gladiator Episode I - Final Crusade (USA).mra|376f9a39348435edd826aabb05736de8|3253
 Star Guards.mra|c213b8a8865c09be3175f751d7c4e329|1990
 Star Jacker.mra|047a89a0f3c72358a4f785b65fe22124|3093
 Star Soldier - Vanishing Earth.mra|f944e61095e329459b8148ef570ca625|1957
@@ -531,6 +534,8 @@ Star Wars (Rev 2).mra|0795af266ea8b5b4a12472eb147f7d45|2030
 StarForce.mra|b1000b5b02373e86840af04e65a19378|3349
 Stargate.mra|31599d87b18ee985a32e337c5c4e8289|4157
 Strategy X.mra|979c4e73650020d1c70f21e9939be61b|2038
+Street Fighter EX (USA).mra|2500c9a0252201b1d6c870a84d481106|2320
+Street Fighter EX Plus (USA 970311).mra|64bf0e271ee5a40b32e9746df8430cf2|2333
 Street Smart (US Version 2).mra|8f6225eefbedb28138ab9c6e04d73c4f|2750
 Subs.mra|309e8ed8fe8e08a587e4664c5d3721a3|288510
 Super Bagman.mra|c8d1138e89819416db1200316f98f93e|2945
