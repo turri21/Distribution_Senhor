@@ -288,5 +288,6 @@ XSleena_Senhor_20260209.rbf
 Zaxxon_Senhor_20240525.rbf
 Zerowing_Senhor_20250505.rbf
 ZigZag_Senhor_20250129.rbf
+ZN1Capcom_Senhor_20260830.rbf
 wrally_Senhor_20260625.rbf
 wrally2_Senhor_20260707.rbf
