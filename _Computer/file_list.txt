@@ -8,7 +8,7 @@ Amstrad_Senhor_20260510.rbf
 Apogee_Senhor_20251229.rbf
 Apple-I_Senhor_20251006.rbf
 Apple-IIgs_Senhor_20260708.rbf
-Apple-II_Senhor_20260822.rbf
+Apple-II_Senhor_20260830.rbf
 Apple-Lisa_Senhor_20260724.rbf
 Aquarius_Senhor_20260104.rbf
 Archie_Senhor_20260104.rbf
