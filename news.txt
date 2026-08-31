@@ -4,7 +4,7 @@
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: ZN2Capcom_Senhor_20260830.rbf, ZN1Capcom_Senhor_20260830.rbf[/INFO]
 [INFO]New Cores: jtxmen_Senhor_20260829.rbf, SegaXBoard_Senhor_20260828.rbf[/INFO]
-[INFO]New Cores: KillerInstinct_Senhor_20260827.rbf, SegaSystem32Multi_Senhor_20260826.rbf[/INFO]
+[INFO]New Cores: KillerInstinct_Senhor_20260831.rbf, SegaSystem32Multi_Senhor_20260826.rbf[/INFO]
 [INFO]New Cores: jtriders_Senhor_20260826.rbf, NeoGeoPocketColor_Senhor_20260826.rbf[/INFO]
 [INFO]New Cores: Arabian_Senhor_20260823.rbf, ts2068_Senhor_20260821.rbf[/INFO]
 [INFO]New Cores: DenjinMakai_Senhor_20260820.rbf, Toobin_Senhor_20260819.rbf[/INFO]
