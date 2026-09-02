@@ -37,6 +37,7 @@ NeoGeoPocketColor_Senhor_20260826.rbf
 NeoGeoPocket_Senhor_20260407.rbf
 NeoGeo_Senhor_20260514.rbf
 NES_Senhor_20260510.rbf
+NGPC_Senhor_20260902.rbf
 Odyssey2_Senhor_20260121.rbf
 PCFX_Senhor_20260725.rbf
 PocketChallengeV2_Senhor_20260226.mgl
