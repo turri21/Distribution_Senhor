@@ -167,6 +167,7 @@ Elevator Action Bootleg.mra|4cb4403ce07178704701ad3b6d3a3d7a|2928
 Eleven Beat.mra|6cee191e436787ccc57bbb5773f092e7|1949
 Empire Strikes Back.mra|185b5d656a310b5cefa56044b838590c|4275
 empirecity.mra|65861662fe46c89e1cb5af53d1cd65c3|11125
+Escape from the Planet of the Robot Monsters (set 1).mra|0aa5ba61646f750901d721f6763ae41e|5757
 ESP Ra.De. (World 1998 422 International Ver).mra|5fe6dc199b7cb344966a540a749f76e4|1743
 Espgaluda (2003.10.15 Master Ver).mra|d7d5a49d04f7f03c5099c13a69078952|3934
 Euro Champ '92 (World).mra|34455673572f86b62b472b8103e1cd90|2410
