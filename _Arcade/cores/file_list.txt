@@ -67,6 +67,7 @@ DonkeyKong_Senhor_20260203.rbf
 DottoriKun_Senhor_20250105.rbf
 Druaga_Senhor_20260203.rbf
 empirecity_Senhor_20260720.rbf
+Escape_Senhor_20260903.rbf
 Exerion_Senhor_20250421.rbf
 Exidy2_Senhor_20260203.rbf
 ExpressRaider_Senhor_20260203.rbf
