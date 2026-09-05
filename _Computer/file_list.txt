@@ -47,6 +47,7 @@ microbee_Senhor_20260806.rbf
 Minimig030_Senhor_20260803.rbf
 Minimig_Senhor_20260727.rbf
 MultiComp_Senhor_20260812.rbf
+NeXT_Senhor_20260905.rbf
 ORAO_Senhor_20260109.rbf
 Ondra_SPO186_Senhor_20251007.rbf
 Oric_Senhor_20260613.rbf
