@@ -62,6 +62,7 @@ QL_Senhor_20260104.rbf
 RX78_Senhor_20260726.rbf
 Rememotech_Senhor_20250327.rbf
 SAMCoupe_Senhor_20260101.rbf
+SGIIndy_Senhor_20260905.rbf
 SVI328_Senhor_20260118.rbf
 SharpMZ_Senhor_20260716.rbf
 Sorcerer_Senhor_20251214.rbf
