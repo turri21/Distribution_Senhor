@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 28/8/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: NeXT_Senhor_20260905.rbf[/INFO]
 [INFO]New Cores: Escape_Senhor_20260903.rbf, NGPC_Senhor_20260902.rbf[/INFO]
 [INFO]New Cores: ZN2Capcom_Senhor_20260830.rbf, ZN1Capcom_Senhor_20260830.rbf[/INFO]
 [INFO]New Cores: jtxmen_Senhor_20260829.rbf, SegaXBoard_Senhor_20260828.rbf[/INFO]
