@@ -5,4 +5,5 @@
 [INFO]New Cores: MacQuadra800_Senhor_20260905.rbf[/INFO]
 [INFO]New Cores: SGIIndy_Senhor_20260905.rbf, NeXT_Senhor_20260905.rbf[/INFO]
 [INFO]New Cores: Escape_Senhor_20260903.rbf, NGPC_Senhor_20260902.rbf[/INFO]
+[INFO]Updates: FM-7_Senhor_20260906.rbf[/INFO]
 [INFO]Updates: KillerInstinct_Senhor_20260906.rbf, MacLC_Senhor_20260905.rbf[/INFO]
