@@ -43,6 +43,7 @@ MSX1-MSX2_Senhor_20250509.rbf
 MSX_Senhor_20260217.rbf
 MacLC_Senhor_20260905.rbf
 MacPlus_Senhor_20260421.rbf
+MacQuadra800_Senhor_20260905.rbf
 microbee_Senhor_20260806.rbf
 Minimig030_Senhor_20260803.rbf
 Minimig_Senhor_20260727.rbf
