@@ -463,6 +463,7 @@ Regulus (315-5033, Rev A).mra|45b0ab36505df6f6a28a9503ebba8f05|3017
 Repulse.mra|1adb325b22f52a3f89a38bbbae016802|3383
 Rescue.mra|63c65e4d153462a39fc56bab5e31b7a9|2431
 Riddle of Pythagoras (Japan).mra|f22ee1db922042612f5ff2282c1f3b23|2189
+Ring King (US set 1).mra|4f26ced690ca19592120a2d0ca94751f|2476
 Risky Challenge.mra|525b428d4cc323678fb25849eca70819|3402
 Rival Schools - United By Fate (USA).mra|8cc50a58a81f6935d1c52bf052fca869|2059
 River Patrol (JP, Unprotected).mra|0a8f704b1ed57e1c590a6d58f81faece|1423
