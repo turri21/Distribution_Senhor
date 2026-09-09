@@ -476,7 +476,7 @@ Rygar.mra|fd34f05f4e451ac219f9096d4f23d2d1|2689
 S.O.S..mra|6e3624f052a82d53b0aae0f3efa56494|1466
 S.V.G. - Spectral vs Generation (ver. 200).mra|38f9d2ac7116351fe4780ed2a64e7cab|3897
 Saint Dragon (Set 1).mra|03763b0f572cd2f75a387b749dd6c276|3486
-Salamander (version J).mra|4cbae6aeaa3f2743b78acd5b86c534db|2327
+Salamander (version D).mra|24e4a8b3fb1a16fd5b2d4db5a482db14|2309
 Same! Same! Same! (2P Set).mra|b8fbc37aaeaa079e53746de23c950efa|2886
 SAR - Search And Rescue (World).mra|28f37047a1b74a686b9c37488574cbc7|2891
 Sarge.mra|bedf823e04451e6487a87df847cb9909|2064
