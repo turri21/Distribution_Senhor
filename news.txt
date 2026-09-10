@@ -1,6 +1,6 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New update_senhor.sh script v1.99[/INFO]
-[INFO]New MiSTer binary - 28/8/2026[/INFO]
+[INFO]New MiSTer binary - 10/9/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: RingKing_Senhor_20260907.rbf, MacQuadra800_Senhor_20260905.rbf[/INFO]
 [INFO]New Cores: SGIIndy_Senhor_20260905.rbf, NeXT_Senhor_20260905.rbf[/INFO]
