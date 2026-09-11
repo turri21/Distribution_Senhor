@@ -32,7 +32,6 @@ Armed Police Batrider Special Ver. (USA) (Fri Feb 13 1998).mra|2870dd526a36d635e
 Armored Car.mra|8eaec488ef68f6b57514303e466cae38|2367
 ASO.mra|9aaa8d9304d2a3e6474e38a868179127|3288
 Asterix (FF ver EAD).mra|427ca5286cdb75e65ac9d877cd914577|3622
-Asteroids Deluxe.mra|e88a8d6fcbf28cc552327dce0a41da7b|1997678
 Asteroids.mra|4c310383bca5ecca72fab53c1fa5f27d|671
 Astro Flash (Japan).mra|e38dc44262e3b5046927270d495293ef|3163
 Athena.mra|b137674a642cf2f4ce9e4f591db69557|3191
