@@ -58,6 +58,7 @@ PCXT_Senhor_20260331.rbf
 PCjr_Senhor_20260321.rbf
 PDP1_Senhor_20250528.rbf
 PET2001_Senhor_20260104.rbf
+PETUniversal_Senhor_20260913.rbf
 PMD85_Senhor_20251225.rbf
 QL_Senhor_20260104.rbf
 RX78_Senhor_20260726.rbf
