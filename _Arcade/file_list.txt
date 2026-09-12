@@ -491,6 +491,7 @@ Sea Wolf (Set 1).mra|9d82c403f007d75290dc5d63f722df83|204289
 Sea Wolf II.mra|f47691e8cb4fc6eaa513d8555b16331a|2052828
 Sega Ninja (315-5102).mra|775fc031a3582c44c13b634a54d649b2|2956
 Sei Senshi Amatelass.mra|b07c8c19a9483df8a2a598840c73d4f1|2888
+Seibu Cup Soccer (set 1).mra|cd6eace9f4fdde7656c51d56a378e847|4736
 Shiritsu Justice Gakuen - Legion of Heroes (Japan 971216).mra|f2c05302c0d9cc35fcd2f01a63ade713|2062
 Shot Rider (B-Board 89624B-1).mra|83851653a625363a6edb8c8162860f12|2558
 Shuffleboard.mra|55afded87f6316c3275cb3afd40d86e9|1594
