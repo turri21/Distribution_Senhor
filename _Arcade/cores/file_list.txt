@@ -238,6 +238,7 @@ SegaSystem32Multi_Senhor_20260826.rbf
 SegaVCO_Senhor_20260914.rbf
 SegaVICZ80_Senhor_20260118.rbf
 SegaXBoard_Senhor_20260828.rbf
+SeibuCupSoccer_Senhor_20260912.rbf
 SilverLand_Senhor_20260210.rbf
 SkySkipper_Senhor_20250131.rbf
 SkySmasher_Senhor_20260609.rbf
