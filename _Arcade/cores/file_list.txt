@@ -84,6 +84,7 @@ Gladiator_Senhor_20260806.rbf
 Godzilla_Senhor_20260809.rbf
 GulfWarII_Senhor_20260704.rbf
 Gyruss_Senhor_20260204.rbf
+HardDrivin_Senhor_20260914.rbf
 HeatedBarrel_Senhor_20260715.rbf
 Hyprduel_Senhor_20260720.rbf
 IGSPGM_Senhor_20260828.rbf
