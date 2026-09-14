@@ -98,6 +98,7 @@ Chouji Meikyuu Legion (Japan ver 1.05, set 2).mra|5b97135f35535e9dd3159d40db3861
 Choukou Senki Kikaioh (Japan).mra|0cfb873c3c311e9f309025fe9cfd0e4d|1914
 City Connection (set 1).mra|ab836353b288ef93237cedf71c4b774d|3386
 Clean Sweep.mra|74bed1c3bc9f17561c0dca7f4f92d7bb|76031
+Cliff Hanger.mra|6e489fb3aad3424a8b3c6ceaab220756|3817
 Clowns.mra|dd480dcb3d9619c13c26be6e98963428|161623
 Colony 7 (Set 1).mra|eda07db4e167bb2c3cf2377a1d7f69fc|1801
 Combat Hawk.mra|d51ee6866f555aa20474ad11fd1604fb|2129
@@ -157,6 +158,7 @@ Dragon Breed (Japan, M72 hardware).mra|b13688329114e5526f86c53ece4908cb|3576
 Dragon World 2001 (ver. 100, Japan).mra|9ef296457c0d0f769e27aff1b3f535a2|2056
 Dragon World 3 (ver. 106).mra|f1f9e0d2f3935105f7f8021835bca3a0|2473
 Dragon World 3 EX (ver. 100).mra|c9f060beefe9b4e51d8f162a6a8882ad|2356
+Dragon's Lair.mra|c7a52e110fd82ef312809c1d14545109|2537
 Dream Shopper.mra|c1751eee0bf421523b5f1fe9cd7f33a5|2421
 Dream Soccer '94 (World, M107 hardware).mra|0515246230359612d873297879490600|4095
 Drift Out (Europe).mra|9ced252b86eb4b96132db344be1d9bbe|2022
@@ -516,6 +518,7 @@ Solomon's Key.mra|909a23c2cb7c1673ec046acd81339abc|1738
 SonSon.mra|29b4b913eb305a1d10f1de2b9564ec73|1820
 Sorcer Striker.mra|333ddacf89b7eb3c44bfeb18c4630b79|2763
 Soul Edge Ver. II (SO4-VER.C).mra|9a79712d48571bae83ddb2c2943510a6|2425
+Space Ace.mra|471bdfcdef94fc70bb66f0e4b79ff5e5|2397
 Space Chaser.mra|188601613c5999168aa5bba0d6c15c12|1824
 Space Cruiser.mra|2f0b0b04ac4db4aaa309d7e68abc7614|2403
 Space Dungeon.mra|0421343c9f828570a02ecf7d268c304d|2022
