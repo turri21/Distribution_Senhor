@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 10/9/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: SuperAcan_Senhor_20260915.rbf[/INFO]
 [INFO]New Cores: HardDrivin_Senhor_20260914.rbf, SegaVCO_Senhor_20260914.rbf[/INFO]
 [INFO]New Cores: GameKing_Senhor_20260907.rbf, SeibuCupSoccer_Senhor_20260912.rbf[/INFO]
 [INFO]New Cores: RingKing_Senhor_20260907.rbf, MacQuadra800_Senhor_20260905.rbf[/INFO]
