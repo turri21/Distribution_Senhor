@@ -681,6 +681,7 @@ Xain'd Sleena (bootleg, bugfixed).mra|c30f7736caab1e4b6a61c992ea5f3d57|4832
 Xevious 3D-G (XV32-VER.B).mra|16acf4adf80459da3f606cde0a23deaa|2274
 Xevious.mra|810e14cf74e7d39b9e3b9cbd8a9d393b|2881
 Xiyou Shi E Zhuan Super (ver. 103, China, Tencent) (unprotected).mra|b209b2448e108e5a6486d6682198b9a4|2480
+Xybots.mra|fe5b1a93a61cbe16e716c05b90a38b8e|4931
 Youjyuden (JP).mra|2e738ae4d5c0dab213ee4fc072b8180a|4337
 Zaxxon (Set 1, Rev D).mra|3669e5d3af38514213afac5744025f19|2403682
 Zero Wing (2P Set).mra|3d733134fbc4387206cea10c5462f3ca|2711
