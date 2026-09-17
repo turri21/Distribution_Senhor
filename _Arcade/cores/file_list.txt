@@ -207,7 +207,6 @@ Performan_Senhor_20260118.rbf
 Phoenix_Senhor_20260205.rbf
 PinballAction_Senhor_20260730.rbf
 pipibibs_Senhor_20250501.rbf
-PlanetProbe_Senhor_20260320.rbf
 Pleiads_Senhor_20260207.rbf
 PolyPlay_Senhor_20240601.rbf
 Pong_Senhor_20260205.rbf
@@ -285,7 +284,7 @@ Tutankham_Senhor_20260404.rbf
 Ultratank_Senhor_20250129.rbf
 Universal_DoCastle_Senhor_20260730.rbf
 VBall_Senhor_20260210.rbf
-Vastar_Senhor_20260427.rbf
+Vastar_Senhor_20260902.rbf
 Vimana_Senhor_20250504.rbf
 Xevious_Senhor_20260212.rbf
 xnbrkthru_Senhor_20260709.rbf
