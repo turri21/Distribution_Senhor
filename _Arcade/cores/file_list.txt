@@ -290,6 +290,7 @@ Vimana_Senhor_20250504.rbf
 Xevious_Senhor_20260212.rbf
 xnbrkthru_Senhor_20260709.rbf
 XSleena_Senhor_20260209.rbf
+Xybots_Senhor_20260917.rbf
 Zaxxon_Senhor_20240525.rbf
 Zerowing_Senhor_20250505.rbf
 ZigZag_Senhor_20250129.rbf
