@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 16/9/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: Blasteroids_Senhor_20260918.rbf[/INFO]
 [INFO]New Cores: NMK16_Gunnail_Senhor_20260918.rbf, Xybots_Senhor_20260917.rbf[/INFO]
 [INFO]New Cores: Loopy_Senhor_20260916.rbf, SuperAcan_Senhor_20260915.rbf[/INFO]
 [INFO]New Cores: HardDrivin_Senhor_20260914.rbf, SegaVCO_Senhor_20260914.rbf[/INFO]
