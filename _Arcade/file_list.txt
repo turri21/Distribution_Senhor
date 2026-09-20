@@ -683,6 +683,7 @@ Victory Road.mra|38f0e786abee00b795e2efdaba6b7e02|3508
 Victory.mra|2307404fd177e2531dde205a969eb9cc|1969
 Vimana (Japan).mra|73b4c553ccecdb3a148f0728dcf2f678|2603
 Vindicators Part II (rev 3).mra|b96f3ca79b88653bb8d8e43985ab337d|3938
+Vindicators.mra|f6ecb5914ca0d87664eeca716591f7e9|6377
 Vivid Dolls.mra|605342787be482cdcf7c1140210f799b|1519
 Vortex.mra|e96fe836228e8aefc3d68fd2bd0271bd|1549
 Wacko.mra|ccce6b2fdf2c6c5a8a055b33677848ec|2163
