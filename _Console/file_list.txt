@@ -26,7 +26,7 @@ GBA2P_Senhor_20250305.rbf
 GBA_Senhor_20251213.rbf
 Genesis_Senhor_20250629.rbf
 GnW_Senhor_20260115.rbf
-Intv_Senhor_20250919.rbf
+Intv_Senhor_20260923.rbf
 Jaguar_Senhor_20260813.rbf
 Loopy_Senhor_20260916.rbf
 MegaDuck_Senhor_20250811.mgl
