@@ -40,6 +40,7 @@ Athena.mra|b137674a642cf2f4ce9e4f591db69557|3191
 Attack Force.mra|bcb6c4a40c35fd465ae0e19bd7f027b7|5972
 Azurian Attack.mra|1cd03cae96dc0e5996292e70a7092c74|1971
 Back Fire (Tecmo).mra|97ad6583d5eb7f9b53979fc299bad435|2607
+Badlands.mra|06ba2dc90aba9660b1c11a710e027301|5427
 Bagman.mra|d2a683e1f2ba3c1ad51a491f82fba372|2320
 Balloon Bomber.mra|0e1f384fc50d843504465641bd8198b4|372941
 Baluba-louk no Densetsu (Japan).mra|3b20f7335fc1255a38a6b0ee36b3dc2b|3282
