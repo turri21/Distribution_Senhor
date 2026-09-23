@@ -210,6 +210,7 @@ Phoenix_Senhor_20260205.rbf
 PinballAction_Senhor_20260730.rbf
 pipibibs_Senhor_20250501.rbf
 Pleiads_Senhor_20260207.rbf
+PolePosition_Senhor_20260923.rbf
 PolyPlay_Senhor_20240601.rbf
 Pong_Senhor_20260205.rbf
 Pooyan_Senhor_20260408.rbf
