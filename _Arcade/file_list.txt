@@ -432,6 +432,7 @@ Plus Alpha.mra|b837b5ee788fa134c04ee0d6818b60c0|3869
 Pocket Racer (Japan PKR1-VER.B).mra|00881b2f1dd3f1c049d09f3971c20e69|1817
 Point Blank 2 (World GNB2-VER.A).mra|be64c31ad4b878af01d1819ee6695b50|2270
 Polaris.mra|fd01f3b5c43960e39d0f6cb234c7b8b7|535317
+Pole Position.mra|97589420f60be6bba3cd088d9d73dc23|5500
 Poly Play 2.mra|2e622f7147b33697b3b2363c63a25dc9|1342
 Poly Play.mra|d3d5f2c619ef1df404a4faed15f0dedd|2802
 Pong (Rev E).mra|f2b49129a5da3c868bcf171d73ac1365|911
