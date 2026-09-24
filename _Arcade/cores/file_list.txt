@@ -265,6 +265,7 @@ ST-V_Senhor_20260301.rbf
 Subs_Senhor_20260210.rbf
 SuperBreakout_Senhor_20260206.rbf
 SuprLoco_Senhor_20260206.rbf
+TaitoAsuka_Senhor_20260924.rbf
 TaitoF2_Senhor_20260210.rbf
 TaitoSJ_Senhor_20260117.rbf
 TankBattalion_Senhor_20260211.rbf
