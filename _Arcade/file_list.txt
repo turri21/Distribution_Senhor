@@ -36,6 +36,7 @@ ASO.mra|9aaa8d9304d2a3e6474e38a868179127|3288
 Asterix (FF ver EAD).mra|427ca5286cdb75e65ac9d877cd914577|3622
 Asteroids.mra|4c310383bca5ecca72fab53c1fa5f27d|671
 Astro Flash (Japan).mra|e38dc44262e3b5046927270d495293ef|3163
+Asuka & Asuka (World).mra|a25fc4175dc74ec75fa61815e4e4e6c8|5263
 Athena.mra|b137674a642cf2f4ce9e4f591db69557|3191
 Attack Force.mra|bcb6c4a40c35fd465ae0e19bd7f027b7|5972
 Azurian Attack.mra|1cd03cae96dc0e5996292e70a7092c74|1971
@@ -75,6 +76,7 @@ Bomber Man - Dyna Blaster.mra|4c295c893de3d89994735ccb483fdfdd|3653
 Bomber Man World - New Dyna Blaster - Global Quest.mra|e4c2ab2d79739eabebe99b3cb9719610|3639
 Bombjack Twin (set 1).mra|b55c874bbe0a68ab94649b6ae0e8317a|3850
 Bonanza Bros.mra|d761a9cc517e4bd343a987823ba85cf6|1722
+Bonze Adventure (World, rev 1).mra|c3a34068aa047a25bef70c8407ef82ba|5413
 Boogie Wings (Euro v1.5, 92.12.07).mra|4aac42a3e18a6ad4d98b20e9b513da7f|3586
 Boot Hill.mra|bb7e48529c7c5d9e18894bca7f276360|504387
 Bosconian - Star Destroyer (new version).mra|d402ba70891cf5aecb8406034bbdc4bb|3425
@@ -89,6 +91,7 @@ Bucky O'Hare.mra|8987215a754876c3786e030112264253|3005
 Bull Fight (315-5056).mra|16a99d6a22186bb625bd0defc24d41dc|2827
 Burger Time (Set 1).mra|e745a5849ad492160904e4726ecfa4db|2807
 Burnin' Rubber.mra|965c00df5587e2dc51a462497ee714dc|2461
+Cadash (World).mra|192411a1b11b719c9c54daa847952712|3802
 Calipso.mra|e67a88b85c1f1d0f382c440a3b222056|2353
 Cameltry (World, YM2610).mra|a8132fe467b87bacacc03f476cb200f5|2042
 Canyon Bomber.mra|f6df6e5ed27e54a3a3e9d689a94dfb0f|1376
@@ -214,6 +217,7 @@ Galaxian (Namco, Set 1).mra|c12279989130ba3f6feba0eca3270f3a|2200
 Galaxy Wars (Universal, Set 1).mra|e34547b2004935874509edaf533115c6|1907
 Gallop - Armed Police Unit (Japan, M72 hardware).mra|c670d6282d918f53f6a2ed96c31c44d7|4155
 Gallop Racer.mra|8441632fd111749c8d348197ffb2f969|2079
+Galmedes (Japan).mra|70264f824d268f531a657ae86f5acd24|3823
 Gang Wars.mra|4b6e8a2586e7176edb33c794b06199ee|2906
 Gaplus (GP2 Rev B).mra|247489450809117a8f11949a9effacd9|69637
 Gardia (317-0006).mra|2e7dc860642acf4465594a3ea79600e6|3194
@@ -304,6 +308,7 @@ Kingdom Grandprix.mra|fde0c7d99ad7adf379b4c707da43c4ce|2828
 Klax.mra|6fbeee07022516419d80776260cee4ab|9950
 Knights of Valour 2 (ver. 107).mra|831b5a7c94b7f76537b58f733116baee|2889
 Knights of Valour Super Heroes (ver. 104, CN).mra|2ee0f2600fef1cb3dcfd49aa46c34791|2848
+Kokontouzai Eto Monogatari (Japan).mra|0549a632df17d5289427878cd6bad37e|3830
 Konek Gorbunok.mra|16a76c4397caede30680676b2b0374be|1478
 Kosodate Quiz My Angel 3 (KQT1-VER.A).mra|3e72689740b6c112beed3377351f8f65|2020
 Kot-Rybolov.mra|2f8a24edb730154e1c07884a1ca2b9ee|1473
@@ -350,6 +355,7 @@ Martial Masters (ver. 104, 102, 102US).mra|237ab442da7c6a4789b9930199d3ee03|2472
 Max RPM (v2).mra|27afe34a14d451b8de0b7ccc033b5fd3|1832
 Mayday (Set 1).mra|d14ed0e472dce57c5690a86240b114fb|3725
 Mayjinsen 3.mra|abbe3f9e8c6fb53944c1c4e9b635672d|1901
+Maze of Flott (Japan).mra|a259282f9407ba0726971d23a4eebd38|3687
 Mazinger Z (World).mra|c152642fbc9679d59f2f5ff44ca5e2be|1572
 Mega Blast (World).mra|6d8189cda6c5ade2f639031e31404c5e|2779
 Megumi Rescue (Japan).mra|3895f1b51fc78f08a1b9714253565953|1747
@@ -668,6 +674,7 @@ Twin Action.mra|9ff8178b2d487d864495f06a5b2bbe6a|4064
 TwinBee (Bubble System).mra|ab9a462d64d6263074068a6facdc5d42|2383
 TwinBee.mra|70cf7a5faea9689aeb51075b78e2e0ef|2405
 Two Tigers (Tron Conversion).mra|76443434ce390740107a9d9fdccf38e8|2739
+U.N. Defense Force - Earth Joker (US-Japan, set 1).mra|98062ff8c54e5057766dd068b4415940|4141
 Ufo Robo Dangar (4-07-1987).mra|d4796a0f9326803177e73505f4b07714|2740
 UFO Senshi Youko Chan [MC-8123, 317-0064].mra|0e791b859dec9d192a3ea9216f3ffd37|2450
 Ultra Tank.mra|02c12aca55973591114b24b226ad807e|1608
