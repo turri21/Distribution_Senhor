@@ -85,6 +85,7 @@ Bradley Trainer.mra|5527a712cf8d3ce13ca12687cf18b32f|1704
 Brain.mra|a91cb587e7205b66b73474f422cbb680|2224
 Break Thru (World).mra|42bb51e104006ef97f7c24584222b38d|45928
 Breakout (TTL).mra|649745b79d2fc5c7fb3e5de393f8c97a|1273
+Bubble 2000.mra|9f5df694c90532004eb6978804558871|3088
 Bubbles.mra|5f171c6c75aab7337db34b19bcaaf0fd|4096
 Buck Rogers Planet of Zoom (not encrypted, set 1).mra|a314942f00646b3dcb474ef017722e95|2172
 Bucky O'Hare.mra|8987215a754876c3786e030112264253|3005
@@ -237,6 +238,7 @@ Grasspin (Jaleco).mra|4c5221431ccf2c904cc6dfb5225bd778|2567
 Gravitar (Ver 3).mra|f34a947f80d79452179acfa51411f8a2|2645
 Grobda (W, New Ver.).mra|331b8e102c4bb9d7588859cff9fdd6cb|3031
 Growl (World, Rev 1).mra|907ef30cd1afaa685073093deb4afdfa|2388
+Guardian Storm (horizontal, not encrypted).mra|c46eee0c36431419b675ea22bdf8c35b|3694
 Gulf War II (set 1).mra|502c63f046b6f08f634ebdf2c2346fb8|4303
 Gun & Frontier (World).mra|1a59a3ead17e313ad612aa1fd0d52cf9|2333
 Gun Fight.mra|e7b409f61117f5fcc668686e92503311|5833
@@ -345,6 +347,7 @@ Magical Spot.mra|bccf9173829ad66983c7d607ce9c101a|1290611
 Magical Tetris Challenge (981009 Japan).mra|45b16a2163777ba9cec958b84d93d2d4|2410
 Major Havoc.mra|ea263bfb349280f86f735d7bb380d8cd|3795
 Major Title 2 (World, set 1).mra|54cb615858bf9e068b2831dc4db91fb3|4393
+Mang-Chi.mra|be0dfbbad2a3f87999765eb11cdb435f|3576
 Many Block.mra|826dfcd03f6661f718cd1e70df2a1e8a|3874
 Mappy (US).mra|9d060fa681ee87de8c4e639e97042307|1995
 Marble Madness (set 5 - LSI).mra|b374dfd10bc058a6d3a33fe2ecdcd5de|6633
@@ -446,6 +449,7 @@ Pong (Rev E).mra|f2b49129a5da3c868bcf171d73ac1365|911
 Ponpoko.mra|0f9e69f0ad704d13f60512b57a7f3d0c|2451
 Pooyan.mra|6241e4a3c1449c3f46274fa7615fb7ff|1547
 Pop Flamer (Bootleg conversion).mra|251442f0911469a13d08508bafb40c68|1821
+Pop's Pop's.mra|16b214614f2363e059fd2fcae5002aed|3278
 Popeye (Rev D).mra|64d8bea1c0a20514ce05233a697f6015|2091
 Port Man (bootleg on Moon Cresta hardware).mra|4632df7a74b950ccb5678b67406eeab4|1858
 Portman (Galaxian Hardware).mra|26b996cde00768ba7f08fe4b8ac5182a|1820
@@ -555,6 +559,7 @@ Space Seeker.mra|6a2617796815c7498662482ce005f170|2233
 Space Zap.mra|28f93b3ead530925c876ec00861045eb|1581
 Spatter (315-5xxx).mra|6daa83a912da477a928a2d6cb4622ac8|2918
 Spectar.mra|40ac08fe8894bc2f5df6c83894bc75eb|1572
+Spectrum 2000 (vertical, Korea).mra|be6bf6a28a8d12c79c77f5b900d8c2a2|3126
 Speed Coin.mra|960df4cc6301d5530594987ca3f18fe9|2239
 Spelunker II - 23 no Kagi (JP).mra|e0c4bd97e6cddc2973be8d8328ef2c35|4203
 Spelunker.mra|02d484d8687c893c8fa072ddc84a3c3b|4612
@@ -566,6 +571,7 @@ Squash (Gaelco, V.010).mra|8e95f85c8b8fc58f89e4ee01e7da57f6|2612
 Squash.mra|3d6eb94999d59a5c6d2c0f706faced28|2116
 SRD Mission.mra|4fce5f5980141dcdd32bf152d448b914|3235
 Stadium Cross (World).mra|60dc898f6f7de10f11894244c4c5bcb9|2709
+Stagger I (Japan).mra|bb2da6b5fa1b42a938d5d45e99d113aa|4095
 Star Gladiator 2 - Nightmare of Bilstein (Japan).mra|c14e9134dced66c864faf4648089ebc5|1895
 Star Gladiator Episode I - Final Crusade (USA).mra|376f9a39348435edd826aabb05736de8|3253
 Star Guards.mra|c213b8a8865c09be3175f751d7c4e329|1990
