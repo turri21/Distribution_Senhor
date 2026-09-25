@@ -13,6 +13,7 @@
 [INFO]New Cores: SGIIndy_Senhor_20260905.rbf, NeXT_Senhor_20260905.rbf[/INFO]
 [INFO]New Cores: Escape_Senhor_20260903.rbf, NGPC_Senhor_20260902.rbf[/INFO]
 [INFO]Updates: PC88_Senhor_20260924.rbf, Intv_Senhor_20260923.rbf[/INFO]
+[INFO]Updates: Intv_Senhor_20260925.rbf[/INFO]
 [INFO]Updates: KillerInstinct_Senhor_20260920.rbf, ZX-Spectrum_Senhor_20260918.rbf[/INFO]
 [INFO]Updates: NeXT_Senhor_20260917.rbf, MacLC_Senhor_20260916.rbf[/INFO]
 [INFO]Updates: Apple-II_Senhor_20260916.rbf, PC88_Senhor_20260911.rbf[/INFO]
