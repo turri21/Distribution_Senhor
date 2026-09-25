@@ -2,13 +2,13 @@
 4D Warriors (315-5162).mra|f3aa3fe68cb0cff7fcb73764f7f951b2|3167
 720 Degrees (rev 4).mra|28301575cec4ce3842011b50c11ac535|8273
 A.B. Cop (World).mra|4c203fd7f6881c2d8020e76366c25ea9|3948
-Acrobat Mission.mra|589d77ea63cb8f64827e9630477f8372|3878
+Acrobat Mission.mra|5de853beb5e4fc5d19eda42611b3273d|4346
 Act-Fancer (World rev 3).mra|3f00523b6d89c975a93465e87dfaf048|5475
 After Burner (Ver 1.32).mra|164e4f27fa7765bf01cfee167ccddaf4|3699
 After Burner II.mra|ae4f5c27e1a2fbe744253f437235bd93|3717
 Ah Eikou no Koshien (Japan).mra|590b0b9816637049c4a1ac20d618ed15|2550
 Air Assault (World).mra|794de9ce9881edaddf37439278572ae6|3845
-Air Attack (set 1).mra|d808de160d297a822c1960e7ed5900aa|4008
+Air Attack (set 1).mra|db2937bec95e036113f71bc7d3d6d1b8|4476
 Air Duel (World, M72 hardware).mra|6db3376e5a00f070ef70a4d7d3cfc796|3144
 Air Gallet (Europe).mra|57cce0b8145c9d11d3eec8b3f3b465fc|1572
 Airwolf.mra|6d784748a10f5a14a1fe0ae16aa38b24|4997
@@ -74,7 +74,7 @@ Blue Shark.mra|7d3b3d44618516ef8750773414c3bd59|825681
 Bomb Jack.mra|3a24c7e7aa38beb3bb93645a3fb4f949|2449
 Bomber Man - Dyna Blaster.mra|4c295c893de3d89994735ccb483fdfdd|3653
 Bomber Man World - New Dyna Blaster - Global Quest.mra|e4c2ab2d79739eabebe99b3cb9719610|3639
-Bombjack Twin (set 1).mra|b55c874bbe0a68ab94649b6ae0e8317a|3850
+Bombjack Twin (set 1).mra|a1dafa45490ee3f2bb3c4c338897ffc7|4318
 Bonanza Bros.mra|d761a9cc517e4bd343a987823ba85cf6|1722
 Bonze Adventure (World, rev 1).mra|c3a34068aa047a25bef70c8407ef82ba|5413
 Boogie Wings (Euro v1.5, 92.12.07).mra|4aac42a3e18a6ad4d98b20e9b513da7f|3586
@@ -155,7 +155,7 @@ Do! Run Run.mra|7588749da69d0351e288df3808f09106|2211
 DoDonPachi (World, 1997 25 Master Ver.).mra|6fe472f1619d62af13bc6cc5e573a5a7|1670
 DoDonPachi II - Bee Storm (World, ver. 102).mra|137aa6031b7fd9ea32acf3b73c51653b|2050
 DoDonPachi III (World, 2002.05.15 Master Ver).mra|e44251b61b49c6a981a4c254aebb536f|4018
-Dolmen.mra|2512c9aae196d2dbaae9fd2f9cd40218|3963
+Dolmen.mra|ffcaed34ff941a2f6f77efcf31ad9558|3964
 Domino Man.mra|5bf14e3485f4aba90dee925acccfbe39|2225
 Dominos.mra|060678a56697adc99a47a8e4d122fefa|1310
 Don Doko Don (World, rev 1).mra|b48258f778e040f6f61148d7a0e091d9|2282
@@ -242,7 +242,7 @@ Gun & Frontier (World).mra|1a59a3ead17e313ad612aa1fd0d52cf9|2333
 Gun Fight.mra|e7b409f61117f5fcc668686e92503311|5833
 Gun Force II (US).mra|7d492fb4333e0e6c9c9963bde318df01|4967
 Gunforce - Battle Fire Engulfed Terror Island (World).mra|2a306abd671c2e41d78bebff1fb2edc8|5150
-GunNail (28th May. 1992).mra|42133d5f6c4e52b25dbc3cd0d8cc9094|4185
+GunNail (28th May. 1992).mra|57667dac059532c2df6ce9ad7cc522e7|4653
 Guwange (Japan, 1999 624 Master Ver 1655).mra|0a10a0ab94c84ebe5469e480e5d5138b|1760
 Guwange.mra|07cd2689315439b09dfe726cc8ed70d6|1724
 Gyrodine.mra|b5022c2cb35b51c14a6f661fe4aa6120|4211
@@ -345,7 +345,7 @@ Magical Spot.mra|bccf9173829ad66983c7d607ce9c101a|1290611
 Magical Tetris Challenge (981009 Japan).mra|45b16a2163777ba9cec958b84d93d2d4|2410
 Major Havoc.mra|ea263bfb349280f86f735d7bb380d8cd|3795
 Major Title 2 (World, set 1).mra|54cb615858bf9e068b2831dc4db91fb3|4393
-Many Block.mra|4b78a384482cd748647034518058fb80|3405
+Many Block.mra|826dfcd03f6661f718cd1e70df2a1e8a|3874
 Mappy (US).mra|9d060fa681ee87de8c4e639e97042307|1995
 Marble Madness (set 5 - LSI).mra|b374dfd10bc058a6d3a33fe2ecdcd5de|6633
 Marble Madness II (prototype).mra|c43056632f9f843cd487dd7238519927|1800
@@ -460,7 +460,7 @@ PuLiRuLa (World, dual PCB).mra|a105f7f4adcf2bd7c9a8d19b48fe7907|2294
 Pulsar.mra|96d15ee019782230759948aaf6f41335|2327539
 Puzzle Star (ver. 100MG, WORLD).mra|a36dc2e4ecb39eac7b40e2bb5c43efe0|12683
 Puzzle Uo Poko (World).mra|49a7dc48fc23cc7e8b8b9aa49de530a6|1023
-Puzzle World.mra|13711dae9389e85bce20e316f5a478e5|3126
+Puzzle World.mra|4def24bd92d7eb50f7fa4dda92d38ec7|3127
 Puzzli 2 (ver. 100, WORLD).mra|c4b001df773d3aff46e19f02eadf6bc9|9839
 Puzzli 2 Super (ver. 200, WORLD).mra|154bc34a89254e1ddfb710fe4679846b|9402
 Q'bert (US, Set 1).mra|c45cdffef8b554bc44801e79f5327ab6|2111
@@ -498,7 +498,7 @@ Rod-Land (World, Set 1).mra|256cf6e657887d332f30f443b464fc56|3250
 Rush'n Attack - Green Beret.mra|f03ae7c0584d41cf110fd3999688c53f|3102
 Rygar.mra|fd34f05f4e451ac219f9096d4f23d2d1|2689
 S.O.S..mra|6e3624f052a82d53b0aae0f3efa56494|1466
-S.S. Mission.mra|04306c24fda7fff6a36471ef405dd85a|3957
+S.S. Mission.mra|25caac470dde4309d91ed449826ab678|4425
 S.V.G. - Spectral vs Generation (ver. 200).mra|38f9d2ac7116351fe4780ed2a64e7cab|3897
 Saboten Bombers (set 1).mra|816f3b78a845f9088649fe42e6c8db97|3834
 Saint Dragon (Set 1).mra|03763b0f572cd2f75a387b749dd6c276|3486
@@ -597,7 +597,7 @@ Super Pac-Man.mra|955f0f85bd05881e5e7ffd9fd6bf3480|3014
 Super Pierrot.mra|0253ff3802a11be2bdcfdf898eb61b7a|2179
 Super Real Mahjong VS (Rev A).mra|2426cb381457244333b70d9a33d2c7dd|2126
 Super Space Invaders '91 (World, revised code, Rev 1).mra|dc9efc3452c027b10fc15042cb30e5c8|2059
-Super Spacefortress Macross - Chou-Jikuu Yousai Macross.mra|61caaa201f7bf3ea2675bea11e518a42|3665
+Super Spacefortress Macross - Chou-Jikuu Yousai Macross.mra|f61eec3680fbc8344ae2e83cc9980eca|4133
 Super Sprint (rev 4).mra|e2cf59d4a7addd0fa5c9e6a688f68d96|4844
 Super Xevious.mra|efc5d1e55163d7cab7e291ce02a1e996|2816
 Super Zaxxon (315-5013).mra|52c540ce13259796679b91970a3c36eb|2403650
@@ -607,7 +607,7 @@ Tac-Scan.mra|146e074e8fc5c33a6162e96824c86610|3107
 TankBattalion.mra|485c2700860f482ea44645660e1c1e07|720
 Tapper (Budweiser, 840127).mra|d622b7eca7238d2842746452b274e613|2641
 TARG.mra|547e7397f77d0ab2c8e644f782f30e66|1600
-Task Force Harrier.mra|f88bc49ef3f7b003194e0f4f370d6bbd|3339
+Task Force Harrier.mra|b914949aa225be0db6b463cbd936fd6d|3811
 Tatakae! Big Fighter (Japan).mra|55826aeef5a31fbe0c1bcd63cf102532|2847
 Tazz-Mania (Set 1).mra|9123df44bcfabca4c547db0134201bb3|2216
 Tech Romancer (USA).mra|c88614ea9a7882497df3be55aacfc8a2|1916
@@ -635,7 +635,7 @@ The Ninja Kids (World).mra|4247c4cd10c2bad613248f1104b3261e|2353
 The Ninja Warriors (World).mra|7cd9b04b1eed2cdeba7f009296257ca1|3328
 The Tower of Druaga.mra|a2efee884695b71252b0e8304d4b791f|1938
 Thunder Blade (upright).mra|91506103649a799422b697f6a977baf7|4125
-Thunder Dragon (8th Jan. 1992, unprotected).mra|f3f74a53a68f3549b617c8bdbeb5b928|3928
+Thunder Dragon (8th Jan. 1992, unprotected).mra|6a7275fc13b6cd62df614d09c2c77d56|4396
 Thunder Fox (World, rev 1).mra|8b35bcf205e8197d539900da8583f8d0|2858
 Thunder Heroes (set 1).mra|c62eef01733b9cccb39ffb75bcd77e78|2114
 Thunder Heroes.mra|1bfb424667e62894468543e3c6aba267|2072
@@ -670,7 +670,7 @@ Turbo Tag (Prototype).mra|5c87ca136495ea601a53b76a449d9f6d|2578
 Turkey Shoot - The Day They Took Over.mra|332ef9138d3d43095a5f2344ca81d04d|2549
 Turtles.mra|172b77da1307411f4b365b4c2540faa8|2227
 Tutankham.mra|82cd105fe260586f2dd679ad2e366544|2582
-Twin Action.mra|9ff8178b2d487d864495f06a5b2bbe6a|4064
+Twin Action.mra|036bd38075a9f8cfb9ad6688dd393345|4065
 TwinBee (Bubble System).mra|ab9a462d64d6263074068a6facdc5d42|2383
 TwinBee.mra|70cf7a5faea9689aeb51075b78e2e0ef|2405
 Two Tigers (Tron Conversion).mra|76443434ce390740107a9d9fdccf38e8|2739
@@ -684,7 +684,7 @@ Up'n Down.mra|9af53712b09c4762886f91c82e7152b3|2887
 US AAF Mustang (25th May. 1990).mra|09743bdf9056b2c5dfe5aece3ed7adba|3932
 V'Ball (US).mra|98343be6c1c75616276234b7c360f87d|2278
 Van-Van Car.mra|a7e6d131d1ef4f7a8d51ef8517322f04|2472
-Vandyke (Japan).mra|188514e7b9989062a7344a9794de37e1|4178
+Vandyke (Japan).mra|11f7dbd6e4ba1dd773d0e69e6c7006b9|4646
 Vanguard.mra|d68be44da74771f01bbf3fb93a33fe38|2194
 Vastar.mra|42818e527adf45186b12c742e8be54f6|3138
 Venture Revision 5.mra|9f4fa6f2c4218d0624d625a9d35303ad|1774
