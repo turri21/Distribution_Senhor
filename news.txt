@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 25/9/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: NMK16_Afega_Senhor_20260925.rbf[/INFO]
 [INFO]New Cores: NMK16_Macross2_Senhor_20260926.rbf, TaitoAsuka_Senhor_20260924.rbf[/INFO]
 [INFO]New Cores: Badlands_Senhor_20260923.rbf, PolePosition_Senhor_20260923.rbf[/INFO]
 [INFO]New Cores: Vindicators_Senhor_20260918.rbf, Blasteroids_Senhor_20260918.rbf[/INFO]
