@@ -50,6 +50,7 @@ Batsugun.mra|2675c2e0104ed1192e531533bddb36fb|2257
 Battle Arena Toshinden 2 (USA).mra|4c282eb13362f836faeb8d0bb5ab4b52|2338
 Battle Bakraid - Unlimited Version Special Ver. (USA) (Tue Jun 8 1999).mra|9ff38276c2b5b9509e2aaa615de9a42e|5128
 Battle Garegga (Europe - USA - Japan - Asia) (Sat Feb 3 1996).mra|a5e3b3d57db9db4e83e8691b4546f2b3|4002
+Battle K-Road.mra|bd1e7a8cb045d04c29e8f1576a7b0d9f|2674
 Battle of Atlantis.mra|0a1383a945d7edce8c9f05e180f84c17|2816
 Battle Zone rev 2.mra|793079b31cb8ff0d40edd68d24afb729|1758
 Berzerk.mra|97d688e4b2bf3c2d1c44548579b8b593|1868
@@ -243,6 +244,7 @@ Gulf War II (set 1).mra|502c63f046b6f08f634ebdf2c2346fb8|4303
 Gun & Frontier (World).mra|1a59a3ead17e313ad612aa1fd0d52cf9|2333
 Gun Fight.mra|e7b409f61117f5fcc668686e92503311|5833
 Gun Force II (US).mra|7d492fb4333e0e6c9c9963bde318df01|4967
+Gunbird (World).mra|90487f82c43695c519043738a3422bf1|2641
 Gunforce - Battle Fire Engulfed Terror Island (World).mra|2a306abd671c2e41d78bebff1fb2edc8|5150
 GunNail (28th May. 1992).mra|57667dac059532c2df6ce9ad7cc522e7|4653
 Guwange (Japan, 1999 624 Master Ver 1655).mra|0a10a0ab94c84ebe5469e480e5d5138b|1760
@@ -510,6 +512,7 @@ Saboten Bombers (set 1).mra|816f3b78a845f9088649fe42e6c8db97|3834
 Saint Dragon (Set 1).mra|03763b0f572cd2f75a387b749dd6c276|3486
 Salamander (version D).mra|24e4a8b3fb1a16fd5b2d4db5a482db14|2309
 Same! Same! Same! (2P Set).mra|b8fbc37aaeaa079e53746de23c950efa|2886
+Samurai Aces (World).mra|fae0315f48ad53766cf6813b4ba963d5|2484
 SAR - Search And Rescue (World).mra|28f37047a1b74a686b9c37488574cbc7|2891
 Sarge.mra|bedf823e04451e6487a87df847cb9909|2064
 Sasuke.mra|0db33dca153e4b7e5e209bf23b83f9db|2021
@@ -592,6 +595,7 @@ Street Fighter EX2 Plus (USA).mra|c354065e36d245e7536bbeaab9a3edda|1912
 Street Smart (US Version 2).mra|8f6225eefbedb28138ab9c6e04d73c4f|2750
 Strider 2 (USA).mra|611005d792499a69e77a20fa83c8fe7d|2021
 Strider Hiryu 2 (Japan).mra|ea1b8235cb46bdaba52de3b734b47985|2017
+Strikers 1945 (World).mra|0ba211bd0426758fb63025ec9be7e8f1|2672
 Subs.mra|309e8ed8fe8e08a587e4664c5d3721a3|288510
 Super Bagman.mra|c8d1138e89819416db1200316f98f93e|2945
 Super Breakout (Rev 04).mra|9866582e8d1e8633faa10b5d71585a73|1381
@@ -625,6 +629,7 @@ Teki Paki.mra|19fea16686958633fb1568d18fdc2d97|2075
 Tekken (TE2 Ver.C).mra|ebe4faac371556dc1332ac510f3f8b85|2775
 Tekken 2 Ver.B (TES2-VER.D).mra|b537e8a28e411aafde7d2c36ccdeba33|2488
 Tempest.mra|b9e481475afb9696221849d2fee8bed8|2890
+Tengai (World).mra|7b07c62d077277b5f6555e597139ee30|2227
 Terra Cresta (YM3526 set 1).mra|d57c8f60ef01f6e6124a10d05060b0fb|2687
 Terra Force (Japan).mra|92922205fc2d7162b0f67beaca112ea2|2961
 Tetris (Japan, System E).mra|a350670ae978e95a45aef0380ac5c7c4|2027
