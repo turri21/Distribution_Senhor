@@ -454,6 +454,7 @@ Popeye (Rev D).mra|64d8bea1c0a20514ce05233a697f6015|2091
 Port Man (bootleg on Moon Cresta hardware).mra|4632df7a74b950ccb5678b67406eeab4|1858
 Portman (Galaxian Hardware).mra|26b996cde00768ba7f08fe4b8ac5182a|1820
 Power Drive.mra|0563b2918e44152d3ff17e319aae609f|2215
+Power Instinct (USA).mra|1e6e0fc7c95c043ff0e5c2875057a3da|5651
 Power Instinct 2 (US, Ver. 94.04.08, set 1).mra|94feda91d181e1b58f895083a75a4d5a|2629
 Prehistoric Isle in 1930 (World).mra|ca006fd2f090bdd4ee48652ba4374feb|2291
 Pretty Soldier Sailor Moon (Version 95-03-22B, Europe).mra|00e83bda4f6484e842102c3a9b694f5d|2202
@@ -604,6 +605,7 @@ Super Pierrot.mra|0253ff3802a11be2bdcfdf898eb61b7a|2179
 Super Real Mahjong VS (Rev A).mra|2426cb381457244333b70d9a33d2c7dd|2126
 Super Space Invaders '91 (World, revised code, Rev 1).mra|dc9efc3452c027b10fc15042cb30e5c8|2059
 Super Spacefortress Macross - Chou-Jikuu Yousai Macross.mra|f61eec3680fbc8344ae2e83cc9980eca|4133
+Super Spacefortress Macross II - Chou-Jikuu Yousai Macross II.mra|269a7ee23f3e4ae20ecedadf5a030616|8254
 Super Sprint (rev 4).mra|e2cf59d4a7addd0fa5c9e6a688f68d96|4844
 Super Xevious.mra|efc5d1e55163d7cab7e291ce02a1e996|2816
 Super Zaxxon (315-5013).mra|52c540ce13259796679b91970a3c36eb|2403650
@@ -642,6 +644,7 @@ The Ninja Warriors (World).mra|7cd9b04b1eed2cdeba7f009296257ca1|3328
 The Tower of Druaga.mra|a2efee884695b71252b0e8304d4b791f|1938
 Thunder Blade (upright).mra|91506103649a799422b697f6a977baf7|4125
 Thunder Dragon (8th Jan. 1992, unprotected).mra|6a7275fc13b6cd62df614d09c2c77d56|4396
+Thunder Dragon 2 (9th Nov. 1993).mra|2a78dc7723ce8e241071bd0442eaaca7|7713
 Thunder Fox (World, rev 1).mra|8b35bcf205e8197d539900da8583f8d0|2858
 Thunder Heroes (set 1).mra|c62eef01733b9cccb39ffb75bcd77e78|2114
 Thunder Heroes.mra|1bfb424667e62894468543e3c6aba267|2072
