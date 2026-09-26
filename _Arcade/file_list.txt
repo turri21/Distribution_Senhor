@@ -240,6 +240,7 @@ Gravitar (Ver 3).mra|f34a947f80d79452179acfa51411f8a2|2645
 Grobda (W, New Ver.).mra|331b8e102c4bb9d7588859cff9fdd6cb|3031
 Growl (World, Rev 1).mra|907ef30cd1afaa685073093deb4afdfa|2388
 Guardian Storm (horizontal, not encrypted).mra|c46eee0c36431419b675ea22bdf8c35b|3694
+Guardians (Denjin Makai II).mra|e0a6291a7fb51c28c3d845c74dd5f322|4307
 Gulf War II (set 1).mra|502c63f046b6f08f634ebdf2c2346fb8|4303
 Gun & Frontier (World).mra|1a59a3ead17e313ad612aa1fd0d52cf9|2333
 Gun Fight.mra|e7b409f61117f5fcc668686e92503311|5833
