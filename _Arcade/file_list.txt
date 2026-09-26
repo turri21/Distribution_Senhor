@@ -37,6 +37,8 @@ Asterix (FF ver EAD).mra|427ca5286cdb75e65ac9d877cd914577|3622
 Asteroids.mra|4c310383bca5ecca72fab53c1fa5f27d|671
 Astro Flash (Japan).mra|e38dc44262e3b5046927270d495293ef|3163
 Asuka & Asuka (World).mra|a25fc4175dc74ec75fa61815e4e4e6c8|5263
+Asura Blade - Sword of Dynasty (Japan).mra|6c9c928849590d81312809637b397fa9|3192
+Asura Buster - Eternal Warriors (USA).mra|d7651e1f35b8373b57633f514ba97cbc|3309
 Athena.mra|b137674a642cf2f4ce9e4f591db69557|3191
 Attack Force.mra|bcb6c4a40c35fd465ae0e19bd7f027b7|5972
 Azurian Attack.mra|1cd03cae96dc0e5996292e70a7092c74|1971
@@ -250,6 +252,7 @@ Gunforce - Battle Fire Engulfed Terror Island (World).mra|2a306abd671c2e41d78beb
 GunNail (28th May. 1992).mra|57667dac059532c2df6ce9ad7cc522e7|4653
 Guwange (Japan, 1999 624 Master Ver 1655).mra|0a10a0ab94c84ebe5469e480e5d5138b|1760
 Guwange.mra|07cd2689315439b09dfe726cc8ed70d6|1724
+Gyakuten!! Puzzle Bancho (Japan, set 1).mra|abab63e42164b7a15062d9a6d64a196a|2247
 Gyrodine.mra|b5022c2cb35b51c14a6f661fe4aa6120|4211
 Gyruss.mra|8261b55ad9182d5ee028fec662e75d7b|2817
 Hacha Mecha Fighter (19th Sep. 1991, protected, set 1).mra|219d4f9f3c261b375a53aff029da8b9a|4019
@@ -616,6 +619,7 @@ Super Sprint (rev 4).mra|e2cf59d4a7addd0fa5c9e6a688f68d96|4844
 Super Xevious.mra|efc5d1e55163d7cab7e291ce02a1e996|2816
 Super Zaxxon (315-5013).mra|52c540ce13259796679b91970a3c36eb|2403650
 Superior Soldiers (US).mra|f24eb79fa0612ed98efe5f949297f467|5938
+Susume! Mile Smile - Go Go! Mile Smile (newer).mra|2d0dd0cff40bd5841bd697f8fc28d74a|2221
 Swat (315-5048).mra|463cfa69c7001ac15db46d08aea06dce|2945
 Tac-Scan.mra|146e074e8fc5c33a6162e96824c86610|3107
 TankBattalion.mra|485c2700860f482ea44645660e1c1e07|720
