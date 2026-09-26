@@ -203,6 +203,7 @@ NightSlashers_Senhor_20260720.rbf
 NinjaKun_Senhor_20260207.rbf
 NMK16_Afega_Senhor_20260925.rbf
 NMK16_Gunnail_Senhor_20260925.rbf
+NMK16_Macross2_Senhor_20260926.rbf
 opwolf_Senhor_20260719.rbf
 Pacman_Senhor_20260714.rbf
 Pengo_Senhor_20260205.rbf
