@@ -28,7 +28,7 @@ Genesis_Senhor_20250629.rbf
 GnW_Senhor_20260115.rbf
 Intv_Senhor_20260925.rbf
 Jaguar_Senhor_20260813.rbf
-Loopy_Senhor_20260916.rbf
+Loopy_Senhor_20260927.rbf
 MegaDuck_Senhor_20250811.mgl
 MegaCD_Senhor_20260327.rbf
 MegaDrive_Senhor_20260331.rbf
