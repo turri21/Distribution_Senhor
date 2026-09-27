@@ -18,7 +18,7 @@
 [INFO]Updates: PC88_Senhor_20260924.rbf, Intv_Senhor_20260923.rbf[/INFO]
 [INFO]Updates: FM-7_Senhor_20260927.rbf, Intv_Senhor_20260925.rbf[/INFO]
 [INFO]Updates: KillerInstinct_Senhor_20260920.rbf, ZX-Spectrum_Senhor_20260918.rbf[/INFO]
-[INFO]Updates: NeXT_Senhor_20260917.rbf, MacLC_Senhor_20260916.rbf[/INFO]
+[INFO]Updates: NeXT_Senhor_20260927.rbf, MacLC_Senhor_20260916.rbf[/INFO]
 [INFO]Updates: Apple-II_Senhor_20260916.rbf, PC88_Senhor_20260911.rbf[/INFO]
 [INFO]Updates: MacQuadra800_Senhor_20260911.rbf, MacPlus_Senhor_20260911.rbf[/INFO]
 [INFO]Updates: Minimig_Senhor_20260910.rbf, NeXT_Senhor_20260910.rbf[/INFO]
