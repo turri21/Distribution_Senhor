@@ -105,6 +105,8 @@ Cavelon.mra|7def2969bcfc41f7ba6eee714d2b6e14|1908
 Caveman Ninja (World ver 4).mra|5244050759938f02b7a36e1e03af7fab|6783
 Centipede (Rev 4).mra|2857a5b6415f8844fad454e4d388ea1d|1944
 Chameleon.mra|e4410d2f4057ce065436a7e9de5aa06a|2572
+Champion Base Ball Part-2.mra|963c06f936b6499c6d65c0ec4d800d06|3518
+Champion Base Ball.mra|20fd229c94ab703b940069a489eefa2a|3271
 Championship Sprint (rev 3).mra|0848c5ca145f8731bf9a20f2d2706eca|4604
 China Gate (US).mra|7e23415f53f3b83713d7ceff23563ee6|4083
 Choplifter (unprotected).mra|086bb65a270cfac61e1fe8ef6b5702e5|2370
@@ -188,6 +190,8 @@ Escape from the Planet of the Robot Monsters (set 1).mra|0aa5ba61646f750901d721f
 ESP Ra.De. (World 1998 422 International Ver).mra|5fe6dc199b7cb344966a540a749f76e4|1743
 Espgaluda (2003.10.15 Master Ver).mra|d7d5a49d04f7f03c5099c13a69078952|3934
 Euro Champ '92 (World).mra|34455673572f86b62b472b8103e1cd90|2410
+Exciting Soccer II.mra|7e3a3096f6ac246bb115fd09ab196c0c|4141
+Exciting Soccer.mra|4f79c1c2281bdf72fc381c62b633c10c|3842
 Exerion (Taito).mra|37fcfe36c33201f62cc514111f47c1cb|1977
 Express Raider.mra|1cb102fa97b8fcde9d7d05f76b28d59c|2530
 Extra Bases.mra|980266f53bbcec18c58bdc15f60eae90|503501
@@ -622,6 +626,7 @@ Superior Soldiers (US).mra|f24eb79fa0612ed98efe5f949297f467|5938
 Susume! Mile Smile - Go Go! Mile Smile (newer).mra|2d0dd0cff40bd5841bd697f8fc28d74a|2221
 Swat (315-5048).mra|463cfa69c7001ac15db46d08aea06dce|2945
 Tac-Scan.mra|146e074e8fc5c33a6162e96824c86610|3107
+Talbot.mra|3c10f27c38d9d11e05a87ff1d298a03b|2880
 TankBattalion.mra|485c2700860f482ea44645660e1c1e07|720
 Tapper (Budweiser, 840127).mra|d622b7eca7238d2842746452b274e613|2641
 TARG.mra|547e7397f77d0ab2c8e644f782f30e66|1600
