@@ -16,6 +16,7 @@
 [INFO]New Cores: RingKing_Senhor_20260907.rbf, MacQuadra800_Senhor_20260905.rbf[/INFO]
 [INFO]New Cores: SGIIndy_Senhor_20260905.rbf, NeXT_Senhor_20260905.rbf[/INFO]
 [INFO]New Cores: Escape_Senhor_20260903.rbf, NGPC_Senhor_20260902.rbf[/INFO]
+[INFO]Updates: NeXT-Color_Senhor_20261001.rbf[/INFO]
 [INFO]Updates: Apple-II_Senhor_20261001.rbf, Loopy_Senhor_20260927.rbf[/INFO]
 [INFO]Updates: PC88_Senhor_20260924.rbf, Intv_Senhor_20260923.rbf[/INFO]
 [INFO]Updates: FM-7_Senhor_20260927.rbf, Intv_Senhor_20260925.rbf[/INFO]
