@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 1/10/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: Leland_Senhor_20261002.rbf[/INFO]
 [INFO]New Cores: NeXT-Color_Senhor_20261001.rbf, Marty_Senhor_20260930.rbf[/INFO]
 [INFO]New Cores: ChampionBaseball_Senhor_20260930.rbf, Fuuki_Senhor_20260926.rbf[/INFO]
 [INFO]New Cores: Guardians_Senhor_20260926.rbf, Psikyo_Senhor_20260926.rbf[/INFO]
