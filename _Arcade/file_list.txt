@@ -471,6 +471,7 @@ Power Instinct (USA).mra|1e6e0fc7c95c043ff0e5c2875057a3da|5651
 Power Instinct 2 (US, Ver. 94.04.08, set 1).mra|94feda91d181e1b58f895083a75a4d5a|2629
 Prehistoric Isle in 1930 (World).mra|ca006fd2f090bdd4ee48652ba4374feb|2291
 Pretty Soldier Sailor Moon (Version 95-03-22B, Europe).mra|00e83bda4f6484e842102c3a9b694f5d|2202
+Primal Rage (version 2.3, Jan 1995).mra|b70fce47e2a7651e4770437889c05d0e|4419
 Prime Goal EX (PG1-VER.A).mra|5fdeab0b114dc04d8238c9cd25b6e20b|2090
 Psychic 5 (World).mra|95ce2707f545363ab129ad8a8f163bad|2407
 Puck Man (JP, Set 1).mra|d5097d23c2c2dea9f5f7254407e82c9b|3091
@@ -628,6 +629,7 @@ Super Zaxxon (315-5013).mra|52c540ce13259796679b91970a3c36eb|2403650
 Superior Soldiers (US).mra|f24eb79fa0612ed98efe5f949297f467|5938
 Susume! Mile Smile - Go Go! Mile Smile (newer).mra|2d0dd0cff40bd5841bd697f8fc28d74a|2221
 Swat (315-5048).mra|463cfa69c7001ac15db46d08aea06dce|2945
+T-MEK (v5.1, The Warlords).mra|1646e653f6aa86591110574d5aca353d|3517
 Tac-Scan.mra|146e074e8fc5c33a6162e96824c86610|3107
 Talbot.mra|3c10f27c38d9d11e05a87ff1d298a03b|2880
 TankBattalion.mra|485c2700860f482ea44645660e1c1e07|720
