@@ -291,6 +291,8 @@ Indiana Jones (set 4).mra|5d144f636705f752a8b411c0373ac778|7921
 Indoor Soccer.mra|301a581070f4c8a20d9241f318b3b291|2293
 Inferno (Williams).mra|7c9cbb9c04e77d03eca305bafedd735d|2103
 Iron Horse (Ver. K).mra|c4ba1a215a3b0b30224117af0e8ff51f|2883
+Ironman Ivan Stewart's Super Off-Road (rev 4).mra|3c762091d5108931d9e2fa8b12065acf|3102
+Ironman Ivan Stewart's Super Off-Road Track-Pak (rev 4).mra|53d777c994f2b9d1210019a90da9bdc9|3246
 Jack the Giantkiller (set 1).mra|ea8bc73f2b97536b1e538c294a0dc599|2062
 Jackal (W) [bl].mra|7afd3dd634502d5e6518e6b36c2b0b2f|2614
 Jackal (W).mra|9880aed8007aa9f37e8f06724dcf7989|2523
@@ -438,6 +440,7 @@ PGM (Polygame Master) System BIOS.mra|1594d596bb34f691f87d407f242025d9|1057
 Phoenix (Amstar, Set 1).mra|0b80e64db059efe9931b2587db978189|2259
 Photo Y2K (ver. 105).mra|6f8e9c351f90c7fbb14f5f924ea87ef4|2582
 Pickin'.mra|c40ebe31634c86f0d50e905d057705f0|2089
+Pig Out Dine Like a Swine! (rev 2).mra|3127353d2f890c97da68510778e52bb9|3465
 Pinball Action.mra|46e61500e3817344c84ba2e6ccc17059|1830
 Pioneer Balloon.mra|35c08b21a355235405998d8683cd8f9b|1918
 Pipi & Bibis - Whoopee!! (Z80 sound cpu, set 1).mra|c6a9273bf01565e693b249f097721fcb|2417
