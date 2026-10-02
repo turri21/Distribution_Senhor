@@ -182,6 +182,7 @@ Kyugo_Senhor_20260730.rbf
 LadyBug_Senhor_20260204.rbf
 LaserdiscGames_Senhor_20260914.rbf
 Legionnaire_Senhor_20260715.rbf
+Leland_Senhor_20261002.rbf
 LunarLander_Senhor_20240529.rbf
 magerror_Senhor_20260720.rbf
 moomesa_Senhor_20260730.rbf
