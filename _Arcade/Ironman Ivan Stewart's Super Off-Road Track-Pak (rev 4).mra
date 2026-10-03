@@ -61,14 +61,14 @@
 	</rom>
 
 	<!--
-	  Button labels: Nitro, Coin and Gas are J1 buttons 1-3. The fourth button,
-	  Menu Enter, acts as Blue Nitro and is used to choose items in the
-	  operator menu (manual p.17: Red Nitro selects, Blue Nitro enters). The
-	  menu itself is opened from the OSD ("Service Menu"), not from a
-	  controller button, so it can't be triggered by accident during play.
-	  Re-run "Define joystick buttons" in the OSD to map Menu Enter.
+	  Buttons are ordered player controls, then coin: Gas, Nitro, Menu Enter, Coin.
+	  Gas is digital here. Menu Enter acts as Blue Nitro and is used to choose items in the
+	  operator menu (manual p.17: Red Nitro selects, Blue Nitro enters). The menu itself is
+	  opened from the OSD ("Service Menu"), not from a controller button, so it can't be
+	  triggered by accident during play. Re-run "Define joystick buttons" in the OSD after
+	  updating, since the order changed.
 	-->
-	<buttons names="Nitro,Coin,Gas,Menu Enter"></buttons>
+	<buttons names="Gas,Nitro,Menu Enter,Coin"></buttons>
 
 	<nvram index="4" size="128"/>
 </misterromdescription>

@@ -39,6 +39,7 @@ Astro Flash (Japan).mra|e38dc44262e3b5046927270d495293ef|3163
 Asuka & Asuka (World).mra|a25fc4175dc74ec75fa61815e4e4e6c8|5263
 Asura Blade - Sword of Dynasty (Japan).mra|6c9c928849590d81312809637b397fa9|3192
 Asura Buster - Eternal Warriors (USA).mra|d7651e1f35b8373b57633f514ba97cbc|3309
+Ataxx (rev 5).mra|a804183342e66579a519099b60ee6265|2380
 Athena.mra|b137674a642cf2f4ce9e4f591db69557|3191
 Attack Force.mra|bcb6c4a40c35fd465ae0e19bd7f027b7|5972
 Azurian Attack.mra|1cd03cae96dc0e5996292e70a7092c74|1971
@@ -141,6 +142,7 @@ Crystal Castles.mra|ea9a5760de3d1b69226c14b50a254ff2|715
 D-Con.mra|2fd43945e89648da7d55dba47f3e224b|4247
 Dakkochan House (MC-8123).mra|818971dbd67902cebeaeac94b7840c30|2324
 Dancing Eyes (DC2-VER.B).mra|54b0fb116c589e3f813560e567987adc|2419
+Danny Sullivan's Indy Heat (rev 1).mra|9e54f1b826823c3575b2d2e7c2188529|3720
 Darius (World).mra|bdad8872f3c5db8782472637d26cf7bb|4322
 Darius II (Japan, rev 1).mra|ac3d2694a7012d0539d95439c02c60f0|3721
 Dark Planet.mra|124974270f3808972bf31979cf600578|2268
@@ -291,8 +293,8 @@ Indiana Jones (set 4).mra|5d144f636705f752a8b411c0373ac778|7921
 Indoor Soccer.mra|301a581070f4c8a20d9241f318b3b291|2293
 Inferno (Williams).mra|7c9cbb9c04e77d03eca305bafedd735d|2103
 Iron Horse (Ver. K).mra|c4ba1a215a3b0b30224117af0e8ff51f|2883
-Ironman Ivan Stewart's Super Off-Road (rev 4).mra|3c762091d5108931d9e2fa8b12065acf|3102
-Ironman Ivan Stewart's Super Off-Road Track-Pak (rev 4).mra|53d777c994f2b9d1210019a90da9bdc9|3246
+Ironman Ivan Stewart's Super Off-Road (rev 4).mra|7af186d99682f78133362de7575c5d87|3148
+Ironman Ivan Stewart's Super Off-Road Track-Pak (rev 4).mra|0fb042d811d993eb3e7482d9eb4932b2|3292
 Jack the Giantkiller (set 1).mra|ea8bc73f2b97536b1e538c294a0dc599|2062
 Jackal (W) [bl].mra|7afd3dd634502d5e6518e6b36c2b0b2f|2614
 Jackal (W).mra|9880aed8007aa9f37e8f06724dcf7989|2523
@@ -440,7 +442,7 @@ PGM (Polygame Master) System BIOS.mra|1594d596bb34f691f87d407f242025d9|1057
 Phoenix (Amstar, Set 1).mra|0b80e64db059efe9931b2587db978189|2259
 Photo Y2K (ver. 105).mra|6f8e9c351f90c7fbb14f5f924ea87ef4|2582
 Pickin'.mra|c40ebe31634c86f0d50e905d057705f0|2089
-Pig Out Dine Like a Swine! (rev 2).mra|3127353d2f890c97da68510778e52bb9|3465
+Pig Out Dine Like a Swine! (rev 2).mra|68855695ea70bb7500784ec45498929e|3329
 Pinball Action.mra|46e61500e3817344c84ba2e6ccc17059|1830
 Pioneer Balloon.mra|35c08b21a355235405998d8683cd8f9b|1918
 Pipi & Bibis - Whoopee!! (Z80 sound cpu, set 1).mra|c6a9273bf01565e693b249f097721fcb|2417

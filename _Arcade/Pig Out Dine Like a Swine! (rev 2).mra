@@ -61,18 +61,15 @@
 	</rom>
 
 	<!--
-	  Button labels: the core shares one set of OSD button names
-	  (Nitro, Coin, Gas, Start) across its games, and they are written for
-	  Super Off-Road. In Pig Out those four buttons are Button 1 (Jump),
-	  Button 2 (Throw), Start and Coin, so "Gas" is really Start and "Start"
-	  is really Coin. Start and Coin are mappable here because the game
-	  needs a coin input to leave attract mode.
+	  Buttons are ordered player controls, then coin, then start: Jump, Throw, Coin, Start.
+	  Coin is mappable because the game needs a coin input to leave attract mode.
 
-	  The operator menu is opened from the OSD ("Service Menu"), which
-	  presses P1 Start and Test for you; there is no Service button to map.
-	  Player 2 uses its own copies of these buttons.
+	  The operator menu is opened from the OSD ("Service Menu"), which presses P1 Start and
+	  Test for you; there is no Service button to map. Player 2 uses its own copies of these
+	  buttons. Re-run "Define joystick buttons" in the OSD after updating, since the order
+	  changed.
 	-->
-	<buttons names="Jump,Throw,Start,Coin"></buttons>
+	<buttons names="Jump,Throw,Coin,Start"></buttons>
 
 	<nvram index="4" size="128"/>
 </misterromdescription>
