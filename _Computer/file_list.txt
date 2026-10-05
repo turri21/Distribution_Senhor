@@ -49,7 +49,7 @@ microbee_Senhor_20260806.rbf
 Minimig030_Senhor_20260803.rbf
 Minimig_Senhor_20260910.rbf
 MultiComp_Senhor_20260812.rbf
-NewBrain_Senhor_20260930.rbf
+NewBrain_Senhor_20261006.rbf
 NeXT-Color_Senhor_20261001.rbf
 NeXT_Senhor_20260927.rbf
 ORAO_Senhor_20260109.rbf
