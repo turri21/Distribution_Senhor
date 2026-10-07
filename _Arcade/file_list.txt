@@ -722,6 +722,7 @@ Vandyke (Japan).mra|11f7dbd6e4ba1dd773d0e69e6c7006b9|4646
 Vanguard.mra|d68be44da74771f01bbf3fb93a33fe38|2194
 Vastar.mra|42818e527adf45186b12c742e8be54f6|3138
 Venture Revision 5.mra|9f4fa6f2c4218d0624d625a9d35303ad|1774
+Victory (Exidy).mra|be4d92f6cc065e2c87e841dfe11267c7|2265
 Victory Road.mra|38f0e786abee00b795e2efdaba6b7e02|3508
 Victory.mra|2307404fd177e2531dde205a969eb9cc|1969
 Vimana (Japan).mra|73b4c553ccecdb3a148f0728dcf2f678|2603
