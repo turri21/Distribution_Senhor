@@ -301,6 +301,7 @@ Ultratank_Senhor_20250129.rbf
 Universal_DoCastle_Senhor_20260730.rbf
 VBall_Senhor_20260210.rbf
 Vastar_Senhor_20260902.rbf
+Victory_Senhor_20261007.rbf
 Vimana_Senhor_20250504.rbf
 Vindicators_Senhor_20260918.rbf
 Xevious_Senhor_20260212.rbf
