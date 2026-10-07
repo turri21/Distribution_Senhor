@@ -1,6 +1,6 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New update_senhor.sh script v1.99[/INFO]
-[INFO]New MiSTer binary - 1/10/2026[/INFO]
+[INFO]New MiSTer binary - 7/10/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Rampart_Senhor_20261004.rbf, Batman_Senhor_20261004.rbf[/INFO]
 [INFO]New Cores: PrimalRage_Senhor_20261002.rbf, Leland_Senhor_20261003.rbf[/INFO]
