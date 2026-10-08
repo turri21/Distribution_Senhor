@@ -13,4 +13,5 @@ GBMidi_Senhor_20250212.rbf
 GenMidi_Senhor 20250209.rbf
 SlugCross_Senhor_20250210.rbf
 Tamagotchi_Senhor_20260516.mgl
+Teletext_Senhor_20261006.rbf
 TomyScramble_Senhor_20250212.rbf
