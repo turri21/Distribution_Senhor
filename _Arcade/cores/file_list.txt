@@ -280,6 +280,7 @@ TaitoAsuka_Senhor_20260924.rbf
 TaitoF2_Senhor_20260210.rbf
 TaitoSJ_Senhor_20260117.rbf
 TankBattalion_Senhor_20261006.rbf
+Tank_Senhor_20261010.rbf
 Tecmo_Senhor_20260309.rbf
 tekipaki_Senhor_20250501.rbf
 Tempest_Senhor_20260721.rbf
