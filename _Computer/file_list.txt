@@ -48,7 +48,7 @@ MacPlus_Senhor_20260911.rbf
 MacQuadra800_Senhor_20261005.rbf
 microbee_Senhor_20260806.rbf
 Minimig030_Senhor_20260803.rbf
-Minimig_Senhor_20260910.rbf
+Minimig_Senhor_20261014.rbf
 MultiComp_Senhor_20260812.rbf
 NewBrain_Senhor_20261012.rbf
 NeXT-Color_Senhor_20261001.rbf
