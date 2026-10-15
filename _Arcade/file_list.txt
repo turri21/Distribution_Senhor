@@ -550,6 +550,7 @@ Shuffleboard.mra|55afded87f6316c3275cb3afd40d86e9|1594
 Silkworm.mra|e609effb9006fb868b2b16133f3394f4|2542
 Silver Land.mra|42876ec7e25ec84cc7596020e0b5a413|1665
 Sinistar.mra|d053325e72d2b534b3a0f155559c929a|4421
+SkullXBones.mra|0ed434d34c78e8bb192b0f9b87dd2449|10123
 Sky Adventure (World).mra|55c310f9d9192a3eb10c534532647ec0|2386
 Sky Skipper.mra|fd48b0aa21c8ee39eddb8c5dbf384c99|2429
 Sky Smasher.mra|4b54fe7ea2f6fc50b1d06de495705edb|4357
