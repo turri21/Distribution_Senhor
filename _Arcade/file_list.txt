@@ -31,6 +31,7 @@ Arkanoid (US).mra|ddaf972c6f65ded4be3b93b5dd3e7e00|2539
 Arkanoid (W).mra|21d9724d9e7bfd9ccb5100035d4399bb|2554
 Armed F (Japan).mra|5d088c6ec9d1e573d74bbf189e93c687|2889
 Armed Police Batrider Special Ver. (USA) (Fri Feb 13 1998).mra|2870dd526a36d635e6990c7e2a3ccbfe|6251
+Armor Attack.mra|9542560d3a3dad3b0df3f3f2e645acd9|1801426
 Armored Car.mra|8eaec488ef68f6b57514303e466cae38|2367
 ASO.mra|9aaa8d9304d2a3e6474e38a868179127|3288
 Asterix (FF ver EAD).mra|427ca5286cdb75e65ac9d877cd914577|3622
@@ -49,6 +50,7 @@ Bagman.mra|d2a683e1f2ba3c1ad51a491f82fba372|2320
 Balloon Bomber.mra|0e1f384fc50d843504465641bd8198b4|372941
 Baluba-louk no Densetsu (Japan).mra|3b20f7335fc1255a38a6b0ee36b3dc2b|3282
 BankPanic.mra|1282b084e832c1deae845138afd8ad4d|2253
+Barrier.mra|c12890a7ff2a99dca97471ba417efbe7|6414795
 Batman.mra|9cae4a9d569817ec9505ce819c20111c|3539
 Batsugun.mra|2675c2e0104ed1192e531533bddb36fb|2257
 Battle Arena Toshinden 2 (USA).mra|4c282eb13362f836faeb8d0bb5ab4b52|2338
@@ -513,6 +515,7 @@ Repulse.mra|1adb325b22f52a3f89a38bbbae016802|3383
 Rescue.mra|63c65e4d153462a39fc56bab5e31b7a9|2431
 Riddle of Pythagoras (Japan).mra|f22ee1db922042612f5ff2282c1f3b23|2189
 Ring King (US set 1).mra|4f26ced690ca19592120a2d0ca94751f|2476
+Rip Off.mra|aa8e2223ac9bca59cda035196bd6ddea|1307
 Risky Challenge.mra|525b428d4cc323678fb25849eca70819|3402
 Rival Schools - United By Fate (USA).mra|8cc50a58a81f6935d1c52bf052fca869|2059
 River Patrol (JP, Unprotected).mra|0a8f704b1ed57e1c590a6d58f81faece|1423
@@ -579,6 +582,7 @@ Space Invaders.mra|d3fb85b9a573be9d2eb090769c1493bf|486763
 Space Panic.mra|4175fc9e32cabc1718f6c4018e4fcd74|2854669
 Space Race [TTL].mra|8b8268d61cbba306177be43f3d9f33a0|1107
 Space Seeker.mra|6a2617796815c7498662482ce005f170|2233
+Space Wars.mra|da956526ea5dd8fdeee56a6f3b560fcf|981
 Space Zap.mra|28f93b3ead530925c876ec00861045eb|1581
 Spatter (315-5xxx).mra|6daa83a912da477a928a2d6cb4622ac8|2918
 Spectar.mra|40ac08fe8894bc2f5df6c83894bc75eb|1572
@@ -595,6 +599,7 @@ Squash.mra|3d6eb94999d59a5c6d2c0f706faced28|2116
 SRD Mission.mra|4fce5f5980141dcdd32bf152d448b914|3235
 Stadium Cross (World).mra|60dc898f6f7de10f11894244c4c5bcb9|2709
 Stagger I (Japan).mra|bb2da6b5fa1b42a938d5d45e99d113aa|4095
+Star Castle.mra|541df00f4ce2fe1893139206856b239b|540976
 Star Gladiator 2 - Nightmare of Bilstein (Japan).mra|c14e9134dced66c864faf4648089ebc5|1895
 Star Gladiator Episode I - Final Crusade (USA).mra|376f9a39348435edd826aabb05736de8|3253
 Star Guards.mra|c213b8a8865c09be3175f751d7c4e329|1990
@@ -605,6 +610,7 @@ Star Trek.mra|21b4aecc81c17ea52616e7e1cd4c0066|3371
 Star Wars (Rev 2).mra|0795af266ea8b5b4a12472eb147f7d45|2030
 StarForce.mra|b1000b5b02373e86840af04e65a19378|3349
 Stargate.mra|31599d87b18ee985a32e337c5c4e8289|4157
+Starhawk.mra|3677fe93a4fb8b41b14de22f9bb8b85c|990
 Strategy X.mra|979c4e73650020d1c70f21e9939be61b|2038
 Street Fighter EX (USA).mra|2500c9a0252201b1d6c870a84d481106|2320
 Street Fighter EX Plus (USA 970311).mra|64bf0e271ee5a40b32e9746df8430cf2|2333
@@ -736,6 +742,8 @@ Vivid Dolls.mra|605342787be482cdcf7c1140210f799b|1519
 Vortex.mra|e96fe836228e8aefc3d68fd2bd0271bd|1549
 Wacko.mra|ccce6b2fdf2c6c5a8a055b33677848ec|2163
 War of the Bugs.mra|0ebd70569e6596b74b63582b0cc1eeda|2157
+War of the Worlds.mra|71fdbe615b1a126134fa387e25d5f3e0|7198911
+Warrior.mra|7c2d6bfcb96731f67d9f83232ad6e1df|12445613
 Water Match (315-5064).mra|bbe68ab882b7de67e853480bf62af15b|2824
 Water Ski.mra|40068d94369d3463742c98be1f5cc820|2166
 Western Express (Japan, rev 4).mra|3b638347ffd35a9daf7c229a7bbed9a4|2542
