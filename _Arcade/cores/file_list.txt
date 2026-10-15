@@ -271,6 +271,7 @@ SpaceInvaders_Senhor_20260403.rbf
 SpaceRace_Senhor_20240527.rbf
 Sprint1_Senhor_20260206.rbf
 Sprint2_Senhor_20260206.rbf
+StarCastle_Senhor_20261015.rbf
 squash_Senhor_20260625.rbf
 StarWars_Senhor_20260816.rbf
 Starforce_Senhor_20260421.rbf
