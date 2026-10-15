@@ -235,6 +235,7 @@ Raiden_Senhor_20260729.rbf
 Rallybike_Senhor_20250504.rbf
 RallyX_Senhor_20260205.rbf
 Rampart_Senhor_20261004.rbf
+ReliefPitcher_Senhor_20261015.rbf
 RingKing_Senhor_20260907.rbf
 RiverPatrol_Senhor_20260205.rbf
 Robotron_Senhor_20260228.rbf
