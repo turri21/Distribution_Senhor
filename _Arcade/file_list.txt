@@ -508,6 +508,7 @@ Reactor.mra|483832a8cebb7cc567959d5e1f89510d|3687
 Red Baron (Revised Hardware).mra|f56b9e3c6d3ed4e698308213613480d0|1508
 Red Baron.mra|85b1987c0bb23ea48ce7acfcdc599fc2|1543
 Regulus (315-5033, Rev A).mra|45b0ab36505df6f6a28a9503ebba8f05|3017
+Relief Pitcher.mra|ff8e68db4625410d456d7bb1170d70f8|1689
 Repulse.mra|1adb325b22f52a3f89a38bbbae016802|3383
 Rescue.mra|63c65e4d153462a39fc56bab5e31b7a9|2431
 Riddle of Pythagoras (Japan).mra|f22ee1db922042612f5ff2282c1f3b23|2189
