@@ -254,6 +254,7 @@ SegaVICZ80_Senhor_20260118.rbf
 SegaXBoard_Senhor_20260828.rbf
 SeibuCupSoccer_Senhor_20260912.rbf
 SilverLand_Senhor_20260210.rbf
+SkullXBones_Senhor_20261015.rbf
 SkySkipper_Senhor_20250131.rbf
 SkySmasher_Senhor_20260609.rbf
 SlapFight_Senhor_20260423.rbf
