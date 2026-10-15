@@ -55,7 +55,7 @@ NewBrain_Senhor_20261012.rbf
 NeXT-Color_Senhor_20261001.rbf
 NeXT_Senhor_20260927.rbf
 ORAO_Senhor_20260109.rbf
-Ondra_SPO186_Senhor_20251007.rbf
+Ondra_SPO186_Senhor_20261015.rbf
 Oric_Senhor_20260613.rbf
 PC88_Senhor_20260924.rbf
 PCW_Senhor_20260107.rbf
