@@ -77,6 +77,7 @@ SordM5_Senhor_20260110.rbf
 SparcStation20_Senhor_20250525.rbf
 SparcStation5_Senhor_20250525.rbf
 Specialist_Senhor_20260103.rbf
+Studio-II_Senhor_20261016.rbf
 TK2000_Senhor_20251125.rbf
 TOWNS_Senhor_20260209.rbf
 TRS-80_Senhor_20251213.rbf
