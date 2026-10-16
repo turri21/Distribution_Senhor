@@ -1,6 +1,6 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New update_senhor.sh script v1.99[/INFO]
-[INFO]New MiSTer binary - 14/10/2026[/INFO]
+[INFO]New MiSTer binary - 16/10/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: StarCastle_Senhor_20261015.rbf[/INFO]
 [INFO]New Cores: ReliefPitcher_Senhor_20261015.rbf, SkullXBones_Senhor_20261015.rbf[/INFO]
