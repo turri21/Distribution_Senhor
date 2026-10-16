@@ -80,7 +80,7 @@ Specialist_Senhor_20260103.rbf
 TK2000_Senhor_20251125.rbf
 TOWNS_Senhor_20260209.rbf
 TRS-80_Senhor_20251213.rbf
-TSConf_Senhor_20260107.rbf
+TSConf_Senhor_20261016.rbf
 TVC_Senhor_20260811.rbf
 TatungEinstein_Senhor_20260114.rbf
 TeleStrat_Senhor_20251212.rbf
