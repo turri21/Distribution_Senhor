@@ -3,7 +3,7 @@
 [INFO]New MiSTer binary - 16/10/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: UPLFramebuffer_Senhor_20261017.rbf[/INFO]
-[INFO]New Cores: Studio-II_Senhor_20261016.rbf, StarCastle_Senhor_20261015.rbf[/INFO]
+[INFO]New Cores: Studio-II_Senhor_20261017.rbf, StarCastle_Senhor_20261015.rbf[/INFO]
 [INFO]New Cores: ReliefPitcher_Senhor_20261015.rbf, SkullXBones_Senhor_20261015.rbf[/INFO]
 [INFO]New Cores: C65_Senhor_20261016.rbf, AmstradPlus_Senhor_20261010.rbf[/INFO]
 [INFO]New Cores: Tank_Senhor_20261010.rbf, Victory_Senhor_20261007.rbf[/INFO]
