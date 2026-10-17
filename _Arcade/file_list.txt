@@ -421,6 +421,7 @@ Noboranka (bootleg).mra|63bf7b8fbd0474a317d2d926a268dc09|2354
 Nouryoku Koujou Iinkai.mra|f7330b0e568430ae0dcc11ed23529688|3528
 Nova 2001.mra|2253e1a4514a5cc92df0658231b41f10|2016
 Number Crash.mra|fd6ed3a9127b5aa45738ef7f8dbf4681|2423
+Off the Wall.mra|feac1e31bd5b5f6f342838fc4b7cd21c|2212
 Omega Fighter.mra|518c266788b2026b63a0fe3cd33fe472|2913
 Omega [bl].mra|93abfb93c35b175467fe9cd4250694e6|2022
 Opa Opa (Rev A, unprotected).mra|beb8bc47d9518f3711174265e33aa172|2167
@@ -556,6 +557,7 @@ Seibu Cup Soccer (set 1).mra|cd6eace9f4fdde7656c51d56a378e847|4736
 Shiritsu Justice Gakuen - Legion of Heroes (Japan 971216).mra|f2c05302c0d9cc35fcd2f01a63ade713|2062
 Shot Rider (B-Board 89624B-1).mra|83851653a625363a6edb8c8162860f12|2558
 Shuffleboard.mra|55afded87f6316c3275cb3afd40d86e9|1594
+Shuuz.mra|1155642e7510df2bbb30e85a3c0922e2|2649
 Silkworm.mra|e609effb9006fb868b2b16133f3394f4|2542
 Silver Land.mra|42876ec7e25ec84cc7596020e0b5a413|1665
 Sinistar.mra|d053325e72d2b534b3a0f155559c929a|4421
