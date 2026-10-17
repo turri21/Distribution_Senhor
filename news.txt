@@ -1,6 +1,6 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New update_senhor.sh script v1.99[/INFO]
-[INFO]New MiSTer binary - 16/10/2026[/INFO]
+[INFO]New MiSTer binary - 17/10/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: UPLFramebuffer_Senhor_20261017.rbf[/INFO]
 [INFO]New Cores: Studio-II_Senhor_20261017.rbf, StarCastle_Senhor_20261015.rbf[/INFO]
