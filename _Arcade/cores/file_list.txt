@@ -210,6 +210,7 @@ NMK16_Afega_Senhor_20260925.rbf
 NMK16_Gunnail_Senhor_20260925.rbf
 NMK16_Macross2_Senhor_20260926.rbf
 NMK16_Raphero_Senhor_20260926.rbf
+OffTheWall_Senhor_20261018.rbf
 opwolf_Senhor_20260719.rbf
 Pacman_Senhor_20260714.rbf
 Pengo_Senhor_20260205.rbf
@@ -254,6 +255,7 @@ SegaVCO_Senhor_20260914.rbf
 SegaVICZ80_Senhor_20260118.rbf
 SegaXBoard_Senhor_20260828.rbf
 SeibuCupSoccer_Senhor_20260912.rbf
+Shuuz_Senhor_20261017.rbf
 SilverLand_Senhor_20260210.rbf
 SkullXBones_Senhor_20261015.rbf
 SkySkipper_Senhor_20250131.rbf
