@@ -303,6 +303,7 @@ TurkeyShoot_Senhor_20260212.rbf
 Tutankham_Senhor_20260404.rbf
 Ultratank_Senhor_20250129.rbf
 Universal_DoCastle_Senhor_20260730.rbf
+UPLFramebuffer_Senhor_20261017.rbf
 VBall_Senhor_20260210.rbf
 Vastar_Senhor_20260902.rbf
 Victory_Senhor_20261007.rbf
