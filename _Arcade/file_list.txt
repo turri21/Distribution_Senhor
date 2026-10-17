@@ -24,6 +24,7 @@ Anteater.mra|469ce72969dc36c17dabb5863394e693|2288
 APB - All Points Bulletin (rev 7).mra|5aee38e1303c29ba187b572def922273|7172
 Arabian.mra|ecf59a9e4eab518d537d2b349554d7e0|3587
 Argus no senshi (Japan).mra|1ea956f48472a017965fe004b8a314ec|2207
+Ark Area.mra|b1e74359017d12299a6a1b8201726f20|2884
 Arkanoid (JP).mra|29d6a40e5a922045a2d32f2f7822bab3|2569
 Arkanoid (Unl. lives) [hb].mra|2f16222b779bdb9f32ff31997115952a|2647
 Arkanoid (Unl. Lives, slower) [hb].mra|ec57cb862ce077514ef37fbaa5461d22|2895
@@ -42,6 +43,7 @@ Asura Blade - Sword of Dynasty (Japan).mra|6c9c928849590d81312809637b397fa9|3192
 Asura Buster - Eternal Warriors (USA).mra|d7651e1f35b8373b57633f514ba97cbc|3309
 Ataxx (rev 5).mra|a804183342e66579a519099b60ee6265|2380
 Athena.mra|b137674a642cf2f4ce9e4f591db69557|3191
+Atomic Robo-Kid.mra|df00406e1990b8aeadc61674cb5a2e7b|4193
 Attack Force.mra|bcb6c4a40c35fd465ae0e19bd7f027b7|5972
 Azurian Attack.mra|1cd03cae96dc0e5996292e70a7092c74|1971
 Back Fire (Tecmo).mra|97ad6583d5eb7f9b53979fc299bad435|2607
@@ -401,6 +403,7 @@ Mr. HELI no Daibouken (Japan).mra|da1ab963c33364694911bda20cf75ed6|3867
 Mr. Jong.mra|2f3692d58b8101ab58ad9760ebee02e6|1591
 Mr. TNT.mra|9371b6a136a57dbc8b969341707910f0|2275
 Ms. Pac-Man.mra|ab2f026396be85408f177759f36de59e|2305
+Mutant Night.mra|16271b9b7542c3707c24401db6d72a67|2760
 My Hero (US, not Encrypted).mra|0a28edbd776d315c1262af9b5b88ab0d|2887
 Mystic Marathon.mra|1306e767d13d40d5208099f046b2d792|2184
 Mystic Riders (World).mra|b04dc0cd82613b4cc65fd5b5c51b0247|4647
@@ -411,12 +414,14 @@ Nibbler (Set 9).mra|ff062e0c69057297875a09673289564d|4031
 Night Slashers (Korea Rev 1.3, DE-0397-0 PCB).mra|03abbc4ac47c1acb288ab6ecd9e07a1d|4388
 Ninja Baseball Bat Man (World).mra|39b535c4b9f3832786efb9ec07ab4183|6117
 Ninja Spirit (Japan).mra|eb1426b20cec74852af1c91373b6b7ed|3799
+Ninja-Kid II.mra|d11dae458f91e5196748663dd8cce426|3206
 Ninjakun.mra|7c6ccce731e2b6279ceef491d686475e|2820
 No Mans Land.mra|094a71d4452e2891c04bd00bb5e2a551|2052837
 Noboranka (bootleg).mra|63bf7b8fbd0474a317d2d926a268dc09|2354
 Nouryoku Koujou Iinkai.mra|f7330b0e568430ae0dcc11ed23529688|3528
 Nova 2001.mra|2253e1a4514a5cc92df0658231b41f10|2016
 Number Crash.mra|fd6ed3a9127b5aa45738ef7f8dbf4681|2423
+Omega Fighter.mra|518c266788b2026b63a0fe3cd33fe472|2913
 Omega [bl].mra|93abfb93c35b175467fe9cd4250694e6|2022
 Opa Opa (Rev A, unprotected).mra|beb8bc47d9518f3711174265e33aa172|2167
 Opa Opa.mra|70ab1d6035daf673d169e55459cb98d7|2247
