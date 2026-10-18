@@ -182,6 +182,7 @@ Dragon Breed (Japan, M72 hardware).mra|b13688329114e5526f86c53ece4908cb|3576
 Dragon World 2001 (ver. 100, Japan).mra|9ef296457c0d0f769e27aff1b3f535a2|2056
 Dragon World 3 (ver. 106).mra|f1f9e0d2f3935105f7f8021835bca3a0|2473
 Dragon World 3 EX (ver. 100).mra|c9f060beefe9b4e51d8f162a6a8882ad|2356
+Dragon's Lair II - Time Warp.mra|f23e95e8a2ca58f3ab374aef575f8ad3|1791
 Dragon's Lair.mra|c7a52e110fd82ef312809c1d14545109|2537
 Dream Shopper.mra|c1751eee0bf421523b5f1fe9cd7f33a5|2421
 Dream Soccer '94 (World, M107 hardware).mra|0515246230359612d873297879490600|4095
@@ -632,6 +633,7 @@ Super Bagman.mra|c8d1138e89819416db1200316f98f93e|2945
 Super Breakout (Rev 04).mra|9866582e8d1e8633faa10b5d71585a73|1381
 Super Casino.mra|427b34306822c6c57ae364a4b790e751|1625
 Super Cobra.mra|33eaf460f7b32aa4b3c7e46a1bd695f2|2300
+Super Don Quix-ote.mra|f316cdb160844cbfc32e7e2d49f3127f|2801
 Super Glob (Pac-Man, German) [bl].mra|ccf42dfbf2f8dcdcd4a43b43c2bc5457|1970
 Super Locomotive (old).mra|6b150e103c49bf861b206cf7a30945e0|2800
 Super Locomotive.mra|34d0958ea74e6c0e2adc7204f2f75515|2800
