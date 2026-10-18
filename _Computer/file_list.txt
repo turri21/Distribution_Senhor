@@ -57,6 +57,7 @@ ORAO_Senhor_20260109.rbf
 Ondra_SPO186_Senhor_20261015.rbf
 Oric_Senhor_20260613.rbf
 PC88_Senhor_20260924.rbf
+PCAT-286_Senhor_20261018.rbf
 PCW_Senhor_20260107.rbf
 PCXT_Senhor_20260331.rbf
 PCjr_Senhor_20260321.rbf
