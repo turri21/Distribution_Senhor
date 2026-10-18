@@ -44,6 +44,7 @@ Lynx48_Senhor_20251216.rbf
 MC1201_Senhor_20231213.rbf
 MSX1-MSX2_Senhor_20250509.rbf
 MSX_Senhor_20260217.rbf
+MacColorClassic_Senhor_20261018.rbf
 MacLC_Senhor_20260916.rbf
 MacPlus_Senhor_20260911.rbf
 MacQuadra800_Senhor_20261005.rbf
