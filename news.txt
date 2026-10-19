@@ -25,6 +25,7 @@
 [INFO]New Cores: RingKing_Senhor_20260907.rbf, MacQuadra800_Senhor_20260905.rbf[/INFO]
 [INFO]New Cores: SGIIndy_Senhor_20260905.rbf, NeXT_Senhor_20260905.rbf[/INFO]
 [INFO]New Cores: Escape_Senhor_20260903.rbf, NGPC_Senhor_20260902.rbf[/INFO]
+[INFO]Updates: DECOCassette_Senhor_20261019.rbf[/INFO]
 [INFO]Updates: PCFX_Senhor_20261018.rbf, LaserdiscGames_Senhor_20261018.rbf[/INFO]
 [INFO]Updates: Apple-II_Senhor_20261016.rbf, Minimig_Senhor_20261017.rbf[/INFO]
 [INFO]Updates: TSConf_Senhor_20261016.rbf, Ondra_SPO186_Senhor_20261015.rbf[/INFO]
