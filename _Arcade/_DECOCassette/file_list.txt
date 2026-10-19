@@ -1,0 +1,39 @@
+Angler Dangler (DECO).mra|3c4f2e9d7c32b93a29d85b0ec4bddd1b|2891
+Astro Fantasia (DECO).mra|f522c346f54d1603626a7b2271118f66|2722
+Boulder Dash (DECO).mra|5ecb31de4292acd69742ce69da097b4b|3321
+Burger Time (DECO).mra|cd06c3d1426dabf2454c1f64df0fb9e5|4495
+Burnin Rubber (DECO).mra|4f2af6f94557faa280609a23e56dccb3|2903
+Cluster Buster (DECO).mra|9655c4ab2740a6f714a103e3191dca9a|2938
+DECO Darksoft Multigame (DECO).mra|4089c414888f72c145e3504a543ed9fd|4748
+DECO Test Tape (DECO).mra|d7e666aec0855ad1b0f84af6ffb60b73|2664
+DECO Widel Multigame (DECO).mra|14d20e62a49781e75dbab0dfcff42fcb|5329
+DS Telejan (DECO).mra|9ad2d274ce038a38f5dacee4db14be05|2829
+Explorer (DECO).mra|5792a574c8d15e9d633b7fdafc05cbc5|4622
+Fighting Ice Hockey (DECO).mra|e093c3e9a1df82b2084c2264cfea4f98|2962
+Flash Boy (DECO).mra|786cafd6ef1fc3e0d80be05cc60160bf|3357
+Flying Ball (DECO).mra|c5fa39f44cf5acf604f6c8e08c31eed8|4591
+Highway Chase (DECO).mra|50e0158fda89c5385a7df1e5d2bb45a2|2686
+Lock'n'Chase (DECO).mra|476b9e080dbdbbf46319298473e63e7a|3873
+Lucky Poker (DECO).mra|72c55f461662bfa160db92bc6d4b14fc|2734
+Manhattan (Japan) (DECO).mra|8d1dffca90dcf281054f791118456cf6|2889
+Mission-X (DECO).mra|fad96399b7d3db79148c8dd62aaf3b75|3530
+Nebula (DECO).mra|b674773a199597fd7b9af49fc0386498|2825
+Night Star (DECO).mra|4d016c9118ed2544e74a73be6301fbf1|2963
+Ocean To Ocean (DECO).mra|d1b8dbfac8dca8e305af7dca8e45aca7|3424
+Oozumou - Grand Sumo (DECO).mra|9517ff4d9c8b9fc9c2b00587d75cc898|3111
+Peter Pepper's Ice Cream Factory (DECO).mra|10c7da0b95afba4cd9a25219bd2c3dea|2883
+Pro Bowling (DECO).mra|652cf2d1eaafa6b4abc27a06776a7b0b|2755
+Pro Soccer (DECO).mra|c04b36a5472840e640c4bf221d2bcbab|2918
+Pro Tennis (DECO).mra|abd907baabdbf158ebd397414f9d610d|2861
+Rootin' Tootin' (DECO).mra|88da1f45ab612660f7f2a9060e678235|2759
+Scrum Try (DECO).mra|bab538119225be07efbd6b28074517f5|3615
+Skater (DECO).mra|6719ff4aec112020fb37dcb344a19691|3078
+Super Astro Fighter (DECO).mra|8f98f19fb2df3022e3e774a6e701abb2|2881
+Super Doubles Tennis (DECO).mra|3c95f97d0536e30e695d04fa68111c87|3140
+Sweet Heart (DECO).mra|fb36be15ed6d93718ffe9df9ed15297c|2875
+Terranean (DECO).mra|28cc205e7fa260dc9121d5ebd4366113|2925
+The Tower (DECO).mra|72dfee5eea84d55790cfe9fca5db45a5|2828
+Tornado (DECO).mra|1596bfc2093399f15cff6eb21848c5f1|2901
+Tournament Pro Golf (DECO).mra|b7e57b803c0e097b8743cb25b4d26642|3581
+Treasure Island (DECO).mra|510306af7b0bda9a41066e374db4dc03|5158
+Zeroize (DECO).mra|bb324418164b022d2ca9e3fd39f66fbb|5523
