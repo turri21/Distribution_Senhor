@@ -110,10 +110,12 @@ Catacomb.mra|f318a8c59e69f2429998682e7ed5e823|1939
 Cavelon.mra|7def2969bcfc41f7ba6eee714d2b6e14|1908
 Caveman Ninja (World ver 4).mra|5244050759938f02b7a36e1e03af7fab|6783
 Centipede (Rev 4).mra|2857a5b6415f8844fad454e4d388ea1d|1944
+Chain Reaction (World, Version 2.2, 1995.09.25).mra|846769ca9ba87b2709a4ac89a02de768|3480
 Chameleon.mra|e4410d2f4057ce065436a7e9de5aa06a|2572
 Champion Base Ball Part-2.mra|963c06f936b6499c6d65c0ec4d800d06|3518
 Champion Base Ball.mra|20fd229c94ab703b940069a489eefa2a|3271
 Championship Sprint (rev 3).mra|0848c5ca145f8731bf9a20f2d2706eca|4604
+Charlie Ninja.mra|b0d2aa49c29b95e202a39fd2685e8f61|3467
 China Gate (US).mra|7e23415f53f3b83713d7ceff23563ee6|4083
 Choplifter (unprotected).mra|086bb65a270cfac61e1fe8ef6b5702e5|2370
 Chouji Meikyuu Legion (Japan ver 1.05, set 2).mra|5b97135f35535e9dd3159d40db3861dc|3010
@@ -308,6 +310,7 @@ Jackal (W, Rotary).mra|78cb5d72b49b8391a3aea3d6e9d1ba0c|2568
 Jailbreak.mra|a382ed84795ea4534837d87e8999036b|2512
 Jin.mra|f030f686853f4ec1280a6287fbf5f2b6|1662
 Jitsuryoku!! Pro Yakyuu (Japan).mra|828d417d14447fe44145e8461a8de604|3091
+Joe & Mac Returns (World, Version 1.1, 1994.05.27).mra|a55aef2e5e901bfe66324dc40d2602ce|3538
 Journey.mra|f18440b07385446d95ec585db21019e4|2740
 Joust 2 - Survival of the Fittest (revision 2).mra|186e896e8d8fa4fcb441f1457d2bef38|4061
 Joust.mra|7ec459f1ee6a95a65dde66bcd6dbf6c7|4117
@@ -430,6 +433,7 @@ Opa Opa.mra|70ab1d6035daf673d169e55459cb98d7|2247
 Operation Wolf (World, rev 2, set 1).mra|93aa635c081dd70d501c9bc981ecb051|5085
 Orbitron.mra|529a4f4e729bd510d3b618e4fcdf1375|2165
 Oriental Legend (ver. 126).mra|3575ad09c7d2d58fb394b99b5e8b99b2|2387
+Osman (World).mra|d4a7c10bc5cacc63a8328a18e258f20e|3183
 Out Zone.mra|bc4cd0aa8dbc821ea90fd22f6b154a4e|2556
 OutRunners (World).mra|537ac858ae0fdd8c6405c9386e53408e|2640
 P-47 - The Freedom Fighter (Japan).mra|b1abc8477aa75f38308d7983aa40bf04|3592
@@ -442,6 +446,7 @@ Pac-Man Plus.mra|57de3ddd181fd6388b525b1c0bf7ac6a|2227
 Pac-Manic Miner.mra|ee5a5e24d5500391081622c1f1f78a8f|154366
 Paddle Mania.mra|ca4ce44e8f721f314db333343d5f5b3c|3255
 Paperboy (rev 3).mra|4ec467de0bafcfe3f0d7a8ce7996cb64|7173
+Party Time Gonta the Diver II - Ganbare! Gonta!! 2 (World Release).mra|3a968a7435233b6a16d459f5f146fd22|3282
 Pengo (Set 1, Rev C).mra|5c76a0043bc2ec694bcce8194beb5c29|1805
 Penguin-Kun Wars.mra|bb83badf5cee9d1ccc16a2ab396e43df|1132
 Pepper II.mra|495638adc1b1d2f23ec3b155a6d48d3f|1718
