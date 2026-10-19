@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 17/10/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: Deco156Simple_Senhor_20261018.rbf[/INFO]
 [INFO]New Cores: PCAT-286_Senhor_20261018.rbf, Shuuz_Senhor_20261017.rbf[/INFO]
 [INFO]New Cores: OffTheWall_Senhor_20261018.rbf, UPLFramebuffer_Senhor_20261017.rbf[/INFO]
 [INFO]New Cores: Studio-II_Senhor_20261017.rbf, StarCastle_Senhor_20261015.rbf[/INFO]
