@@ -57,6 +57,7 @@ DCon_Senhor_20260611.rbf
 DECOCassette_Senhor_20260701.rbf
 Darius2NinjaWarriors_Senhor_20260524.rbf
 Darius_Senhor_20260730.rbf
+Deco156Simple_Senhor_20261018.rbf
 Deco16_Senhor_20260617.rbf
 Defender_Senhor_20260228.rbf
 DenjinMakai_Senhor_20260820.rbf
