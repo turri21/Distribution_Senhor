@@ -78,6 +78,7 @@ Sorcerer_Senhor_20251214.rbf
 SordM5_Senhor_20260110.rbf
 SparcStation5_Senhor_20250525.rbf
 Specialist_Senhor_20260103.rbf
+Sun-2_Senhor_20261020.rbf
 SunSparcStation20_Senhor_20261020.rbf
 TK2000_Senhor_20251125.rbf
 TOWNS_Senhor_20260209.rbf
