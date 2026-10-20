@@ -74,6 +74,7 @@ SAMCoupe_Senhor_20260101.rbf
 SGIIndy_Senhor_20261001.rbf
 SVI328_Senhor_20260118.rbf
 SharpMZ_Senhor_20261015.rbf
+smc777_Senhor_20261020.rbf
 Sorcerer_Senhor_20251214.rbf
 SordM5_Senhor_20260110.rbf
 SparcStation5_Senhor_20250525.rbf
