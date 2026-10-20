@@ -1,6 +1,6 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New update_senhor.sh script v1.99[/INFO]
-[INFO]New MiSTer binary - 19/10/2026[/INFO]
+[INFO]New MiSTer binary - 20/10/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Sun-3_Senhor_20261020.rbf, Sun-2_Senhor_20261020.rbf[/INFO]
 [INFO]New Cores: Cray-XMP_20261010.rbf, Deco156Simple_Senhor_20261018.rbf[/INFO]
