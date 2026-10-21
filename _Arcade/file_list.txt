@@ -170,6 +170,7 @@ Do! Run Run.mra|7588749da69d0351e288df3808f09106|2211
 DoDonPachi (World, 1997 25 Master Ver.).mra|6fe472f1619d62af13bc6cc5e573a5a7|1670
 DoDonPachi II - Bee Storm (World, ver. 102).mra|137aa6031b7fd9ea32acf3b73c51653b|2050
 DoDonPachi III (World, 2002.05.15 Master Ver).mra|e44251b61b49c6a981a4c254aebb536f|4018
+Dog Fight.mra|5ce9c06b4bac12a64cd60cea25be6c86|2722
 Dolmen.mra|ffcaed34ff941a2f6f77efcf31ad9558|3964
 Domino Man.mra|5bf14e3485f4aba90dee925acccfbe39|2225
 Dominos.mra|060678a56697adc99a47a8e4d122fefa|1310
@@ -391,6 +392,7 @@ Mighty Monkey (Scramble Hardware) [bl].mra|726ef44b00b88ca5773db278d9370490|2073
 Minefield.mra|370807c2761c24103cc568c3e8edf4e0|2341
 Missile Command (rev 3).mra|baf1444e052dee135c52360814455258|1369
 Mister Viking (315-5041).mra|3b09903a026920eaa439c8788cedf578|2975
+Mogu Chan.mra|97bbc7ef32dd06af0fe2d812887fdf49|2389
 Moon Cresta (Galaxian Hardware) [bl].mra|8fe00cb004e36a24a6bccb288c3bfdd2|2016
 Moon Patrol.mra|732b5ea1cac156035d4ee61b9286ee6f|1691
 Moon Quasar.mra|50a7f5b36d22a370eec34e19cf260588|1789
@@ -681,6 +683,7 @@ Tetris.mra|8117bc6985574574aafe2d5eaae9f45c|1256
 TH Strikes Back (Gaelco, V.002).mra|b93d4d6ff5fe3a6530fbbc6ea74d7cdf|3671
 The Adventures of Robby Roto!.mra|ae1a755d1a1121270a3bfafbc91187e2|2442
 The Battle-Road.mra|ed0693a3ae40dbdbe6babd38b1052403|6582
+The Bounty.mra|797323477b27c293426abadda961d29f|2735
 The End.mra|247f1723c5465b71355b39d51d8444a0|2703
 The Gladiator (ver. 107).mra|a3380672b7842c9df5b2224ad1f42d2d|3740
 The Glob (Pac-Man Hardware).mra|e8ea01364aa3f628188a870f7ce8d648|2286
@@ -690,6 +693,7 @@ The Lord of King (Japan).mra|80632a4f970bba7a91d102df727ba36b|3714
 The Next Space (Japan).mra|306cc33cdb932f87afb77ab31a206e10|2494
 The Ninja Kids (World).mra|4247c4cd10c2bad613248f1104b3261e|2353
 The Ninja Warriors (World).mra|7cd9b04b1eed2cdeba7f009296257ca1|3328
+The Percussor.mra|52f0f6ccc12653adabae72b2d5de200c|2897
 The Tower of Druaga.mra|a2efee884695b71252b0e8304d4b791f|1938
 Thunder Blade (upright).mra|91506103649a799422b697f6a977baf7|4125
 Thunder Dragon (8th Jan. 1992, unprotected).mra|6a7275fc13b6cd62df614d09c2c77d56|4396
@@ -779,5 +783,6 @@ Youjyuden (JP).mra|2e738ae4d5c0dab213ee4fc072b8180a|4337
 Zaxxon (Set 1, Rev D).mra|3669e5d3af38514213afac5744025f19|2403682
 Zero Wing (2P Set).mra|3d733134fbc4387206cea10c5462f3ca|2711
 Zig Zag (Dig Dug Conversion) [bl].mra|6a74f5e641847abedb67ae72fbfc5833|1275
+Zodiack.mra|8002a4e284fdd970abd512086f9dfbdf|2339
 Zoo Keeper.mra|2a4a10df7b99e639c45f186c3cb0dddc|3342
 Zzyzzyxx (set 1).mra|08c8c0df7045e93094de7ceeeb3100fb|1865
