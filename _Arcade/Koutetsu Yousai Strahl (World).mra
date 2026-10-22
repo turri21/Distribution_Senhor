@@ -36,7 +36,13 @@
 
   <buttons names="Button 1,Button 2,Button 3,Start,Coin" default="Y,B,A,Start,R"/>
 
-  <rom index="0" zip="strahl.zip|nmk004.zip" md5="none">
+  <!-- Game id (NMK-41): the <switches> third byte, sent ahead of the ROM
+       so the core starts the load in this game's video timing. -->
+  <rom index="2" md5="none">
+    <part>07</part>
+  </rom>
+
+  <rom index="0" zip="strahl.zip|nmk004.zip" md5="none" address="0x30000000">
     <!-- maincpu, 0x040000 -->
     <interleave output="16">
       <part crc="bfd021cf" name="strahl-01.ic83" map="01"/>
@@ -90,9 +96,9 @@
   <rom index="3" md5="none">
     <part>
         0C 00 00 00 00 FF 00 02 00 02 00 01 00 FF 02 00
-        00 0F 30 D9 01 8F 55 88
+        00 0F 30 D9 01 03 55 88
         00 0F 0D 8A 00 04 00 50
     </part>
   </rom>
-  <nvram index="4" size="403"/>
+  <nvram index="4" size="263"/>
 </misterromdescription>

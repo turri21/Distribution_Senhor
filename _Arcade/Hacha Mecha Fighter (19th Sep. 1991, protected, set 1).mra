@@ -37,7 +37,13 @@
 
   <buttons names="Button 1,Button 2,Button 3,Start,Coin" default="Y,B,A,Start,R"/>
 
-  <rom index="0" zip="hachamf.zip|nmk004.zip" md5="none">
+  <!-- Game id (NMK-41): the <switches> third byte, sent ahead of the ROM
+       so the core starts the load in this game's video timing. -->
+  <rom index="2" md5="none">
+    <part>09</part>
+  </rom>
+
+  <rom index="0" zip="hachamf.zip|nmk004.zip" md5="none" address="0x30000000">
     <!-- maincpu, 0x040000 -->
     <interleave output="16">
       <part crc="de6408a0" name="6.94" map="01"/>
@@ -86,8 +92,8 @@
   <rom index="3" md5="none">
     <part>
         0C 00 00 00 00 FF 00 02 00 02 00 01 00 FF 02 00
-        00 0F C0 00 03 F0 01 4E
+        00 0F C0 00 03 E0 01 4E
     </part>
   </rom>
-  <nvram index="4" size="1008"/>
+  <nvram index="4" size="992"/>
 </misterromdescription>
