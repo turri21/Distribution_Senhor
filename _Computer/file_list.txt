@@ -50,7 +50,7 @@ MacLC_Senhor_20260916.rbf
 MacPlus_Senhor_20260911.rbf
 MacQuadra800_Senhor_20261005.rbf
 microbee_Senhor_20260806.rbf
-Minimig_Senhor_20261020.rbf
+Minimig_Senhor_20261022.rbf
 MultiComp_Senhor_20260812.rbf
 NewBrain_Senhor_20261012.rbf
 NeXT-Color_Senhor_20261001.rbf
