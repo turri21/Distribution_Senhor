@@ -195,6 +195,7 @@ Eeek! (Pac-Man Conversion).mra|c33a28105ede518dc05cecc1a9899631|1917
 Eggor.mra|7c4393d524de449b4e4c254df5c52e2f|2806
 Elevator Action Bootleg.mra|4cb4403ce07178704701ad3b6d3a3d7a|2928
 Eleven Beat.mra|6cee191e436787ccc57bbb5773f092e7|1949
+Eliminator (2 Players, set 2).mra|1d2c15e5789757328c734d0698ff945f|2959
 Empire Strikes Back.mra|185b5d656a310b5cefa56044b838590c|4275
 empirecity.mra|65861662fe46c89e1cb5af53d1cd65c3|11125
 Escape from the Planet of the Robot Monsters (set 1).mra|0aa5ba61646f750901d721f6763ae41e|5757
@@ -592,6 +593,7 @@ Space Cruiser.mra|2f0b0b04ac4db4aaa309d7e68abc7614|2403
 Space Dungeon.mra|0421343c9f828570a02ecf7d268c304d|2022
 Space Encounters.mra|a41ff19b0017477a1ef40187ba57ab12|1651
 Space Firebird.mra|19cef961b23774f9effd675e87cf051c|875810
+Space Fury (revision C).mra|9aa66ea7b94c4583367684807ef06edf|3049
 Space Invaders Part II (Taito, Bigger ROMs).mra|205474364d4ea43e9085cb064899080b|2023
 Space Invaders.mra|d3fb85b9a573be9d2eb090769c1493bf|486763
 Space Panic.mra|4175fc9e32cabc1718f6c4018e4fcd74|2854669
@@ -621,7 +623,7 @@ Star Guards.mra|c213b8a8865c09be3175f751d7c4e329|1990
 Star Jacker.mra|047a89a0f3c72358a4f785b65fe22124|3093
 Star Soldier - Vanishing Earth.mra|f944e61095e329459b8148ef570ca625|1957
 Star Sweep (STP1-VER.A).mra|bbbec5a6a4129131d8a88add0cbe1211|1732
-Star Trek.mra|21b4aecc81c17ea52616e7e1cd4c0066|3371
+Star Trek.mra|dbc8a6449811fd9366394176317d13c4|3734
 Star Wars (Rev 2).mra|0795af266ea8b5b4a12472eb147f7d45|2030
 StarForce.mra|b1000b5b02373e86840af04e65a19378|3349
 Stargate.mra|31599d87b18ee985a32e337c5c4e8289|4157
@@ -658,7 +660,7 @@ Superior Soldiers (US).mra|f24eb79fa0612ed98efe5f949297f467|5938
 Susume! Mile Smile - Go Go! Mile Smile (newer).mra|2d0dd0cff40bd5841bd697f8fc28d74a|2221
 Swat (315-5048).mra|463cfa69c7001ac15db46d08aea06dce|2945
 T-MEK (v5.1, The Warlords).mra|1646e653f6aa86591110574d5aca353d|3517
-Tac-Scan.mra|146e074e8fc5c33a6162e96824c86610|3107
+Tac-Scan.mra|1ddd195f390ea720c02604c2df22ac56|3473
 Talbot.mra|3c10f27c38d9d11e05a87ff1d298a03b|2880
 Tank Battalion.mra|6b6a5f85484bf89afecf6f4dcfad31b0|732
 Tank II.mra|8db2e6edffac04a6ee884dd39333136c|1216
@@ -781,6 +783,7 @@ Xiyou Shi E Zhuan Super (ver. 103, China, Tencent) (unprotected).mra|b209b2448e1
 Xybots.mra|fe5b1a93a61cbe16e716c05b90a38b8e|4931
 Youjyuden (JP).mra|2e738ae4d5c0dab213ee4fc072b8180a|4337
 Zaxxon (Set 1, Rev D).mra|3669e5d3af38514213afac5744025f19|2403682
+Zektor (revision B).mra|3b354599a28520dafce2379150613137|3696
 Zero Wing (2P Set).mra|3d733134fbc4387206cea10c5462f3ca|2711
 Zig Zag (Dig Dug Conversion) [bl].mra|6a74f5e641847abedb67ae72fbfc5833|1275
 Zodiack.mra|8002a4e284fdd970abd512086f9dfbdf|2339
