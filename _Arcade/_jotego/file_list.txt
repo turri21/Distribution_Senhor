@@ -59,7 +59,6 @@ Dangerous Seed (Japan).mra|5485c2d5d77d542e8f9a0dcddcf86e43|4529
 Darkstalkers The Night Warriors (Europe 940705).mra|ebebc001147250c7f4976a76f162c4bf|4529
 Desert Breaker (World) (FD1094 317-0196).mra|d06d20783195bc277a323e218fe5d171|4966
 Devil World.mra|f75193ff027b8b36e2e2e7e2fce2cd7a|4749
-Diamond Run.mra|4b149a8c8fa378ac03ceb24fc2ec89b0|4245
 Dimahoo (Europe 000121).mra|7784271187e32af1c2424590f82cac86|4045
 Dokaben (Japan).mra|b2c057abb99e6a7e05797c72258b8776|3123
 Dokaben 2 (Japan).mra|fc778427247a7581ef65012e0caa950b|3127
