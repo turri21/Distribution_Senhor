@@ -141,12 +141,14 @@ Crater Raider.mra|f6bee4202ccf4b82ca5bea8ef61d5dd4|2560
 Crazy Balloon.mra|36fb1600d44a4b265815175e7643eb0a|1787
 Crazy Blocks.mra|86942bc9591daea99c719ce8866727dd|1598
 Crazy Climber.mra|efdd017af253729731d7410477d0464b|1997
+Crazy Cross (ver EAA).mra|705e3ee4c97f7b606f8a163b9bbb9667|3365
 Crazy Kong (Kyoei).mra|f45c4ad142f93f3677b82e00072dffb6|2087
 Crazy Kong Part II (Set 1).mra|c581c4ea42e2043abaa8eacb24e5824f|2072
 Crude Buster (World FX version).mra|063065376a136b8cbd1148121569b295|5747
 Crush Roller (Set 2).mra|37046f5aa03bd1867d3f8edb8a7e4e2f|2771
 Crystal Castles.mra|ea9a5760de3d1b69226c14b50a254ff2|715
 D-Con.mra|2fd43945e89648da7d55dba47f3e224b|4247
+Daisu-Kiss (ver JAA).mra|71713ff3a27bc57fc644d3187a5a62a2|5130
 Dakkochan House (MC-8123).mra|818971dbd67902cebeaeac94b7840c30|2324
 Dancing Eyes (DC2-VER.B).mra|54b0fb116c589e3f813560e567987adc|2419
 Danny Sullivan's Indy Heat (rev 1).mra|9e54f1b826823c3575b2d2e7c2188529|3720
@@ -187,6 +189,7 @@ Dragon World 3 (ver. 106).mra|f1f9e0d2f3935105f7f8021835bca3a0|2473
 Dragon World 3 EX (ver. 100).mra|c9f060beefe9b4e51d8f162a6a8882ad|2356
 Dragon's Lair II - Time Warp.mra|f23e95e8a2ca58f3ab374aef575f8ad3|1791
 Dragon's Lair.mra|c7a52e110fd82ef312809c1d14545109|2537
+Dragoon Might (ver AAB).mra|a552985e741a71b46ad40d04398dfee3|6242
 Dream Shopper.mra|c1751eee0bf421523b5f1fe9cd7f33a5|2421
 Dream Soccer '94 (World, M107 hardware).mra|0515246230359612d873297879490600|4095
 Drift Out (Europe).mra|9ced252b86eb4b96132db344be1d9bbe|2022
@@ -208,6 +211,7 @@ Exerion (Taito).mra|37fcfe36c33201f62cc514111f47c1cb|1977
 Express Raider.mra|1cb102fa97b8fcde9d7d05f76b28d59c|2530
 Extra Bases.mra|980266f53bbcec18c58bdc15f60eae90|503501
 Eyes (US, Set 1).mra|cbf71555cfe086c712709c1500367d5b|2168
+Fantastic Journey (ver EAA).mra|e2a55c7124fa9aac789daa475beefbc9|3679
 Fantasy Zone II - The Tears of Opa-Opa (System 16C version).mra|01f46a46152fd7700d93a991437ddf8f|5112
 Fantasy Zone II - The Tears of Opa-Opa.mra|d6d9d10010de8a850ab1e5197a93687f|2064
 Fantasy.mra|5d4f12a55fe1735acdd25aec854a42b8|1941
@@ -351,6 +355,7 @@ Last Survivor.mra|edc631ced5400f0ddbcc7727c5647b29|4023
 Legend of Hero Tonma (Japan).mra|447833b8031ffcb362c3ca17ea607d8c|3271
 Legend.mra|4f608862663de5df0037d10ab67ed38c|2993
 Legionnaire (World).mra|293f7f03a675ea0bd26bb26cba405027|5952
+Lethal Enforcers II Gun Fighters (ver EAA).mra|1d0d08a4e37e19b86774ea2ee4f112c6|6210
 Lethal Thunder (World).mra|268059a8efd9cdf59115c4eb064f9012|6067
 Lifeforce (Japan).mra|3a7ecc32a0999631a1711c86e895a83b|2509
 Line of Fire (World).mra|e05bdf644aae4b9ca85994b1c402c56d|3948
@@ -546,6 +551,7 @@ S.V.G. - Spectral vs Generation (ver. 200).mra|38f9d2ac7116351fe4780ed2a64e7cab|
 Saboten Bombers (set 1).mra|6e6efcc8289ccb80c669a08b3dc0f0a3|4056
 Saint Dragon (Set 1).mra|03763b0f572cd2f75a387b749dd6c276|3486
 Salamander (version D).mra|24e4a8b3fb1a16fd5b2d4db5a482db14|2309
+Salamander 2 (ver JAA).mra|cd57af2c33e2ab75751f42766547c1b2|5703
 Same! Same! Same! (2P Set).mra|b8fbc37aaeaa079e53746de23c950efa|2886
 Samurai Aces (World).mra|fae0315f48ad53766cf6813b4ba963d5|2484
 SAR - Search And Rescue (World).mra|28f37047a1b74a686b9c37488574cbc7|2891
@@ -563,6 +569,7 @@ Sea Wolf II.mra|f47691e8cb4fc6eaa513d8555b16331a|2052828
 Sega Ninja (315-5102).mra|775fc031a3582c44c13b634a54d649b2|2956
 Sei Senshi Amatelass.mra|b07c8c19a9483df8a2a598840c73d4f1|2888
 Seibu Cup Soccer (set 1).mra|cd6eace9f4fdde7656c51d56a378e847|4736
+Sexy Parodius (ver JAA).mra|58230205703185213dd525185db170cd|4971
 Shiritsu Justice Gakuen - Legion of Heroes (Japan 971216).mra|f2c05302c0d9cc35fcd2f01a63ade713|2062
 Shot Rider (B-Board 89624B-1).mra|83851653a625363a6edb8c8162860f12|2558
 Shuffleboard.mra|55afded87f6316c3275cb3afd40d86e9|1594
@@ -661,6 +668,7 @@ Susume! Mile Smile - Go Go! Mile Smile (newer).mra|2d0dd0cff40bd5841bd697f8fc28d
 Swat (315-5048).mra|463cfa69c7001ac15db46d08aea06dce|2945
 T-MEK (v5.1, The Warlords).mra|1646e653f6aa86591110574d5aca353d|3517
 Tac-Scan.mra|1ddd195f390ea720c02604c2df22ac56|3473
+Taisen Tokkae-dama (ver JAA).mra|2488837c9ff3cec0171a19bda124e039|5050
 Talbot.mra|3c10f27c38d9d11e05a87ff1d298a03b|2880
 Tank Battalion.mra|6b6a5f85484bf89afecf6f4dcfad31b0|732
 Tank II.mra|8db2e6edffac04a6ee884dd39333136c|1216
@@ -716,6 +724,7 @@ Tip Top (3 board stack).mra|08b36d2b50a2d33b6dc2799b7d2f468a|2018
 Title Fight (World).mra|4a76066a8799abbf491c5a82c45f4d4f|2355
 TNKIII.mra|4a24648e418c816cf738c00667dcd60e|3116
 Toki no Senshi - Chrono Soldier.mra|73704da76696afbd801febaf4164b697|2187
+Tokimeki Memorial Taisen Puzzle-dama (ver JAB).mra|ec30c65e3594e14415ac8bb48020dada|8925
 Tokushu Butai Jackal (JP).mra|2ac5d1c2e6eb5d66982225f80aaa7fd9|2560
 Tom Tom Magic.mra|697cf7d40cc8440da83d728538f63fbd|4138
 Toobin.mra|89b848f8705c17a0acbc028f25e97b70|5337
@@ -735,6 +744,7 @@ Turkey Shoot - The Day They Took Over.mra|332ef9138d3d43095a5f2344ca81d04d|2549
 Turtles.mra|172b77da1307411f4b365b4c2540faa8|2227
 Tutankham.mra|82cd105fe260586f2dd679ad2e366544|2582
 Twin Action.mra|294a7b9b132cce18beb15c3f20595915|4287
+Twin Bee Yahhoo! (ver JAA).mra|0c553b3166dba8e64a9af0a2ae53335c|3706
 TwinBee (Bubble System).mra|ab9a462d64d6263074068a6facdc5d42|2383
 TwinBee.mra|70cf7a5faea9689aeb51075b78e2e0ef|2405
 Two Tigers (Tron Conversion).mra|76443434ce390740107a9d9fdccf38e8|2739
@@ -769,6 +779,7 @@ Water Ski.mra|40068d94369d3463742c98be1f5cc820|2166
 Western Express (Japan, rev 4).mra|3b638347ffd35a9daf7c229a7bbed9a4|2542
 Wild West C.O.W.-Boys of Moo Mesa (FF, Konami, 1992).mra|8cd1a85e122f06c235f8c94e9b1079e2|3131
 Wild Western.mra|25a15718b34ca218db58b240460bcefa|2560
+Winning Spike (ver EAA).mra|f921ded8dc09555e83fa9b434b6e817e|3614
 Wizard of Wor.mra|a1bf8859b2788c4b5697d7778fe23951|2224
 Wonder Boy (Set 1, 315-5177).mra|adf03bbb1bd7737f1b9b746e5a2818cf|3347
 Wonder Boy in Monster Land.mra|bb888ad2029ff1a8b300a78d88532960|2291
