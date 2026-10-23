@@ -340,6 +340,7 @@ Klax.mra|6fbeee07022516419d80776260cee4ab|9950
 Knights of Valour 2 (ver. 107).mra|831b5a7c94b7f76537b58f733116baee|2889
 Knights of Valour Super Heroes (ver. 104, CN).mra|2ee0f2600fef1cb3dcfd49aa46c34791|2848
 Kokontouzai Eto Monogatari (Japan).mra|0549a632df17d5289427878cd6bad37e|3830
+Konami's Open Golf Championship (ver EAE).mra|cc18a0b0a1831b04909192a24daa08f2|5167
 Konek Gorbunok.mra|16a76c4397caede30680676b2b0374be|1478
 Kosodate Quiz My Angel 3 (KQT1-VER.A).mra|3e72689740b6c112beed3377351f8f65|2020
 Kot-Rybolov.mra|2f8a24edb730154e1c07884a1ca2b9ee|1473
@@ -514,6 +515,7 @@ Qix II (Tournament).mra|f55cf1638ba078de09151c9d8f568f3f|1777
 R-Type (World).mra|1365dbf870188d9ea8ad593125f069fd|3510
 R-Type II (World).mra|69151a5be820cc3c5a6630d511ab8619|3088
 R-Type Leo (World).mra|ef9b632f177f70fb27063ca1d9f535c7|6350
+Racin' Force (ver EAC).mra|cd64abd765c8823006ca6f343f460f16|4411
 Racing Hero.mra|7daac33bfdb845b1ded02995b11e0de5|3931
 Radar Scope (rev. D).mra|0098ca477f15777365036f6c022653c4|2739
 Rafflesia (315-5162).mra|d65e1f2ebe6189081b8209c28ed4a49d|3252
@@ -543,7 +545,9 @@ Road Blasters (upright, rev 4).mra|b61ca7c5a9575eca605b0d3f68141de0|9520
 Road Runner (rev 2).mra|6890ca6f4b473464d3f5ad7a197f27c7|8280
 Robotron 2084.mra|cc4349ff3be03472e35ed61295608567|4220
 Rod-Land (World, Set 1).mra|256cf6e657887d332f30f443b464fc56|3250
+Run and Gun 2 (ver UAA).mra|5d5c03f2d9591d2377907ed6b264c2d9|4211
 Rush'n Attack - Green Beret.mra|f03ae7c0584d41cf110fd3999688c53f|3102
+Rushing Heroes (ver UAB).mra|e0b14a32c0a26603288232fe9af6f099|3889
 Rygar.mra|fd34f05f4e451ac219f9096d4f23d2d1|2689
 S.O.S..mra|6e3624f052a82d53b0aae0f3efa56494|1466
 S.S. Mission.mra|6d8033a705193b144ef5196db2e08b88|4647
@@ -587,6 +591,7 @@ SlapFight Bootleg.mra|cef3d8a5d61113e83c81b9ce3a92c7f0|2271
 Snap Jack.mra|85d442bd8006f78d6aa6660e34c02a78|3027
 Snezhnaja Koroleva.mra|1c35d4273eafb021d488ea709f3a1260|1477
 Snow Bros. 2 - With New Elves - Otenki Paradise (Hanafram).mra|290528615868eabfba9d4e20b30bce86|2521
+Soccer Superstars (ver EAC).mra|e16e4f7a3774cac52f2d491244089777|3698
 Solar Fox.mra|09ddca143adff12300270b52c14346d3|2313
 Soldam.mra|49651b46761f80f5a95c53f484f60cbb|3313
 Solitary Fighter (World).mra|9f93c620c8d63f288aed8ecd17da016b|2207
@@ -762,6 +767,7 @@ Vandyke (Japan).mra|beea4bbf42d2be5822326fe099250d75|4868
 Vanguard.mra|d68be44da74771f01bbf3fb93a33fe38|2194
 Vastar.mra|42818e527adf45186b12c742e8be54f6|3138
 Venture Revision 5.mra|9f4fa6f2c4218d0624d625a9d35303ad|1774
+Versus Net Soccer (ver EAD).mra|3eb0812ec91ea3bf1c5e98e22f9e75dd|3379
 Victory (Exidy).mra|be4d92f6cc065e2c87e841dfe11267c7|2265
 Victory Road.mra|38f0e786abee00b795e2efdaba6b7e02|3508
 Victory.mra|2307404fd177e2531dde205a969eb9cc|1969
