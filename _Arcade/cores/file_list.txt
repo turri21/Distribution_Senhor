@@ -181,6 +181,8 @@ KickAndRun_Senhor_20240730.rbf
 KillerInstinct_Senhor_20261004.rbf
 Klax_Senhor_20260812.rbf
 KonamiGX_Senhor_20261023.rbf
+KonamiGXT1_Senhor_20261023.rbf
+KonamiGXT34_Senhor_20261023.rbf
 Kyugo_Senhor_20260730.rbf
 LadyBug_Senhor_20260204.rbf
 LaserdiscGames_Senhor_20261018.rbf
