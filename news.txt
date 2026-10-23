@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 22/10/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: UKNC_Senhor_20261023.rbf[/INFO]
 [INFO]New Cores: Pippin_Senhor_20261022.rbf, smc777_Senhor_20261020.rbf[/INFO]
 [INFO]New Cores: Sun-3_Senhor_20261020.rbf, Sun-2_Senhor_20261020.rbf[/INFO]
 [INFO]New Cores: Cray-XMP_20261010.rbf, Deco156Simple_Senhor_20261018.rbf[/INFO]
