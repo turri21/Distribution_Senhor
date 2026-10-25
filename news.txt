@@ -2,7 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 22/10/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]New Cores: TI83P_Senhor_20261023.rbf[/INFO]
+[INFO]New Cores: Neon_Senhor_20261025.rbf, TI83P_Senhor_20261023.rbf[/INFO]
 [INFO]New Cores: KonamiGXT1_Senhor_20261023.rbf, KonamiGXT34_Senhor_20261023.rbf[/INFO]
 [INFO]New Cores: KonamiGX_Senhor_20261023.rbf, UKNC_Senhor_20261023.rbf[/INFO]
 [INFO]New Cores: Pippin_Senhor_20261022.rbf, smc777_Senhor_20261020.rbf[/INFO]
