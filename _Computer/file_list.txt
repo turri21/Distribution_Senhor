@@ -3,6 +3,8 @@ AcornAtom_Senhor_20251215.rbf
 AcornElectron_Senhor_20251216.rbf
 AliceMC10_Senhor_20251208.rbf
 Altair8800_Senhor_20260107.rbf
+Amiga4000_040_Senhor_20261025.rbf
+Amiga4000_060_Senhor_20261025.rbf
 AmstradNC_Senhor_20260805.rbf
 AmstradPlus_Senhor_20261010.rbf
 Amstrad_Senhor_20260510.rbf
