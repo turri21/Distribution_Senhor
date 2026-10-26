@@ -33,7 +33,7 @@
   index 1: the synthesized 4 KB Type-3 dongle PROM (all zero except 0x8A0=0x18, 0x8A1=0xF7).
 -->
 <misterromdescription>
-    <name>Zeroize (US)</name>
+    <name>Zeroize</name>
     <setname>czeroize</setname>
     <rbf>DECOCassette</rbf>
     <mameversion>0268</mameversion>

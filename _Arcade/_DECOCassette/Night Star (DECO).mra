@@ -6,7 +6,7 @@
   Metadata $02E00 = 03 20 02  (dongle_type=0x03, game_id=0x20 = DECO release #32, swap_mode=0x02)
 -->
 <misterromdescription>
-    <name>Night Star (set 1)</name>
+    <name>Night Star</name>
     <setname>cnightst</setname>
     <rbf>DECOCassette</rbf>
     <mameversion>0268</mameversion>
@@ -46,7 +46,7 @@
         <part name="cnightst.pro" crc="553b0fbc"/>
     </rom>
 
-    <buttons names="Button1,Button2,Coin,Start" default="A,B,Select,Start"/>
+    <buttons names="Button1,Button2,Coin,Start 1P,Start 2P,Pause" default="A,B,Select,Start,R,L"/>
     <!-- DIPs from MAME decocass.cpp (input port cnightst); Country Code bits="21,23" (inclusive range). DSW1/DSW2 byte-swapped so RTL feeds .dsw2 from sw[2], .dsw1 from sw[3]. -->
     <switches default="00,00,FF,3F">
         <dip bits="16" name="Lives" ids="5,3"/>

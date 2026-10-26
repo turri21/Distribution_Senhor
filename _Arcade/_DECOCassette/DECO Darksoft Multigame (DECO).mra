@@ -33,7 +33,7 @@
    - that the MENU lives in the first 256 KB (if it doesn't boot, the menu is higher -> needs SDRAM).
 -->
 <misterromdescription>
-    <name>DECO Multigame (Darksoft v17)</name>
+    <name>DECO Darksoft Multigame</name>
     <setname>decodark</setname>
     <rbf>DECOCassette</rbf>
     <mameversion>0268</mameversion>

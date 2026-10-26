@@ -94,5 +94,16 @@
         <dip bits="30"       name="Cabinet"             ids="Upright,Cocktail"/>
     </switches>
 
-    <buttons names="Button1,Button2,Coin,Start" default="A,B,Select,Start"/>
+    <buttons names="Button1,Button2,Coin,Start 1P,Start 2P,Pause" default="A,B,Select,Start,R,L"/>
+
+    <!-- Hiscore (hiscore.dat cbtime). START_WAIT counts from game entry (core holds hiscore.v in reset until the
+         first opcode fetch below $F000): MAME table init = entry + 27 frames -> 29 frames x 1,671,168 clk_sys. -->
+    <rom index="3" md5="none">
+        <part>
+            02 E3 80 00 00 FF 00 02 00 02 00 01 11 11 00 00
+            00 00 00 33 00 24 00 12
+        </part>
+    </rom>
+    <rom index="4"></rom>
+    <nvram index="4" size="36"></nvram>
 </misterromdescription>

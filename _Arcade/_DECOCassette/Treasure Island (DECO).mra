@@ -31,7 +31,7 @@
            by this game but still addressable, reading zero/undefined BRAM if ever selected).
 -->
 <misterromdescription>
-    <name>Treasure Island (US) (set 1)</name>
+    <name>Treasure Island</name>
     <setname>ctisland</setname>
     <rbf>DECOCassette</rbf>
     <mameversion>0268</mameversion>

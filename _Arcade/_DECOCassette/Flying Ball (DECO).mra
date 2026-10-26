@@ -35,7 +35,7 @@
     $03000-       Cassette image (cflyball.cas, 64 KB)
 -->
 <misterromdescription>
-    <name>Flying Ball (DECO)</name>
+    <name>Flying Ball</name>
     <setname>cflyball</setname>
     <rbf>DECOCassette</rbf>
     <mameversion>0268</mameversion>

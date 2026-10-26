@@ -17,7 +17,7 @@
   index 2: decocrom overlay-PCB ROM (x1..x5, y1..y5 — 10 x 4 KB = 40 KB, full region).
 -->
 <misterromdescription>
-    <name>Explorer (US)</name>
+    <name>Explorer</name>
     <setname>cexplore</setname>
     <rbf>DECOCassette</rbf>
     <mameversion>0268</mameversion>

@@ -46,7 +46,7 @@
         <part name="cgraplop.pro" crc="ee93787d"/>
     </rom>
 
-    <buttons names="Button1,Button2,Coin,Start" default="A,B,Select,Start"/>
+    <buttons names="Button1,Button2,Coin,Start 1P,Start 2P,Pause" default="A,B,Select,Start,R,L"/>
     <!-- DIPs from MAME decocass.cpp (input port cgraplop); Country Code bits="21,23" (inclusive range). DSW1/DSW2 byte-swapped so RTL feeds .dsw2 from sw[2], .dsw1 from sw[3]. -->
     <switches default="00,00,FF,3F">
         <dip bits="16" name="Lives" ids="5,3"/>

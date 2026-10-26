@@ -41,7 +41,7 @@
    - that the MENU lives at dongle-ROM offset 0 (widel_ctrs resets to 0 on activation).
 -->
 <misterromdescription>
-    <name>DECO Multigame (Widel)</name>
+    <name>DECO Widel Multigame</name>
     <setname>decomult</setname>
     <rbf>DECOCassette</rbf>
     <mameversion>0268</mameversion>
