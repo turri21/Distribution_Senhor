@@ -1,6 +1,7 @@
 ABC80_Senhor_20250907.rbf
 AcornAtom_Senhor_20251215.rbf
 AcornElectron_Senhor_20251216.rbf
+Aleste520EX_Senhor_20261024.rbf
 AliceMC10_Senhor_20251208.rbf
 Altair8800_Senhor_20260107.rbf
 Amiga4000_040_Senhor_20261025.rbf
