@@ -52,7 +52,7 @@ MSX_Senhor_20260217.rbf
 MacColorClassic_Senhor_20261018.rbf
 MacIIcx_Senhor_20261025.rbf
 MacLC_Senhor_20260916.rbf
-MacPlus_Senhor_20260911.rbf
+MacPlus_Senhor_20261026.rbf
 MacQuadra800_Senhor_20261005.rbf
 MacSE30_Senhor_20261025.rbf
 microbee_Senhor_20260806.rbf
