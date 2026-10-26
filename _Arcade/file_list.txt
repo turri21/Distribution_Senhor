@@ -110,12 +110,12 @@ Catacomb.mra|f318a8c59e69f2429998682e7ed5e823|1939
 Cavelon.mra|7def2969bcfc41f7ba6eee714d2b6e14|1908
 Caveman Ninja (World ver 4).mra|5244050759938f02b7a36e1e03af7fab|6783
 Centipede (Rev 4).mra|2857a5b6415f8844fad454e4d388ea1d|1944
-Chain Reaction (World, Version 2.2, 1995.09.25).mra|846769ca9ba87b2709a4ac89a02de768|3480
+Chain Reaction (World, Version 2.2, 1995.09.25).mra|5f0a1dde2781a72e4a14e469ba22e6c1|3506
 Chameleon.mra|e4410d2f4057ce065436a7e9de5aa06a|2572
 Champion Base Ball Part-2.mra|963c06f936b6499c6d65c0ec4d800d06|3518
 Champion Base Ball.mra|20fd229c94ab703b940069a489eefa2a|3271
 Championship Sprint (rev 3).mra|0848c5ca145f8731bf9a20f2d2706eca|4604
-Charlie Ninja.mra|b0d2aa49c29b95e202a39fd2685e8f61|3467
+Charlie Ninja.mra|4e9fe34da41a005675dff9b553d71411|3459
 China Gate (US).mra|7e23415f53f3b83713d7ceff23563ee6|4083
 Choplifter (unprotected).mra|086bb65a270cfac61e1fe8ef6b5702e5|2370
 Chouji Meikyuu Legion (Japan ver 1.05, set 2).mra|5b97135f35535e9dd3159d40db3861dc|3010
@@ -285,6 +285,7 @@ Hard Dunk (World).mra|f2e7078cbd9edd6bc4452a38c26cb988|2326
 Hard Hat.mra|e388369415bb746b4accc90a809dc47a|1652
 Heated Barrel (World version 3).mra|d4ff886912658b6f747be308733789a0|4199
 Heavy Metal (315-5135).mra|043ce30ec179720aff3bd9552fdf02b2|2862
+Heavy Smash (Europe version -2).mra|d1d767dcd4b3f12c8d3c7dd63a97d65b|3577
 Hellfire (2P Set).mra|0e78f467496511f99ffa0c4a31e6121f|2544
 Hi Pai Paradise 2.mra|5d99c484d9b7d48421249be31732ac95|2044
 Hi Pai Paradise.mra|6d02dee549662045034aa82ef696ff24|1974
@@ -316,7 +317,7 @@ Jackal (W, Rotary).mra|78cb5d72b49b8391a3aea3d6e9d1ba0c|2568
 Jailbreak.mra|a382ed84795ea4534837d87e8999036b|2512
 Jin.mra|f030f686853f4ec1280a6287fbf5f2b6|1662
 Jitsuryoku!! Pro Yakyuu (Japan).mra|828d417d14447fe44145e8461a8de604|3091
-Joe & Mac Returns (World, Version 1.1, 1994.05.27).mra|a55aef2e5e901bfe66324dc40d2602ce|3538
+Joe & Mac Returns (World, Version 1.1, 1994.05.27).mra|cf8c6d0fd5706043b735f6be5f0eacc4|3532
 Journey.mra|f18440b07385446d95ec585db21019e4|2740
 Joust 2 - Survival of the Fittest (revision 2).mra|186e896e8d8fa4fcb441f1457d2bef38|4061
 Joust.mra|7ec459f1ee6a95a65dde66bcd6dbf6c7|4117
@@ -455,7 +456,7 @@ Pac-Man Plus.mra|57de3ddd181fd6388b525b1c0bf7ac6a|2227
 Pac-Manic Miner.mra|ee5a5e24d5500391081622c1f1f78a8f|154366
 Paddle Mania.mra|ca4ce44e8f721f314db333343d5f5b3c|3255
 Paperboy (rev 3).mra|4ec467de0bafcfe3f0d7a8ce7996cb64|7173
-Party Time Gonta the Diver II - Ganbare! Gonta!! 2 (World Release).mra|3a968a7435233b6a16d459f5f146fd22|3282
+Party Time Gonta the Diver II - Ganbare! Gonta!! 2 (World Release).mra|275cddc4307d34d0d2b01f8ab8f4d7bb|3281
 Pengo (Set 1, Rev C).mra|5c76a0043bc2ec694bcce8194beb5c29|1805
 Penguin-Kun Wars.mra|bb83badf5cee9d1ccc16a2ab396e43df|1132
 Pepper II.mra|495638adc1b1d2f23ec3b155a6d48d3f|1718
