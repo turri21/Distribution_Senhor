@@ -38,6 +38,7 @@ Enterprise_Senhor_20251127.rbf
 FM-7_Senhor_20260927.rbf
 Galaksija_PLUS_ROMD.rbf
 Homelab_Senhor_20251227.rbf
+IBMRS6K7248_Senhor_20261026.rbf
 Interact_Senhor_20251215.rbf
 JR100_Senhor_20260725.rbf
 Jupiter_Senhor_20251214.rbf
