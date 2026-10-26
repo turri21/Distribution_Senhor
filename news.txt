@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 22/10/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: Aleste520EX_Senhor_20261024.rbf[/INFO]
 [INFO]New Cores: Amiga4000_060_Senhor_20261025.rbf, MacSE30_Senhor_20261025.rbf[/INFO]
 [INFO]New Cores: Amiga4000_040_Senhor_20261025.rbf, MacIIcx_Senhor_20261025.rbf[/INFO]
 [INFO]New Cores: Neon_Senhor_20261025.rbf, TI83P_Senhor_20261023.rbf[/INFO]
