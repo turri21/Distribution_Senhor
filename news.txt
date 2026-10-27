@@ -1,6 +1,6 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New update_senhor.sh script v1.99[/INFO]
-[INFO]New MiSTer binary - 22/10/2026[/INFO]
+[INFO]New MiSTer binary - 27/10/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: Spec256_Senhor_20261026.rbf[/INFO]
 [INFO]New Cores: IBMRS6K7248_Senhor_20261026.rbf, Aleste520EX_Senhor_20261024.rbf[/INFO]
