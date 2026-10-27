@@ -21,7 +21,7 @@
 [INFO]Updates: NMK16_Macross2_Senhor_20261022.rbf, NMK16_Raphero_Senhor_20261022.rbf[/INFO]
 [INFO]Updates: NMK16_Afega_Senhor_20261022.rbf, NMK16_Gunnail_Senhor_20261022.rbf[/INFO]
 [INFO]Updates: SegaG80V_Senhor_20261022.rbf, S32X_Senhor_20261021.rbf[/INFO]
-[INFO]Updates: Minimig_Senhor_20261022.rbf, Vastar_Senhor_20261021.rbf[/INFO]
+[INFO]Updates: Minimig_Senhor_20261027.rbf, Vastar_Senhor_20261021.rbf[/INFO]
 [INFO]Updates: Atari800_Senhor_20261020.rbf, Vectrex_Senhor_20261019.rbf[/INFO]
 [INFO]Updates: SunSparcStation20_Senhor_20261020.rbf, DECOCassette_Senhor_20261019.rbf[/INFO]
 [INFO]Updates: PCFX_Senhor_20261018.rbf, LaserdiscGames_Senhor_20261018.rbf[/INFO]
