@@ -85,6 +85,7 @@ smc777_Senhor_20261020.rbf
 Sorcerer_Senhor_20251214.rbf
 SordM5_Senhor_20260110.rbf
 SparcStation5_Senhor_20250525.rbf
+Spec256_Senhor_20261026.rbf
 Specialist_Senhor_20260103.rbf
 Sun-2_Senhor_20261020.rbf
 Sun-3_Senhor_20261020.rbf
