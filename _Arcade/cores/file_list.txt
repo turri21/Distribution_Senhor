@@ -13,7 +13,7 @@ atarisys2_Senhor_20260821.rbf
 AtariTetris_Senhor_20260913.rbf
 Athena_Senhor_20260124.rbf
 Badlands_Senhor_20260923.rbf
-Bagman_Senhor_20260430.rbf
+Bagman_Senhor_20261028.rbf
 Bakraid_Senhor_20250302.rbf
 BankPanic_Senhor_20260119.rbf
 Batman_Senhor_20261004.rbf
@@ -71,7 +71,7 @@ DonkeyKong_Senhor_20260203.rbf
 DottoriKun_Senhor_20250105.rbf
 Druaga_Senhor_20260203.rbf
 empirecity_Senhor_20260720.rbf
-Escape_Senhor_20260903.rbf
+Escape_Senhor_20261024.rbf
 Exerion_Senhor_20250421.rbf
 Exidy2_Senhor_20260203.rbf
 ExpressRaider_Senhor_20260203.rbf
