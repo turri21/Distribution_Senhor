@@ -201,7 +201,7 @@ Eleven Beat.mra|6cee191e436787ccc57bbb5773f092e7|1949
 Eliminator (2 Players, set 2).mra|1d2c15e5789757328c734d0698ff945f|2959
 Empire Strikes Back.mra|185b5d656a310b5cefa56044b838590c|4275
 empirecity.mra|65861662fe46c89e1cb5af53d1cd65c3|11125
-Escape from the Planet of the Robot Monsters (set 1).mra|0aa5ba61646f750901d721f6763ae41e|5757
+Escape from the Planet of the Robot Monsters (set 1).mra|24a1e0f71670dd094c219056df917c58|6442
 ESP Ra.De. (World 1998 422 International Ver).mra|5fe6dc199b7cb344966a540a749f76e4|1743
 Espgaluda (2003.10.15 Master Ver).mra|d7d5a49d04f7f03c5099c13a69078952|3934
 Euro Champ '92 (World).mra|34455673572f86b62b472b8103e1cd90|2410
@@ -270,6 +270,7 @@ Gun Force II (US).mra|7d492fb4333e0e6c9c9963bde318df01|4967
 Gunbird (World).mra|90487f82c43695c519043738a3422bf1|2641
 Gunforce - Battle Fire Engulfed Terror Island (World).mra|2a306abd671c2e41d78bebff1fb2edc8|5150
 GunNail (28th May. 1992).mra|f19c9811f42096be17250be33fb5ccce|4875
+Guts n' Glory (prototype).mra|3d0c28b850e6dbf76567588183e6a0bf|6269
 Guwange (Japan, 1999 624 Master Ver 1655).mra|0a10a0ab94c84ebe5469e480e5d5138b|1760
 Guwange.mra|07cd2689315439b09dfe726cc8ed70d6|1724
 Gyakuten!! Puzzle Bancho (Japan, set 1).mra|abab63e42164b7a15062d9a6d64a196a|2247
