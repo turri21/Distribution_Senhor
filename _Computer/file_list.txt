@@ -105,6 +105,7 @@ UKNC_Senhor_20261025.rbf
 VIC20_Senhor_20260107.rbf
 VT52_Senhor_20260112.rbf
 Vector-06C_Senhor_20251231.rbf
+VideoBrain_Senhor_20261029.rbf
 X16_Senhor_20260725.rbf
 X68000_Senhor_20260907.rbf
 ZX-Spectrum_Senhor_20261009.rbf
