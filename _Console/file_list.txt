@@ -55,7 +55,7 @@ SegaChannelRevival_Senhor_20260120.rbf
 SG-1000_Senhor_20250811.mgl
 SGB_Senhor_20260113.rbf
 SMS_Senhor_20261008.rbf
-SNES_Senhor_20260814.rbf
+SNES_Senhor_20261031.rbf
 Studio-II_Senhor_20261017.rbf
 SuperAcan_Senhor_20260915.rbf
 SuperVision_Senhor_20250517.rbf
