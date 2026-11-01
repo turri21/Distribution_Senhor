@@ -475,7 +475,7 @@ Pipi & Bibis - Whoopee!! (Z80 sound cpu, set 1).mra|c6a9273bf01565e693b249f09772
 Pirate Pete.mra|122dc2db035ce1f810410a3542e7e924|2797
 Pisces.mra|7d45bd3a7b46a50141668188205c547d|2117
 Pitfall II.mra|53dcaa410a21a930beca5c487e8f9bc7|2950
-Planet Probe.mra|de0e2ef1f372cd0aeefd23c54f384f7c|2936
+Planet Probe.mra|ddffcb40257946d07da7b3c0712ae87f|2942
 Plasma Sword - Nightmare of Bilstein (USA).mra|6e0d5ed6ffb5673dd24f990435c8bc7b|1858
 Playball (Prototype).mra|d88e51804f8c190d556c5dc95e084c83|4180
 Pleiads (Tehkan).mra|69148ef2a1b79b90d86e3af6f34a3843|1628
@@ -768,7 +768,7 @@ V'Ball (US).mra|98343be6c1c75616276234b7c360f87d|2278
 Van-Van Car.mra|a7e6d131d1ef4f7a8d51ef8517322f04|2472
 Vandyke (Japan).mra|beea4bbf42d2be5822326fe099250d75|4868
 Vanguard.mra|d68be44da74771f01bbf3fb93a33fe38|2194
-Vastar.mra|42818e527adf45186b12c742e8be54f6|3138
+Vastar.mra|64c5e6fcabefd0006f393b0538102edc|3144
 Venture Revision 5.mra|9f4fa6f2c4218d0624d625a9d35303ad|1774
 Versus Net Soccer (ver EAD).mra|3eb0812ec91ea3bf1c5e98e22f9e75dd|3379
 Victory (Exidy).mra|be4d92f6cc065e2c87e841dfe11267c7|2265
