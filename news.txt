@@ -1,6 +1,6 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New update_senhor.sh script v1.99[/INFO]
-[INFO]New MiSTer binary - 27/10/2026[/INFO]
+[INFO]New MiSTer binary - 2/11/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: IQ151_Senhor_20261031.rbf[/INFO]
 [INFO]New Cores: VideoBrain_Senhor_20261029.rbf, Spec256_Senhor_20261026.rbf[/INFO]
