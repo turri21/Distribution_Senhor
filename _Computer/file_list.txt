@@ -80,6 +80,7 @@ RX78_Senhor_20260726.rbf
 Rememotech_Senhor_20250327.rbf
 SAMCoupe_Senhor_20260101.rbf
 SGIIndy_Senhor_20261001.rbf
+Sharpx1_Senhor_20261103.rbf
 SVI328_Senhor_20260118.rbf
 SharpMZ_Senhor_20261024.rbf
 smc777_Senhor_20261020.rbf
