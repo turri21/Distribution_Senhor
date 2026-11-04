@@ -10,7 +10,7 @@
 [INFO]Updates: IBMRS6K7248_Senhor_20261103.rbf, MacIIcx_Senhor_20261103.rbf[/INFO]
 [INFO]Updates: FM-7_Senhor_20261104.rbf, PrimalRage_Senhor_20261102.rbf[/INFO]
 [INFO]Updates: X68000_Senhor_20261103.rbf, MacSE30_Senhor_20261102.rbf[/INFO]
-[INFO]Updates: Minimig_Senhor_20261102.rbf, BK0011M_Senhor_20261102.rbf[/INFO]
+[INFO]Updates: Minimig_Senhor_20261104.rbf, BK0011M_Senhor_20261102.rbf[/INFO]
 [INFO]Updates: PC88_Senhor_20261101.rbf, VirtualBoy_Senhor_20261101.rbf[/INFO]
 [INFO]Updates: Saturn_Senhor_20261101.rbf, SNES_Senhor_20261031.rbf[/INFO]
 [INFO]Updates: Gyruss_Senhor_20261030.rbf, C64_Senhor_20261029.rbf[/INFO]
