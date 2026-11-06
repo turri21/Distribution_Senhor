@@ -82,6 +82,7 @@ Rememotech_Senhor_20250327.rbf
 SAMCoupe_Senhor_20260101.rbf
 SGIIndy_Senhor_20261001.rbf
 SharpMZ_Senhor_20261104.rbf
+SharpMZ2500_Senhor_20261105.rbf
 Sharpx1_Senhor_20261104.rbf
 SonySMC777_Senhor_20261105.rbf
 Sorcerer_Senhor_20251214.rbf
