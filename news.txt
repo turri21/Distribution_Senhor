@@ -7,6 +7,7 @@
 [INFO]New Cores: VideoBrain_Senhor_20261029.rbf, Spec256_Senhor_20261026.rbf[/INFO]
 [INFO]New Cores: IBMRS6K7248_Senhor_20261026.rbf, Aleste520EX_Senhor_20261024.rbf[/INFO]
 [INFO]New Cores: Amiga4000_060_Senhor_20261025.rbf, MacSE30_Senhor_20261025.rbf[/INFO]
+[INFO]Updates: Studio-II_Senhor_20261107.rbf, SNES_Senhor_20261107.rbf[INFO]
 [INFO]Updates: Apple-IIgs_Senhor_20261107.rbf, Atari800_Senhor_20261107.rbf[/INFO]
 [INFO]Updates: PCAT-286_Senhor_20261107.rbf, Vectrex_Senhor_20261104.rbf[/INFO]
 [INFO]Updates: 3DO_Senhor_20261106.rbf, SonySMC777_Senhor_20261105.rbf[/INFO]
