@@ -323,6 +323,7 @@ Journey.mra|f18440b07385446d95ec585db21019e4|2740
 Joust 2 - Survival of the Fittest (revision 2).mra|186e896e8d8fa4fcb441f1457d2bef38|4061
 Joust.mra|7ec459f1ee6a95a65dde66bcd6dbf6c7|4117
 Jr. Pac-Man.mra|3b0bbc43715a7c0c4541ba98984fcb6b|2402
+Judge Dredd (rev TA1 7-12-92, location test).mra|f1c113edf87a687c4f30321df4b40d06|5019
 Jump Shot.mra|33ff755705958fa75e8a99702d58e1fd|2136
 Jumping Jack.mra|668e0eea392cb2be73a90e257fbed28f|2097
 Jungle King.mra|6694655fe32df0f8bda93294d769ca43|2676
@@ -406,6 +407,8 @@ Moon Cresta (Galaxian Hardware) [bl].mra|8fe00cb004e36a24a6bccb288c3bfdd2|2016
 Moon Patrol.mra|732b5ea1cac156035d4ee61b9286ee6f|1691
 Moon Quasar.mra|50a7f5b36d22a370eec34e19cf260588|1789
 Moon War.mra|835a8a4951fb7debffaf1bfdb454673e|2394
+Mortal Kombat (rev 5.0 T-Unit 03-19-93).mra|f7519e8a254e589e21baf65a3f933708|7985
+Mortal Kombat II (rev L3.1).mra|44a345122f13fc1827c474659ce7d088|9542
 Motos.mra|fd732c347019a829c45276877e06ba31|1727
 Mouse Trap.mra|78d698c4a5342d286575da9cc63f1f6c|1674
 Mr. Do Nightmare.mra|5e83bc7bb586056ffef75a82039e5ba4|53828
@@ -423,6 +426,8 @@ My Hero (US, not Encrypted).mra|0a28edbd776d315c1262af9b5b88ab0d|2887
 Mystic Marathon.mra|1306e767d13d40d5208099f046b2d792|2184
 Mystic Riders (World).mra|b04dc0cd82613b4cc65fd5b5c51b0247|4647
 Naughty Boy (Jaleco).mra|5ed3acb46a1a10f38fb9336f644cd7c4|1691
+NBA Jam (rev 3.01 4-07-93).mra|ec508ef204a5477575a03f24f131d511|6404
+NBA Jam Tournament Edition (rev 4.0 3-23-94).mra|9f20bbe5ff3df3c24ca5abd7ae59e114|6721
 Nemesis (ROM Version).mra|1f45ecd32a440b0f0bfaa74d973c68ed|5314
 New Rally-X.mra|ddfe52bc25d11ae34b82a0b3e7674239|36540
 Nibbler (Set 9).mra|ff062e0c69057297875a09673289564d|4031
