@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 7/11/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: Rbisland_Senhor_20261109.rbf[/INFO]
 [INFO]New Cores: 3B1_Senhor_20261109.rbf, SharpMZ2500_Senhor_20261105.rbf[/INFO]
 [INFO]New Cores: Sharpx1_Senhor_20261104.rbf, IQ151_Senhor_20261031.rbf[/INFO]
 [INFO]New Cores: VideoBrain_Senhor_20261029.rbf, Spec256_Senhor_20261026.rbf[/INFO]
