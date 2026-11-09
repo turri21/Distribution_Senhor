@@ -531,6 +531,8 @@ Raiden (World).mra|00d4f11dc2c53627df181338cf111c27|6116
 Raiden DX.mra|1d2e7e23dc6a62234fc2464bfd53c07d|5451
 Raiden II.mra|21eeee36e18b2a50a96d55cf2378859b|5451
 Raiders5.mra|57777fb3b1918a91062894b26f869784|1930
+Rainbow Islands (World, rev 2, set 1).mra|fb67166749a21e8b6d8582126245cb05|5427
+Rainbow Islands - Extra Version.mra|9d4f9d6aaa218ba48f8535a710417336|7394
 Rally Bike - Dash Yarou.mra|7cf441dfb32a248bbbfdac9fdaba610a|2552
 Rally-X (32k Ver).mra|cf95e4fbd6948079d29169cf759b6ed6|35931
 Rampage (Rev 3, 860827).mra|db746a1c11d578657a952ba589d81c53|2191
