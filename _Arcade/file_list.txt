@@ -692,6 +692,7 @@ Tapper (Budweiser, 840127).mra|d622b7eca7238d2842746452b274e613|2641
 TARG.mra|547e7397f77d0ab2c8e644f782f30e66|1600
 Task Force Harrier.mra|79f4bab6b3806a422ce654eb38b8715a|4033
 Tatakae! Big Fighter (Japan).mra|55826aeef5a31fbe0c1bcd63cf102532|2847
+Tattoo Assassins (US prototype).mra|82357b3b8789307a2a8abd41c303e6a6|10409
 Tazz-Mania (Set 1).mra|9123df44bcfabca4c547db0134201bb3|2216
 Tech Romancer (USA).mra|c88614ea9a7882497df3be55aacfc8a2|1916
 TeddyBoy Blues (315-5115, New Ver).mra|9ecfd42a494d7cc989e585681220d7e1|2906
