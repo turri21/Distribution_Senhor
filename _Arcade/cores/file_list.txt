@@ -56,7 +56,7 @@ CrystalCastles_Senhor_20250123.rbf
 DCon_Senhor_20260611.rbf
 DECOCassette_Senhor_20261026.rbf
 Darius2NinjaWarriors_Senhor_20260524.rbf
-Darius_Senhor_20260730.rbf
+Darius_Senhor_20261110.rbf
 Deco156Simple_Senhor_20261018.rbf
 Deco16_Senhor_20260617.rbf
 Defender_Senhor_20260228.rbf
