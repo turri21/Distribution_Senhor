@@ -11,10 +11,12 @@ Air Assault (World).mra|794de9ce9881edaddf37439278572ae6|3845
 Air Attack (set 1).mra|7df68b3f2eb6b82749e4f412c20b4e84|4698
 Air Duel (World, M72 hardware).mra|6db3376e5a00f070ef70a4d7d3cfc796|3144
 Air Gallet (Europe).mra|57cce0b8145c9d11d3eec8b3f3b465fc|1572
+Air Rescue.mra|2c598d20744ffd59dac1a379d07b3e6b|3743
 Airwolf.mra|6d784748a10f5a14a1fe0ae16aa38b24|4997
 Alcon Bootleg.mra|358cd033bb4e4ae9c48717594453f097|2225
 Ali Baba and 40 Thieves.mra|a491a580ff843ecaefa130d45e164f5e|2483
 Alien Arena (Stargate upgrade).mra|3604607494b0de072619036ab680b400|4130
+Alien3 - The Gun.mra|d2d927cc504351bb7a6669e1e43e037a|2441
 Alligator Hunt (Gaelco, 1994).mra|65377cf9f741b4ad74ad8f9a5112624e|2635
 Alpine Ski.mra|c02eeb523e157c13c56e0ed9bfcf2c20|2285
 Amazing Maze.mra|b43dc793ac8ae015e08f0d89959fddbe|133527
@@ -22,6 +24,7 @@ American Soccer.mra|5aebe6538d9a181138960b1ba29ddc82|2325
 Amidar (Scramble).mra|bee70136b9bef3af4b9099c143ecd078|2482
 Anteater.mra|469ce72969dc36c17dabb5863394e693|2288
 APB - All Points Bulletin (rev 7).mra|5aee38e1303c29ba187b572def922273|7172
+Arabian Fight.mra|faf74e786354e9842c2a7151d7d5a722|2915
 Arabian.mra|ecf59a9e4eab518d537d2b349554d7e0|3587
 Argus no senshi (Japan).mra|1ea956f48472a017965fe004b8a314ec|2207
 Ark Area.mra|b1e74359017d12299a6a1b8201726f20|2884
@@ -101,6 +104,7 @@ Bucky O'Hare.mra|8987215a754876c3786e030112264253|3005
 Bull Fight (315-5056).mra|16a99d6a22186bb625bd0defc24d41dc|2827
 Burger Time (Set 1).mra|e745a5849ad492160904e4726ecfa4db|2807
 Burnin' Rubber.mra|965c00df5587e2dc51a462497ee714dc|2461
+Burning Rival.mra|cf7f089a25596f0bfc43682341f21aac|2769
 Cadash (World).mra|192411a1b11b719c9c54daa847952712|3802
 Calipso.mra|e67a88b85c1f1d0f382c440a3b222056|2353
 Cameltry (World, YM2610).mra|a8132fe467b87bacacc03f476cb200f5|2042
@@ -154,6 +158,7 @@ Dancing Eyes (DC2-VER.B).mra|54b0fb116c589e3f813560e567987adc|2419
 Danny Sullivan's Indy Heat (rev 1).mra|9e54f1b826823c3575b2d2e7c2188529|3720
 Darius (World).mra|bdad8872f3c5db8782472637d26cf7bb|4322
 Darius II (Japan, rev 1).mra|ac3d2694a7012d0539d95439c02c60f0|3721
+Dark Edge.mra|8283deb869c404d60c318ecf66ecae37|2850
 Dark Planet.mra|124974270f3808972bf31979cf600578|2268
 Dead Connection (World).mra|6e2ad54e0ed93f853d0dad9f7b5c54b7|2325
 Defender (Red Label).mra|ffd7e6453bc14992e6410703bd7deec0|2485
@@ -183,6 +188,7 @@ Donkey Kong Junior (US, Set F-2).mra|91197e7098444585836cbbf94c8e26f9|303760
 DonPachi (US).mra|52811b2845042b8d07fc2a8e66463312|1398
 Dorodon (Set 1).mra|1fb8cc37e64730af18491a55bb05c352|3027
 Dottori-Kun (new).mra|b74ea7831fdbb8be6c44704360e12ffc|1055
+Dragon Ball Z - V.R. V.S..mra|daaee062e416374b7a3f2eacbddee04a|2131
 Dragon Breed (Japan, M72 hardware).mra|b13688329114e5526f86c53ece4908cb|3576
 Dragon World 2001 (ver. 100, Japan).mra|9ef296457c0d0f769e27aff1b3f535a2|2056
 Dragon World 3 (ver. 106).mra|f1f9e0d2f3935105f7f8021835bca3a0|2473
@@ -211,6 +217,8 @@ Exerion (Taito).mra|37fcfe36c33201f62cc514111f47c1cb|1977
 Express Raider.mra|1cb102fa97b8fcde9d7d05f76b28d59c|2530
 Extra Bases.mra|980266f53bbcec18c58bdc15f60eae90|503501
 Eyes (US, Set 1).mra|cbf71555cfe086c712709c1500367d5b|2168
+F1 Exhaust Note.mra|beff0df943e34f4d2ad15ae683329588|4840
+F1 Super Lap.mra|ae5ae1e8198b4768090aa7ebe19d4efa|2904
 Fantastic Journey (ver EAA).mra|e2a55c7124fa9aac789daa475beefbc9|3679
 Fantasy Zone II - The Tears of Opa-Opa (System 16C version).mra|01f46a46152fd7700d93a991437ddf8f|5112
 Fantasy Zone II - The Tears of Opa-Opa.mra|d6d9d10010de8a850ab1e5197a93687f|2064
@@ -252,6 +260,7 @@ Gladiator (US).mra|247210bd120632b4cf2b6d16f1682fe7|3321
 Godzilla (Japan).mra|750b4898d86edc782a6afb19ab868dac|4291
 Gogetsuji Legends (US, Ver. 95.06.20).mra|8c99649424ec97a58a9dac23d960ae62|2764
 Gold Medalist (Set 1, Alpha68k II PCB).mra|5ecb636c2bd8e983250b9bed242b713b|2913
+Golden Axe - The Revenge of Death Adder.mra|969894545afd29b5597b9b5edcbc2548|3370
 Gorf.mra|a63de6527aa26c72ddc2d11d878c5ca2|2402
 Gorkans.mra|bd533166993f5956a6b4a7572b30be94|2964
 Gorodki.mra|bc2781bb878528510e74a9dba8c8afcb|1382
@@ -291,6 +300,7 @@ Hellfire (2P Set).mra|0e78f467496511f99ffa0c4a31e6121f|2544
 Hi Pai Paradise 2.mra|5d99c484d9b7d48421249be31732ac95|2044
 Hi Pai Paradise.mra|6d02dee549662045034aa82ef696ff24|1974
 High Way Race.mra|a58692f46ebaf12f38e949c35d51e6f8|2346
+Holosseum.mra|9271f51db80832848aa52cfae4893f40|3516
 Hook (World).mra|aeeb4e70d10bafa5c0af310876deb46c|6141
 Horizon (Irem).mra|9f57f15bc1642a0db7ad36859ef5a0ac|4869
 Hotdog Storm (Korea).mra|028e36b69371bce1834ed02df008356b|1589
@@ -328,6 +338,7 @@ Jump Shot.mra|33ff755705958fa75e8a99702d58e1fd|2136
 Jumping Jack.mra|668e0eea392cb2be73a90e257fbed28f|2097
 Jungle King.mra|6694655fe32df0f8bda93294d769ca43|2676
 Juno First.mra|6d5dccb898e59502e15ea7600b186617|3495
+Jurassic Park.mra|20001a13825cbcd69f5a6d4df722a76e|2150
 Kangaroo (Atari).mra|418536c8bf2377860348a975931c6e70|3311
 Ketsui - Kizuna Jigoku Tachi (2003.01.01. Master Ver.).mra|95bc497b71a92fa82a18eed6c3f66c3f|4041
 Kick And Run.mra|a8c7874936e3d9c46b132d42b3cef2e7|2638
@@ -525,6 +536,8 @@ R-Type II (World).mra|69151a5be820cc3c5a6630d511ab8619|3088
 R-Type Leo (World).mra|ef9b632f177f70fb27063ca1d9f535c7|6350
 Racin' Force (ver EAC).mra|cd64abd765c8823006ca6f343f460f16|4411
 Racing Hero.mra|7daac33bfdb845b1ded02995b11e0de5|3931
+Rad Mobile.mra|d38885037444309fe16ab55b1ebfc077|4066
+Rad Rally.mra|a1b5c2c5c9fbba138abdd6090908c85a|4707
 Radar Scope (rev. D).mra|0098ca477f15777365036f6c022653c4|2739
 Rafflesia (315-5162).mra|d65e1f2ebe6189081b8209c28ed4a49d|3252
 Raiden (World).mra|00d4f11dc2c53627df181338cf111c27|6116
@@ -581,6 +594,7 @@ SD Gundam Sangokushi Rainbow Tairiku Senki (Japan).mra|da95ea8860ffb2a5c629f23b3
 Sea Wolf (Set 1).mra|9d82c403f007d75290dc5d63f722df83|204289
 Sea Wolf II.mra|f47691e8cb4fc6eaa513d8555b16331a|2052828
 Sega Ninja (315-5102).mra|775fc031a3582c44c13b634a54d649b2|2956
+SegaSonic The Hedgehog.mra|dcaafab31a6546fc17a037b4f78a6fde|2899
 Sei Senshi Amatelass.mra|b07c8c19a9483df8a2a598840c73d4f1|2888
 Seibu Cup Soccer (set 1).mra|cd6eace9f4fdde7656c51d56a378e847|4736
 Sexy Parodius (ver JAA).mra|58230205703185213dd525185db170cd|4971
@@ -598,6 +612,7 @@ Sky Smasher.mra|4b54fe7ea2f6fc50b1d06de495705edb|4357
 Sky Soldiers (US).mra|928795019f48d63ccd48217b0dc9cc43|3987
 Slap Shooter.mra|27a246fe7f50ae64a3bc3d4e5b417800|2457
 SlapFight Bootleg.mra|cef3d8a5d61113e83c81b9ce3a92c7f0|2271
+Slip Stream.mra|9fc1fd041b13e84542c7774bbc3f59fc|4681
 Snap Jack.mra|85d442bd8006f78d6aa6660e34c02a78|3027
 Snezhnaja Koroleva.mra|1c35d4273eafb021d488ea709f3a1260|1477
 Snow Bros. 2 - With New Elves - Otenki Paradise (Hanafram).mra|290528615868eabfba9d4e20b30bce86|2521
@@ -629,6 +644,7 @@ Spectrum 2000 (vertical, Korea).mra|3fd7855fd2c90cab6266bb1745554ca9|3348
 Speed Coin.mra|960df4cc6301d5530594987ca3f18fe9|2239
 Spelunker II - 23 no Kagi (JP).mra|e0c4bd97e6cddc2973be8d8328ef2c35|4203
 Spelunker.mra|02d484d8687c893c8fa072ddc84a3c3b|4612
+Spider-Man - The Videogame.mra|04e3b028e01312b71389f7c2265a7758|3985
 Splat!.mra|7ad2d8fbb03e833907a3d434ba2d4253|3998
 Sprint 1.mra|81b0a2b5211a2dfaf245a340a490ea0a|1539
 Sprint 2.mra|ee39cabe4ff66a46661fa87752179fef|1536
@@ -676,6 +692,7 @@ Super Space Invaders '91 (World, revised code, Rev 1).mra|dc9efc3452c027b10fc150
 Super Spacefortress Macross - Chou-Jikuu Yousai Macross.mra|d1724edeaad8a059dbae1faadcbdf12e|4355
 Super Spacefortress Macross II - Chou-Jikuu Yousai Macross II.mra|53636e3d6b8ec5aa06ee036bee235240|8476
 Super Sprint (rev 4).mra|e2cf59d4a7addd0fa5c9e6a688f68d96|4844
+Super Visual Football - European Sega Cup.mra|a0060a91135a294ce06950c9b9f4cb18|2941
 Super Xevious.mra|efc5d1e55163d7cab7e291ce02a1e996|2816
 Super Zaxxon (315-5013).mra|52c540ce13259796679b91970a3c36eb|2403650
 Superior Soldiers (US).mra|f24eb79fa0612ed98efe5f949297f467|5938
@@ -713,6 +730,7 @@ The Bounty.mra|797323477b27c293426abadda961d29f|2735
 The End.mra|247f1723c5465b71355b39d51d8444a0|2703
 The Gladiator (ver. 107).mra|a3380672b7842c9df5b2224ad1f42d2d|3740
 The Glob (Pac-Man Hardware).mra|e8ea01364aa3f628188a870f7ce8d648|2286
+The J.League 1994.mra|44ae9f1cf6c7ed596171206b78d08b1e|2726
 The Killing Blade (ver. 109, Chinese Board).mra|b22957cd8a570131ff91405f487cbd52|2634
 The Killing Blade Plus (China, ver. 300).mra|2c9ec22f7f12ead61dd5fa2db8a82645|2285
 The Lord of King (Japan).mra|80632a4f970bba7a91d102df727ba36b|3714
