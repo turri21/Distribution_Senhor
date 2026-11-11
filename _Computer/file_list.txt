@@ -19,7 +19,7 @@ Aquarius_Senhor_20260104.rbf
 Archie_Senhor_20261024.rbf
 Atari800_Senhor_20261107.rbf
 AtariFalcon_Senhor_20261003.rbf
-AtariST_Senhor_20260108.rbf
+AtariST_Senhor_20261111.rbf
 BBCMicro_Senhor_20260105.rbf
 BK0011M_Senhor_20261102.rbf
 BasicMasterJr_Senhor_20260812.rbf
