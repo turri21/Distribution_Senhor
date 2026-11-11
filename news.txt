@@ -2,7 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 11/11/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]New Cores: PC6001_Senhor_20261108.rbf[/INFO]
+[INFO]New Cores: S32_Senhor_20261111.rbf, PC6001_Senhor_20261108.rbf[/INFO]
 [INFO]New Cores: TattooAssassins_Senhor_20261108.rbf, Rbisland_Senhor_20261109.rbf[/INFO]
 [INFO]New Cores: 3B1_Senhor_20261109.rbf, SharpMZ2500_Senhor_20261105.rbf[/INFO]
 [INFO]Updates: MegaDrive_Senhor_20261111.rbf[/INFO]
