@@ -5,7 +5,7 @@
 [INFO]New Cores: PC6001_Senhor_20261108.rbf[/INFO]
 [INFO]New Cores: TattooAssassins_Senhor_20261108.rbf, Rbisland_Senhor_20261109.rbf[/INFO]
 [INFO]New Cores: 3B1_Senhor_20261109.rbf, SharpMZ2500_Senhor_20261105.rbf[/INFO]
-[INFO]Updates: Darius_Senhor_20261110.rbf[/INFO]
+[INFO]Updates: Minimig_Senhor_20261111.rbf, Darius_Senhor_20261110.rbf[/INFO]
 [INFO]Updates: IBMRS6K7248_Senhor_20261109.rbf, TK2000_Senhor_20261109.rbf[/INFO]
 [INFO]Updates: CDi_Senhor_20261107.rbf, VideoBrain_Senhor_20261107.rbf[/INFO]
 [INFO]Updates: Studio-II_Senhor_20261107.rbf, SNES_Senhor_20261107.rbf[INFO]
