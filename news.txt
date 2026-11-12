@@ -1,6 +1,6 @@
 [TITLE]Important Updates[/TITLE]
 [INFO]New update_senhor.sh script v1.99[/INFO]
-[INFO]New MiSTer binary - 11/11/2026[/INFO]
+[INFO]New MiSTer binary - 12/11/2026[/INFO]
 [TITLE]Cores[/TITLE]
 [INFO]New Cores: HP9K715_Senhor_20261112.rbf, Microtan65_Senhor_20261111.rbf[/INFO]
 [INFO]New Cores: S32_Senhor_20261111.rbf, PC6001_Senhor_20261108.rbf[/INFO]
