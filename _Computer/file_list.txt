@@ -59,6 +59,7 @@ MacPlus_Senhor_20261026.rbf
 MacQuadra800_Senhor_20261005.rbf
 MacSE30_Senhor_20261111.rbf
 microbee_Senhor_20260806.rbf
+Microtan65_Senhor_20261111.rbf
 Minimig_Senhor_20261111.rbf
 MultiComp_Senhor_20260812.rbf
 Neon_Senhor_20261025.rbf
