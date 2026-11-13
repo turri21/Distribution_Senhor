@@ -10,6 +10,7 @@ Amiga4000_060_Senhor_20261025.rbf
 AmstradNC_Senhor_20260805.rbf
 AmstradPlus_Senhor_20261010.rbf
 Amstrad_Senhor_20260510.rbf
+ao486_Senhor_20260717.rbf
 Apogee_Senhor_20251229.rbf
 Apple-I_Senhor_20251006.rbf
 Apple-IIgs_Senhor_20261111.rbf
@@ -35,6 +36,7 @@ CoCo3_Senhor_20261002.rbf
 ColecoAdam_Senhor_20260717.rbf
 Cray-XMP_20261010.rbf
 EDSAC_Senhor_20250906.rbf
+eg2000_Senhor_20250920.rbf
 Enterprise_Senhor_20251127.rbf
 FM-7_Senhor_20261104.rbf
 Galaksija_PLUS_ROMD.rbf
@@ -50,18 +52,21 @@ LM80C_Senhor_20250612.rbf
 Laser310_Senhor_20251214.rbf
 Laser500_Senhor_20251214.rbf
 Lynx48_Senhor_20251216.rbf
-MC1201_Senhor_20231213.rbf
-MSX1-MSX2_Senhor_20250509.rbf
-MSX_Senhor_20260217.rbf
 MacColorClassic_Senhor_20261018.rbf
 MacIIcx_Senhor_20261103.rbf
 MacLC_Senhor_20260916.rbf
 MacPlus_Senhor_20261026.rbf
 MacQuadra800_Senhor_20261005.rbf
 MacSE30_Senhor_20261111.rbf
+mc-2g-1024_Senhor_20251212.rbf
+MC1201_Senhor_20231213.rbf
 microbee_Senhor_20260806.rbf
 Microtan65_Senhor_20261111.rbf
 Minimig_Senhor_20261111.rbf
+mo_Senhor_20261106.rbf
+MSX1-MSX2_Senhor_20250509.rbf
+MSX_Senhor_20260217.rbf
+MTX512_Senhor_20261113.rbf
 MultiComp_Senhor_20260812.rbf
 Neon_Senhor_20261025.rbf
 NewBrain_Senhor_20261012.rbf
@@ -77,6 +82,7 @@ PCW_Senhor_20261025.rbf
 PCXT_Senhor_20260331.rbf
 PCjr_Senhor_20260321.rbf
 PDP1_Senhor_20250528.rbf
+pdp2011_Senhor_20221207.rbf
 PET2001_Senhor_20260104.rbf
 PETUniversal_Senhor_20260913.rbf
 PMD85_Senhor_20251225.rbf
@@ -120,8 +126,3 @@ ZX-Spectrum_Senhor_20261029.rbf
 ZX81_Senhor_20260107.rbf
 ZXNext_Senhor_20260113.rbf
 Zet98_Senhor_20250521.rbf
-ao486_Senhor_20260717.rbf
-eg2000_Senhor_20250920.rbf
-mc-2g-1024_Senhor_20251212.rbf
-mo_Senhor_20261106.rbf
-pdp2011_Senhor_20221207.rbf
