@@ -387,6 +387,7 @@ Lunar Lander.mra|e83cf2064815a83d54f2bf0e25777569|1424
 Lunar Rescue.mra|e81817eb4cde6f13b62558ab2a05518f|1732
 Lupin III (Set 2).mra|59f203bf48af7d818e6d1f36dff3775f|284917
 Mad Planets.mra|bbc72ed22daceab223a6295a12009e36|1568
+Magical Cat Adventure.mra|7226084f6fd66ddec217181dd47fdf12|4421
 Magical Error wo Sagase.mra|6b907ecea28f5b72223194b55812dd24|2309
 Magical Spot.mra|bccf9173829ad66983c7d607ce9c101a|1290611
 Magical Tetris Challenge (981009 Japan).mra|45b16a2163777ba9cec958b84d93d2d4|2410
@@ -449,6 +450,7 @@ Ninja-Kid II.mra|d11dae458f91e5196748663dd8cce426|3206
 Ninjakun.mra|7c6ccce731e2b6279ceef491d686475e|2820
 No Mans Land.mra|094a71d4452e2891c04bd00bb5e2a551|2052837
 Noboranka (bootleg).mra|63bf7b8fbd0474a317d2d926a268dc09|2354
+Nostradamus.mra|6a22ca2c98ca4e23b1734a3a39855444|4052
 Nouryoku Koujou Iinkai.mra|2b308befe833561baa9b2fdc81827632|3750
 Nova 2001.mra|2253e1a4514a5cc92df0658231b41f10|2016
 Number Crash.mra|fd6ed3a9127b5aa45738ef7f8dbf4681|2423
