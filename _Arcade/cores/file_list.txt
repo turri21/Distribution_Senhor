@@ -194,6 +194,7 @@ moomesa_Senhor_20260730.rbf
 MajorHavoc_Senhor_20260629.rbf
 MarbleMadness2_Senhor_20260730.rbf
 MarioBros_Senhor_20240802.rbf
+MCatAdv_Senhor_20261114.rbf
 MCR1_Senhor_20260425.rbf
 MCR2_Senhor_20260428.rbf
 MCR3Mono_Senhor_20260205.rbf
