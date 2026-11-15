@@ -1,0 +1,46 @@
+<misterromdescription>
+    <name>Evil Night (ver UBA)</name>
+    <setname>evilngt</setname>
+    <mameversion>0289</mameversion>
+    <year>1998</year>
+    <manufacturer>Konami</manufacturer>
+    <rbf>KonamiM2</rbf>
+    <buttons names="Trigger,Reload,-,Start,Coin" default="B,A,Start,Select" />
+    <!-- the board's DIP switches, as MAME's P2 (the rest unused) -->
+    <switches default="FF" base="16">
+        <dip bits="1" name="Flip Screen" ids="On,Off" values="0,1"/>
+    </switches>
+
+    <!--
+      As Tobe! Polystars' MRA, with the 636a01 boot ROM, RAM 2 x 8 MB and an M48T58 (m48t58y.9n): index 3 is its 8 KB, then a byte for the board: bit 0 the
+      larger RAM, bit 1 the guns and this game's inputs. Index 4 is the YMZ280B's samples.
+
+      evilngt_cd.zip and evilngt_full.bin aren't in a MAME set: tools/m2disc.py or the browser converter (https://konami-m2-chd-converter.fueledmyrrh2.chatgpt.site/)
+      makes both from the set's evilngt/810uba02.chd. evilngt_cd.zip (evilngt_cd.bin, 58 MB, in it) goes beside evilngt.zip; the music streams from evilngt_full.bin (515 MB) in games/evilngt. Without it the game runs without its music.
+    -->
+
+    <file delay="1" type="s" index="0" path="evilngt_full.bin"/>
+
+    <rom index="0" zip="evilngt.zip" md5="none" address="0x30000000">
+        <part name="636a01.8q" crc="7b1dc738"/>
+    </rom>
+    <rom index="1" zip="evilngt_cd.zip" md5="none" address="0x32000000">
+        <part name="evilngt_cd.bin"/>
+    </rom>
+    <rom index="2" zip="evilngt.zip" md5="none">
+        <part name="93c46.7k"/>
+        <!-- the service menu's SOUND VOLUME (word 0x1c) at 20 of 30, not the factory 12; 0x10 rises by the change and 0x12 is its complement -->
+        <patch offset="0x10">09 CA F6 35</patch>
+        <patch offset="0x1c">00 14</patch>
+    </rom>
+    <!-- the EEPROM, with the guns' calibration and the service menu's settings: Main saves it (nvram/) and loads it in place of the set's 93c46.7k -->
+    <nvram index="2" size="128"/>
+
+    <rom index="3" zip="evilngt.zip" md5="none">
+        <part name="m48t58y.9n"/>
+        <part>03</part>
+    </rom>
+    <rom index="4" zip="evilngt.zip" md5="none" address="0x36000000">
+        <part name="810a03.16h" crc="05112d3a"/>
+    </rom>
+</misterromdescription>

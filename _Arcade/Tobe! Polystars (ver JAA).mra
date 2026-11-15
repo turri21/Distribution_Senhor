@@ -1,0 +1,40 @@
+<misterromdescription>
+    <name>Tobe! Polystars (ver JAA)</name>
+    <setname>polystar</setname>
+    <mameversion>0289</mameversion>
+    <year>1997</year>
+    <manufacturer>Konami</manufacturer>
+    <rbf>KonamiM2</rbf>
+    <buttons names="Shoot,Bomb,-,Start,Coin" default="B,A,Start,Select" />
+    <!-- the board's two DIP switches, as MAME's P2 (the rest unused) -->
+    <switches default="FE" base="16">
+        <dip bits="0" name="Sound Output" ids="Stereo,Mono" values="0,1"/>
+        <dip bits="1" name="Flip Screen" ids="On,Off" values="0,1"/>
+    </switches>
+
+    <!--
+      The core downloads the boot ROM (623b01.8q, 2 MB, BIOBUS slot 0) and the data track of
+      the game's CD into DDR3, and both CPUs run them.
+
+      address= is the fast load: Main_MiSTer copies the ROM straight to its place in the DDR3; an older one streams it.
+
+      polystar_cd.zip isn't in a MAME set: make it from the set's 623jaa02.chd with tools/m2disc.py (or tools/cdimage.py) or the browser converter
+      (https://konami-m2-chd-converter.fueledmyrrh2.chatgpt.site/), the file in it named polystar_cd.bin (24 MB), and put it beside polystar.zip.
+    -->
+
+    <!-- the sound's CD audio streams from the disc's whole raw image (2352 bytes a sector, 546 MB), not in a MAME set: tools/m2disc.py or the browser converter makes it from
+         623jaa02.chd (chdman extractcd, the music repaired), polystar_full.bin, in games/polystar. Without it the game runs, without its music. Main releases up to 20261010 do not mount it from here: choose it once under "CD audio image" in the OSD and the core remembers it. -->
+    <file delay="1" type="s" index="0" path="polystar_full.bin"/>
+
+    <rom index="0" zip="polystar.zip" md5="b1c472fff283fb868caf957ae389b9a7" address="0x30000000">
+        <part name="623b01.8q" crc="bd879f93"/>
+    </rom>
+    <rom index="1" zip="polystar_cd.zip" md5="none" address="0x32000000">
+        <part name="polystar_cd.bin"/>
+    </rom>
+    <rom index="2" zip="polystar.zip" md5="none">
+        <part name="93c46.7k"/>
+    </rom>
+    <!-- the EEPROM, the service menu's settings: Main saves it (nvram/) and loads it in place of the set's 93c46.7k -->
+    <nvram index="2" size="128"/>
+</misterromdescription>

@@ -1,0 +1,50 @@
+<misterromdescription>
+    <name>Total Vice (ver EBA)</name>
+    <setname>totlvice</setname>
+    <mameversion>0289</mameversion>
+    <year>1997</year>
+    <manufacturer>Konami</manufacturer>
+    <rbf>KonamiM2</rbf>
+    <!-- Select (Service): 2P Start while the OSD's Service mode is on, which the test menu needs to open an item -->
+    <buttons names="Trigger,Reload,Select (Service),Start,Coin" default="B,A,X,Start,Select" />
+    <!-- the board's two DIP switches, as MAME's P2 (the rest unused) -->
+    <switches default="FE" base="16">
+        <dip bits="0" name="Sound Output" ids="Stereo,Mono" values="0,1"/>
+        <dip bits="1" name="Flip Screen" ids="On,Off" values="0,1"/>
+    </switches>
+
+    <!--
+      As Tobe! Polystars' MRA, with RAM 2 x 8 MB, two guns and the YMZ280B's samples. Index 3: the board has no M48T58, so 8 KB of nothing, then a byte for the board: bit 0 the
+      larger RAM, bit 1 the guns, bit 2 reloading by shooting off the screen.
+
+      totlvice_cd.zip and totlvice_full.bin aren't in a MAME set: tools/m2disc.py or the browser converter (https://konami-m2-chd-converter.fueledmyrrh2.chatgpt.site/)
+      makes both from the set's totlvice/639eba01.chd (padding this CHD's data track, 2048 bytes a sector, to 2352). totlvice_cd.zip (totlvice_cd.bin, 42 MB, in it) goes beside totlvice.zip; the music streams from totlvice_full.bin in games/totlvice. Without it the
+      game runs without its music.
+    -->
+
+    <file delay="1" type="s" index="0" path="totlvice_full.bin"/>
+
+    <rom index="0" zip="totlvice.zip" md5="none" address="0x30000000">
+        <part name="623b01.8q" crc="bd879f93"/>
+    </rom>
+    <rom index="1" zip="totlvice_cd.zip" md5="none" address="0x32000000">
+        <part name="totlvice_cd.bin"/>
+    </rom>
+    <rom index="2" zip="totlvice.zip" md5="none">
+        <part name="93c46.7k"/>
+        <!-- the service menu's VOLUME and GUN VOLUME (words 0x1a, 0x1c) at 24 of 31, not the factory 4, which leaves music and effects near silent in MAME too;
+             GAME OPTIONS' VIOLENT MODE (word 0x18) BLOODY (0), not CLEAN (1); 0x10 changes by as much as the settings and 0x12 is its complement -->
+        <patch offset="0x10">02 33 FD CC</patch>
+        <patch offset="0x18">00 00 00 18 00 18</patch>
+    </rom>
+    <!-- the EEPROM, with the guns' calibration and the service menu's settings: Main saves it (nvram/) and loads it in place of the set's 93c46.7k -->
+    <nvram index="2" size="128"/>
+
+    <rom index="3" md5="none">
+        <part repeat="8192">00</part>
+        <part>07</part>
+    </rom>
+    <rom index="4" zip="totlvice.zip" md5="none" address="0x36000000">
+        <part name="639jaa02.bin" crc="c6163818"/>
+    </rom>
+</misterromdescription>
