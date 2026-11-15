@@ -14,10 +14,8 @@ AtariTetris_Senhor_20260913.rbf
 Athena_Senhor_20260124.rbf
 Badlands_Senhor_20260923.rbf
 Bagman_Senhor_20261028.rbf
-Bakraid_Senhor_20250302.rbf
 BankPanic_Senhor_20260119.rbf
 Batman_Senhor_20261004.rbf
-Batrider_Senhor_20250302.rbf
 Batsugun_Senhor_20260719.rbf
 BattleZone_Senhor_20260124.rbf
 Berzerk_Senhor_20260124.rbf
@@ -84,7 +82,6 @@ Galaga_Senhor_20260203.rbf
 Galaxian_Senhor_20260316.rbf
 Galivan_Senhor_20240526.rbf
 Gaplus_Senhor_20250120.rbf
-Garegga_Senhor_20250302.rbf
 Gauntlet_Senhor_20250428.rbf
 Gladiator_Senhor_20260806.rbf
 Godzilla_Senhor_20260809.rbf
