@@ -81,6 +81,7 @@ Block Gal.mra|9fcdfefb8eed826e2175f2382565f340|199102
 Blockade.mra|7a8383854ec0139346d6a26994c32a3a|1032
 BlockBuster.mra|177032ee4be897ef9316c25ddd298c98|1601
 Blood Bros (World).mra|02fa90591b29f5cdbf33150d06009043|3192
+BloodStorm (v2.22).mra|95be4648b509924829b6d949884d8a20|4256
 Blue Print (Midway).mra|56d645776cfda01b57d121f981405104|2534
 Blue Shark.mra|7d3b3d44618516ef8750773414c3bd59|825681
 Bomb Jack.mra|3a24c7e7aa38beb3bb93645a3fb4f949|2449
@@ -262,6 +263,12 @@ Godzilla (Japan).mra|750b4898d86edc782a6afb19ab868dac|4291
 Gogetsuji Legends (US, Ver. 95.06.20).mra|8c99649424ec97a58a9dac23d960ae62|2764
 Gold Medalist (Set 1, Alpha68k II PCB).mra|5ecb636c2bd8e983250b9bed242b713b|2913
 Golden Axe - The Revenge of Death Adder.mra|969894545afd29b5597b9b5edcbc2548|3370
+Golden Tee '97 (v1.30).mra|c80504689238f8079585ff2cfa2a5641|4032
+Golden Tee '98 (v1.10).mra|858ac2f15e1625f7d86b5dcb6edd67b2|4121
+Golden Tee '99 (v1.00).mra|57a2eb11fe684324804d1e1f9c38906b|4121
+Golden Tee 2K (v1.00).mra|65ce45329a6d6909de7da50f595e448a|4120
+Golden Tee 3D Golf (v1.93N).mra|6a07d972ce4293c4f82a1a67ea47dffc|4075
+Golden Tee Classic (v1.00).mra|6b3349538018100128bae1783f40823a|4241
 Gorf.mra|a63de6527aa26c72ddc2d11d878c5ca2|2402
 Gorkans.mra|bd533166993f5956a6b4a7572b30be94|2964
 Gorodki.mra|bc2781bb878528510e74a9dba8c8afcb|1382
@@ -294,6 +301,7 @@ Hang On Jr.mra|1443ef733545a0081846188f52ef6d12|2003
 Hard Drivin' (Cockpit, rev 7).mra|2ab31307a69dcf1a6de89e9b900bbad3|2954
 Hard Dunk (World).mra|f2e7078cbd9edd6bc4452a38c26cb988|2326
 Hard Hat.mra|e388369415bb746b4accc90a809dc47a|1652
+Hard Yardage (v1.20).mra|2afc88092afaf50c914432c777d3e749|3924
 Heated Barrel (World version 3).mra|d4ff886912658b6f747be308733789a0|4199
 Heavy Metal (315-5135).mra|043ce30ec179720aff3bd9552fdf02b2|2862
 Heavy Smash (Europe version -2).mra|d1d767dcd4b3f12c8d3c7dd63a97d65b|3577
@@ -304,6 +312,7 @@ High Way Race.mra|a58692f46ebaf12f38e949c35d51e6f8|2346
 Holosseum.mra|9271f51db80832848aa52cfae4893f40|3516
 Hook (World).mra|aeeb4e70d10bafa5c0af310876deb46c|6141
 Horizon (Irem).mra|9f57f15bc1642a0db7ad36859ef5a0ac|4869
+Hot Memory (V1.2, Germany).mra|9961669b4c1856d6dadbdac50b11eca1|3412
 Hotdog Storm (Korea).mra|028e36b69371bce1834ed02df008356b|1589
 Hotdog Storm.mra|202c5550fa438b0c703c39cda23ff836|1551
 Hustle.mra|f9cd1f65c7c4db3b66146f040f0bcf4a|1205
@@ -434,6 +443,7 @@ Mr. HELI no Daibouken (Japan).mra|da1ab963c33364694911bda20cf75ed6|3867
 Mr. Jong.mra|2f3692d58b8101ab58ad9760ebee02e6|1591
 Mr. TNT.mra|9371b6a136a57dbc8b969341707910f0|2275
 Ms. Pac-Man.mra|ab2f026396be85408f177759f36de59e|2305
+Must Shoot TV (prototype).mra|0825c95141b3c213133c270f6e28914a|3595
 Mutant Night.mra|16271b9b7542c3707c24401db6d72a67|2760
 My Hero (US, not Encrypted).mra|0a28edbd776d315c1262af9b5b88ab0d|2887
 Mystic Marathon.mra|1306e767d13d40d5208099f046b2d792|2184
@@ -475,6 +485,8 @@ Pac-Man Club- Club Lambada (AR).mra|dee7c2b900beb2dfb3a284840c94231a|2237
 Pac-Man Plus.mra|57de3ddd181fd6388b525b1c0bf7ac6a|2227
 Pac-Manic Miner.mra|ee5a5e24d5500391081622c1f1f78a8f|154366
 Paddle Mania.mra|ca4ce44e8f721f314db333343d5f5b3c|3255
+Pairs (V1.2).mra|5c304b9877dfa27e8736c9907d213b72|3389
+Pairs Redemption (V1.0).mra|62a434e29ef359a81a07fce726e33fe6|3033
 Paperboy (rev 3).mra|4ec467de0bafcfe3f0d7a8ce7996cb64|7173
 Party Time Gonta the Diver II - Ganbare! Gonta!! 2 (World Release).mra|275cddc4307d34d0d2b01f8ab8f4d7bb|3281
 Pengo (Set 1, Rev C).mra|5c76a0043bc2ec694bcce8194beb5c29|1805
@@ -517,6 +529,7 @@ Portman (Galaxian Hardware).mra|26b996cde00768ba7f08fe4b8ac5182a|1820
 Power Drive.mra|0563b2918e44152d3ff17e319aae609f|2215
 Power Instinct (USA).mra|36d13f03a8cc490f95bcffa8048fdacc|5873
 Power Instinct 2 (US, Ver. 94.04.08, set 1).mra|94feda91d181e1b58f895083a75a4d5a|2629
+Power Up Baseball (prototype).mra|8c9636f252dbe11869b12fca55ee0a7e|4664
 Prehistoric Isle in 1930 (World).mra|ca006fd2f090bdd4ee48652ba4374feb|2291
 Pretty Soldier Sailor Moon (Version 95-03-22B, Europe).mra|00e83bda4f6484e842102c3a9b694f5d|2202
 Primal Rage (version 2.3, Jan 1995).mra|b70fce47e2a7651e4770437889c05d0e|4419
@@ -604,6 +617,7 @@ Sexy Parodius (ver JAA).mra|58230205703185213dd525185db170cd|4971
 Shiritsu Justice Gakuen - Legion of Heroes (Japan 971216).mra|f2c05302c0d9cc35fcd2f01a63ade713|2062
 Shot Rider (B-Board 89624B-1).mra|83851653a625363a6edb8c8162860f12|2558
 Shuffleboard.mra|55afded87f6316c3275cb3afd40d86e9|1594
+Shuffleshot (v1.40).mra|040d91dd27cfbb5f8500b7b38bd5c7cc|4263
 Shuuz.mra|1155642e7510df2bbb30e85a3c0922e2|2649
 Silkworm.mra|e609effb9006fb868b2b16133f3394f4|2542
 Silver Land.mra|42876ec7e25ec84cc7596020e0b5a413|1665
@@ -670,6 +684,7 @@ StarForce.mra|b1000b5b02373e86840af04e65a19378|3349
 Stargate.mra|31599d87b18ee985a32e337c5c4e8289|4157
 Starhawk.mra|3677fe93a4fb8b41b14de22f9bb8b85c|990
 Strategy X.mra|979c4e73650020d1c70f21e9939be61b|2038
+Street Fighter - The Movie (v1.12).mra|fa967f956f4b448d43ac3c1dc2c75a5c|4685
 Street Fighter EX (USA).mra|2500c9a0252201b1d6c870a84d481106|2320
 Street Fighter EX Plus (USA 970311).mra|64bf0e271ee5a40b32e9746df8430cf2|2333
 Street Fighter EX2 (USA 980526).mra|d470d64ca9616d846b3d867069d17114|1812
@@ -751,6 +766,7 @@ Thunder Heroes.mra|1bfb424667e62894468543e3c6aba267|2072
 Thunder Hoop (Gaelco, V.013).mra|69b34d4bd689afdd1f7a48916982238a|3384
 Tiger Heli Bootleg.mra|bc8f6efbe28828829dd6a4c561d33427|2580
 Timber.mra|aa8d75e8ef0082519786589ea9708040|2322
+Time Killers (v1.32).mra|ac7b6def9fb7023542ff271417eb5880|3864
 Time Pilot '84 (Set 1).mra|2138db7899615d119bb4568cf3363652|2763
 Time Pilot '84 (Set 2).mra|14225a5a7e8bd42c218bedbb358c761d|2761
 Time Pilot '84 (Set 3).mra|9694d78a9faffe532aca92885f0ff5b4|2508
@@ -824,6 +840,8 @@ Wizard of Wor.mra|a1bf8859b2788c4b5697d7778fe23951|2224
 Wonder Boy (Set 1, 315-5177).mra|adf03bbb1bd7737f1b9b746e5a2818cf|3347
 Wonder Boy in Monster Land.mra|bb888ad2029ff1a8b300a78d88532960|2291
 Woodpecker (Set 1).mra|8e4cb4f56e9366f0d15181f94179aaf9|2443
+World Class Bowling (v1.66).mra|81a7a0ebaaacf1a281e1a3fe2270c39f|4166
+World Class Bowling Deluxe (v2.00).mra|6e766c10b4c0cb4e714998d166edee44|4486
 World Rally (Gaelco, V.068).mra|8e88ab6708450623b99497f19129ca04|5656
 World Rally 2 (Gaelco, 1995).mra|ca6f46a5b537a457b5f5c75bc285d478|3741
 X Multiply (Japan, M72 hardware).mra|7bf3715e35c44bc983e1a7d09ce7a404|3751
