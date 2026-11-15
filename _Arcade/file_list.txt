@@ -34,7 +34,7 @@ Arkanoid (Unl. Lives, slower) [hb].mra|ec57cb862ce077514ef37fbaa5461d22|2895
 Arkanoid (US).mra|ddaf972c6f65ded4be3b93b5dd3e7e00|2539
 Arkanoid (W).mra|21d9724d9e7bfd9ccb5100035d4399bb|2554
 Armed F (Japan).mra|5d088c6ec9d1e573d74bbf189e93c687|2889
-Armed Police Batrider Special Ver. (USA) (Fri Feb 13 1998).mra|2870dd526a36d635e6990c7e2a3ccbfe|6251
+Armed Police Batrider (Europe) (Fri Feb 13 1998) [MD].mra|a537e64cae452420095c57a3b6a770d2|6454
 Armor Attack.mra|9542560d3a3dad3b0df3f3f2e645acd9|1801426
 Armored Car.mra|8eaec488ef68f6b57514303e466cae38|2367
 ASO.mra|9aaa8d9304d2a3e6474e38a868179127|3288
@@ -59,8 +59,8 @@ Barrier.mra|c12890a7ff2a99dca97471ba417efbe7|6414795
 Batman.mra|9cae4a9d569817ec9505ce819c20111c|3539
 Batsugun.mra|2675c2e0104ed1192e531533bddb36fb|2257
 Battle Arena Toshinden 2 (USA).mra|4c282eb13362f836faeb8d0bb5ab4b52|2338
-Battle Bakraid - Unlimited Version Special Ver. (USA) (Tue Jun 8 1999).mra|9ff38276c2b5b9509e2aaa615de9a42e|5128
-Battle Garegga (Europe - USA - Japan - Asia) (Sat Feb 3 1996).mra|a5e3b3d57db9db4e83e8691b4546f2b3|4002
+Battle Bakraid - Unlimited Version (USA) (Tue Jun 8 1999) [MD].mra|1ad50b559f6a9fefe1de93c77c0b7ee9|4956
+Battle Garegga (Europe - USA - Japan - Asia) (Sat Feb 3 1996) [MD].mra|2f20fef831631e83e76faf0cd81c1aea|4079
 Battle K-Road.mra|bd1e7a8cb045d04c29e8f1576a7b0d9f|2674
 Battle of Atlantis.mra|0a1383a945d7edce8c9f05e180f84c17|2816
 Battle Zone rev 2.mra|793079b31cb8ff0d40edd68d24afb729|1758
@@ -359,7 +359,7 @@ Kid no Hore Hore Daisakusen.mra|c375364fb6c9ec5beb34f4af69b44ffa|2872
 Killer Instinct (v1.5d).mra|1e860dbcbd1f22763290676d11842d45|1832
 Killer Instinct 2 (v1.4).mra|8bc5f0eb5e2bff99f8e90689d403a25a|1796
 King and Balloon (US).mra|b130e94d559bda57693b7399a5de3f72|2299
-Kingdom Grandprix.mra|fde0c7d99ad7adf379b4c707da43c4ce|2828
+Kingdom Grandprix [MD].mra|e1f33d55f95ed1d1ff85f9731fe688ea|3828
 Klax.mra|6fbeee07022516419d80776260cee4ab|9950
 Knights of Valour 2 (ver. 107).mra|831b5a7c94b7f76537b58f733116baee|2889
 Knights of Valour Super Heroes (ver. 104, CN).mra|2ee0f2600fef1cb3dcfd49aa46c34791|2848
@@ -639,7 +639,7 @@ Soldam.mra|49651b46761f80f5a95c53f484f60cbb|3313
 Solitary Fighter (World).mra|9f93c620c8d63f288aed8ecd17da016b|2207
 Solomon's Key.mra|909a23c2cb7c1673ec046acd81339abc|1738
 SonSon.mra|29b4b913eb305a1d10f1de2b9564ec73|1820
-Sorcer Striker.mra|333ddacf89b7eb3c44bfeb18c4630b79|2763
+Sorcer Striker [MD].mra|25356c02e7c2a2991a9072aff50d00f8|3338
 Soul Edge Ver. II (SO4-VER.C).mra|9a79712d48571bae83ddb2c2943510a6|2425
 Space Ace.mra|471bdfcdef94fc70bb66f0e4b79ff5e5|2397
 Space Chaser.mra|188601613c5999168aa5bba0d6c15c12|1824
