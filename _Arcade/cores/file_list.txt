@@ -183,6 +183,7 @@ Klax_Senhor_20260812.rbf
 KonamiGX_Senhor_20261023.rbf
 KonamiGXT1_Senhor_20261023.rbf
 KonamiGXT34_Senhor_20261023.rbf
+KonamiM2_Senhor_20261114.rbf
 Kyugo_Senhor_20260730.rbf
 LadyBug_Senhor_20260204.rbf
 LaserdiscGames_Senhor_20261018.rbf
