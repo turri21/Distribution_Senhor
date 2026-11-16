@@ -62,7 +62,7 @@ mc-2g-1024_Senhor_20251212.rbf
 MC1201_Senhor_20231213.rbf
 microbee_Senhor_20260806.rbf
 Microtan65_Senhor_20261111.rbf
-Minimig_Senhor_20261111.rbf
+Minimig_Senhor_20261116.rbf
 mo_Senhor_20261106.rbf
 MSX1-MSX2_Senhor_20250509.rbf
 MSX_Senhor_20260217.rbf
