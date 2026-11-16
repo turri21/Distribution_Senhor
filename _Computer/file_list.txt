@@ -90,7 +90,7 @@ QL_Senhor_20260104.rbf
 RX78_Senhor_20260726.rbf
 Rememotech_Senhor_20250327.rbf
 SAMCoupe_Senhor_20260101.rbf
-SGIIndy_Senhor_20261001.rbf
+SGIIndy_Senhor_20261116.rbf
 SharpMZ_Senhor_20261104.rbf
 SharpMZ2500_Senhor_20261105.rbf
 Sharpx1_Senhor_20261104.rbf
