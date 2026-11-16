@@ -12,7 +12,7 @@
 [INFO]Updates: PC88_Senhor_20261116.rbf[/INFO]
 [INFO]Updates: Minimig_Senhor_20261116.rbf, Pippin_Senhor_20261116.rbf[/INFO]
 [INFO]Updates: NES_Senhor_20261116.rbf, AtariST_Senhor_20261116.rbf[/INFO]
-[INFO]Updates: MacIIcx_Senhor_20261116.rbf, SGIIndy_Senhor_20261116.rbf[/INFO]
+[INFO]Updates: MacIIcx_Senhor_20261116.rbf, SGIIndy_Senhor_20261117.rbf[/INFO]
 [INFO]Updates: CDi_Senhor_20261113.rbf, AcornAtom_Senhor_20261113.rbf[/INFO]
 [INFO]Updates: AcornElectron_Senhor_20261112.rbf, PC6001_Senhor_20261112.rbf[/INFO]
 [INFO]Updates: KillerInstinct_Senhor_20261112.rbf, PSX_Senhor_20261111.rbf[/INFO]
