@@ -29,6 +29,7 @@ C128_Senhor_20260810.rbf
 C16_Senhor_20260107.rbf
 C64_Senhor_20261029.rbf
 C65_Senhor_20261016.rbf
+C900_Senhor_20261119.rbf
 CBM-II_Senhor_20251101.rbf
 CamputersLynx_Senhor_20261119.rbf
 Casio_PV-2000_Senhor_20251219.rbf
