@@ -7,7 +7,7 @@
 [INFO]New Cores: ITech32_Senhor_20261115.rbf, KonamiM2_Senhor_20261114.rbf[/INFO]
 [INFO]New Cores: MCatAdv_Senhor_20261114.rbf, MTX512_Senhor_20261113.rbf[/INFO]
 [INFO]New Cores: HP9K715_Senhor_20261112.rbf, Microtan65_Senhor_20261111.rbf[/INFO]
-[INFO]Updates: PC88_Senhor_20261119.rbf[/INFO]
+[INFO]Updates: CamputersLynx_Senhor_20261119.rbf, PC88_Senhor_20261119.rbf[/INFO]
 [INFO]Updates: Studio-II_Senhor_20261116.rbf, PC88_Senhor_20261116.rbf[/INFO]
 [INFO]Updates: Minimig_Senhor_20261116.rbf, Pippin_Senhor_20261116.rbf[/INFO]
 [INFO]Updates: NES_Senhor_20261116.rbf, AtariST_Senhor_20261116.rbf[/INFO]
