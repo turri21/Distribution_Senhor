@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 16/11/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: C900_Senhor_20261119.rbf[/INFO]
 [INFO]New Cores: MacIIci_Senhor_20261119.rbf, M20_Senhor_20261119.rbf[/INFO]
 [INFO]New Cores: CamputersLynx_Senhor_20261115, RaizingMD_Senhor_20261115.rbf[/INFO]
 [INFO]New Cores: ITech32_Senhor_20261115.rbf, KonamiM2_Senhor_20261114.rbf[/INFO]
