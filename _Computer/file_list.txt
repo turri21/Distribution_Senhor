@@ -52,6 +52,7 @@ Jupiter_Senhor_20251214.rbf
 LM80C_Senhor_20250612.rbf
 Laser310_Senhor_20251214.rbf
 Laser500_Senhor_20251214.rbf
+M20_Senhor_20261119.rbf
 MacColorClassic_Senhor_20261018.rbf
 MacIIcx_Senhor_20261116.rbf
 MacLC_Senhor_20260916.rbf
