@@ -40,6 +40,7 @@ Cray-XMP_20261010.rbf
 EDSAC_Senhor_20250906.rbf
 eg2000_Senhor_20250920.rbf
 Enterprise_Senhor_20251127.rbf
+EXL100_Senhor_20261119.rbf
 FM-7_Senhor_20261104.rbf
 Galaksija_PLUS_ROMD.rbf
 Homelab_Senhor_20251227.rbf
