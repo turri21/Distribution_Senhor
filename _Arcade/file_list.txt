@@ -1,6 +1,6 @@
 280Z-ZZAP (US).mra|897f479a94a6712ada32b9f7e8ca3759|703469
 4D Warriors (315-5162).mra|f3aa3fe68cb0cff7fcb73764f7f951b2|3167
-720 Degrees (rev 4).mra|28301575cec4ce3842011b50c11ac535|8273
+720 Degrees (rev 4).mra|29e9fd50378f944056f21f96980ca02b|8306
 A.B. Cop (World).mra|4c203fd7f6881c2d8020e76366c25ea9|3948
 Acrobat Mission.mra|962ceb49af9bf1deea0f1ade5260b38e|4568
 Act-Fancer (World rev 3).mra|3f00523b6d89c975a93465e87dfaf048|5475
@@ -23,7 +23,7 @@ Amazing Maze.mra|b43dc793ac8ae015e08f0d89959fddbe|133527
 American Soccer.mra|5aebe6538d9a181138960b1ba29ddc82|2325
 Amidar (Scramble).mra|bee70136b9bef3af4b9099c143ecd078|2482
 Anteater.mra|469ce72969dc36c17dabb5863394e693|2288
-APB - All Points Bulletin (rev 7).mra|5aee38e1303c29ba187b572def922273|7172
+APB - All Points Bulletin (rev 7).mra|b90f9e936294a9bd9f8b1d914fa9fcfe|7211
 Arabian Fight.mra|faf74e786354e9842c2a7151d7d5a722|2915
 Arabian.mra|ecf59a9e4eab518d537d2b349554d7e0|3587
 Argus no senshi (Japan).mra|1ea956f48472a017965fe004b8a314ec|2207
@@ -119,7 +119,7 @@ Chain Reaction (World, Version 2.2, 1995.09.25).mra|5f0a1dde2781a72e4a14e469ba22
 Chameleon.mra|e4410d2f4057ce065436a7e9de5aa06a|2572
 Champion Base Ball Part-2.mra|963c06f936b6499c6d65c0ec4d800d06|3518
 Champion Base Ball.mra|20fd229c94ab703b940069a489eefa2a|3271
-Championship Sprint (rev 3).mra|0848c5ca145f8731bf9a20f2d2706eca|4604
+Championship Sprint (rev 3).mra|180769fe5058fb6b313d7d66c0fed31f|4637
 Charlie Ninja.mra|4e9fe34da41a005675dff9b553d71411|3459
 China Gate (US).mra|7e23415f53f3b83713d7ceff23563ee6|4083
 Choplifter (unprotected).mra|086bb65a270cfac61e1fe8ef6b5702e5|2370
@@ -487,7 +487,7 @@ Pac-Manic Miner.mra|ee5a5e24d5500391081622c1f1f78a8f|154366
 Paddle Mania.mra|ca4ce44e8f721f314db333343d5f5b3c|3255
 Pairs (V1.2).mra|5c304b9877dfa27e8736c9907d213b72|3389
 Pairs Redemption (V1.0).mra|62a434e29ef359a81a07fce726e33fe6|3033
-Paperboy (rev 3).mra|4ec467de0bafcfe3f0d7a8ce7996cb64|7173
+Paperboy (rev 3).mra|2b3ba642f0a7e94211f29b8e24c313f3|7206
 Party Time Gonta the Diver II - Ganbare! Gonta!! 2 (World Release).mra|275cddc4307d34d0d2b01f8ab8f4d7bb|3281
 Pengo (Set 1, Rev C).mra|5c76a0043bc2ec694bcce8194beb5c29|1805
 Penguin-Kun Wars.mra|bb83badf5cee9d1ccc16a2ab396e43df|1132
@@ -709,7 +709,7 @@ Super Real Mahjong VS (Rev A).mra|2426cb381457244333b70d9a33d2c7dd|2126
 Super Space Invaders '91 (World, revised code, Rev 1).mra|dc9efc3452c027b10fc15042cb30e5c8|2059
 Super Spacefortress Macross - Chou-Jikuu Yousai Macross.mra|d1724edeaad8a059dbae1faadcbdf12e|4355
 Super Spacefortress Macross II - Chou-Jikuu Yousai Macross II.mra|53636e3d6b8ec5aa06ee036bee235240|8476
-Super Sprint (rev 4).mra|e2cf59d4a7addd0fa5c9e6a688f68d96|4844
+Super Sprint (rev 4).mra|8a286743f20bea487872090ede52fd0c|4877
 Super Visual Football - European Sega Cup.mra|a0060a91135a294ce06950c9b9f4cb18|2941
 Super Xevious.mra|efc5d1e55163d7cab7e291ce02a1e996|2816
 Super Zaxxon (315-5013).mra|52c540ce13259796679b91970a3c36eb|2403650
