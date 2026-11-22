@@ -2,7 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 16/11/2026[/INFO]
 [TITLE]Cores[/TITLE]
-[INFO]New Cores: AlesteLX_Senhor_20261122.rbf[/INFO]
+[INFO]New Cores: FP1100_Senhor_20261122.rbf, AlesteLX_Senhor_20261122.rbf[/INFO]
 [INFO]New Cores: EXL100_Senhor_20261119.rbf, C900_Senhor_20261119.rbf[/INFO]
 [INFO]New Cores: MacIIci_Senhor_20261119.rbf, M20_Senhor_20261119.rbf[/INFO]
 [INFO]New Cores: CamputersLynx_Senhor_20261115, RaizingMD_Senhor_20261115.rbf[/INFO]
