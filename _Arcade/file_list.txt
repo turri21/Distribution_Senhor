@@ -356,8 +356,8 @@ Kick Rider.mra|4037ceb6f90c78b6fc19fa301a28877a|2156
 Kick.mra|3a9e72662f93760cd9eea815abe0ff74|2127
 Kid Niki - Radical Ninja (W).mra|fd44c6d87b97161bcddde1d467b1e045|4229
 Kid no Hore Hore Daisakusen.mra|c375364fb6c9ec5beb34f4af69b44ffa|2872
-Killer Instinct (v1.5d).mra|1e860dbcbd1f22763290676d11842d45|1832
-Killer Instinct 2 (v1.4).mra|8bc5f0eb5e2bff99f8e90689d403a25a|1796
+Killer Instinct (v1.5d).mra|2bc0074d2b7a05eb3592196813b3f492|1868
+Killer Instinct 2 (v1.4).mra|51ce2604b4331e5a30b293342048eaa2|1811
 King and Balloon (US).mra|b130e94d559bda57693b7399a5de3f72|2299
 Kingdom Grandprix [MD].mra|e1f33d55f95ed1d1ff85f9731fe688ea|3828
 Klax.mra|6fbeee07022516419d80776260cee4ab|9950
