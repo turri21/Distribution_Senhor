@@ -38,6 +38,7 @@ CoCo2_Senhor_20250704.rbf
 CoCo3_Senhor_20261002.rbf
 ColecoAdam_Senhor_20260717.rbf
 Cray-XMP_20261010.rbf
+DECAlphaStation200_Senhor_20261123.rbf
 EDSAC_Senhor_20250906.rbf
 eg2000_Senhor_20250920.rbf
 Enterprise_Senhor_20251127.rbf
