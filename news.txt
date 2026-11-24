@@ -6,6 +6,7 @@
 [INFO]New Cores: FP1100_Senhor_20261122.rbf, AlesteLX_Senhor_20261122.rbf[/INFO]
 [INFO]New Cores: EXL100_Senhor_20261119.rbf, C900_Senhor_20261119.rbf[/INFO]
 [INFO]New Cores: MacIIci_Senhor_20261119.rbf, M20_Senhor_20261119.rbf[/INFO]
+[INFO]Updates: Apple-II_Senhor_20261124.rbf[/INFO]
 [INFO]Updates: MegaDrive_Senhor_20261124.rbf, MacIIci_Senhor_20261124.rbf[/INFO]
 [INFO]Updates: PSX_Senhor_20261124.rbf, Minimig_Senhor_20261123.rbf[/INFO]
 [INFO]Updates: C65_Senhor_20261123.rbf, MSX_Senhor_20261123.rbf[/INFO]
