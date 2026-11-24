@@ -56,7 +56,7 @@ JR100_Senhor_20260725.rbf
 Jupiter_Senhor_20251214.rbf
 LM80C_Senhor_20250612.rbf
 Laser310_Senhor_20251214.rbf
-Laser500_Senhor_20251214.rbf
+Laser500_Senhor_20261124.rbf
 M20_Senhor_20261119.rbf
 MacColorClassic_Senhor_20261018.rbf
 MacIIci_Senhor_20261124.rbf
