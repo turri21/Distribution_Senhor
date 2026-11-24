@@ -15,7 +15,7 @@ ao486_Senhor_20260717.rbf
 Apogee_Senhor_20251229.rbf
 Apple-I_Senhor_20251006.rbf
 Apple-IIgs_Senhor_20261111.rbf
-Apple-II_Senhor_20261016.rbf
+Apple-II_Senhor_20261124.rbf
 Apple-Lisa_Senhor_20260724.rbf
 Aquarius_Senhor_20260104.rbf
 Archie_Senhor_20261024.rbf
