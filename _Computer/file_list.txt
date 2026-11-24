@@ -124,6 +124,7 @@ TomyTutor_Senhor_20251216.rbf
 ts2068_Senhor_20260821.rbf
 UK101_Senhor_20260726.rbf
 UKNC_Senhor_20261025.rbf
+VG5000_Senhor_20261124.rbf
 VIC20_Senhor_20260107.rbf
 VT52_Senhor_20260112.rbf
 Vector-06C_Senhor_20251231.rbf
