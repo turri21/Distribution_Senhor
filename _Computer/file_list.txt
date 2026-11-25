@@ -11,7 +11,7 @@ Amiga4000_060_Senhor_20261025.rbf
 AmstradNC_Senhor_20260805.rbf
 AmstradPlus_Senhor_20261010.rbf
 Amstrad_Senhor_20260510.rbf
-ao486_Senhor_20260717.rbf
+ao486_Senhor_20261125.rbf
 Apogee_Senhor_20251229.rbf
 Apple-I_Senhor_20251006.rbf
 Apple-IIgs_Senhor_20261111.rbf
