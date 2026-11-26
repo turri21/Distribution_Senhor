@@ -355,7 +355,7 @@ Kick And Run.mra|a8c7874936e3d9c46b132d42b3cef2e7|2638
 Kick Rider.mra|4037ceb6f90c78b6fc19fa301a28877a|2156
 Kick.mra|3a9e72662f93760cd9eea815abe0ff74|2127
 Kid Niki - Radical Ninja (W).mra|fd44c6d87b97161bcddde1d467b1e045|4229
-Kid no Hore Hore Daisakusen.mra|c375364fb6c9ec5beb34f4af69b44ffa|2872
+Kid no Hore Hore Daisakusen [MD].mra|844fba2aa7f221eaa584c6571b310aea|3283
 Killer Instinct (v1.5d).mra|2bc0074d2b7a05eb3592196813b3f492|1868
 Killer Instinct 2 (v1.4).mra|51ce2604b4331e5a30b293342048eaa2|1811
 King and Balloon (US).mra|b130e94d559bda57693b7399a5de3f72|2299
@@ -636,6 +636,7 @@ Snow Bros. 2 - With New Elves - Otenki Paradise (Hanafram).mra|290528615868eabfb
 Soccer Superstars (ver EAC).mra|e16e4f7a3774cac52f2d491244089777|3698
 Solar Fox.mra|09ddca143adff12300270b52c14346d3|2313
 Soldam.mra|49651b46761f80f5a95c53f484f60cbb|3313
+Soldier Girl Amazon [MD].mra|36f5b7f4f88573e49cb6304b2bc8ae04|3428
 Solitary Fighter (World).mra|9f93c620c8d63f288aed8ecd17da016b|2207
 Solomon's Key.mra|909a23c2cb7c1673ec046acd81339abc|1738
 SonSon.mra|29b4b913eb305a1d10f1de2b9564ec73|1820
@@ -736,7 +737,7 @@ Tekken (TE2 Ver.C).mra|ebe4faac371556dc1332ac510f3f8b85|2775
 Tekken 2 Ver.B (TES2-VER.D).mra|b537e8a28e411aafde7d2c36ccdeba33|2488
 Tempest.mra|b9e481475afb9696221849d2fee8bed8|2890
 Tengai (World).mra|7b07c62d077277b5f6555e597139ee30|2227
-Terra Cresta (YM3526 set 1).mra|d57c8f60ef01f6e6124a10d05060b0fb|2687
+Terra Cresta (YM3526 set 1) [MD].mra|df1cdf926e7e464e2a3d55bf1d5c9216|3419
 Terra Force (Japan).mra|92922205fc2d7162b0f67beaca112ea2|2961
 Tetris (Japan, System E).mra|a350670ae978e95a45aef0380ac5c7c4|2027
 Tetris - The Grand Master (Japan).mra|71dbb9992d9c74476451124cc6b38957|1679
