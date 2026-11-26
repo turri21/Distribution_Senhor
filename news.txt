@@ -7,7 +7,7 @@
 [INFO]New Cores: FP1100_Senhor_20261122.rbf, AlesteLX_Senhor_20261122.rbf[/INFO]
 [INFO]New Cores: EXL100_Senhor_20261119.rbf, C900_Senhor_20261119.rbf[/INFO]
 [INFO]New Cores: MacIIci_Senhor_20261119.rbf, M20_Senhor_20261119.rbf[/INFO]
-[INFO]Updates: PC88_Senhor_20261126.rbf[/INFO]
+[INFO]Updates: TerraCrestaMD_Senhor_20261126.rbf, PC88_Senhor_20261126.rbf[/INFO]
 [INFO]Updates: ao486_Senhor_20261125.rbf, FM-7_Senhor_20261124.rbf[/INFO]
 [INFO]Updates: Laser500_Senhor_20261124.rbf, Apple-II_Senhor_20261124.rbf[/INFO]
 [INFO]Updates: MegaDrive_Senhor_20261124.rbf, MacIIci_Senhor_20261124.rbf[/INFO]
