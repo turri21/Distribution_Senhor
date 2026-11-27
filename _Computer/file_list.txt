@@ -64,7 +64,7 @@ MacIIcx_Senhor_20261116.rbf
 MacLC_Senhor_20260916.rbf
 MacPlus_Senhor_20261026.rbf
 MacQuadra800_Senhor_20261005.rbf
-MacSE30_Senhor_20261111.rbf
+MacSE30_Senhor_20261127.rbf
 mc-2g-1024_Senhor_20251212.rbf
 MC1201_Senhor_20231213.rbf
 microbee_Senhor_20260806.rbf
@@ -99,6 +99,7 @@ QL_Senhor_20260104.rbf
 RX78_Senhor_20260726.rbf
 Rememotech_Senhor_20250327.rbf
 SAMCoupe_Senhor_20260101.rbf
+SC3000_Senhor_20261127.rbf
 SGIIndy_Senhor_20261117.rbf
 SharpMZ_Senhor_20261104.rbf
 SharpMZ2500_Senhor_20261105.rbf
