@@ -2,6 +2,7 @@
 [INFO]New update_senhor.sh script v1.99[/INFO]
 [INFO]New MiSTer binary - 26/11/2026[/INFO]
 [TITLE]Cores[/TITLE]
+[INFO]New Cores: Dec_Vax_Senhor_20261127.rbf[/INFO]
 [INFO]New Cores: SC3000_Senhor_20261127.rbf, PC8001_Senhor_20261125.rbf[/INFO]
 [INFO]New Cores: VG5000_Senhor_20261124.rbf, DECAlphaStation200_Senhor_20261123.rbf[/INFO]
 [INFO]New Cores: FP1100_Senhor_20261122.rbf, AlesteLX_Senhor_20261122.rbf[/INFO]
